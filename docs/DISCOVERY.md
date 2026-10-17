@@ -4,14 +4,14 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [llms.txt](../llms.txt) | 人与 Agent 的双语阅读路径 |
+| [llms.txt](../llms.txt) | 中英文文档导航 |
 | [llm.txt](../llm.txt) | 与 llms.txt 内容相同的兼容入口 |
 | [llms-full.txt](../llms-full.txt) | 核心双语指南合并文本；文档链接指向仓库文件 |
 | [catalog.json](catalog.json) | 文物稳定标识、中英文名称、时期、标签和关联文件 |
 | [asset-rights.json](asset-rights.json) | 逐件素材的来源、用途和文件版本 |
 | [CITATION.cff](../CITATION.cff)、[CodeMeta](../codemeta.json) | 软件作者、项目网址与技术元数据 |
 
-这些文件随仓库分发，便于代码助手、检索工具和阅读器消费。目录直接从现有数据生成，不改变页面数据接口。读取它们的工具需能访问仓库；线上展台地址用于体验作品。
+这些文件供代码助手和检索工具读取，需通过仓库访问。文物目录从现有数据生成；展台仍读取 `src/data/shouzhou_ceramics.json`。
 
 ## 生成与检查
 
@@ -21,7 +21,7 @@ npm run docs:check
 npm run catalog:search -- szk-003
 ```
 
-生成脚本读取运行 JSON、素材清单和核心 Markdown，写入目录、双语人读清单及三个 llm 文本入口。输出具有固定顺序，不带生成时间。`--check` 比较预期内容，发现过期文件时返回非零退出码；链接检查验证仓库相对链接、图片和标题锚点。修改生成文件的来源后重新生成。
+生成脚本读取运行 JSON、素材清单和核心 Markdown，写入目录、双语人读清单及`llms.txt`、`llm.txt` 和 `llms-full.txt`。输出具有固定顺序，不带生成时间。`--check` 比较预期内容，发现过期文件时返回非零退出码；链接检查验证仓库相对链接、图片和标题锚点。修改生成文件的来源后重新生成。
 
 `catalog:search` 接受标识、中文或英文关键词；多个词使用“同时包含”匹配，结果输出 JSON 数组，无匹配时为 `[]`。从项目根目录直接执行 `node scripts/search_catalog.mjs szk-003` 可取得不带 npm 日志的 JSON。
 

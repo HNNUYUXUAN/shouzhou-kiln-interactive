@@ -52,23 +52,23 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README
 
 ![青瓷器物、窑火与窑洞构成的寿州窑主题插画](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/shouzhou-kiln-cover.png)
 
-*寿州窑主题插画 · AI 生成*
+*寿州窑主题插画 · [来源与使用说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md)*
 
-从器物轮廓到档案细节，在浏览器中走近寿州窑。这个数字展台将 **78 件文物**的图像、介绍与档案组织在同一条浏览路径中，让观众看见器形，也能继续读到它的尺寸、出土与馆藏信息。
+寿州窑文物数字展台收录 **78 件文物**，可浏览器物图像、对照档案扫描页，查阅尺寸、出土与馆藏资料。
 
-项目适合文博主题展示、课堂交流与作品集演示。开发者可以沿用 React 展台结构，通过本地 JSON 和图片，组织自己的展品内容。
+展台使用 React 开发，数据和图片保存在本地文件中，可部署为静态网站。替换 JSON 和图片即可用于其他展览。
 
-**78 件文物 · 76 件处理图 · 档案对照 · 全屏阅读 · 本地静态部署**
+**78 件文物 · 76 张处理图 · 档案对照 · 全屏阅读 · 本地静态部署**
 
-## 从一件器物开始
+## 浏览文物
 
-打开[在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)，在底部导航选择一件文物。主展台呈现器物图像、中英文名称、介绍和特征标签；左右方向键让浏览连续起来。
+打开[在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)，在底部导航选择一件文物。主展台显示器物图像、中英文名称、介绍和特征标签。按左右方向键切换文物。
 
 ![展台实景：青釉四系龙柄盘口壶、展品介绍与底部文物导航](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/gallery.png)
 
-*真实界面：青釉四系龙柄盘口壶（szk-003）。点击图片可查看大图。*
+*展台截图：青釉四系龙柄盘口壶（szk-003）。点击图片可查看大图。*
 
-| 看形态，读档案 | 展开一件文物的资料 |
+| 图片与档案切换 | 文物资料 |
 | --- | --- |
 | ![档案视图展示同一件文物的扫描页和介绍](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/archive-view.png) | ![文物资料面板展示尺寸、出土、馆藏和工艺信息](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/artifact-details.png) |
 | 在“数字资产”与“档案视图”之间切换，结合处理图和扫描页阅读；仅有档案图的展品直接显示档案。 | 点击“查看文物资料”，集中阅读尺寸、出土与流传、馆藏和工艺信息。 |
@@ -106,14 +106,14 @@ npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
 
 **技术栈：** React 18 · Vite 6 · Tailwind CSS 4。浏览器要求：Chrome 111+、Safari 16.4+、Firefox 128+。
 
-## 按你的目标继续
+## 使用与开发文档
 
-| 你想做什么 | 从这里开始 |
+| 内容 | 文档 |
 | --- | --- |
-| 体验数字展陈 | [在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [使用指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md) |
+| 浏览展台 | [在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [使用指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md) |
 | 替换或添加展品 | [二次开发教程](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)：运行数据、图片与档案的对应关系 |
 | 调整配色与布局 | [外观开发入口](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md#2-修改展台名称与外观)：主题配置、全局样式与组件 |
-| 让 Agent 接手 | [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md) · [检索与引用](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md) · [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) |
+| Agent 开发 | [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md) · [检索与引用](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md) · [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) |
 | 查阅素材来源 | [逐件素材清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md)与[机器可读清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) |
 | 贡献改进或反馈问题 | [贡献指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md) · [项目 Issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) |
 
@@ -136,15 +136,15 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README
 
 ![Thematic illustration of celadon vessels, kiln arches and the glow of firing](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/shouzhou-kiln-cover.png)
 
-*Shouzhou kiln thematic illustration · AI-generated*
+*Shouzhou kiln thematic illustration · [Source and usage notes](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md)*
 
-Explore Shouzhou kiln ceramics through their forms and archival details. This browser-based gallery brings together images, descriptions and records for **78 artifacts**, connecting each object with its dimensions, excavation and collection information.
+This gallery presents **78 Shouzhou kiln artifacts**. Browse artifact images, compare scanned archive pages, and read dimensions, excavation and collection records.
 
-Designed for cultural exhibitions, classroom discussion and portfolio presentations, the project also provides a React foundation for developers to build galleries around their own collections using local JSON and images.
+Built with React, the gallery stores its data and images in local files and can be deployed as a static website. Replace the JSON and images to use it for another exhibition.
 
 **78 artifacts · 76 processed images · Archival comparison · Fullscreen reading · Static deployment**
 
-## Start with an artifact
+## Browse artifacts
 
 Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and choose an artifact from the navigation strip. The main stage combines its image, Chinese and English names, description and feature tags. Use the left and right arrow keys to continue browsing.
 
@@ -152,7 +152,7 @@ Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and choo
 
 *Application screenshot: celadon-glazed dish-mouthed jar with four loops and dragon handle (szk-003). Open the image for a larger view.*
 
-| Explore the form and the archive | Open the artifact record |
+| Image and archive views | Artifact records |
 | --- | --- |
 | ![Archive view displaying the scanned page alongside the artifact description](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/archive-view.png) | ![Artifact record panel displaying dimensions, excavation, collection and technical features](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/artifact-details.png) |
 | Switch between the processed image (“数字资产”) and archive view (“档案视图”). Artifacts with an archive image only open directly in archive view. | Select “查看文物资料” to read the dimensions, excavation and provenance, collection and technical features together. |
@@ -190,14 +190,14 @@ Open [http://127.0.0.1:4173/](http://127.0.0.1:4173/). Serve `dist/` through an 
 
 **Stack:** React 18 · Vite 6 · Tailwind CSS 4. Browser requirements: Chrome 111+, Safari 16.4+, Firefox 128+.
 
-## Choose your next step
+## Usage and development guides
 
-| Your goal | Start here |
+| Topic | Documentation |
 | --- | --- |
-| Explore the exhibition | [Live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [User guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md) |
+| Browse the gallery | [Live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [User guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md) |
 | Replace or add artifacts | [Development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md): connect runtime data, images and archive records |
 | Customize colors and layout | [Appearance guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md#2-customize-the-gallery-appearance): theme settings, global styles and components |
-| Hand the project to an agent | [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md) · [Discovery and citation](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md) · [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) |
+| Agent development | [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md) · [Discovery and citation](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md) · [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) |
 | Find material sources | [Artifact inventory](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md) and [machine-readable manifest](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) |
 | Contribute or report an issue | [Contribution guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md) · [Project issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) |
 
@@ -224,7 +224,7 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/U
 
 “数字资产”展示处理后的器物图像，“档案视图”展示扫描页。76 件文物有处理图，另 2 件直接显示档案。点击档案图进入全屏阅读，上下滚动查看扫描页。
 
-点击“查看文物资料”阅读尺寸、出土、馆藏与工艺信息。按 `Esc` 或使用关闭按钮退出资料面板与全屏阅读。`Tab` 和 `Shift+Tab` 可在弹层控件间移动焦点。
+点击“查看文物资料”阅读尺寸、出土、馆藏与工艺信息。按 `Esc` 或使用关闭按钮退出资料面板与全屏阅读。在资料弹窗中，`Tab` 和 `Shift+Tab` 可循环移动焦点。
 
 ## 本地启动
 
@@ -277,7 +277,7 @@ Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and sele
 
 “数字资产” displays the processed artifact image; “档案视图” displays the scanned archive. There are 76 artifacts with processed images and 2 that open directly in archive view. Select an archive image to read it in fullscreen and scroll through the page.
 
-Select “查看文物资料” to read dimensions, excavation, collection and technical features. Press `Esc` or use the close button to exit the record panel or fullscreen reader. Use `Tab` and `Shift+Tab` to move focus between dialog controls.
+Select “查看文物资料” to read dimensions, excavation, collection and technical features. Press `Esc` or use the close button to exit the record panel or fullscreen reader. In the record dialog, use `Tab` and `Shift+Tab` to cycle focus between its controls.
 
 ## Run locally
 
@@ -324,7 +324,7 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/D
 
 [English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md) · [项目首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
 
-本教程面向第一次接手项目的开发者。默认在项目根目录执行命令。用 Node.js 22 和 `npm ci` 安装依赖，`npm run dev -- --host 127.0.0.1` 启动开发预览。
+以下命令均在项目根目录执行。用 Node.js 22 和 `npm ci` 安装依赖，`npm run dev -- --host 127.0.0.1` 启动开发预览。
 
 ## 1. 理解数据流
 
@@ -372,7 +372,7 @@ src/data/shouzhou_ceramics.json
 
 ## 4. 添加一件展品：完整字段示例
 
-以下是虚构的结构示例，不是历史文物资料，也不附带现有书籍图片的使用许可。用自有或明确授权的 PNG 替换示例图片后再接入。现有序号为 001–078，示例使用 079；项目校验不把总数写死为 78。
+以下虚构条目用于演示数据结构。请准备自有或明确授权的 PNG 图片。现有序号为 001–078，示例使用 079；校验脚本按数据计算条目数量。
 
 先准备 `public/assets/ceramics/szk-079-demo-vase.png`。如有去背景图，放入 `public/assets/ceramics/processed/` 的同名文件；没有时不要填写 `processedImageUrl`，页面将使用档案视图。
 
@@ -446,7 +446,7 @@ Windows 激活 `.venv\Scripts\Activate.ps1`；macOS/Linux 执行 `source .venv/b
 python scripts/generate_thumbnails.py
 ```
 
-脚本会对目录中全部 PNG 生成最长边 320 像素的 WebP，优先使用同名处理图。更新清单后运行 `npm run check`。进入开发页面，检查新条目出现在导航中，并确认图片、名称和资料一致。
+脚本会对目录中全部 PNG 生成最长边不超过 320 像素的 WebP，优先使用同名处理图。更新清单后运行 `npm run check`。进入开发页面，检查新条目出现在导航中，并确认图片、名称和资料一致。
 
 ## 5. 维护来源清单
 
@@ -485,10 +485,10 @@ npm run check
 ## 6. 交互修改与回归
 
 - 主图地址由当前文物直接派生，避免额外 state 在快速切换时显示上一件图片。
-- 全屏档案与资料面板使用 `createPortal(..., document.body)`；保留背景滚动锁、Escape 关闭、焦点限制及恢复。
+- 全屏档案与资料面板使用 `createPortal(..., document.body)`。两者均需保留背景滚动锁、Escape 关闭及关闭后的焦点恢复；资料弹窗还需保留 Tab/Shift+Tab 焦点循环。
 - 弹层开启时，底层方向键导航应暂停。
 - 验证首屏加载、连续切换、图片失败回退及无处理图条目。最低验证 1280×720 横向视口；按实际设备增加触控和小屏检查。
-- 检查控制台错误、图片加载、遮挡及长文字。编译成功不能证明交互正确。
+- 在浏览器中检查控制台错误、图片加载、遮挡及长文字。
 
 运行环境中有固定 Playwright 策略时，必须使用其指定命令、浏览器目录及 Chromium 版本，不自动安装另一份浏览器。
 
@@ -641,7 +641,7 @@ On Windows activate `.venv\Scripts\Activate.ps1`; on macOS/Linux run `source .ve
 python scripts/generate_thumbnails.py
 ```
 
-The script generates WebP thumbnails from all PNGs in the directory, preferring processed images with matching names. Their longest edge is 320 pixels. Update hashes, regenerate documentation and run `npm run check`. Check the new navigation item, image, title and record in the browser.
+The script generates WebP thumbnails from all PNGs in the directory, preferring processed images with matching names. Their longest edge is at most 320 pixels. Update hashes, regenerate documentation and run `npm run check`. Check the new navigation item, image, title and record in the browser.
 
 ## 5. Maintain sources and file versions
 
@@ -680,7 +680,7 @@ To remove an artifact, remove its runtime and index entries, sidecar, exclusivel
 ## 6. Interaction changes and regression checks
 
 - Derive image addresses directly from the current artifact to avoid stale images during rapid navigation.
-- Fullscreen and record dialogs use `createPortal(..., document.body)`. Preserve background scroll lock, Escape, focus trapping and focus restoration.
+- Fullscreen and record dialogs use `createPortal(..., document.body)`. Preserve background scroll lock, Escape and focus restoration in both. The record dialog also traps Tab/Shift+Tab focus.
 - Pause underlying arrow-key navigation while a dialog is open.
 - Check initial loading, rapid switching, failed-image fallback and artifacts without processed images. Test at least a 1280×720 landscape viewport and add touch/narrow-screen checks for target devices.
 - Inspect console errors, image loading, overlapping controls and long text.
@@ -714,7 +714,7 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/A
 
 [English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md) · [项目首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · [索引说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md)
 
-## 先定位任务
+## 文件导航
 
 | 任务 | 入口 | 关键文件 |
 | --- | --- | --- |
@@ -726,7 +726,7 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/A
 
 仓库开发约定见 [AGENTS.md](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md)（[中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md)）。`llms.txt` 提供简明导航，`llms-full.txt` 汇集核心双语文档。
 
-## 检索与证据
+## 查找文物与来源
 
 ```sh
 npm run catalog:search -- szk-003
@@ -738,7 +738,7 @@ npm run catalog:search -- 龙柄
 
 介绍程序行为时以组件源码和运行验证为据；介绍文物时引用档案标识及来源。来源清单的印刷页码和文献版本有空缺；保留未知值，不根据原文件后缀推算页码或 ISBN。加工元数据用于描述所存记录，图片与 OCR 内容需结合原档案核对。
 
-## 从独立目录复现
+## 安装与运行
 
 ```sh
 git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
@@ -753,7 +753,7 @@ npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
 ## 内容维护示例
 
 1. 搜索 `szk-003`，检查运行数据、档案索引和逐件 JSON。
-2. 修改实际需要更新的字段；核对图片和来源是否受影响。
+2. 修改字段后，检查对应图片和来源记录。
 3. 同步档案关联、素材记录及受影响文件哈希，保留未变的来源信息。
 4. 运行 `npm run docs:generate`、`npm run check`。
 5. 在浏览器检查该文物的两种视图、资料和全屏阅读。
@@ -762,7 +762,7 @@ npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
 
 调整资料弹窗时从 `DataPanel.jsx` 和相关 hook 入手，核对 Portal、Escape、焦点和背景滚动行为。修改后验证 Tab/Shift+Tab 循环、关闭后焦点恢复，以及弹窗打开时底层导航暂停。界面改动同时检查宽屏和窄屏；固定 Playwright 环境按其既有策略使用 Chromium。
 
-提交贡献时说明改动影响和实际验证命令；更新文档时同步中英文并重新生成导览。数据、素材和文档检查的错误会给出文件路径或档案标识，按该位置检查源文件后再生成派生文件。
+检查失败时，按报错的文件路径或档案标识定位源文件，修正后重新生成导览。提交要求见[贡献指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md)。
 
 
 ---
@@ -773,7 +773,7 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/A
 
 [简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md) · [Project home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md) · [Discovery guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md)
 
-## Locate the task
+## File navigation
 
 | Task | Start here | Key files |
 | --- | --- | --- |
@@ -785,7 +785,7 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/A
 
 Repository conventions are in [AGENTS.md](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md) ([Chinese](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md)). `llms.txt` provides navigation; `llms-full.txt` combines the core bilingual documents.
 
-## Retrieval and evidence
+## Find artifacts and sources
 
 ```sh
 npm run catalog:search -- szk-003
@@ -797,7 +797,7 @@ Results are JSON. Use `archiveId` to locate runtime and archive records. `runtim
 
 Use source code and observed behavior to explain the application. Cite archive IDs and source records when describing artifacts. Bibliographic editions and printed page numbers have gaps; retain unknown values and do not infer ISBNs or page numbers from filename suffixes. Processing metadata describes the stored record; check images and OCR text against the original archive.
 
-## Reproduce in an independent directory
+## Install and run
 
 ```sh
 git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
@@ -812,7 +812,7 @@ Use Node.js 22. Open `http://127.0.0.1:4173/`, or choose another port if occupie
 ## Content maintenance example
 
 1. Search for `szk-003`; inspect runtime data, archive index and sidecar JSON.
-2. Edit the intended fields and check whether images or sources are affected.
+2. After editing fields, check the corresponding images and source records.
 3. Synchronize archive references, material records and affected hashes while retaining unchanged source information.
 4. Run `npm run docs:generate` and `npm run check`.
 5. Inspect both views, the record dialog and fullscreen reader for that artifact.
@@ -821,7 +821,7 @@ Use Node.js 22. Open `http://127.0.0.1:4173/`, or choose another port if occupie
 
 For a record-dialog change, start with `DataPanel.jsx` and related hooks. Check Portal, Escape, focus and background scrolling. Verify Tab/Shift+Tab cycling, focus restoration on close and paused underlying navigation while open. Check wide and narrow viewports for UI changes; use Chromium according to the environment's fixed Playwright policy.
 
-Describe the impact and commands actually run when contributing. Update both documentation languages and regenerate discovery files. Validation errors identify a path or archive ID; inspect that source before regenerating derived files.
+When validation fails, use the reported path or archive ID to locate and correct the source, then regenerate discovery files. See the [contribution guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md) for submission requirements.
 
 
 ---
@@ -834,14 +834,14 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/D
 
 | 文件 | 用途 |
 | --- | --- |
-| [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) | 人与 Agent 的双语阅读路径 |
+| [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) | 中英文文档导航 |
 | [llm.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llm.txt) | 与 llms.txt 内容相同的兼容入口 |
 | [llms-full.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms-full.txt) | 核心双语指南合并文本；文档链接指向仓库文件 |
 | [catalog.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json) | 文物稳定标识、中英文名称、时期、标签和关联文件 |
 | [asset-rights.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) | 逐件素材的来源、用途和文件版本 |
 | [CITATION.cff](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff)、[CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json) | 软件作者、项目网址与技术元数据 |
 
-这些文件随仓库分发，便于代码助手、检索工具和阅读器消费。目录直接从现有数据生成，不改变页面数据接口。读取它们的工具需能访问仓库；线上展台地址用于体验作品。
+这些文件供代码助手和检索工具读取，需通过仓库访问。文物目录从现有数据生成；展台仍读取 `src/data/shouzhou_ceramics.json`。
 
 ## 生成与检查
 
@@ -851,7 +851,7 @@ npm run docs:check
 npm run catalog:search -- szk-003
 ```
 
-生成脚本读取运行 JSON、素材清单和核心 Markdown，写入目录、双语人读清单及三个 llm 文本入口。输出具有固定顺序，不带生成时间。`--check` 比较预期内容，发现过期文件时返回非零退出码；链接检查验证仓库相对链接、图片和标题锚点。修改生成文件的来源后重新生成。
+生成脚本读取运行 JSON、素材清单和核心 Markdown，写入目录、双语人读清单及`llms.txt`、`llm.txt` 和 `llms-full.txt`。输出具有固定顺序，不带生成时间。`--check` 比较预期内容，发现过期文件时返回非零退出码；链接检查验证仓库相对链接、图片和标题锚点。修改生成文件的来源后重新生成。
 
 `catalog:search` 接受标识、中文或英文关键词；多个词使用“同时包含”匹配，结果输出 JSON 数组，无匹配时为 `[]`。从项目根目录直接执行 `node scripts/search_catalog.mjs szk-003` 可取得不带 npm 日志的 JSON。
 
@@ -872,14 +872,14 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/D
 
 | File | Purpose |
 | --- | --- |
-| [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) | Bilingual reading paths for people and agents |
+| [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) | Chinese and English documentation index |
 | [llm.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llm.txt) | Compatibility entry with identical contents to llms.txt |
 | [llms-full.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms-full.txt) | Combined core guides, with links to repository files |
 | [catalog.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json) | Stable artifact IDs, Chinese/English names, periods, tags and related files |
 | [asset-rights.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) | Material sources, permitted uses and file versions |
 | [CITATION.cff](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff), [CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json) | Software author, project URL and technical metadata |
 
-These files travel with the repository for code assistants, retrieval tools and readers. The catalog is generated from existing data and leaves the gallery data interface unchanged. Tools need repository access to read these files; the live gallery URL is the exhibition experience.
+Code assistants and retrieval tools can read these files through the repository. The catalog is generated from existing data; the gallery continues to read `src/data/shouzhou_ceramics.json`.
 
 ## Generate and check
 
@@ -889,7 +889,7 @@ npm run docs:check
 npm run catalog:search -- szk-003
 ```
 
-The generator reads runtime JSON, the material manifest and core Markdown, then writes the catalog, bilingual inventories and three llm navigation files. Output order is deterministic and contains no generation timestamp. `--check` compares expected contents and exits nonzero on drift; link checks validate repository-relative links, images and heading anchors. Edit source documents and regenerate derived files.
+The generator reads runtime JSON, the material manifest and core Markdown, then writes the catalog, bilingual inventories and `llms.txt`, `llm.txt` and `llms-full.txt`. Output order is deterministic and contains no generation timestamp. `--check` compares expected contents and exits nonzero on drift; link checks validate repository-relative links, images and heading anchors. Edit source documents and regenerate derived files.
 
 `catalog:search` accepts IDs, Chinese or English keywords. Multiple words use AND matching. Output is a JSON array, or `[]` for no matches. Run `node scripts/search_catalog.mjs szk-003` from the root for JSON without npm's log prefix.
 
@@ -1408,11 +1408,11 @@ Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/a
 
 ## 主题封面 / Thematic cover
 
-`shouzhou-kiln-cover.png` 为本项目生成的主题插画，以青瓷、青铜色和窑火组织画面。画面中的器物与窑洞为艺术化表达。
+`shouzhou-kiln-cover.png` 是 AI 生成的主题插画，描绘青瓷、窑洞和窑火。画面中的器物为艺术化表达。
 
-The cover is an AI-generated thematic illustration for this project, combining celadon, bronze tones and kiln fire. Its vessels and kiln arches are artistic interpretations.
+`shouzhou-kiln-cover.png` is an AI-generated illustration of celadon vessels, kiln arches and kiln fire. The vessels are artistic interpretations.
 
-生成方式 / Method：imagegen，2026-10-17。构图要点 / Art direction：宽幅、深色底、釉面器物、窑火、少量等高线纹理；标题由 Markdown 呈现。 / A wide dark composition with glazed vessels, kiln fire and subtle contour lines; the title is rendered as Markdown text.
+生成工具 / Tool：imagegen。日期 / Date：2026-10-17。
 
 ## 展台截图 / Application screenshots
 

@@ -8,7 +8,7 @@ Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and sele
 
 “数字资产” displays the processed artifact image; “档案视图” displays the scanned archive. There are 76 artifacts with processed images and 2 that open directly in archive view. Select an archive image to read it in fullscreen and scroll through the page.
 
-Select “查看文物资料” to read dimensions, excavation, collection and technical features. Press `Esc` or use the close button to exit the record panel or fullscreen reader. Use `Tab` and `Shift+Tab` to move focus between dialog controls.
+Select “查看文物资料” to read dimensions, excavation, collection and technical features. Press `Esc` or use the close button to exit the record panel or fullscreen reader. In the record dialog, use `Tab` and `Shift+Tab` to cycle focus between its controls.
 
 ## Run locally
 

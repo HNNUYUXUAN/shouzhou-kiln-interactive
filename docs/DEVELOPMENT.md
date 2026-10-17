@@ -2,7 +2,7 @@
 
 [English](DEVELOPMENT.en.md) · [项目首页](../README.md) · [Agent 指南](AGENT_GUIDE.md)
 
-本教程面向第一次接手项目的开发者。默认在项目根目录执行命令。用 Node.js 22 和 `npm ci` 安装依赖，`npm run dev -- --host 127.0.0.1` 启动开发预览。
+以下命令均在项目根目录执行。用 Node.js 22 和 `npm ci` 安装依赖，`npm run dev -- --host 127.0.0.1` 启动开发预览。
 
 ## 1. 理解数据流
 
@@ -50,7 +50,7 @@ src/data/shouzhou_ceramics.json
 
 ## 4. 添加一件展品：完整字段示例
 
-以下是虚构的结构示例，不是历史文物资料，也不附带现有书籍图片的使用许可。用自有或明确授权的 PNG 替换示例图片后再接入。现有序号为 001–078，示例使用 079；项目校验不把总数写死为 78。
+以下虚构条目用于演示数据结构。请准备自有或明确授权的 PNG 图片。现有序号为 001–078，示例使用 079；校验脚本按数据计算条目数量。
 
 先准备 `public/assets/ceramics/szk-079-demo-vase.png`。如有去背景图，放入 `public/assets/ceramics/processed/` 的同名文件；没有时不要填写 `processedImageUrl`，页面将使用档案视图。
 
@@ -124,7 +124,7 @@ Windows 激活 `.venv\Scripts\Activate.ps1`；macOS/Linux 执行 `source .venv/b
 python scripts/generate_thumbnails.py
 ```
 
-脚本会对目录中全部 PNG 生成最长边 320 像素的 WebP，优先使用同名处理图。更新清单后运行 `npm run check`。进入开发页面，检查新条目出现在导航中，并确认图片、名称和资料一致。
+脚本会对目录中全部 PNG 生成最长边不超过 320 像素的 WebP，优先使用同名处理图。更新清单后运行 `npm run check`。进入开发页面，检查新条目出现在导航中，并确认图片、名称和资料一致。
 
 ## 5. 维护来源清单
 
@@ -163,10 +163,10 @@ npm run check
 ## 6. 交互修改与回归
 
 - 主图地址由当前文物直接派生，避免额外 state 在快速切换时显示上一件图片。
-- 全屏档案与资料面板使用 `createPortal(..., document.body)`；保留背景滚动锁、Escape 关闭、焦点限制及恢复。
+- 全屏档案与资料面板使用 `createPortal(..., document.body)`。两者均需保留背景滚动锁、Escape 关闭及关闭后的焦点恢复；资料弹窗还需保留 Tab/Shift+Tab 焦点循环。
 - 弹层开启时，底层方向键导航应暂停。
 - 验证首屏加载、连续切换、图片失败回退及无处理图条目。最低验证 1280×720 横向视口；按实际设备增加触控和小屏检查。
-- 检查控制台错误、图片加载、遮挡及长文字。编译成功不能证明交互正确。
+- 在浏览器中检查控制台错误、图片加载、遮挡及长文字。
 
 运行环境中有固定 Playwright 策略时，必须使用其指定命令、浏览器目录及 Chromium 版本，不自动安装另一份浏览器。
 

@@ -4,23 +4,23 @@
 
 ![青瓷器物、窑火与窑洞构成的寿州窑主题插画](docs/assets/shouzhou-kiln-cover.png)
 
-*寿州窑主题插画 · AI 生成*
+*寿州窑主题插画 · [来源与使用说明](docs/assets/README.md)*
 
-从器物轮廓到档案细节，在浏览器中走近寿州窑。这个数字展台将 **78 件文物**的图像、介绍与档案组织在同一条浏览路径中，让观众看见器形，也能继续读到它的尺寸、出土与馆藏信息。
+寿州窑文物数字展台收录 **78 件文物**，可浏览器物图像、对照档案扫描页，查阅尺寸、出土与馆藏资料。
 
-项目适合文博主题展示、课堂交流与作品集演示。开发者可以沿用 React 展台结构，通过本地 JSON 和图片，组织自己的展品内容。
+展台使用 React 开发，数据和图片保存在本地文件中，可部署为静态网站。替换 JSON 和图片即可用于其他展览。
 
-**78 件文物 · 76 件处理图 · 档案对照 · 全屏阅读 · 本地静态部署**
+**78 件文物 · 76 张处理图 · 档案对照 · 全屏阅读 · 本地静态部署**
 
-## 从一件器物开始
+## 浏览文物
 
-打开[在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)，在底部导航选择一件文物。主展台呈现器物图像、中英文名称、介绍和特征标签；左右方向键让浏览连续起来。
+打开[在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)，在底部导航选择一件文物。主展台显示器物图像、中英文名称、介绍和特征标签。按左右方向键切换文物。
 
 ![展台实景：青釉四系龙柄盘口壶、展品介绍与底部文物导航](docs/assets/gallery.png)
 
-*真实界面：青釉四系龙柄盘口壶（szk-003）。点击图片可查看大图。*
+*展台截图：青釉四系龙柄盘口壶（szk-003）。点击图片可查看大图。*
 
-| 看形态，读档案 | 展开一件文物的资料 |
+| 图片与档案切换 | 文物资料 |
 | --- | --- |
 | ![档案视图展示同一件文物的扫描页和介绍](docs/assets/archive-view.png) | ![文物资料面板展示尺寸、出土、馆藏和工艺信息](docs/assets/artifact-details.png) |
 | 在“数字资产”与“档案视图”之间切换，结合处理图和扫描页阅读；仅有档案图的展品直接显示档案。 | 点击“查看文物资料”，集中阅读尺寸、出土与流传、馆藏和工艺信息。 |
@@ -58,14 +58,14 @@ npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
 
 **技术栈：** React 18 · Vite 6 · Tailwind CSS 4。浏览器要求：Chrome 111+、Safari 16.4+、Firefox 128+。
 
-## 按你的目标继续
+## 使用与开发文档
 
-| 你想做什么 | 从这里开始 |
+| 内容 | 文档 |
 | --- | --- |
-| 体验数字展陈 | [在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [使用指南](docs/USAGE.md) |
+| 浏览展台 | [在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [使用指南](docs/USAGE.md) |
 | 替换或添加展品 | [二次开发教程](docs/DEVELOPMENT.md)：运行数据、图片与档案的对应关系 |
 | 调整配色与布局 | [外观开发入口](docs/DEVELOPMENT.md#2-修改展台名称与外观)：主题配置、全局样式与组件 |
-| 让 Agent 接手 | [Agent 指南](docs/AGENT_GUIDE.md) · [检索与引用](docs/DISCOVERY.md) · [llms.txt](llms.txt) |
+| Agent 开发 | [Agent 指南](docs/AGENT_GUIDE.md) · [检索与引用](docs/DISCOVERY.md) · [llms.txt](llms.txt) |
 | 查阅素材来源 | [逐件素材清单](docs/ASSET_INVENTORY.md)与[机器可读清单](docs/asset-rights.json) |
 | 贡献改进或反馈问题 | [贡献指南](CONTRIBUTING.md) · [项目 Issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) |
 

@@ -124,7 +124,7 @@ On Windows activate `.venv\Scripts\Activate.ps1`; on macOS/Linux run `source .ve
 python scripts/generate_thumbnails.py
 ```
 
-The script generates WebP thumbnails from all PNGs in the directory, preferring processed images with matching names. Their longest edge is 320 pixels. Update hashes, regenerate documentation and run `npm run check`. Check the new navigation item, image, title and record in the browser.
+The script generates WebP thumbnails from all PNGs in the directory, preferring processed images with matching names. Their longest edge is at most 320 pixels. Update hashes, regenerate documentation and run `npm run check`. Check the new navigation item, image, title and record in the browser.
 
 ## 5. Maintain sources and file versions
 
@@ -163,7 +163,7 @@ To remove an artifact, remove its runtime and index entries, sidecar, exclusivel
 ## 6. Interaction changes and regression checks
 
 - Derive image addresses directly from the current artifact to avoid stale images during rapid navigation.
-- Fullscreen and record dialogs use `createPortal(..., document.body)`. Preserve background scroll lock, Escape, focus trapping and focus restoration.
+- Fullscreen and record dialogs use `createPortal(..., document.body)`. Preserve background scroll lock, Escape and focus restoration in both. The record dialog also traps Tab/Shift+Tab focus.
 - Pause underlying arrow-key navigation while a dialog is open.
 - Check initial loading, rapid switching, failed-image fallback and artifacts without processed images. Test at least a 1280×720 landscape viewport and add touch/narrow-screen checks for target devices.
 - Inspect console errors, image loading, overlapping controls and long text.

@@ -4,14 +4,14 @@
 
 | File | Purpose |
 | --- | --- |
-| [llms.txt](../llms.txt) | Bilingual reading paths for people and agents |
+| [llms.txt](../llms.txt) | Chinese and English documentation index |
 | [llm.txt](../llm.txt) | Compatibility entry with identical contents to llms.txt |
 | [llms-full.txt](../llms-full.txt) | Combined core guides, with links to repository files |
 | [catalog.json](catalog.json) | Stable artifact IDs, Chinese/English names, periods, tags and related files |
 | [asset-rights.json](asset-rights.json) | Material sources, permitted uses and file versions |
 | [CITATION.cff](../CITATION.cff), [CodeMeta](../codemeta.json) | Software author, project URL and technical metadata |
 
-These files travel with the repository for code assistants, retrieval tools and readers. The catalog is generated from existing data and leaves the gallery data interface unchanged. Tools need repository access to read these files; the live gallery URL is the exhibition experience.
+Code assistants and retrieval tools can read these files through the repository. The catalog is generated from existing data; the gallery continues to read `src/data/shouzhou_ceramics.json`.
 
 ## Generate and check
 
@@ -21,7 +21,7 @@ npm run docs:check
 npm run catalog:search -- szk-003
 ```
 
-The generator reads runtime JSON, the material manifest and core Markdown, then writes the catalog, bilingual inventories and three llm navigation files. Output order is deterministic and contains no generation timestamp. `--check` compares expected contents and exits nonzero on drift; link checks validate repository-relative links, images and heading anchors. Edit source documents and regenerate derived files.
+The generator reads runtime JSON, the material manifest and core Markdown, then writes the catalog, bilingual inventories and `llms.txt`, `llm.txt` and `llms-full.txt`. Output order is deterministic and contains no generation timestamp. `--check` compares expected contents and exits nonzero on drift; link checks validate repository-relative links, images and heading anchors. Edit source documents and regenerate derived files.
 
 `catalog:search` accepts IDs, Chinese or English keywords. Multiple words use AND matching. Output is a JSON array, or `[]` for no matches. Run `node scripts/search_catalog.mjs szk-003` from the root for JSON without npm's log prefix.
 

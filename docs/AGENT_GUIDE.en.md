@@ -2,7 +2,7 @@
 
 [简体中文](AGENT_GUIDE.md) · [Project home](../README.en.md) · [Discovery guide](DISCOVERY.en.md)
 
-## Locate the task
+## File navigation
 
 | Task | Start here | Key files |
 | --- | --- | --- |
@@ -14,7 +14,7 @@
 
 Repository conventions are in [AGENTS.md](../AGENTS.md) ([Chinese](../AGENTS.zh-CN.md)). `llms.txt` provides navigation; `llms-full.txt` combines the core bilingual documents.
 
-## Retrieval and evidence
+## Find artifacts and sources
 
 ```sh
 npm run catalog:search -- szk-003
@@ -26,7 +26,7 @@ Results are JSON. Use `archiveId` to locate runtime and archive records. `runtim
 
 Use source code and observed behavior to explain the application. Cite archive IDs and source records when describing artifacts. Bibliographic editions and printed page numbers have gaps; retain unknown values and do not infer ISBNs or page numbers from filename suffixes. Processing metadata describes the stored record; check images and OCR text against the original archive.
 
-## Reproduce in an independent directory
+## Install and run
 
 ```sh
 git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
@@ -41,7 +41,7 @@ Use Node.js 22. Open `http://127.0.0.1:4173/`, or choose another port if occupie
 ## Content maintenance example
 
 1. Search for `szk-003`; inspect runtime data, archive index and sidecar JSON.
-2. Edit the intended fields and check whether images or sources are affected.
+2. After editing fields, check the corresponding images and source records.
 3. Synchronize archive references, material records and affected hashes while retaining unchanged source information.
 4. Run `npm run docs:generate` and `npm run check`.
 5. Inspect both views, the record dialog and fullscreen reader for that artifact.
@@ -50,4 +50,4 @@ Use Node.js 22. Open `http://127.0.0.1:4173/`, or choose another port if occupie
 
 For a record-dialog change, start with `DataPanel.jsx` and related hooks. Check Portal, Escape, focus and background scrolling. Verify Tab/Shift+Tab cycling, focus restoration on close and paused underlying navigation while open. Check wide and narrow viewports for UI changes; use Chromium according to the environment's fixed Playwright policy.
 
-Describe the impact and commands actually run when contributing. Update both documentation languages and regenerate discovery files. Validation errors identify a path or archive ID; inspect that source before regenerating derived files.
+When validation fails, use the reported path or archive ID to locate and correct the source, then regenerate discovery files. See the [contribution guide](../CONTRIBUTING.en.md) for submission requirements.

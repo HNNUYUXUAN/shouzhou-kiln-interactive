@@ -4,15 +4,15 @@
 
 ![Thematic illustration of celadon vessels, kiln arches and the glow of firing](docs/assets/shouzhou-kiln-cover.png)
 
-*Shouzhou kiln thematic illustration · AI-generated*
+*Shouzhou kiln thematic illustration · [Source and usage notes](docs/assets/README.md)*
 
-Explore Shouzhou kiln ceramics through their forms and archival details. This browser-based gallery brings together images, descriptions and records for **78 artifacts**, connecting each object with its dimensions, excavation and collection information.
+This gallery presents **78 Shouzhou kiln artifacts**. Browse artifact images, compare scanned archive pages, and read dimensions, excavation and collection records.
 
-Designed for cultural exhibitions, classroom discussion and portfolio presentations, the project also provides a React foundation for developers to build galleries around their own collections using local JSON and images.
+Built with React, the gallery stores its data and images in local files and can be deployed as a static website. Replace the JSON and images to use it for another exhibition.
 
 **78 artifacts · 76 processed images · Archival comparison · Fullscreen reading · Static deployment**
 
-## Start with an artifact
+## Browse artifacts
 
 Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and choose an artifact from the navigation strip. The main stage combines its image, Chinese and English names, description and feature tags. Use the left and right arrow keys to continue browsing.
 
@@ -20,7 +20,7 @@ Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and choo
 
 *Application screenshot: celadon-glazed dish-mouthed jar with four loops and dragon handle (szk-003). Open the image for a larger view.*
 
-| Explore the form and the archive | Open the artifact record |
+| Image and archive views | Artifact records |
 | --- | --- |
 | ![Archive view displaying the scanned page alongside the artifact description](docs/assets/archive-view.png) | ![Artifact record panel displaying dimensions, excavation, collection and technical features](docs/assets/artifact-details.png) |
 | Switch between the processed image (“数字资产”) and archive view (“档案视图”). Artifacts with an archive image only open directly in archive view. | Select “查看文物资料” to read the dimensions, excavation and provenance, collection and technical features together. |
@@ -58,14 +58,14 @@ Open [http://127.0.0.1:4173/](http://127.0.0.1:4173/). Serve `dist/` through an 
 
 **Stack:** React 18 · Vite 6 · Tailwind CSS 4. Browser requirements: Chrome 111+, Safari 16.4+, Firefox 128+.
 
-## Choose your next step
+## Usage and development guides
 
-| Your goal | Start here |
+| Topic | Documentation |
 | --- | --- |
-| Explore the exhibition | [Live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [User guide](docs/USAGE.en.md) |
+| Browse the gallery | [Live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [User guide](docs/USAGE.en.md) |
 | Replace or add artifacts | [Development guide](docs/DEVELOPMENT.en.md): connect runtime data, images and archive records |
 | Customize colors and layout | [Appearance guide](docs/DEVELOPMENT.en.md#2-customize-the-gallery-appearance): theme settings, global styles and components |
-| Hand the project to an agent | [Agent guide](docs/AGENT_GUIDE.en.md) · [Discovery and citation](docs/DISCOVERY.en.md) · [llms.txt](llms.txt) |
+| Agent development | [Agent guide](docs/AGENT_GUIDE.en.md) · [Discovery and citation](docs/DISCOVERY.en.md) · [llms.txt](llms.txt) |
 | Find material sources | [Artifact inventory](docs/ASSET_INVENTORY.en.md) and [machine-readable manifest](docs/asset-rights.json) |
 | Contribute or report an issue | [Contribution guide](CONTRIBUTING.en.md) · [Project issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) |
 
