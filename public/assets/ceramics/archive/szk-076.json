@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-076",
+  "assetSlug": "yellow-glazed-porcelain-water-buffalo",
+  "sourceFileName": "《寿州窑》_13578583_366.png",
+  "targetBaseName": "szk-076-yellow-glazed-porcelain-water-buffalo",
+  "titleZh": "黄釉瓷水牛",
+  "titleEn": "Yellow-glazed Porcelain Water Buffalo",
+  "ocrText": "黄釉瓷水牛\n长5.1厘米，宽3厘米，高4.3厘米\n淮南市天宝双遗文化园藏",
+  "catalogSummary": "唐代寿州窑黄釉瓷塑水牛。器身施黄釉，造型生动写实，四肢粗壮有力，牛角弯曲向后。该器物现藏于淮南市天宝双遗文化园，是研究唐代寿州窑动物雕塑的重要实物资料。",
+  "artifactType": "sculpture",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长5.1厘米，宽3厘米，高4.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 4.3,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "水牛",
+    "动物"
+  ],
+  "provenance": "淮南市天宝双遗文化园藏",
+  "institution": "淮南市天宝双遗文化园",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Buffalo",
+    "Tang Dynasty",
+    "Animal Sculpture",
+    "寿州窑",
+    "黄釉",
+    "唐代"
+  ],
+  "confidenceNotes": ""
+}

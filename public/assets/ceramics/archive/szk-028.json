@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-028",
+  "assetSlug": "yellow-glazed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_180.png",
+  "targetBaseName": "szk-028-yellow-glazed-ewer",
+  "titleZh": "黄釉注子",
+  "titleEn": "Yellow-glazed Ewer",
+  "ocrText": "黄釉注子\n唐（618-907年）\n口径10.2厘米，底径9厘米，高21.8厘米\n2011年6月13日于淮南征集\n淮南市博物馆藏\n喇叭口、直颈、上部略宽。颈肩结合处形成一周凹弦纹。斜溜肩，肩部一侧置七棱流。流形制精巧，以刀削成的七个立面生动自然。流的对侧一侧置弓形鋬，鋬体扁平厚实，上有三道凹槽。通体施黄釉，釉色接近老玉米色，釉的烧造十分成功，是黄釉中精品。唐代寿州窑瓷注的釉色中黄釉居多，但一般烧造很难达到此器的水平。黄釉发色从上至下十分均匀，釉层很厚，玻璃光感极强，而且无脱釉现象，这在黄釉器中比较难得，说明其烧造温度较高，胎、化妆土和釉的结合致密。历经千年，今天看上去尤如刚出窑。\n图版三 唐代瓷注",
+  "catalogSummary": "唐代寿州窑黄釉注子，2011年淮南征集，现藏淮南市博物馆。器物造型为喇叭口、斜溜肩，饰七棱流与弓形鋬。通体施老玉米色黄釉，釉层厚且玻璃光感强，无脱釉，烧造精良，属黄釉器中精品。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径10.2厘米，底径9厘米，高21.8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10.2,
+    "baseDiameter": 9,
+    "height": 21.8,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉（老玉米色）",
+  "motifs": [
+    "七棱流",
+    "弓形鋬",
+    "凹弦纹"
+  ],
+  "provenance": "2011年6月13日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Yellow Glaze",
+    "Tang Dynasty",
+    "Ewer",
+    "Seven-ridge Spout"
+  ],
+  "confidenceNotes": ""
+}

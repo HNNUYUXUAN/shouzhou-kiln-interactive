@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-006",
+  "assetSlug": "celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design",
+  "sourceFileName": "《寿州窑》_13578583_124.png",
+  "targetBaseName": "szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design",
+  "titleZh": "青釉戳印莲花纹四系盘口壶",
+  "titleEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Stamped Lotus Design",
+  "ocrText": "青釉戳印莲花纹四系盘口壶\n隋（581-618年）\n口径14.2厘米，腹围22.8厘米，底径12厘米，高41.8厘米\n20世纪80年代初合肥市白水坝齿轮厂施工出土\n安徽省文物考古研究所藏\n圆唇，浅盘口，颈稍长，颈部有两道凸起的箍。圆溜肩，肩口有四个双股系。圆腹，下腹内收，饼足外撇。上腹部施釉，颈部和肩部均戳印一周相间的花朵和莲花。肩腹部有四道凹弦纹作隔断，上下两层戳印一周垂莲瓣纹。中间饰花瓣与叶片组成的图案。此器是目前已发现的隋代寿州窑产品中装饰最繁缛华丽的两件盘口壶之一，另一件收藏在蚌埠市博物馆。自颈部至腹下有凸弦纹、莲花纹共计11层。花朵和莲花是以制好的小花头均匀整齐的戳印到器上的，十分漂亮，是隋代寿州窑的代表性作品。",
+  "catalogSummary": "此器为隋代寿州窑代表性作品，20世纪80年代出土于合肥。器型为盘口四系，通体施青釉。其装饰工艺精湛，采用戳印技法，自颈至腹布满花朵、莲花及垂莲瓣纹等十一层纹饰，是已知同类器物中装饰最为繁缛华丽者之一。",
+  "artifactType": "jar",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径14.2厘米，腹围22.8厘米，底径12厘米，高41.8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 14.2,
+    "baseDiameter": 12,
+    "height": 41.8,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "青釉",
+  "motifs": [
+    "莲花纹",
+    "戳印花朵",
+    "垂莲瓣纹",
+    "凹弦纹",
+    "四系"
+  ],
+  "provenance": "20世纪80年代初合肥市白水坝齿轮厂施工出土",
+  "institution": "安徽省文物考古研究所",
+  "visualTags": [
+    "寿州窑",
+    "盘口壶",
+    "青瓷",
+    "Sui Dynasty",
+    "Shouzhou Kiln",
+    "Lotus Pattern",
+    "Stamped Decoration"
+  ],
+  "confidenceNotes": ""
+}

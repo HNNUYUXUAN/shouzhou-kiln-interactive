@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-005",
+  "assetSlug": "celadon-glazed-small-dish-mouthed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_122.png",
+  "targetBaseName": "szk-005-celadon-glazed-small-dish-mouthed-ewer",
+  "titleZh": "青釉小盘口壶",
+  "titleEn": "Celadon-glazed Small Dish-mouthed Ewer",
+  "ocrText": "青釉小盘口壶\n隋（581-618年）\n口径11.5厘米，底径11.8厘米，高32.2厘米\n皖西博物馆藏\n此器腹部下坠，颈部略显细小，是隋代寿州窑早期盘口壶的特点。浅腹盘，口沿外撇，长细束颈，颈上有三周凹弦纹。这种装饰方法后期演化成粗壮的凸弦纹。丰肩上置四枚双股系，系下有二周凹弦纹。腹部硕大，腹下缓收至足底。半施青釉，釉色均匀，玻化很好。下腹部露淡乳色胎体，质坚细。此器虽然装饰简单，但造型敦厚，形制规范，保存完好，是寿州窑早期产品的代表作。",
+  "catalogSummary": "此件隋代寿州窑青釉小盘口壶，现藏于皖西博物馆。器物具有典型的隋代早期特征：浅腹盘口、长细束颈及丰肩四系。通体半施青釉，釉色均匀且玻化良好，下腹露淡乳色胎。其造型敦厚规范，保存完好，是研究寿州窑早期产品的重要实物资料。",
+  "artifactType": "ewer",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径11.5厘米，底径11.8厘米，高32.2厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 11.5,
+    "baseDiameter": 11.8,
+    "height": 32.2,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "青釉",
+  "motifs": [
+    "凹弦纹",
+    "双股系"
+  ],
+  "provenance": "皖西博物馆藏",
+  "institution": "皖西博物馆",
+  "visualTags": [
+    "寿州窑",
+    "盘口壶",
+    "青釉",
+    "垂釉",
+    "四系",
+    "隋代瓷器"
+  ],
+  "confidenceNotes": ""
+}

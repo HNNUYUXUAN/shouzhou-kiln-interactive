@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-036",
+  "assetSlug": "brown-glazed-pillow",
+  "sourceFileName": "《寿州窑》_13578583_216.png",
+  "targetBaseName": "szk-036-brown-glazed-pillow",
+  "titleZh": "酱釉瓷枕",
+  "titleEn": "Brown-glazed Pillow",
+  "ocrText": "酱釉瓷枕\n唐（618-907年）\n枕面 13厘米×9厘米，高6.7厘米\n2012年12月12日淮南康杰捐赠\n淮南市博物馆藏\n此枕发现时是已经残破，经修复后完整。长方形，委角，枕面微凹，四边角处理成宽弧面。通体施酱釉，釉色不匀，弧面处釉色发色较深，釉色中含有点状灰色釉斑，接近茶叶末釉的结晶状。此器虽然不大，但造型玲珑可爱，可以感受到窑工在此器坯晾干后挤压成型，稍修弧面，自然成趣的制作过程。",
+  "catalogSummary": "唐代酱釉瓷枕，长方形委角，枕面微凹，四边呈宽弧面。通体施酱釉，釉色不匀且含点状灰斑，近茶叶末釉结晶。原已残破，经修复完整，展现了唐代寿州窑自然成趣的制作工艺。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 13厘米×9厘米，高6.7厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 6.7,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "酱釉",
+  "motifs": [
+    "无纹饰",
+    "委角",
+    "弧面"
+  ],
+  "provenance": "2012年12月12日淮南康杰捐赠",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "唐代瓷器",
+    "酱釉",
+    "瓷枕",
+    "委角长方"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-003",
+  "assetSlug": "celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle",
+  "sourceFileName": "《寿州窑》_13578583_116.png",
+  "targetBaseName": "szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle",
+  "titleZh": "青釉四系龙柄盘口壶",
+  "titleEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Dragon Handle",
+  "ocrText": "青釉四系龙柄盘口壶\n隋(581-618年)\n口径6.6厘米,底径6.1厘米,高23厘米\n1974年合肥市长丰出土\n安徽博物院藏\n此器很有特点,其形制如同隋代寿州窑的龙柄鸡首壶,但没有装置鸡首,十分少见,迄今仅见此例。器物的造型粗犷厚重,小深腹盘口,长细颈上饰三周凸弦纹,广丰肩上置四枚对称的双股系,肩上饰一周粗壮的凸弦纹。长鼓腹,腹下缓收至足上,平足外撇。在盘口与肩之间置一修长龙柄,龙口口衔盘口,龙吻深入盘内,做吸允状。通体施青釉,积釉处窑变。此器造型修长,盘口,龙柄及腹部之间比例十分协调,给人以挺拔俊美之感,代表了隋代寿州窑风格和面貌。",
+  "catalogSummary": "此件隋代青釉四系龙柄盘口壶于1974年出土于合肥长丰，现藏安徽博物院。器物造型独特，似龙柄鸡首壶而无鸡首，极为罕见。其长颈饰弦纹，肩置四系，龙柄修长衔口，通体施青釉且有积釉窑变，体现了隋代寿州窑粗犷厚重的风格。",
+  "artifactType": "jar",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径6.6厘米,底径6.1厘米,高23厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 6.6,
+    "baseDiameter": 6.1,
+    "height": 23,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "青釉，积釉处窑变",
+  "motifs": [
+    "龙柄",
+    "四系",
+    "盘口",
+    "凸弦纹"
+  ],
+  "provenance": "1974年合肥市长丰出土",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Celadon",
+    "Dragon handle",
+    "Sui Dynasty",
+    "寿州窑",
+    "青釉",
+    "龙柄",
+    "隋代"
+  ],
+  "confidenceNotes": ""
+}

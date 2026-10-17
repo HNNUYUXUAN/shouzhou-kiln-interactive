@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-001",
+  "assetSlug": "celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs",
+  "sourceFileName": "《寿州窑》_13578583_117.png",
+  "targetBaseName": "szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs",
+  "titleZh": "青釉双龙柄堆塑动物纹连体瓶",
+  "titleEn": "Celadon-glazed Conjoined Vase with Double Dragon Handles and Applied Animal Motifs",
+  "ocrText": "青釉双龙柄堆塑动物纹连体瓶\n隋（581-618年）\n口径4.5厘米，底径3.5厘米，高18厘米\n淮南市凤台县泥集出土\n安徽博物院藏\n此器是迄今为止发现的唯一一件隋代寿州窑龙柄连体瓶。盘口，单颈，双腹，双平底。双腹上各塑一个修长的龙柄，龙头口衔盘口，龙首探进壶内，犹如正在吸吮瓶中美酒，双联腹上对称置四个动物，龙柄一侧的下方动物形如猴状。对称一侧有残。器物的胎体呈淡乳色，施青釉，釉色偏淡，脱釉严重。此类器物在各地同时期窑口发现很少，陕西西安李静训墓曾出土一件，天津市博物馆收藏有一件，二件器物均出自邢窑，属早期白釉产品。安徽博物院收藏的这件双龙柄联体瓶从一个侧面反映了寿州窑早期文化面貌受北方窑口影响较多的事实。",
+  "catalogSummary": "此器为隋代寿州窑青釉连体瓶，出土于淮南市凤台县泥集，现藏安徽博物院。其造型独特，双腹连体，饰以双龙柄及堆塑动物纹，是目前发现的唯一一件隋代寿州窑龙柄连体瓶，反映了该窑早期受北方窑口影响的文化面貌。",
+  "artifactType": "conjoined vase",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径4.5厘米，底径3.5厘米，高18厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 4.5,
+    "baseDiameter": 3.5,
+    "height": 18,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "青釉",
+  "motifs": [
+    "龙柄",
+    "堆塑动物纹",
+    "连体"
+  ],
+  "provenance": "淮南市凤台县泥集出土",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "寿州窑",
+    "隋代",
+    "青釉",
+    "双龙柄",
+    "连体瓶",
+    "堆塑"
+  ],
+  "confidenceNotes": ""
+}

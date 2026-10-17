@@ -1,0 +1,43 @@
+{
+  "archiveId": "szk-004",
+  "assetSlug": "celadon-glazed-incised-six-handled-dish-mouthed-jar",
+  "sourceFileName": "《寿州窑》_13578583_119.png",
+  "targetBaseName": "szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar",
+  "titleZh": "青釉刻花六系盘口壶",
+  "titleEn": "Celadon-glazed Incised Six-handled Dish-mouthed Jar",
+  "ocrText": "青釉刻花六系盘口壶\n南朝至隋（420-618年）\n口径16厘米，底径11.8厘米，高36.8厘米\n1984年安徽省合肥隋开皇三年（583年）墓出土\n安徽博物院藏\n盘口外撇，浅腹，长细束颈，溜肩上置六个桥形系，这种形制的系在寿州窑隋代产品中罕见，应更早一些。鼓腹，腹的最大径在腹中部，有二周细凹弦纹将腹部分割，上部饰一周覆莲瓣纹，下部饰一周仰莲瓣纹，装饰方法以划花法，其纹饰的风格和剔划的方法符合寿州窑产品风格，这种方法在整个隋代都在使用。半施青釉，釉层玻化很好，下腹有数道蜡泪痕。足下露灰色胎体，质坚细，平底微凹。该墓共出土2件盘口壶，均为六桥系，共同特征是颈部尚没有隋代寿州窑特有的2~3周凸弦纹，是为早期面貌。此器为纪年墓出土，为隋代标准器之一。",
+  "catalogSummary": "此器为南朝至隋时期青釉刻花六系盘口壶，1984年出土于安徽合肥隋开皇三年墓。其特征为盘口、长颈、六桥形系及腹部划花莲瓣纹。作为纪年墓出土文物，它是隋代寿州窑的标准器之一，现藏于安徽博物院。",
+  "artifactType": "jar",
+  "dynasty": "南朝至隋",
+  "period": "420-618年",
+  "dimensionsRaw": "口径16厘米，底径11.8厘米，高36.8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 16,
+    "baseDiameter": 11.8,
+    "height": 36.8,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "青釉",
+  "motifs": [
+    "刻花",
+    "莲瓣纹",
+    "六系",
+    "覆莲瓣纹",
+    "仰莲瓣纹",
+    "凹弦纹"
+  ],
+  "provenance": "1984年安徽省合肥隋开皇三年（583年）墓出土",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "寿州窑",
+    "青釉",
+    "盘口壶",
+    "六系",
+    "刻花",
+    "莲瓣纹",
+    "隋代",
+    "安徽博物院"
+  ],
+  "confidenceNotes": ""
+}

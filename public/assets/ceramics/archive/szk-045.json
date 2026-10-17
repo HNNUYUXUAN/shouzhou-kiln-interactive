@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-045",
+  "assetSlug": "shouzhou-kiln-yellow-glazed-pillow",
+  "sourceFileName": "《寿州窑》_13578583_247.png",
+  "targetBaseName": "szk-045-shouzhou-kiln-yellow-glazed-pillow",
+  "titleZh": "寿州窑黄釉瓷枕",
+  "titleEn": "Shouzhou Kiln Yellow-glazed Pillow",
+  "ocrText": "附 宋代瓷枕\n瓷枕\n北宋（618-907年）\n枕面 15厘米×10厘米，高8厘米\n2010年1月12日征集\n淮南市博物馆藏",
+  "catalogSummary": "此件寿州窑黄釉瓷枕枕面约15×10厘米，通高8厘米，2010年1月12日征集，现藏淮南市博物馆。图录所列朝代名称与年份区间互相矛盾，因此不据此确定具体年代。",
+  "artifactType": "pillow",
+  "dynasty": "",
+  "period": "",
+  "dimensionsRaw": "枕面 15厘米×10厘米，高8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 8,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "素面",
+    "长方形"
+  ],
+  "provenance": "2010年1月12日征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou ware",
+    "yellow glaze",
+    "pillow",
+    "ceramic",
+    "寿州窑",
+    "黄釉",
+    "瓷枕"
+  ],
+  "confidenceNotes": "图录原文标注“北宋（618-907年）”，朝代名称与年份区间互相矛盾；本记录保留原始OCR，但不在结构化字段和前台显示中确定年代。"
+}

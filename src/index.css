@@ -1,0 +1,212 @@
+@import "tailwindcss" source(none);
+@config "../tailwind.config.js";
+@source "./";
+@source "../index.html";
+
+/* 保持原展台的默认边框色和可点击控件光标。 */
+@layer base {
+  *, ::before, ::after, ::backdrop, ::file-selector-button {
+    border-color: #e5e7eb;
+  }
+
+  button:not(:disabled), [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Serif SC', 'Source Han Serif SC', serif;
+  background: radial-gradient(ellipse at center, #1a1a1a 0%, #0d0d0d 100%);
+  color: #e8dcc8;
+  overflow: hidden;
+  /* 限制页面级触控滚动和越界回弹。 */
+  touch-action: pan-x pan-y;
+  overscroll-behavior: none;
+  /* 展台界面不提供文本选择和长按菜单。 */
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+/* 隐藏滚动条，但保留滚动能力。 */
+* {
+  /* Firefox 和旧版 Edge 的兼容写法。 */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+*::-webkit-scrollbar {
+  /* Chromium、Safari 和 Opera 的兼容写法。 */
+  display: none;
+}
+
+/* 触控设备交互 */
+@media (hover: none) and (pointer: coarse) {
+  /* 交互目标保持可触达的最小尺寸。 */
+  button,
+  [role="button"],
+  [tabindex]:not([tabindex="-1"]) {
+    min-height: 48px;
+    min-width: 48px;
+  }
+
+  /* 按压反馈 */
+  button:active,
+  [role="button"]:active {
+    transform: scale(0.97);
+    opacity: 0.85;
+  }
+}
+
+/* 禁用图片拖拽和长按菜单。 */
+img {
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  user-drag: none;
+  -webkit-touch-callout: none;
+}
+
+button:focus-visible,
+[role='button']:focus-visible {
+  outline: 2px solid #8bcba7;
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* 展陈动效使用 CSS 动画，避免阻塞 React 状态更新。 */
+@keyframes glow-breathe {
+  0%,
+  100% {
+    opacity: 0.24;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.42;
+    transform: scale(1.07);
+  }
+}
+
+.glow-breathe {
+  animation: glow-breathe 4.5s ease-in-out infinite;
+}
+
+@keyframes hero-float {
+  0%,
+  100% {
+    transform: rotate(0deg) translateY(0);
+  }
+  25% {
+    transform: rotate(2deg) translateY(-6px);
+  }
+  75% {
+    transform: rotate(-2deg) translateY(0);
+  }
+}
+
+.hero-float {
+  animation: hero-float 6s ease-in-out infinite;
+}
+
+@keyframes zoom-hint-pulse {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.08);
+  }
+}
+
+.zoom-hint-pulse {
+  animation: zoom-hint-pulse 2.5s ease-in-out infinite;
+  box-shadow: 0 0 28px rgba(168, 133, 86, 0.4);
+}
+
+@keyframes capsule-bob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.capsule-bob {
+  animation: capsule-bob 2s ease-in-out infinite;
+}
+
+/* 全屏档案阅读器的进入动效。 */
+@keyframes overlay-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.overlay-fade {
+  animation: overlay-fade 0.3s ease-out both;
+}
+
+@keyframes sheet-pop {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.sheet-pop {
+  animation: sheet-pop 0.3s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes hint-rise {
+  from {
+    opacity: 0;
+    transform: translate(-50%, 20px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+
+.hint-rise {
+  animation: hint-rise 0.3s ease-out 0.45s both;
+}
+
+@layer utilities {
+  .text-shadow-glow {
+    text-shadow: 0 0 20px rgba(168, 133, 86, 0.5);
+  }
+
+  .border-glow {
+    box-shadow: 0 0 15px rgba(168, 133, 86, 0.3);
+  }
+}

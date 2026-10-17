@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-032",
+  "assetSlug": "yellow-glazed-applique-pillow",
+  "sourceFileName": "《寿州窑》_13578583_204.png",
+  "targetBaseName": "szk-032-yellow-glazed-applique-pillow",
+  "titleZh": "黄釉贴花瓷枕",
+  "titleEn": "Yellow-glazed Applique Pillow",
+  "ocrText": "黄釉贴花瓷枕\n唐（618-907年）\n枕面 15厘米×11.2厘米，高9.1厘米\n2010年11月4日于淮南征集\n淮南市博物馆藏\n此枕形制为方箱形，是唐代寿州窑瓷枕中的代表性作品。上枕面略大于枕的底面，枕面微凹，成弧面。通体施黄釉，釉色稍深，枕面转弯处有脱釉现象。枕底施化妆土，边角上有透气孔。胎质细腻坚硬。在枕面的中心部有剪纸贴花，纹样为四瓣花，每瓣三层，从其特征判断是将纸二次对折剪成，敷于釉面上烧成。寿州窑剪纸贴花有两种，一种是将剪纸贴于化妆土上再施釉烧成；另一种是将剪纸贴于施过釉的枕面上烧成。前者烧成的痕迹比较清晰，印迹较深，如淮南馆藏酱红釉瓷枕就属这类方法烧造。而此器烧成的纹样柔和，另有一种美的感受。",
+  "catalogSummary": "此件唐代寿州窑黄釉贴花瓷枕呈方箱形，枕面微凹。通体施深黄釉，枕心饰有四瓣花剪纸贴花纹样。该器物采用将剪纸直接敷于釉面烧制的工艺，纹样柔和独特，是寿州窑瓷枕的代表性作品，现藏于淮南市博物馆。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 15厘米×11.2厘米，高9.1厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 9.1,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "贴花",
+    "剪纸贴花",
+    "四瓣花"
+  ],
+  "provenance": "2010年11月4日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Tang Dynasty",
+    "yellow glaze",
+    "ceramic pillow",
+    "applique",
+    "paper-cut pattern",
+    "square shape"
+  ],
+  "confidenceNotes": ""
+}

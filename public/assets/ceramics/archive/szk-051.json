@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-051",
+  "assetSlug": "yellow-glazed-bowl-with-bi-shaped-foot",
+  "sourceFileName": "《寿州窑》_13578583_268.png",
+  "targetBaseName": "szk-051-yellow-glazed-bowl-with-bi-shaped-foot",
+  "titleZh": "黄釉璧形底盏",
+  "titleEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+  "ocrText": "黄釉璧形底盏\n唐（618-907年）\n口径15.5厘米，底径7.3厘米，高4.6厘米\n2011年6月13日于淮南征集\n淮南市博物馆藏\n在寿州窑碗盏类器物中，绝大部分为半施釉，像此件能够施釉及底、即至足墙上端，都为其精心烧造之器。此器施釉均匀，内外黄釉发色均匀，略呈蜡黄色，从器口至底足十分规整。足墙略外撇，露胎处泛乳白色，较细腻，是寿州窑碗盏类中造型、釉色比较典型的标准器。",
+  "catalogSummary": "唐代寿州窑黄釉瓷盏。口径15.5厘米，高4.6厘米。该器施釉均匀且及底，釉色呈典型的蜡黄色，足墙微外撇，露胎处细腻泛白。作为寿州窑碗盏类中造型与釉色均十分规整的典型标准器，具有较高的断代参考价值。",
+  "artifactType": "bowl",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径15.5厘米，底径7.3厘米，高4.6厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 15.5,
+    "baseDiameter": 7.3,
+    "height": 4.6,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉，略呈蜡黄色，施釉均匀及底",
+  "motifs": [
+    "素面",
+    "璧形底",
+    "外撇足"
+  ],
+  "provenance": "2011年6月13日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Tang Dynasty",
+    "Wax-yellow",
+    "Jade-ring foot",
+    "寿州窑",
+    "黄釉",
+    "唐代"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,1933 @@
+{
+  "schemaVersion": 1,
+  "project": "https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive",
+  "gallery": "https://shouzhou-kiln-interactive.yuxuan.wiki/",
+  "materialTerms": [
+    "ASSET_LICENSE.md",
+    "ASSET_LICENSE.en.md"
+  ],
+  "count": 78,
+  "records": [
+    {
+      "archiveId": "szk-001",
+      "runtimeId": "sz-001",
+      "nameZh": "青釉双龙柄堆塑动物纹连体瓶",
+      "nameEn": "Celadon-glazed Conjoined Vase with Double Dragon Handles and Applied Animal Motifs",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代孤品",
+        "双龙柄",
+        "连体瓶",
+        "堆塑工艺",
+        "动物纹饰",
+        "青釉"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.png",
+        "processedImage": null,
+        "thumbnail": "public/assets/ceramics/thumbs/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-001.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-002",
+      "runtimeId": "sz-002",
+      "nameZh": "青黄釉小龙柄鸡首壶",
+      "nameEn": "Greenish-yellow-glazed Chicken-headed Ewer with Small Dragon Handle",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "青黄釉",
+        "鸡首壶",
+        "龙柄"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.png",
+        "processedImage": null,
+        "thumbnail": "public/assets/ceramics/thumbs/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-002.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-003",
+      "runtimeId": "sz-ai-003",
+      "nameZh": "青釉四系龙柄盘口壶",
+      "nameEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Dragon Handle",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代寿州窑",
+        "青釉",
+        "龙柄盘口壶",
+        "鸡首壶变体",
+        "四系"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+        "processedImage": "public/assets/ceramics/processed/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-003.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-004",
+      "runtimeId": "sz-ai-004",
+      "nameZh": "青釉刻花六系盘口壶",
+      "nameEn": "Celadon-glazed Incised Six-handled Dish-mouthed Jar",
+      "dynasty": "南朝至隋",
+      "period": "420-618年",
+      "tags": [
+        "南朝至隋",
+        "寿州窑",
+        "盘口壶",
+        "六系",
+        "青釉",
+        "刻花",
+        "纪年墓出土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-004.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-005",
+      "runtimeId": "sz-ai-005",
+      "nameZh": "青釉小盘口壶",
+      "nameEn": "Celadon-glazed Small Dish-mouthed Ewer",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "盘口壶",
+        "青釉",
+        "四系",
+        "早期代表"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-005-celadon-glazed-small-dish-mouthed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-005.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-006",
+      "runtimeId": "sz-ai-006",
+      "nameZh": "青釉戳印莲花纹四系盘口壶",
+      "nameEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Stamped Lotus Design",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "盘口壶",
+        "青釉",
+        "戳印花纹",
+        "四系"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+        "processedImage": "public/assets/ceramics/processed/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-006.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-007",
+      "runtimeId": "sz-ai-007",
+      "nameZh": "青釉模印花卉盘口壶",
+      "nameEn": "Celadon-glazed Molded Floral Dish-mouthed Ewer",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "盘口壶",
+        "青釉",
+        "模印花卉",
+        "四系"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-007.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-008",
+      "runtimeId": "sz-ai-008",
+      "nameZh": "黄釉戳印纹四系小盘口壶",
+      "nameEn": "Yellow-glazed stamped four-handled small disk-mouthed ewer",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代瓷器",
+        "寿州窑",
+        "黄釉",
+        "四系壶",
+        "戳印花纹",
+        "化妆土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-008.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-009",
+      "runtimeId": "sz-ai-009",
+      "nameZh": "青釉盘口四系罐",
+      "nameEn": "Celadon-glazed Dish-mouth Four-handled Jar",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "青釉",
+        "盘口",
+        "四系罐",
+        "纪年墓出土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-009-celadon-glazed-dish-mouth-four-handled-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-009.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-010",
+      "runtimeId": "sz-ai-010",
+      "nameZh": "青黄釉四系盘口壶",
+      "nameEn": "Greenish-yellow Glazed Four-handled Dish-mouthed Jar",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "盘口壶",
+        "青黄釉",
+        "四系",
+        "化妆土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-010.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-011",
+      "runtimeId": "sz-ai-011",
+      "nameZh": "青釉四系盘口壶",
+      "nameEn": "Celadon-glazed Four-handled Dish-mouthed Jar",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "盘口壶",
+        "青釉",
+        "四系",
+        "蜡泪痕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-011.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-012",
+      "runtimeId": "sz-ai-012",
+      "nameZh": "青釉印花盘口壶",
+      "nameEn": "Celadon-glazed Imprinted Dish-mouthed Jar",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "盘口壶",
+        "青釉",
+        "模印花纹",
+        "接胎工艺"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-012.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-013",
+      "runtimeId": "sz-ai-013",
+      "nameZh": "青釉贴塑罐",
+      "nameEn": "Celadon-glazed Jar with Applied Decoration",
+      "dynasty": "南朝至隋",
+      "period": "420-618年",
+      "tags": [
+        "南朝至隋",
+        "寿州窑",
+        "青釉",
+        "贴塑工艺",
+        "浮雕艺术",
+        "佛教元素"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+        "processedImage": "public/assets/ceramics/processed/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-013-celadon-glazed-jar-with-applied-decoration.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-013.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-014",
+      "runtimeId": "sz-ai-014",
+      "nameZh": "青釉弦纹四系罐",
+      "nameEn": "Celadon-glazed Jar with Horizontal Ridges and Four Loops",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "四系罐",
+        "青釉",
+        "弦纹",
+        "典型器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+        "processedImage": "public/assets/ceramics/processed/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-014.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-015",
+      "runtimeId": "sz-ai-015",
+      "nameZh": "青釉莲瓣纹碗",
+      "nameEn": "Celadon-glazed Bowl with Lotus Petal Decoration",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "青釉",
+        "莲瓣纹",
+        "刻划花",
+        "标准器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+        "processedImage": "public/assets/ceramics/processed/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-015.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-016",
+      "runtimeId": "sz-ai-016",
+      "nameZh": "青黄釉高足盘",
+      "nameEn": "Greenish-yellow-glazed Stemmed Dish",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "高足盘",
+        "青黄釉",
+        "喇叭足"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+        "processedImage": "public/assets/ceramics/processed/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-016-greenish-yellow-glazed-high-footed-dish.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-016.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-017",
+      "runtimeId": "sz-ai-017",
+      "nameZh": "寿州窑黄釉刻花莲瓣纹高足盘",
+      "nameEn": "Shouzhou Kiln Yellow-glazed Stemmed Dish with Incised Lotus-petal Design",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "高足盘",
+        "刻花",
+        "莲瓣纹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+        "processedImage": "public/assets/ceramics/processed/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-017.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-018",
+      "runtimeId": "sz-ai-018",
+      "nameZh": "青绿釉高足盘",
+      "nameEn": "Bluish-green-glazed Stemmed Dish",
+      "dynasty": "隋",
+      "period": "581-618年",
+      "tags": [
+        "隋代",
+        "寿州窑",
+        "高足盘",
+        "青绿釉",
+        "积釉"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-018-celadon-glazed-high-footed-dish.png",
+        "processedImage": "public/assets/ceramics/processed/szk-018-celadon-glazed-high-footed-dish.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-018-celadon-glazed-high-footed-dish.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-018.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-019",
+      "runtimeId": "sz-ai-019",
+      "nameZh": "寿州窑黄釉贴花罐",
+      "nameEn": "Shouzhou Kiln Yellow-glazed Jar with Applied Decoration",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "贴花工艺",
+        "团花纹",
+        "垂釉痕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-019.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-020",
+      "runtimeId": "sz-ai-020",
+      "nameZh": "黄釉双系注子",
+      "nameEn": "Yellow-glazed Two-handled Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "双系注子",
+        "瓷器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-020-yellow-glazed-two-handled-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-020-yellow-glazed-two-handled-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-020-yellow-glazed-two-handled-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-020.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-021",
+      "runtimeId": "sz-ai-021",
+      "nameZh": "酱釉注子",
+      "nameEn": "Brown-glazed Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "酱釉",
+        "注子",
+        "早期特征"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-021-brown-glazed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-021-brown-glazed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-021-brown-glazed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-021.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-022",
+      "runtimeId": "sz-ai-022",
+      "nameZh": "青黄釉双系注子",
+      "nameEn": "Greenish-yellow Glazed Two-handled Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "青黄釉",
+        "双系注子",
+        "袋状腹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-022-greenish-yellow-glazed-two-handled-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-022.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-023",
+      "runtimeId": "sz-ai-023",
+      "nameZh": "黑釉双系注子",
+      "nameEn": "Black-glazed Two-handled Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "注子",
+        "双系",
+        "六棱流"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-023-black-glazed-two-handled-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-023-black-glazed-two-handled-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-023-black-glazed-two-handled-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-023.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-024",
+      "runtimeId": "sz-ai-024",
+      "nameZh": "黑釉双系注子",
+      "nameEn": "Black-glazed Two-handled Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "双系注子",
+        "细颈深腹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-024-black-glazed-two-handled-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-024-black-glazed-two-handled-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-024-black-glazed-two-handled-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-024.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-025",
+      "runtimeId": "sz-ai-025",
+      "nameZh": "酱釉双系注子",
+      "nameEn": "Brown-glazed Two-handled Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "注子",
+        "酱釉",
+        "双系",
+        "鼓腹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-025-brown-glazed-two-handled-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-025-brown-glazed-two-handled-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-025-brown-glazed-two-handled-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-025.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-026",
+      "runtimeId": "sz-ai-026",
+      "nameZh": "黄釉注子",
+      "nameEn": "Yellow-glazed Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "注子",
+        "六棱流"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-026-yellow-glazed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-026-yellow-glazed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-026-yellow-glazed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-026.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-027",
+      "runtimeId": "sz-ai-027",
+      "nameZh": "黄釉双系敞口注子",
+      "nameEn": "Yellow-glazed Two-handled Ewer with Flared Mouth",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "注子",
+        "双系",
+        "六棱流"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+        "processedImage": "public/assets/ceramics/processed/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-027.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-028",
+      "runtimeId": "sz-ai-028",
+      "nameZh": "黄釉注子",
+      "nameEn": "Yellow-glazed Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "注子",
+        "七棱流",
+        "老玉米色"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-028-yellow-glazed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-028-yellow-glazed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-028-yellow-glazed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-028.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-029",
+      "runtimeId": "sz-ai-029",
+      "nameZh": "黄釉褐彩瓷注",
+      "nameEn": "Yellow-glazed Brown-painted Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "褐彩",
+        "执壶",
+        "点彩工艺"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-029-yellow-glazed-brown-painted-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-029-yellow-glazed-brown-painted-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-029-yellow-glazed-brown-painted-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-029.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-030",
+      "runtimeId": "sz-ai-030",
+      "nameZh": "黑釉注子",
+      "nameEn": "Black-glazed Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "注子",
+        "标准器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-030-black-glazed-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-030-black-glazed-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-030-black-glazed-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-030.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-031",
+      "runtimeId": "sz-ai-031",
+      "nameZh": "黄釉圆腹注子",
+      "nameEn": "Yellow-glazed Round-bodied Ewer",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "注子",
+        "黄釉",
+        "蜡黄釉",
+        "八棱流",
+        "束结装饰"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-031-yellow-glazed-round-bodied-ewer.png",
+        "processedImage": "public/assets/ceramics/processed/szk-031-yellow-glazed-round-bodied-ewer.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-031-yellow-glazed-round-bodied-ewer.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-031.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-032",
+      "runtimeId": "sz-ai-032",
+      "nameZh": "黄釉贴花瓷枕",
+      "nameEn": "Yellow-glazed Applique Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代寿州窑",
+        "黄釉",
+        "方箱形枕",
+        "剪纸贴花",
+        "化妆土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-032-yellow-glazed-applique-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-032-yellow-glazed-applique-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-032-yellow-glazed-applique-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-032.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-033",
+      "runtimeId": "sz-ai-033",
+      "nameZh": "黄釉印花瓷枕",
+      "nameEn": "Yellow-glazed Impressed Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷枕",
+        "黄釉",
+        "印花",
+        "剪纸贴花"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-033-yellow-glazed-impressed-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-033-yellow-glazed-impressed-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-033-yellow-glazed-impressed-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-033.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-034",
+      "runtimeId": "sz-ai-034",
+      "nameZh": "黄釉贴花瓷枕",
+      "nameEn": "Yellow-glazed Applique Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "瓷枕",
+        "贴花工艺"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-034-yellow-glazed-applique-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-034-yellow-glazed-applique-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-034-yellow-glazed-applique-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-034.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-035",
+      "runtimeId": "sz-ai-035",
+      "nameZh": "酱红釉蝴蝶纹贴花瓷枕",
+      "nameEn": "Brown-glazed Pillow with Applied Butterfly Motif",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷枕",
+        "酱红釉",
+        "剪纸贴花",
+        "蝴蝶纹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+        "processedImage": "public/assets/ceramics/processed/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-035.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-036",
+      "runtimeId": "sz-ai-036",
+      "nameZh": "酱釉瓷枕",
+      "nameEn": "Brown-glazed Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷枕",
+        "酱釉",
+        "生活用瓷"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-036-brown-glazed-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-036-brown-glazed-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-036-brown-glazed-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-036.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-037",
+      "runtimeId": "sz-ai-037",
+      "nameZh": "酱釉漏花瓷枕",
+      "nameEn": "Brown-glazed Pillow with Paper-cut Resist Decoration",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷枕",
+        "酱釉",
+        "漏花工艺",
+        "花卉纹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+        "processedImage": "public/assets/ceramics/processed/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-037.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-038",
+      "runtimeId": "sz-ai-038",
+      "nameZh": "黄釉委角瓷枕",
+      "nameEn": "Yellow-glazed Pillow with Recessed Corners",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷枕",
+        "黄釉",
+        "委角",
+        "早期形制"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+        "processedImage": "public/assets/ceramics/processed/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-038-yellow-glazed-pillow-with-recessed-corners.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-038.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-039",
+      "runtimeId": "sz-ai-039",
+      "nameZh": "黑釉松叶纹瓷枕",
+      "nameEn": "Black-glazed Pillow with Pine Needle Pattern",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷枕",
+        "黑釉",
+        "剪纸贴花",
+        "松叶纹"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+        "processedImage": "public/assets/ceramics/processed/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-039-black-glazed-pillow-with-pine-needle-pattern.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-039.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-040",
+      "runtimeId": "sz-ai-040",
+      "nameZh": "黄釉瓷枕",
+      "nameEn": "Yellow-glazed Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "瓷枕",
+        "蜡泪痕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-040-yellow-glazed-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-040-yellow-glazed-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-040-yellow-glazed-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-040.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-041",
+      "runtimeId": "sz-ai-041",
+      "nameZh": "黄釉划花纹瓷枕",
+      "nameEn": "Yellow-glazed Pillow with Incised Floral Decoration",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "瓷枕",
+        "划花工艺",
+        "蜡黄釉"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+        "processedImage": "public/assets/ceramics/processed/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-041.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-042",
+      "runtimeId": "sz-ai-042",
+      "nameZh": "黑釉兽形瓷枕",
+      "nameEn": "Black-glazed Zoomorphic Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "兽形枕",
+        "酱色釉",
+        "雕塑工艺"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-042-black-glazed-zoomorphic-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-042-black-glazed-zoomorphic-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-042-black-glazed-zoomorphic-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-042.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-043",
+      "runtimeId": "sz-ai-043",
+      "nameZh": "酱釉象形瓷枕",
+      "nameEn": "Brown-glazed Pillow with Elephant-shaped Supports",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "象生瓷",
+        "酱釉",
+        "瓷枕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+        "processedImage": "public/assets/ceramics/processed/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-043.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-044",
+      "runtimeId": "sz-ai-044",
+      "nameZh": "茶叶末釉兽形瓷枕",
+      "nameEn": "Tea-dust Glazed Beast-shaped Porcelain Pillow",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "茶叶末釉",
+        "兽形枕",
+        "象生瓷"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-044.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-045",
+      "runtimeId": "sz-ai-045",
+      "nameZh": "寿州窑黄釉瓷枕",
+      "nameEn": "Shouzhou Kiln Yellow-glazed Pillow",
+      "dynasty": "北宋",
+      "period": "960-1127年",
+      "tags": [
+        "北宋",
+        "寿州窑",
+        "瓷枕",
+        "黄釉",
+        "生活用瓷"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+        "processedImage": "public/assets/ceramics/processed/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-045-shouzhou-kiln-yellow-glazed-pillow.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-045.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-046",
+      "runtimeId": "sz-ai-046",
+      "nameZh": "黄釉“大中祥符”铭龙纹瓷枕",
+      "nameEn": "Yellow-glazed Pillow with Dragon Motif and Dazhong Xiangfu Inscription",
+      "dynasty": "北宋",
+      "period": "960-1127年",
+      "tags": [
+        "北宋",
+        "寿州窑",
+        "瓷枕",
+        "黄釉",
+        "龙纹",
+        "纪年铭文"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+        "processedImage": "public/assets/ceramics/processed/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-046.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-047",
+      "runtimeId": "sz-ai-047",
+      "nameZh": "黑釉碗",
+      "nameEn": "Black-glazed Bowl",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "碗",
+        "高温釉"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-047-black-glazed-bowl.png",
+        "processedImage": "public/assets/ceramics/processed/szk-047-black-glazed-bowl.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-047-black-glazed-bowl.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-047.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-048",
+      "runtimeId": "sz-ai-048",
+      "nameZh": "黄釉璧形底盏",
+      "nameEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "玉璧底",
+        "茶盏",
+        "典型器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+        "processedImage": "public/assets/ceramics/processed/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-048.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-049",
+      "runtimeId": "sz-ai-049",
+      "nameZh": "黄釉盏",
+      "nameEn": "Yellow-glazed Bowl",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "蜡黄釉",
+        "开片",
+        "拉坯"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-049-yellow-glazed-bowl.png",
+        "processedImage": "public/assets/ceramics/processed/szk-049-yellow-glazed-bowl.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-049-yellow-glazed-bowl.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-049.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-050",
+      "runtimeId": "sz-ai-050",
+      "nameZh": "酱釉碗",
+      "nameEn": "Brown-glazed Bowl",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "酱釉",
+        "大平足",
+        "瓷碗"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-050-brown-glazed-bowl.png",
+        "processedImage": "public/assets/ceramics/processed/szk-050-brown-glazed-bowl.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-050-brown-glazed-bowl.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-050.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-051",
+      "runtimeId": "sz-ai-051",
+      "nameZh": "黄釉璧形底盏",
+      "nameEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "璧形底",
+        "蜡黄釉色",
+        "标准器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+        "processedImage": "public/assets/ceramics/processed/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-051.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-052",
+      "runtimeId": "sz-ai-052",
+      "nameZh": "黄釉贴花葵口盏",
+      "nameEn": "Yellow-glazed Applique Lobed Cup",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "贴花",
+        "葵口",
+        "剪纸贴花"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-052-yellow-glazed-applique-lobed-cup.png",
+        "processedImage": "public/assets/ceramics/processed/szk-052-yellow-glazed-applique-lobed-cup.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-052-yellow-glazed-applique-lobed-cup.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-052.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-053",
+      "runtimeId": "sz-ai-053",
+      "nameZh": "黄釉大碗",
+      "nameEn": "Large Yellow-Glazed Bowl",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "大碗",
+        "蜡黄釉"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-053-large-yellow-glazed-bowl.png",
+        "processedImage": "public/assets/ceramics/processed/szk-053-large-yellow-glazed-bowl.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-053-large-yellow-glazed-bowl.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-053.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-054",
+      "runtimeId": "sz-ai-054",
+      "nameZh": "黄釉水盂",
+      "nameEn": "Yellow-glazed Water Pot",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "水盂",
+        "文房器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-054-yellow-glazed-water-pot.png",
+        "processedImage": "public/assets/ceramics/processed/szk-054-yellow-glazed-water-pot.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-054-yellow-glazed-water-pot.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-054.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-055",
+      "runtimeId": "sz-ai-055",
+      "nameZh": "黄釉水盂",
+      "nameEn": "Yellow-glazed Water Pot",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "水盂",
+        "文房用具"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-055-yellow-glazed-water-pot.png",
+        "processedImage": "public/assets/ceramics/processed/szk-055-yellow-glazed-water-pot.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-055-yellow-glazed-water-pot.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-055.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-056",
+      "runtimeId": "sz-ai-056",
+      "nameZh": "黄釉敞口四系罐",
+      "nameEn": "Yellow-glazed Four-handled Jar with Flared Mouth",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "四系罐",
+        "大型器",
+        "高温烧造"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+        "processedImage": "public/assets/ceramics/processed/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-056.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-057",
+      "runtimeId": "sz-ai-057",
+      "nameZh": "黄釉大瓮",
+      "nameEn": "Large Yellow-Glazed Jar",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "大瓮",
+        "刷釉法",
+        "贮存器"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-057-large-yellow-glazed-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-057-large-yellow-glazed-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-057-large-yellow-glazed-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-057.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-058",
+      "runtimeId": "sz-ai-058",
+      "nameZh": "黄釉唇口四系大罐",
+      "nameEn": "Large Yellow-Glazed Jar with Lip Rim and Four Handles",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "四系罐",
+        "二次施釉",
+        "蜡泪痕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+        "processedImage": "public/assets/ceramics/processed/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-058.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-059",
+      "runtimeId": "sz-ai-059",
+      "nameZh": "黄釉四系穿带壶",
+      "nameEn": "Yellow-glazed Strap Flask with Four Loop Handles",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "穿带壶",
+        "黄釉",
+        "外销瓷"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+        "processedImage": "public/assets/ceramics/processed/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-059.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-060",
+      "runtimeId": "sz-ai-060",
+      "nameZh": "黄釉三系唇口罐",
+      "nameEn": "Yellow-glazed Three-handled Lip-rim Jar",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "三系罐",
+        "蜡泪痕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-060-yellow-glazed-three-handled-lip-rim-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-060.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-061",
+      "runtimeId": "sz-ai-061",
+      "nameZh": "黑釉双系大口罐",
+      "nameEn": "Black-glazed Large-mouthed Jar with Two Handles",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "双系罐",
+        "大口罐"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+        "processedImage": "public/assets/ceramics/processed/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-061-black-glazed-large-mouthed-jar-with-two-handles.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-061.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-062",
+      "runtimeId": "sz-ai-062",
+      "nameZh": "黑釉胆形腹盂口瓶",
+      "nameEn": "Black-glazed Gallbladder-shaped Bottle with Water-pot-shaped Mouth",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黑釉",
+        "胆形瓶",
+        "文房用具",
+        "窑粘"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+        "processedImage": "public/assets/ceramics/processed/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-062.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-063",
+      "runtimeId": "sz-ai-063",
+      "nameZh": "黄釉鼓腹罐",
+      "nameEn": "Yellow-glazed Bulbous Jar",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "鼓腹罐",
+        "开片",
+        "假圈足"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-063-yellow-glazed-bulbous-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-063-yellow-glazed-bulbous-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-063-yellow-glazed-bulbous-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-063.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-064",
+      "runtimeId": "sz-ai-064",
+      "nameZh": "酱釉双系长腹罐",
+      "nameEn": "Brown-glazed Two-handled Long-bodied Jar",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代寿州窑",
+        "酱釉",
+        "双系罐",
+        "长腹造型",
+        "乳色胎体"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-064-brown-glazed-two-handled-long-bodied-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-064.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-065",
+      "runtimeId": "sz-ai-065",
+      "nameZh": "黄绿釉唇口四系罐",
+      "nameEn": "Yellow-green Glazed Lip-mouth Four-handled Jar",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "四系罐",
+        "黄绿釉",
+        "化妆土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+        "processedImage": "public/assets/ceramics/processed/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-065.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-066",
+      "runtimeId": "sz-ai-066",
+      "nameZh": "蜡黄釉盂口四系罐",
+      "nameEn": "Wax-yellow-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代寿州窑",
+        "蜡黄釉",
+        "四系罐",
+        "盂口",
+        "化妆土"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+        "processedImage": "public/assets/ceramics/processed/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-066.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-067",
+      "runtimeId": "sz-ai-067",
+      "nameZh": "酱釉盂口四系罐",
+      "nameEn": "Brown-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "酱釉",
+        "四系罐",
+        "盂口",
+        "蜡泪痕"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+        "processedImage": "public/assets/ceramics/processed/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-067.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-068",
+      "runtimeId": "sz-ai-068",
+      "nameZh": "黄釉多足砚",
+      "nameEn": "Yellow-glazed Multi-footed Inkstone",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "多足砚",
+        "文房用具"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-068-yellow-glazed-multi-footed-inkstone.png",
+        "processedImage": "public/assets/ceramics/processed/szk-068-yellow-glazed-multi-footed-inkstone.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-068-yellow-glazed-multi-footed-inkstone.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-068.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-069",
+      "runtimeId": "sz-ai-069",
+      "nameZh": "黄釉兽形镇",
+      "nameEn": "Yellow-glazed Beast-shaped Weight",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "兽形镇",
+        "文房用具"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-069-yellow-glazed-beast-shaped-weight.png",
+        "processedImage": "public/assets/ceramics/processed/szk-069-yellow-glazed-beast-shaped-weight.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-069-yellow-glazed-beast-shaped-weight.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-069.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-070",
+      "runtimeId": "sz-ai-070",
+      "nameZh": "黄釉狮形镇",
+      "nameEn": "Yellow-glazed Lion-shaped Weight",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "狮形镇",
+        "文房用具",
+        "雕塑瓷"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-070-yellow-glazed-lion-shaped-weight.png",
+        "processedImage": "public/assets/ceramics/processed/szk-070-yellow-glazed-lion-shaped-weight.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-070-yellow-glazed-lion-shaped-weight.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-070.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-071",
+      "runtimeId": "sz-ai-071",
+      "nameZh": "黄褐釉卧虎镇",
+      "nameEn": "Yellow-brown Glazed Reclining Tiger Weight",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "动物雕塑",
+        "黄褐釉",
+        "席镇",
+        "文房用具"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+        "processedImage": "public/assets/ceramics/processed/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-071-yellow-brown-glazed-reclining-tiger-weight.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-071.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-072",
+      "runtimeId": "sz-ai-072",
+      "nameZh": "青绿釉瓷塑兽残器",
+      "nameEn": "Green-glazed Ceramic Beast Fragment",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "瓷塑",
+        "青绿釉",
+        "褐斑",
+        "动物造型"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-072-green-glazed-ceramic-beast-fragment.png",
+        "processedImage": "public/assets/ceramics/processed/szk-072-green-glazed-ceramic-beast-fragment.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-072-green-glazed-ceramic-beast-fragment.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-072.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-073",
+      "runtimeId": "sz-ai-073",
+      "nameZh": "黄釉小瓷马",
+      "nameEn": "Yellow-glazed Ceramic Horse",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "瓷马",
+        "动物雕塑",
+        "小型器物"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-073-yellow-glazed-ceramic-horse.png",
+        "processedImage": "public/assets/ceramics/processed/szk-073-yellow-glazed-ceramic-horse.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-073-yellow-glazed-ceramic-horse.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-073.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-074",
+      "runtimeId": "sz-ai-074",
+      "nameZh": "青釉胡人骑马瓷塑",
+      "nameEn": "Celadon-glazed Figurine of a Central Asian Rider",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "人物俑",
+        "动物俑",
+        "青釉",
+        "胡人骑马"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+        "processedImage": "public/assets/ceramics/processed/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-074.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-075",
+      "runtimeId": "sz-ai-075",
+      "nameZh": "黄釉人骑马瓷塑",
+      "nameEn": "Yellow-glazed Ceramic Figure of a Man on Horseback",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "人物俑",
+        "动物俑",
+        "雕塑"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+        "processedImage": "public/assets/ceramics/processed/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-075.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-076",
+      "runtimeId": "sz-ai-076",
+      "nameZh": "黄釉瓷水牛",
+      "nameEn": "Yellow-glazed Porcelain Water Buffalo",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "瓷塑",
+        "动物纹",
+        "文房用具"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+        "processedImage": "public/assets/ceramics/processed/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-076-yellow-glazed-porcelain-water-buffalo.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-076.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-077",
+      "runtimeId": "sz-ai-077",
+      "nameZh": "黄褐釉小瓷马",
+      "nameEn": "Small Ceramic Horse with Yellowish Brown Glaze",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄褐釉",
+        "小瓷马",
+        "动物雕塑",
+        "文房镇纸"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+        "processedImage": "public/assets/ceramics/processed/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-077.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    },
+    {
+      "archiveId": "szk-078",
+      "runtimeId": "sz-ai-078",
+      "nameZh": "黄釉瓷马",
+      "nameEn": "Yellow-glazed Horse",
+      "dynasty": "唐",
+      "period": "618-907年",
+      "tags": [
+        "唐代",
+        "寿州窑",
+        "黄釉",
+        "瓷马",
+        "动物塑像",
+        "文房玩具"
+      ],
+      "files": {
+        "runtime": "src/data/shouzhou_ceramics.json",
+        "archiveImage": "public/assets/ceramics/szk-078-yellow-glazed-horse.png",
+        "processedImage": "public/assets/ceramics/processed/szk-078-yellow-glazed-horse.png",
+        "thumbnail": "public/assets/ceramics/thumbs/szk-078-yellow-glazed-horse.webp",
+        "archiveRecord": "public/assets/ceramics/archive/szk-078.json"
+      },
+      "sourceReference": "SZK-SCAN-01",
+      "authorizationId": "HNNU-2026-10-17"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-035",
+  "assetSlug": "brown-glazed-pillow-with-applied-butterfly-motif",
+  "sourceFileName": "《寿州窑》_13578583_213.png",
+  "targetBaseName": "szk-035-brown-glazed-pillow-with-applied-butterfly-motif",
+  "titleZh": "酱红釉蝴蝶纹贴花瓷枕",
+  "titleEn": "Brown-glazed Pillow with Applied Butterfly Motif",
+  "ocrText": "酱红釉蝴蝶纹贴花瓷枕\n唐（618~907年）\n枕面15厘米×10.5厘米，高7.9厘米\n2011年7月于淮南征集\n淮南市博物馆藏\n酱红釉瓷枕发现较少，已知在扬州市博物馆和淮南市博物馆收藏有这类产品。此枕形制为方箱形状，枕面略呈凹弧面，通体施酱红釉，棱角处釉色稍深，在枕的一面装饰有剪纸贴花纹，纹样为蝴蝶纹，可以看出是用稍厚一些的纸对折剪好，敷于化妆土上烧成。有专家从其纹饰凹陷较深，判断用于剪贴的材料较厚，认为是皮革类剪成，但尚无直接证据。此枕形制规整，酱釉均匀，贴花纹样清晰，是寿州窑瓷枕中的精品。",
+  "catalogSummary": "唐代寿州窑酱红釉瓷枕，形制呈方箱状，枕面微凹。通体施酱红釉，一侧饰有蝴蝶纹剪纸贴花。该器物工艺精湛，釉色均匀，纹样清晰，是寿州窑瓷枕中的稀有精品，现藏于淮南市博物馆。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面15厘米×10.5厘米，高7.9厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 7.9,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "酱红釉",
+  "motifs": [
+    "蝴蝶纹",
+    "贴花",
+    "剪纸纹"
+  ],
+  "provenance": "2011年7月于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "瓷枕",
+    "酱红釉",
+    "蝴蝶纹",
+    "唐代陶瓷",
+    "贴花工艺"
+  ],
+  "confidenceNotes": ""
+}

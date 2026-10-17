@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-074",
+  "assetSlug": "celadon-glazed-figurine-of-a-central-asian-rider",
+  "sourceFileName": "《寿州窑》_13578583_357.png",
+  "targetBaseName": "szk-074-celadon-glazed-figurine-of-a-central-asian-rider",
+  "titleZh": "青釉胡人骑马瓷塑",
+  "titleEn": "Celadon-glazed Figurine of a Central Asian Rider",
+  "ocrText": "青釉胡人骑马瓷塑\n唐（618~907年）\n长7.5厘米，宽3.1厘米，高8.9厘米\n2010年7月5日于淮南征集\n淮南市博物馆藏\n寿州窑",
+  "catalogSummary": "此件唐代青釉胡人骑马瓷塑，造型生动，刻画了胡人骑乘骏马的形象。器物通体施青釉，釉色黄绿相间，具有典型的寿州窑特征。该器于2010年在淮南征集，现藏于淮南市博物馆，反映了唐代中外文化交流及寿州窑的雕塑工艺水平。",
+  "artifactType": "figurine",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长7.5厘米，宽3.1厘米，高8.9厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 8.9,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "青釉",
+  "motifs": [
+    "胡人",
+    "骑马",
+    "人物塑像",
+    "动物塑像"
+  ],
+  "provenance": "2010年7月5日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "Tang Dynasty",
+    "Shouzhou Kiln",
+    "rider",
+    "horse",
+    "green glaze",
+    "figurine",
+    "Hu man"
+  ],
+  "confidenceNotes": ""
+}

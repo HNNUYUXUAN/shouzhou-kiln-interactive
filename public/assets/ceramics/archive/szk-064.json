@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-064",
+  "assetSlug": "brown-glazed-two-handled-long-bodied-jar",
+  "sourceFileName": "《寿州窑》_13578583_320.png",
+  "targetBaseName": "szk-064-brown-glazed-two-handled-long-bodied-jar",
+  "titleZh": "酱釉双系长腹罐",
+  "titleEn": "Brown-glazed Two-handled Long-bodied Jar",
+  "ocrText": "酱釉双系长腹罐\n唐（618-907年）\n口径11.2厘米，底径9厘米，高20.2厘米\n淮南市天宝双遗文化园藏品\n直口，圆唇丰满，口沿有二处微残。窄肩，斜溜，肩上有二枚小巧的双股系，长直腹，缓收至足底，平底，假圈足，微外撇。通体施酱釉，下部氧化充分呈酱红色，上部釉色泛黑。胎釉结合紧密，没有发生脱釉现象。腹底和足部露乳色胎体，质较细。唐代寿州窑生产的直口罐一般高在20厘米左右，口部变化不大，有些底部较小，有些腹部增粗，多见深色的黑釉和酱釉类器，一般烧造的都很精致。",
+  "catalogSummary": "此件唐代酱釉双系长腹罐，口径11.2厘米，高20.2厘米，现藏于淮南市天宝双遗文化园。器物直口、窄肩、长直腹，肩部饰双股系。通体施酱釉，下部呈酱红，上部泛黑，胎釉结合紧密，足部露乳色胎，体现了唐代寿州窑直口罐的典型特征与精湛工艺。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径11.2厘米，底径9厘米，高20.2厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 11.2,
+    "baseDiameter": 9,
+    "height": 20.2,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "酱釉（下部酱红，上部泛黑）",
+  "motifs": [
+    "双系",
+    "双股系",
+    "长腹"
+  ],
+  "provenance": "淮南市天宝双遗文化园藏品",
+  "institution": "淮南市天宝双遗文化园",
+  "visualTags": [
+    "寿州窑",
+    "Shouzhou ware",
+    "酱釉",
+    "brown glaze",
+    "双系罐",
+    "double-handled jar",
+    "唐代陶瓷",
+    "Tang dynasty"
+  ],
+  "confidenceNotes": ""
+}

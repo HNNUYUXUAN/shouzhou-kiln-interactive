@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-071",
+  "assetSlug": "yellow-brown-glazed-reclining-tiger-weight",
+  "sourceFileName": "《寿州窑》_13578583_348.png",
+  "targetBaseName": "szk-071-yellow-brown-glazed-reclining-tiger-weight",
+  "titleZh": "黄褐釉卧虎镇",
+  "titleEn": "Yellow-brown Glazed Reclining Tiger Weight",
+  "ocrText": "黄褐釉卧虎镇\n唐（618-907年）\n长18.5厘米，宽10.7厘米，高11.5厘米\n2013年5月13日淮南征集\n淮南市博物馆藏\n此镇器型较大，应是席镇。方形座上老虎为四肢蜷缩的卧姿状。虎首昂起，两圆目上视，吻部宽大，鼻子隆起，前后肢均向前弯曲，下肢伏地，虎尾向一侧方卷起，虎背及尾部均饰虎斑纹，施黄釉偏褐色，在虎斑及凹陷处釉色泛黑，正好显示出纹饰的起伏变化。虎的下腹及足部釉色泛乳白，与褐色釉形成对比。此镇虽工艺略显粗糙，但造型生动，虎的形态憨态可掬。\n图版七 唐代文房用具、玩具及其他产品",
+  "catalogSummary": "此件为唐代寿州窑黄褐釉卧虎镇，器型较大，作四肢蜷缩卧姿。通体施黄褐釉，虎背及尾部饰虎斑纹，凹陷处釉色泛黑以显纹饰起伏，下腹及足部釉色泛乳白。虽工艺略显粗糙，但造型生动，憨态可掬，应为席镇之用。",
+  "artifactType": "weight",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长18.5厘米，宽10.7厘米，高11.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 11.5,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄褐釉，局部泛黑及乳白",
+  "motifs": [
+    "卧虎",
+    "虎斑纹",
+    "动物造型"
+  ],
+  "provenance": "2013年5月13日淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Tiger",
+    "Paperweight",
+    "Yellow-brown glaze",
+    "Tang Dynasty",
+    "席镇",
+    "卧虎"
+  ],
+  "confidenceNotes": ""
+}

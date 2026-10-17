@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-059",
+  "assetSlug": "yellow-glazed-strap-flask-with-four-loop-handles",
+  "sourceFileName": "《寿州窑》_13578583_302.png",
+  "targetBaseName": "szk-059-yellow-glazed-strap-flask-with-four-loop-handles",
+  "titleZh": "黄釉四系穿带壶",
+  "titleEn": "Yellow-glazed Strap Flask with Four Loop Handles",
+  "ocrText": "黄釉四系穿带壶\n唐（618-907年）\n口径4.3厘米，底径10.7厘米，高27.5厘米\n2010年1月12日于淮南征集\n淮南市博物馆藏\n长圆腹，一侧扁平，扁平面两侧各饰两枚横置的条形系，系的两端饰有小乳钉，既起到加固系与腹部的作用，又增加器物的美观性。胎体厚实，通体施淡黄釉及底，底足边缘有修整痕。\n寿州窑生产的穿带壶十分少见。穿带壶形制特别，扁平的一面易于携带，多流行于北方及西亚地区。扬州唐墓曾出土有唐代长沙窑生产的穿带壶，与此器形制大体相同，不同的是在器身上饰阿拉伯文“真主最伟大”字样，说明此类壶曾用于外销。唐代的扬州是外销瓷的集散地，据此看，寿州窑产品可能也有部分外销。",
+  "catalogSummary": "此件唐代黄釉四系穿带壶，长圆腹一侧扁平，两侧饰条形系及小乳钉，兼具加固与装饰功能。胎体厚实，通体施淡黄釉。作为寿州窑罕见器型，其形制利于携带，反映了当时受北方及西亚文化影响，可能存在外销用途。",
+  "artifactType": "strap flask",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径4.3厘米，底径10.7厘米，高27.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 4.3,
+    "baseDiameter": 10.7,
+    "height": 27.5,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "淡黄釉",
+  "motifs": [
+    "条形系",
+    "小乳钉",
+    "扁平腹"
+  ],
+  "provenance": "2010年1月12日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "穿带壶",
+    "唐代",
+    "四系",
+    "扁腹"
+  ],
+  "confidenceNotes": ""
+}

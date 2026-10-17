@@ -1,0 +1,43 @@
+{
+  "archiveId": "szk-008",
+  "assetSlug": "yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_128.png",
+  "targetBaseName": "szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer",
+  "titleZh": "黄釉戳印纹四系小盘口壶",
+  "titleEn": "Yellow-glazed stamped four-handled small disk-mouthed ewer",
+  "ocrText": "黄釉戳印纹四系小盘口壶\n隋（581-618年）\n口径7.4厘米，底径6.8厘米，高20.5厘米\n2012年3月于淮南征集\n淮南市博物馆藏\n此类戳印花纹四系小盘口壶在淮南市博物馆收藏有2件，造型、工艺技术、时代大致相同。此件器物更显规整。小盘口外撇，唇部丰厚，一侧微残。沿上饰一周凹弦纹，盘底形态规范。颈肩结合的很自然。四小系置于颈肩结合处，较规整，系的下端有指压痕。针肩处饰一周凹弦纹，戳印花纹呈圆圈状，由15个点状环带构成，上下错位成二方连续图案。从其工艺看，应是用竹类器物削制成模具一次戳印成纹。通体施黄釉，釉下施化妆土。寿州窑到唐代才普遍使用化妆土，早期瓷器少见用化妆土。\n图版二一 隋代瓷器",
+  "catalogSummary": "此器为隋代寿州窑黄釉四系小盘口壶，2012年淮南征集，现藏淮南市博物馆。器身通体施黄釉并垫化妆土，肩部置四系，腹部饰由点状环带构成的戳印圆圈纹。其使用化妆土工艺在寿州窑早期较为罕见，具有断代意义。",
+  "artifactType": "ewer",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径7.4厘米，底径6.8厘米，高20.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 7.4,
+    "baseDiameter": 6.8,
+    "height": 20.5,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "黄釉，釉下施化妆土",
+  "motifs": [
+    "戳印纹",
+    "四系",
+    "点状环带",
+    "凹弦纹"
+  ],
+  "provenance": "2012年3月于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Sui Dynasty",
+    "Stamped Pattern",
+    "Four Handles",
+    "Small Dish Mouth",
+    "寿州窑",
+    "黄釉",
+    "隋代",
+    "戳印纹"
+  ],
+  "confidenceNotes": ""
+}

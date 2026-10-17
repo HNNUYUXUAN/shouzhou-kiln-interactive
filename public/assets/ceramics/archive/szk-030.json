@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-030",
+  "assetSlug": "black-glazed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_185.png",
+  "targetBaseName": "szk-030-black-glazed-ewer",
+  "titleZh": "黑釉注子",
+  "titleEn": "Black-glazed Ewer",
+  "ocrText": "黑釉注子\n唐（618-907年）\n口径8.3厘米，底径7.7厘米，高21.3厘米\n1981年寿县出土，许传先捐\n安徽博物院藏\n此器为唐代寿州窑瓷注中的标准器，其造型端庄规整，瘦长腹，显得十分秀丽，黑釉乌黑透亮，十分珍贵。器物的形制为喇叭口，圆唇饱满，长直颈，丰肩，肩上置一小短流，流口对称的另一侧置小弓形鋬。最大腹径在肩下，腹下缓收至足底，平底，假圈足。唐代寿州窑的黑釉瓷注发现不少，长直腹类器型总量却较少，淮南市博物馆收藏有5件此类形制的黑釉产品。\n寿州窑\n168",
+  "catalogSummary": "唐代寿州窑黑釉注子，1981年寿县出土，许传先捐赠，现藏安徽博物院。器物造型端庄秀丽，黑釉乌黑透亮。形制为喇叭口、长直颈、丰肩，肩置短流与弓形鋬，最大腹径在肩下，平底假圈足，是唐代寿州窑瓷注中的标准器。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径8.3厘米，底径7.7厘米，高21.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 8.3,
+    "baseDiameter": 7.7,
+    "height": 21.3,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黑釉",
+  "motifs": [
+    "素面",
+    "无纹饰"
+  ],
+  "provenance": "1981年寿县出土，许传先捐",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "黑釉",
+    "注子",
+    "寿州窑",
+    "唐代",
+    "喇叭口",
+    "短流",
+    "弓形鋬",
+    "平底",
+    "假圈足"
+  ],
+  "confidenceNotes": ""
+}

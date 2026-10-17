@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-029",
+  "assetSlug": "yellow-glazed-brown-painted-ewer",
+  "sourceFileName": "《寿州窑》_13578583_181.png",
+  "targetBaseName": "szk-029-yellow-glazed-brown-painted-ewer",
+  "titleZh": "黄釉褐彩瓷注",
+  "titleEn": "Yellow-glazed Brown-painted Ewer",
+  "ocrText": "黄釉褐彩瓷注\n唐（618-907年）\n口径10.6厘米，腹围52.8厘米，底径10.3厘米，高21.2厘米\n寿县安丰塘戈店出土\n寿县博物馆藏\n喇叭口，唇沿丰满，长细束颈，大鼓腹、广丰肩，肩上置带棱的短流，对称一侧置扁平宽大的弓形鋬，流与鋬之间置小双股系，系的下部饰一圆乳钉。在系的两侧装饰褐彩釉斑，形状接近如意纹，为窑工以软质类工具描绘而成。通体施黄釉至腹底部，腹下和足部露淡乳色胎骨，胎体中含有黑砂粒。假圈足外撇。该器造型敦厚，釉色饱满，釉下褐彩形似如意，十分生动。",
+  "catalogSummary": "此件唐代黄釉褐彩瓷注出土于寿县安丰塘戈店，现藏寿县博物馆。器物具有典型的寿州窑特征，喇叭口、束颈、鼓腹，肩部设短流与弓形鋬。通体施黄釉，系两侧饰有独特的褐彩如意纹斑，造型敦厚，釉色饱满，是唐代寿州窑瓷器中的佳作。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径10.6厘米，腹围52.8厘米，底径10.3厘米，高21.2厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10.6,
+    "baseDiameter": 10.3,
+    "height": 21.2,
+    "unit": "厘米"
+  },
+  "material": "瓷胎，胎体含有黑砂粒",
+  "glaze": "通体施黄釉至腹底部，腹下和足部露淡乳色胎骨；饰褐彩釉斑",
+  "motifs": [
+    "褐彩釉斑",
+    "如意纹",
+    "乳钉"
+  ],
+  "provenance": "寿县安丰塘戈店出土",
+  "institution": "寿县博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Yellow Glaze",
+    "Brown Splash",
+    "Tang Dynasty",
+    "Ewer",
+    "Ruyi pattern"
+  ],
+  "confidenceNotes": ""
+}

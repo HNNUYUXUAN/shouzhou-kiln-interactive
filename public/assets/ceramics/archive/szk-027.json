@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-027",
+  "assetSlug": "yellow-glazed-two-handled-ewer-with-flared-mouth",
+  "sourceFileName": "《寿州窑》_13578583_178.png",
+  "targetBaseName": "szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth",
+  "titleZh": "黄釉双系敞口注子",
+  "titleEn": "Yellow-glazed Two-handled Ewer with Flared Mouth",
+  "ocrText": "黄釉双系敞口注子\n唐（618-907年）\n口径15.3厘米，底径12厘米，高27.7厘米\n2013年5月13日征集\n淮南市博物馆藏\n此器是唐代寿州窑从罐演化成注过程中的初期注的代表作。大喇叭口，长细颈，口沿部分外撇，圆润、饱满。圆溜肩上置向上昂起的六棱流，棱面削制规整，流口对称的一侧置小弓形鋬，鋬的上部贴于颈部，因挤压用力，颈部略向内凹陷；鋬的下部贴于肩上，弓形鋬形制不大，但制作十分讲究。肩平面上有二道凹槽。在流口与鋬之间置二个对称的小双股系，系的下部各饰一枚小乳钉。通体施黄釉，玻化程度很高，釉面有晶莹剔透之感，发色很均匀，在罐形类瓷注中十分少见，应该是在匣钵中烧成，但此器形制高大，常见的匣钵尺寸较小，或许是在特别的匣钵中烧成。\n图版三 唐代瓷注",
+  "catalogSummary": "此器为唐代寿州窑早期注子代表作，由罐演化而来。特征为大喇叭口、六棱流及小弓形鋬，肩部设双股系并饰乳钉。通体施黄釉，玻化程度高，釉色均匀晶莹。器形高大，推测使用特制匣钵烧造，馆藏于淮南市博物馆。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径15.3厘米，底径12厘米，高27.7厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 15.3,
+    "baseDiameter": 12,
+    "height": 27.7,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉，玻化程度很高，釉面晶莹",
+  "motifs": [
+    "六棱流",
+    "弓形鋬",
+    "双股系",
+    "乳钉",
+    "弦纹"
+  ],
+  "provenance": "2013年5月13日征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Tang Dynasty",
+    "Ewer",
+    "Six-sided Spout",
+    "Double Handles",
+    "Flared Mouth"
+  ],
+  "confidenceNotes": ""
+}

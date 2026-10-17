@@ -1,0 +1,36 @@
+{
+  "archiveId": "szk-061",
+  "assetSlug": "black-glazed-large-mouthed-jar-with-two-handles",
+  "sourceFileName": "《寿州窑》_13578583_309.png",
+  "targetBaseName": "szk-061-black-glazed-large-mouthed-jar-with-two-handles",
+  "titleZh": "黑釉双系大口罐",
+  "titleEn": "Black-glazed Large-mouthed Jar with Two Handles",
+  "ocrText": "黑釉双系大口罐\n唐（618-907年）\n口径19.5厘米，底径13厘米，高23.5厘米\n2008年6月于合肥征集\n淮南市博物馆藏\n寿州窑\n292",
+  "catalogSummary": "此器为唐代寿州窑黑釉双系大口罐。口径19.5厘米，高23.5厘米。器身施黑釉，肩部置对称双系，造型古朴厚重。该器物于2008年6月在合肥征集，现藏于淮南市博物馆。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径19.5厘米，底径13厘米，高23.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 19.5,
+    "baseDiameter": 13,
+    "height": 23.5,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黑釉",
+  "motifs": [
+    "双系",
+    "大口"
+  ],
+  "provenance": "2008年6月于合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "黑釉",
+    "双系罐",
+    "寿州窑",
+    "唐代瓷器",
+    "大口"
+  ],
+  "confidenceNotes": ""
+}

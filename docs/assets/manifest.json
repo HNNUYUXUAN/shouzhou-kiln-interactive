@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "terms": "README.md",
+  "files": [
+    {
+      "path": "archive-fullscreen.png",
+      "kind": "application-screenshot",
+      "createdOn": "2026-10-17",
+      "source": "local-application/szk-003",
+      "usage": "noncommercial-learning-and-exchange",
+      "sha256": "5143c12b1ff8514666cb84bc7302ae4fe6357fc8ff940caef0930a4109e96057"
+    },
+    {
+      "path": "archive-view.png",
+      "kind": "application-screenshot",
+      "createdOn": "2026-10-17",
+      "source": "local-application/szk-003",
+      "usage": "noncommercial-learning-and-exchange",
+      "sha256": "657216f986c12e2e9851387afe25339ac94fb243c2277d7caedf3d0a16390054"
+    },
+    {
+      "path": "artifact-details.png",
+      "kind": "application-screenshot",
+      "createdOn": "2026-10-17",
+      "source": "local-application/szk-003",
+      "usage": "noncommercial-learning-and-exchange",
+      "sha256": "8d2a71ccec91f6de7ad0aca5564f6240f30864696ceab5d2cda2ef370f96187b"
+    },
+    {
+      "path": "gallery.png",
+      "kind": "application-screenshot",
+      "createdOn": "2026-10-17",
+      "source": "local-application/szk-003",
+      "usage": "noncommercial-learning-and-exchange",
+      "sha256": "a4bb6147eaddd1e1969d339ff08e64ce5c00245a30133307a72d5bc595626425"
+    },
+    {
+      "path": "shouzhou-kiln-cover.png",
+      "kind": "generated-illustration",
+      "createdOn": "2026-10-17",
+      "source": "imagegen",
+      "usage": "noncommercial-learning-and-exchange",
+      "sha256": "2200706d08adb2f73ca964ec12911a8ade50109e2181c506d5a3977cac899b56"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-034",
+  "assetSlug": "yellow-glazed-applique-pillow",
+  "sourceFileName": "《寿州窑》_13578583_209.png",
+  "targetBaseName": "szk-034-yellow-glazed-applique-pillow",
+  "titleZh": "黄釉贴花瓷枕",
+  "titleEn": "Yellow-glazed Applique Pillow",
+  "ocrText": "黄釉贴花瓷枕\n唐（618-907年）\n枕面 16.6厘米×12.5厘米，高10厘米\n2009年10月1日于扬州征集\n淮南市博物馆藏\n此枕造型很规整，为长方箱形状。枕面大于枕底，呈上大下小形。通体施黄釉，胎釉之间结合的很好，转角处因釉层较薄而釉色变浅。枕面中间装饰有二只对称的蝴蝶纹，从其特点判断是将纸二次对折后剪成，贴于施好釉的枕面上烧成。此枕在烧造中，因匣钵闭合不好，有小颗粒状砂土进入匣钵，在枕面形成点状窑粘，但该枕整体形制、釉色皆十分美观，是同类产品中的佼佼者。",
+  "catalogSummary": "唐代寿州窑黄釉贴花瓷枕，造型规整呈长方箱形，上大下小。通体施黄釉，枕面饰有两只对称剪纸蝴蝶纹。虽烧造时因匣钵闭合不严导致表面有点状窑粘，但整体形制与釉色美观，属同类精品。2009年扬州征集，现藏淮南市博物馆。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 16.6厘米×12.5厘米，高10厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 10,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "蝴蝶纹",
+    "贴花",
+    "剪纸纹样"
+  ],
+  "provenance": "2009年10月1日于扬州征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Yellow Glaze",
+    "Tang Dynasty",
+    "Butterfly Motif",
+    "Rectangular Pillow",
+    "Kiln Stick"
+  ],
+  "confidenceNotes": ""
+}

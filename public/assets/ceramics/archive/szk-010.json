@@ -1,0 +1,42 @@
+{
+  "archiveId": "szk-010",
+  "assetSlug": "greenish-yellow-glazed-four-handled-dish-mouthed-jar",
+  "sourceFileName": "《寿州窑》_13578583_133.png",
+  "targetBaseName": "szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar",
+  "titleZh": "青黄釉四系盘口壶",
+  "titleEn": "Greenish-yellow Glazed Four-handled Dish-mouthed Jar",
+  "ocrText": "青黄釉四系盘口壶\n隋（581-618年）\n口径7.7厘米，底径6厘米，高19.7厘米\n2011年6月13日于淮南征集\n淮南市博物馆藏\n该器造型端庄，上下比例协调，虽为小型盘口壶，但有大器风范。小盘口制作规整，口沿部分丰满圆润，向外侧翻转，沿上饰一周凹弦纹。颈部装饰三周凹弦纹。肩部饱满，颈部与器肩的接胎很规整，颈腹处四系制作规范，系的曲线流畅。下腹急束，平底外撇，足心微凹。通体施青釉，色偏黄。仔细观察，釉下有化妆土，是早期瓷器中十分少见的。因施化妆土的缘故，釉色晶莹，玻璃光很强。在盘口上的凹弦纹和颈肩处的凹弦纹有积釉现象，并发生窑变。露胎处可见乳黄色胎骨，质坚细。",
+  "catalogSummary": "此件隋代青黄釉四系盘口壶，造型端庄，比例协调。通体施青釉偏黄，釉下有化妆土，釉色晶莹具玻璃光泽。盘口及颈肩饰凹弦纹，颈腹设四系。露胎处见乳黄色胎骨，质坚细。现藏于淮南市博物馆。",
+  "artifactType": "jar",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径7.7厘米，底径6厘米，高19.7厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 7.7,
+    "baseDiameter": 6,
+    "height": 19.7,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "青黄釉，釉下有化妆土，玻璃光强",
+  "motifs": [
+    "盘口",
+    "四系",
+    "凹弦纹"
+  ],
+  "provenance": "2011年6月13日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "Shouzhou ware",
+    "青黄釉",
+    "celadon glaze",
+    "四系壶",
+    "four-handled jar",
+    "盘口",
+    "dish mouth",
+    "隋代",
+    "Sui dynasty"
+  ],
+  "confidenceNotes": ""
+}

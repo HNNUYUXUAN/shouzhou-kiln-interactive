@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-026",
+  "assetSlug": "yellow-glazed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_176.png",
+  "targetBaseName": "szk-026-yellow-glazed-ewer",
+  "titleZh": "黄釉注子",
+  "titleEn": "Yellow-glazed Ewer",
+  "ocrText": "黄釉注子\n唐（618-907年）\n口径10.3厘米，底径9厘米，高22.2厘米\n2007年5月于扬州征集\n淮南市博物馆藏\n略呈小喇叭状，短细颈，广肩，肩上置六棱小流口。流口制作十分讲究，六棱面以娴熟的刀法削成，流口削平，与颈口平行。流的对称一侧置小弓形鋬，整体较厚。长鼓腹，最大腹径在腹上部，腹下缓收到底，足底削足规整。通体施黄釉，釉色深沉，略有蜡质感，釉面玻化很好，透过釉层能感觉到化妆土厚薄不匀的起伏。整器造型修长、饱满，釉色均匀，是唐代寿州窑黄釉产品中的精品。",
+  "catalogSummary": "此件唐代黄釉注子于2007年在扬州征集，现藏淮南市博物馆。器物造型修长饱满，具六棱流口与弓形鋬。通体施深沉黄釉，釉面玻化良好且有蜡质感，透过釉层可见化妆土起伏，为寿州窑黄釉瓷器中的精品代表。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径10.3厘米，底径9厘米，高22.2厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10.3,
+    "baseDiameter": 9,
+    "height": 22.2,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉，釉色深沉，略有蜡质感，釉面玻化很好",
+  "motifs": [
+    "六棱流口",
+    "弓形鋬",
+    "长鼓腹"
+  ],
+  "provenance": "2007年5月于扬州征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "唐代瓷器",
+    "注子",
+    "六棱流"
+  ],
+  "confidenceNotes": ""
+}

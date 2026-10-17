@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-018",
+  "assetSlug": "celadon-glazed-high-footed-dish",
+  "sourceFileName": "《寿州窑》_13578583_158.png",
+  "targetBaseName": "szk-018-celadon-glazed-high-footed-dish",
+  "titleZh": "青绿釉高足盘",
+  "titleEn": "Bluish-green-glazed Stemmed Dish",
+  "ocrText": "青绿釉高足盘\n隋（581-618年）\n口径12.8厘米，底径8.9厘米，高10.2厘米\n1985年4月于合肥三孝口拣选，2013年4月修复\n淮南市博物馆藏\n此器是隋代寿州窑同类器中造型比较美观的产品。这件器物整体看上去比较修长。盘口直，略外撇，盘底呈漏斗状与高足相接。造成盘内壁微凹，形成积釉。足部呈倒置的大喇叭口，底部的足沿略向上翻卷，形态规整而美观。施青绿釉至喇叭足的上部，下部露砖红色胎，胎质坚硬，烧造温度较高。",
+  "catalogSummary": "隋代寿州窑青绿釉高足盘，1985年合肥三孝口拣选，现藏淮南市博物馆。器型修长，盘口直且微撇，高足呈倒喇叭状。通体施青绿釉，积釉明显，下露红胎，胎质坚硬，烧造温度高，为同类器中造型美观者。",
+  "artifactType": "dish",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径12.8厘米，底径8.9厘米，高10.2厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 12.8,
+    "baseDiameter": 8.9,
+    "height": 10.2,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "青绿釉",
+  "motifs": [
+    "高足",
+    "喇叭口",
+    "积釉"
+  ],
+  "provenance": "1985年4月于合肥三孝口拣选",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "青绿釉",
+    "高足盘",
+    "隋代",
+    "寿州窑",
+    "喇叭足",
+    "红胎"
+  ],
+  "confidenceNotes": ""
+}

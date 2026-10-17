@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-046",
+  "assetSlug": "yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription",
+  "sourceFileName": "《寿州窑》_13578583_248.png",
+  "targetBaseName": "szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription",
+  "titleZh": "黄釉“大中祥符”铭龙纹瓷枕",
+  "titleEn": "Yellow-glazed Pillow with Dragon Motif and Dazhong Xiangfu Inscription",
+  "ocrText": "黄釉“大中祥符”铭龙纹瓷枕\n北宋（960-1127年）\n枕面 14.8 厘米×9.8 厘米，高 8.7 厘米\n2011 年 7 月于征集\n淮南市博物馆藏",
+  "catalogSummary": "此件为北宋时期寿州窑系风格的黄釉瓷枕。枕面刻有“大中祥符”纪年铭文及龙纹装饰，造型呈长方形，两端微翘。器物通体施黄釉，釉色温润，具有典型的宋代北方民窑特征，现藏于淮南市博物馆。",
+  "artifactType": "pillow",
+  "dynasty": "北宋",
+  "period": "960-1127年",
+  "dimensionsRaw": "枕面 14.8 厘米×9.8 厘米，高 8.7 厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 8.7,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "龙纹",
+    "大中祥符铭"
+  ],
+  "provenance": "2011 年 7 月于征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "瓷枕",
+    "黄釉",
+    "龙纹",
+    "北宋",
+    "寿州窑风格",
+    "纪年款"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-020",
+  "assetSlug": "yellow-glazed-two-handled-ewer",
+  "sourceFileName": "《寿州窑》_13578583_163.png",
+  "targetBaseName": "szk-020-yellow-glazed-two-handled-ewer",
+  "titleZh": "黄釉双系注子",
+  "titleEn": "Yellow-glazed Two-handled Ewer",
+  "ocrText": "三 唐代瓷注\n寿州窑\n黄釉双系注子\n唐（618~907年）\n口径12厘米，底径13厘米，高31厘米\n2009年3月于扬州征集\n淮南市博物馆藏\n此注是目前已发现的寿州窑唐代瓷注形制中较大的一件。其形制还保留有早期壶、罐类器物演化过程中的一些特征，如流口较小，且呈竖直状向上昂起。发展到唐代中晚期，瓷注的流是向前伸出的。此器口沿丰满圆润，细颈形制很规整，如小喇叭状，曲线很美。弓形鋬不很大，但高高弓起，形态自然。小双股系很精巧，制作不失规范。硕大的袋状腹丰满肥胖。底径大于口径，因而虽然器型高大但给人感觉重心稳健。通体施黄釉，釉色非常饱满，是此类釉色中的佼佼者。釉色大多均匀，在肩和下腹处有局部过火。釉层肥厚，在腹底部有数道蜡泪痕。",
+  "catalogSummary": "此件唐代黄釉双系注子为寿州窑代表作，形制较大。其特征保留了早期壶罐演化痕迹，流口竖直上昂。器型高大稳重，通体施饱满黄釉，釉层肥厚，肩部及下腹可见局部过火现象，腹底有蜡泪痕，乃同类釉色中之佼佼者。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径12厘米，底径13厘米，高31厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 12,
+    "baseDiameter": 13,
+    "height": 31,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "双系",
+    "竖直流口",
+    "袋状腹",
+    "弓形鋬"
+  ],
+  "provenance": "2009年3月于扬州征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "唐代",
+    "黄釉",
+    "双系注子",
+    "蜡泪痕",
+    "过火"
+  ],
+  "confidenceNotes": ""
+}

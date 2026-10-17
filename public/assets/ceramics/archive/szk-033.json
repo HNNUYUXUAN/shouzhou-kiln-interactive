@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-033",
+  "assetSlug": "yellow-glazed-impressed-pillow",
+  "sourceFileName": "《寿州窑》_13578583_206.png",
+  "targetBaseName": "szk-033-yellow-glazed-impressed-pillow",
+  "titleZh": "黄釉印花瓷枕",
+  "titleEn": "Yellow-glazed Impressed Pillow",
+  "ocrText": "黄釉印花瓷枕\n唐（618-907年）\n枕面 13.8×10.06厘米，通高9厘米\n1988年7月蚌埠市李楼八里岗出土\n蚌埠市博物馆藏\n\n方箱形，枕面略大于底面。通体施黄釉，釉色黄亮，因釉面与化妆土、胎三者烧结温度稍低，结合不致密，导致大面积脱釉，尤其是边角处更加显著。枕面为一对折剪纸贴花，图案为花朵纹，是将剪好的图案敷于釉面上烧成。从已发现的剪纸贴花枕观察，在每个枕贴花处均未发现有脱釉现象，产生的原因是不是纸张本身也是一种可燃烧物质，此处温度产生变化。这只是一种判断，事实如何，还有待试验证明。",
+  "catalogSummary": "此件唐代黄釉印花瓷枕呈方箱形，枕面略大于底面。通体施黄釉，釉色黄亮，但因烧结温度较低导致大面积脱釉，尤以边角处显著。枕面饰有一对折剪纸贴花，图案为花朵纹。该器物于1988年在蚌埠市李楼八里岗出土，现藏于蚌埠市博物馆。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 13.8×10.06厘米，通高9厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 9,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "印花",
+    "剪纸贴花",
+    "花朵纹"
+  ],
+  "provenance": "1988年7月蚌埠市李楼八里岗出土",
+  "institution": "蚌埠市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "方形枕",
+    "黄釉",
+    "脱釉",
+    "唐代陶瓷"
+  ],
+  "confidenceNotes": ""
+}

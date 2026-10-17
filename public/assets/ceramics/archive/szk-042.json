@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-042",
+  "assetSlug": "black-glazed-zoomorphic-pillow",
+  "sourceFileName": "《寿州窑》_13578583_242.png",
+  "targetBaseName": "szk-042-black-glazed-zoomorphic-pillow",
+  "titleZh": "黑釉兽形瓷枕",
+  "titleEn": "Black-glazed Zoomorphic Pillow",
+  "ocrText": "黑釉兽形瓷枕\n唐（618-907年）\n枕面11.9厘米×6.5厘米，高8.3厘米\n2011年7月于淮南征集\n淮南市博物馆藏\n此枕由卧姿瑞兽的上脊托起弧状枕面，卧兽呈昂首前视状，吻部宽大突出，前肢后收，略呈跪态，后肢粗壮有力，似蹲姿。瑞兽的身下是一椭圆形托盘。釉色黑中泛酱色，瑞兽身体上的酱红釉斑与黑釉形成对比，产生了丰富变化。淮南市博物馆藏有此类瑞兽形瓷枕4件，均为黑色釉或酱色釉，器型的大小也基本相似，初步判断属一个时代，从其制作工艺上看，应在晚唐或更晚的时间段。",
+  "catalogSummary": "唐代黑釉兽形瓷枕，由卧姿瑞兽上脊托起弧状枕面，身下有椭圆形托盘。釉色黑中泛酱，饰酱红釉斑。2011年淮南征集，淮南市博物馆藏。馆藏同类器物共4件，工艺特征显示其年代可能为晚唐或更晚。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面11.9厘米×6.5厘米，高8.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 8.3,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黑釉，黑中泛酱色，饰酱红釉斑",
+  "motifs": [
+    "瑞兽",
+    "卧姿",
+    "兽形"
+  ],
+  "provenance": "2011年7月于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "黑釉",
+    "兽形枕",
+    "瑞兽",
+    "唐代陶瓷",
+    "寿州窑风格"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,43 @@
+{
+  "archiveId": "szk-013",
+  "assetSlug": "celadon-glazed-jar-with-applied-decoration",
+  "sourceFileName": "《寿州窑》_13578583_142.png",
+  "targetBaseName": "szk-013-celadon-glazed-jar-with-applied-decoration",
+  "titleZh": "青釉贴塑罐",
+  "titleEn": "Celadon-glazed Jar with Applied Decoration",
+  "ocrText": "青釉贴塑罐\n南朝至隋（420-618年）\n口径11厘米，底径9.5厘米，高22.5厘米\n1982年寿县出土，许传先捐赠\n安徽博物院藏\n此器是寿州窑早期瓷器的代表作，十分少见，非常珍贵。直口，平沿，广肩，系的特点非常明显，是四桥系和双股系交错放置于肩部，这种方式在寿州窑产品中仅见此例。肩、腹部以二周凸弦纹将腹部分割成上、中、下三层。上层饰莲蓬、花草纹；中层饰犬、虎类动物纹，间以莲蓬纹；下层饰花草、菩提纹等。装饰方法是采用模印好的纹饰贴于罐体，三层纹饰、八个系和二周凸弦纹使罐体周身有很强的立体感，成为一件浮雕艺术作品。从其纹饰的艺术风格有较强的北方文化和佛教元素的特点来看，在陶瓷作品中十分少见。通体施青釉，凸弦纹上有积釉，釉色深暗。下腹有数道蜡泪痕，形成网纹。此类罐发展到了隋代以后，纹饰简化，如淮南市博物馆收藏的堆塑压印纹青釉四系罐，简化了大部分贴塑纹饰，保留了其颈部形制和简约的装饰。",
+  "catalogSummary": "此器为寿州窑早期代表作，南朝至隋时期烧造。直口广肩，肩部设四桥系与双股系。器身分三层，饰以模印贴塑的莲蓬、瑞兽及花草纹，具北方文化与佛教风格。通体施青釉，釉色深暗且有流釉痕迹，工艺精湛，极为珍贵。",
+  "artifactType": "jar",
+  "dynasty": "南朝至隋",
+  "period": "420-618年",
+  "dimensionsRaw": "口径11厘米，底径9.5厘米，高22.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 11,
+    "baseDiameter": 9.5,
+    "height": 22.5,
+    "unit": "厘米"
+  },
+  "material": "瓷器",
+  "glaze": "青釉，釉色深暗，凸弦纹处有积釉，下腹有蜡泪痕",
+  "motifs": [
+    "贴塑",
+    "莲蓬纹",
+    "花草纹",
+    "瑞兽纹",
+    "凸弦纹",
+    "四桥系",
+    "双股系"
+  ],
+  "provenance": "1982年寿县出土，许传先捐赠",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Celadon",
+    "Applied relief",
+    "Southern Dynasties to Sui",
+    "Buddhist motifs",
+    "Four handles",
+    "Lotus pattern"
+  ],
+  "confidenceNotes": ""
+}

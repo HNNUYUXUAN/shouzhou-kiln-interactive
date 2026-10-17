@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-007",
+  "assetSlug": "celadon-glazed-molded-floral-dish-mouthed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_127.png",
+  "targetBaseName": "szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer",
+  "titleZh": "青釉模印花卉盘口壶",
+  "titleEn": "Celadon-glazed Molded Floral Dish-mouthed Ewer",
+  "ocrText": "青釉模印花卉盘口壶\n隋（581-618年）\n口径15.5厘米，高47厘米\n1973年合肥市郊区杏花村公社五里岗隋墓出土\n安徽博物院藏\n目前所见大型盘口壶装饰有戳印、模印花纹的总量不多。除此件外，仅在安徽省文物考古研究所、蚌埠市博物馆见有2件完整器。此器与上述二器的形制风格基本相近。从形制上看，三件器物稍有区别，安徽省考古所收藏的青釉戳印花四系盘口壶形似后代的凤尾尊，腹部居中，口、足均小巧一些。蚌埠市博物馆收藏的青釉戳印四系盘口壶，腹部重心下坠，而安徽博物院收藏的这件居于两者之间，重心虽有些下坠，但口、足都要小一些。这可能不仅仅是形制上的区别，也是烧造时间上的前后不同。从形制演化上判断，蚌埠市博物馆收藏的时间要早一些。",
+  "catalogSummary": "此器为隋代青釉模印花卉盘口壶，1973年出土于合肥五里岗隋墓，现藏安徽博物院。作为少见的大型盘口壶，其饰有戳印及模印花纹。文中将其与省考古所及蚌埠博物馆藏品对比，认为其形制介于两者之间，反映了烧造时间的演变差异。",
+  "artifactType": "ewer",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径15.5厘米，高47厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 15.5,
+    "baseDiameter": null,
+    "height": 47,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "青釉",
+  "motifs": [
+    "模印花卉",
+    "戳印纹",
+    "盘口",
+    "四系"
+  ],
+  "provenance": "1973年合肥市郊区杏花村公社五里岗隋墓出土",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "寿州窑",
+    "青瓷",
+    "盘口壶",
+    "隋代瓷器",
+    "模印纹饰",
+    "垂釉"
+  ],
+  "confidenceNotes": ""
+}

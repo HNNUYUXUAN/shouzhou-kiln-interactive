@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-077",
+  "assetSlug": "small-ceramic-horse-with-yellowish-brown-glaze",
+  "sourceFileName": "《寿州窑》_13578583_367.png",
+  "targetBaseName": "szk-077-small-ceramic-horse-with-yellowish-brown-glaze",
+  "titleZh": "黄褐釉小瓷马",
+  "titleEn": "Small Ceramic Horse with Yellowish Brown Glaze",
+  "ocrText": "黄褐釉小瓷马\n长4.8厘米，宽2.3厘米，高4厘米\n2011年6月10日于淮南征集\n淮南市博物馆藏",
+  "catalogSummary": "此件黄褐釉小瓷马为唐代寿州窑作品。器身小巧，通体施黄褐釉，釉色深浅不一，具有典型的寿州窑特征。该器物于2011年在淮南征集，现藏于淮南市博物馆。",
+  "artifactType": "horse figurine",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长4.8厘米，宽2.3厘米，高4厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 4,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄褐釉",
+  "motifs": [
+    "马",
+    "动物造型"
+  ],
+  "provenance": "2011年6月10日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Tang Dynasty",
+    "Yellow-brown glaze",
+    "Horse",
+    "Zoomorphic"
+  ],
+  "confidenceNotes": ""
+}

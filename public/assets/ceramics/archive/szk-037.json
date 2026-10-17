@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-037",
+  "assetSlug": "brown-glazed-pillow-with-paper-cut-resist-decoration",
+  "sourceFileName": "《寿州窑》_13578583_230.png",
+  "targetBaseName": "szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration",
+  "titleZh": "酱釉漏花瓷枕",
+  "titleEn": "Brown-glazed Pillow with Paper-cut Resist Decoration",
+  "ocrText": "酱釉漏花瓷枕\n唐（618-907年）\n枕面15厘米×10.5厘米，高6.6厘米\n2012年5月20日淮南康杰捐赠\n淮南市博物馆藏\n此枕入藏时残破成数块，后修复完整。枕的形制成扁方形、四边角呈圆弧状。通体施酱釉，剪纸漏花器除瓷枕外，寿县博物馆藏一件剪纸漏花瓷枕，其漏花图案与此枕的图案相似。另，扬州唐城遗址出土一件寿州窑茶叶末釉剪纸漏花枕，也与此器很相似。这种漏花方法，是用纸类物品剪好图案贴于施过化妆土的枕面上，再施釉烧成。此器修复后的釉色与原器釉色略有偏差，但仍能反映出基本面貌。",
+  "catalogSummary": "唐代酱釉漏花瓷枕，扁方形，四角圆润。通体施酱釉，采用剪纸漏花工艺装饰花卉纹。该器曾残破后修复，釉色略有偏差但保留原貌。此类工艺在寿州窑及扬州唐城遗址均有发现，反映了当时的装饰风尚。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面15厘米×10.5厘米，高6.6厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 6.6,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "酱釉",
+  "motifs": [
+    "漏花",
+    "花卉纹",
+    "剪纸漏花"
+  ],
+  "provenance": "2012年5月20日淮南康杰捐赠",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Tang Dynasty",
+    "Brown Glaze",
+    "Pillow",
+    "Floral Pattern",
+    "Resist Decoration",
+    "Restored"
+  ],
+  "confidenceNotes": ""
+}

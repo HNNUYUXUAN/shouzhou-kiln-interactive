@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-072",
+  "assetSlug": "green-glazed-ceramic-beast-fragment",
+  "sourceFileName": "《寿州窑》_13578583_350.png",
+  "targetBaseName": "szk-072-green-glazed-ceramic-beast-fragment",
+  "titleZh": "青绿釉瓷塑兽残器",
+  "titleEn": "Green-glazed Ceramic Beast Fragment",
+  "ocrText": "青绿釉瓷塑兽残器\n唐（618-907年）\n高12.1厘米，宽7.4厘米，厚3.4厘米\n2013年1月淮南康杰捐赠\n淮南市博物馆藏\n此器应是狮、豹一类的动物塑形附件，从整器判断应该还有底座。器物的背面为断裂的平面，似为二个对称粘接的模塑器物的断裂痕。残器为一坐姿侧面昂首动物，耳部缺失，圆目，吻部宽大，背部有羽状凸起，前肢直立，而姿坐卧。青绿釉，遍布褐斑。断裂面上可见青灰胎，胎质坚硬。寿州窑此类器物发现的比较少，窑址中偶有见到，一般为狮形等动物类残件。",
+  "catalogSummary": "唐代寿州窑青绿釉瓷塑兽残件，高12.1厘米。器作坐姿昂首动物状，耳部缺失，背部有羽状凸起，施青绿釉并饰褐斑。胎质坚硬呈青灰色。此类动物塑形附件在寿州窑遗存中较少见，多推测为狮或豹类瑞兽。",
+  "artifactType": "sculpture fragment",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "高12.1厘米，宽7.4厘米，厚3.4厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 12.1,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "青绿釉，遍布褐斑",
+  "motifs": [
+    "兽形",
+    "坐姿",
+    "羽状凸起",
+    "褐斑"
+  ],
+  "provenance": "2013年1月淮南康杰捐赠",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Tang Dynasty",
+    "Green Glaze",
+    "Brown Spots",
+    "Animal Figure",
+    "Fragment",
+    "Zoomorphic"
+  ],
+  "confidenceNotes": ""
+}

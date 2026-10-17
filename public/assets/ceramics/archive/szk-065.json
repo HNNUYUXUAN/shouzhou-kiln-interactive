@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-065",
+  "assetSlug": "yellow-green-glazed-lip-mouth-four-handled-jar",
+  "sourceFileName": "《寿州窑》_13578583_333.png",
+  "targetBaseName": "szk-065-yellow-green-glazed-lip-mouth-four-handled-jar",
+  "titleZh": "黄绿釉唇口四系罐",
+  "titleEn": "Yellow-green Glazed Lip-mouth Four-handled Jar",
+  "ocrText": "黄绿釉唇口四系罐\n唐（618-907年）\n口径7.5厘米，底径11.8厘米，高30厘米\n2007年4月12日于淮南征集\n淮南市博物馆藏\n翻唇口，短颈与口沿直径大致相同，颈部与肩结合形成一周弦纹，斜溜肩上置四枚形制工整的双股系，圆鼓腹，最大腹径在腹中部。半施黄绿釉，腹下缓收至足底。釉色发色均匀，釉面下露出部分化妆土，这种现象在唐代寿州窑产生中常常见到，说明窑工们在施釉时一般不过化妆土。",
+  "catalogSummary": "此器为唐代寿州窑代表作，翻唇口，短颈，斜溜肩置四枚双股系，圆鼓腹。通体半施黄绿釉，釉色均匀，釉下可见化妆土，反映了唐代寿州窑典型的施釉工艺特征。现藏于淮南市博物馆。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径7.5厘米，底径11.8厘米，高30厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 7.5,
+    "baseDiameter": 11.8,
+    "height": 30,
+    "unit": "厘米"
+  },
+  "material": "陶胎",
+  "glaze": "黄绿釉",
+  "motifs": [
+    "四系",
+    "弦纹",
+    "双股系",
+    "翻唇口"
+  ],
+  "provenance": "2007年4月12日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou ware",
+    "寿州窑",
+    "four-handled jar",
+    "yellow-green glaze",
+    "Tang dynasty",
+    "双股系",
+    "化妆土"
+  ],
+  "confidenceNotes": ""
+}

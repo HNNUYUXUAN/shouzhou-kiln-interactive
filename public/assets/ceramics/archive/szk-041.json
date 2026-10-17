@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-041",
+  "assetSlug": "yellow-glazed-pillow-with-incised-floral-decoration",
+  "sourceFileName": "《寿州窑》_13578583_239.png",
+  "targetBaseName": "szk-041-yellow-glazed-pillow-with-incised-floral-decoration",
+  "titleZh": "黄釉划花纹瓷枕",
+  "titleEn": "Yellow-glazed Pillow with Incised Floral Decoration",
+  "ocrText": "黄釉划花纹瓷枕\n唐（618-907年）\n枕面 16.8厘米×11.5厘米，高8.3厘米\n2004年8月大运河沿线出土\n淮北市博物馆藏\n此枕呈扁方形。后侧立墙稍高、宽一些，四边角制成宽弧面，富于流线感。通体施蜡黄釉，釉层很厚，四面有细小开片，在折弯处脱釉明显。枕面微凹，枕心中装饰刻划的如意云纹，中间有数层云朵，下面二侧对称卷云，云尾向外飘出。纹饰是以尖状物在化妆土上刻出，施釉后入窑烧成，刻划的细线纹釉色加深。唐代寿州窑瓷枕的装饰多见剪纸贴花、沥花，刻划纹饰比较少见，这种装饰方法在隋代寿州窑的盘口壶中常见，到唐代时使用的较少。该器呈扁方形，为寿州窑晚唐时期的造型。目前发现的一批晚唐时期的寿州窑瓷枕均为扁方形，有的形制很大，有装饰纹样的较少。",
+  "catalogSummary": "此件唐代黄釉划花纹瓷枕呈扁方形，通体施蜡黄釉，釉层厚重且有开片。枕面微凹，中心刻划如意云纹及对称卷云纹。该器物于2004年在大运河沿线出土，现藏淮北市博物馆。其刻划纹饰在唐代寿州窑中较为少见，是晚唐时期的典型造型。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 16.8厘米×11.5厘米，高8.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 8.3,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "蜡黄釉",
+  "motifs": [
+    "如意云纹",
+    "卷云纹",
+    "划花"
+  ],
+  "provenance": "2004年8月大运河沿线出土",
+  "institution": "淮北市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Incised Decoration",
+    "Pillow",
+    "Tang Dynasty",
+    "Cloud Pattern",
+    "寿州窑",
+    "黄釉",
+    "瓷枕"
+  ],
+  "confidenceNotes": ""
+}

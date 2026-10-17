@@ -1,0 +1,36 @@
+{
+  "archiveId": "szk-053",
+  "assetSlug": "large-yellow-glazed-bowl",
+  "sourceFileName": "《寿州窑》_13578583_275.png",
+  "targetBaseName": "szk-053-large-yellow-glazed-bowl",
+  "titleZh": "黄釉大碗",
+  "titleEn": "Large Yellow-Glazed Bowl",
+  "ocrText": "黄釉大碗\n唐（618-907年）\n口径23.2厘米，底径9.2厘米，高8.5厘米\n2011年6月13日淮南征集\n淮南市博物馆藏\n此件黄釉大敞口碗是寿州窑大碗类中的代表作。该器拉坯成型很规整，圆唇很饱满，腹部呈弧状内收，形状很美观，削胎规整。整器施蜡黄釉，发色很好，是黄釉大碗中的精品。",
+  "catalogSummary": "唐代寿州窑黄釉大碗，为该类器物代表作。器形规整，圆唇饱满，腹弧内收。通体施蜡黄釉，发色纯正。2011年于淮南征集，现藏淮南市博物馆。",
+  "artifactType": "bowl",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径23.2厘米，底径9.2厘米，高8.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 23.2,
+    "baseDiameter": 9.2,
+    "height": 8.5,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "蜡黄釉",
+  "motifs": [
+    "素面",
+    "黄釉"
+  ],
+  "provenance": "2011年6月13日淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou ware",
+    "yellow glaze",
+    "Tang dynasty",
+    "large bowl",
+    "wax-yellow"
+  ],
+  "confidenceNotes": ""
+}

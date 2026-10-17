@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-025",
+  "assetSlug": "brown-glazed-two-handled-ewer",
+  "sourceFileName": "《寿州窑》_13578583_174.png",
+  "targetBaseName": "szk-025-brown-glazed-two-handled-ewer",
+  "titleZh": "酱釉双系注子",
+  "titleEn": "Brown-glazed Two-handled Ewer",
+  "ocrText": "酱釉双系注子\n唐（618~907年）\n口径12.1厘米，底径11.5厘米，高28厘米\n2008年6月合肥征集\n淮南市博物馆藏\n此器形制高大，造型饱满敦厚，是唐代寿州窑大型瓷注的代表性作品。器物形制为细颈喇叭口，口沿圆润丰满，短流，弓形鋬，对称置双股系，斜溜肩，圆鼓腹，最大腹径在腹中部。施酱色釉，不及底，足下露乳黄色胎，胎质坚硬。寿州窑的瓷注有两大类型，一类是由隋代壶、瓶类器演化而来的长腹形注；一类是由罐演化而来的鼓腹形注，此器即是此类器物。这类瓷注一般比长腹形高大，容积增加，拉坯制胎也相对厚重，更能够体现寿州窑自身的文化面貌和文化元素。\n图版三 唐代瓷注",
+  "catalogSummary": "唐代寿州窑酱釉双系注子，2008年合肥征集，现藏淮南市博物馆。器形高大饱满，具细颈喇叭口、短流及对称双股系。通体施酱色釉，足下露乳黄胎。属由罐演化的鼓腹形注，体现了寿州窑独特的文化面貌。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径12.1厘米，底径11.5厘米，高28厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 12.1,
+    "baseDiameter": 11.5,
+    "height": 28,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "酱色釉",
+  "motifs": [
+    "双股系",
+    "鼓腹",
+    "短流",
+    "弓形鋬"
+  ],
+  "provenance": "2008年6月合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Brown Glaze",
+    "Tang Dynasty",
+    "Double Handles",
+    "Drum Belly",
+    "Ewer"
+  ],
+  "confidenceNotes": ""
+}

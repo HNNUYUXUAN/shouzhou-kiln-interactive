@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-038",
+  "assetSlug": "yellow-glazed-pillow-with-recessed-corners",
+  "sourceFileName": "《寿州窑》_13578583_231.png",
+  "targetBaseName": "szk-038-yellow-glazed-pillow-with-recessed-corners",
+  "titleZh": "黄釉委角瓷枕",
+  "titleEn": "Yellow-glazed Pillow with Recessed Corners",
+  "ocrText": "黄釉委角瓷枕\n唐（618-907年）\n枕面 12.5厘米×8.4厘米，高7.2厘米\n2012年3月于淮南征集\n淮南市博物馆藏\n此枕为唐代寿州窑早期形制，枕的一侧立面略内凹，另一面向外凸出呈半圆弧状，四边角有数道凹槽，四角呈委角状。枕的立墙很高，所占高、宽比例较大，这是早期瓷枕的主要特点，到唐代晚期，寿州窑生产的瓷枕多为低矮而宽大的瓷枕。该枕的制作很精致，枕面的转折处理成圆润的弧面，立面的线条也十分饱满，整器均以曲线构成。施黄釉，釉色稍淡，在枕面边缘和立墙上有蓝色窑变。\n寿州窑",
+  "catalogSummary": "此件唐代寿州窑黄釉委角瓷枕，枕面尺寸12.5×8.4厘米，高7.2厘米。其形制具有早期特征，立墙高耸，四角呈委角状，线条饱满圆润。通体施淡黄釉，枕面边缘及立墙处可见独特的蓝色窑变现象，制作十分精致。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 12.5厘米×8.4厘米，高7.2厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 7.2,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉，釉色稍淡，有蓝色窑变",
+  "motifs": [
+    "委角",
+    "凹槽",
+    "曲线"
+  ],
+  "provenance": "2012年3月于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "瓷枕",
+    "唐代",
+    "窑变",
+    "委角"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-055",
+  "assetSlug": "yellow-glazed-water-pot",
+  "sourceFileName": "《寿州窑》_13578583_284.png",
+  "targetBaseName": "szk-055-yellow-glazed-water-pot",
+  "titleZh": "黄釉水盂",
+  "titleEn": "Yellow-glazed Water Pot",
+  "ocrText": "黄釉水盂\n口径10.8厘米,底径6厘米,高10.3厘米\n2011年6月13日于淮南征集\n淮南市博物馆藏",
+  "catalogSummary": "此件黄釉水盂器身施黄釉，造型圆润，腹部鼓圆。该器于2011年6月13日在淮南征集，现藏淮南市博物馆。图录未标注具体年代。",
+  "artifactType": "water pot",
+  "dynasty": "",
+  "period": "",
+  "dimensionsRaw": "口径10.8厘米,底径6厘米,高10.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10.8,
+    "baseDiameter": 6,
+    "height": 10.3,
+    "unit": "厘米"
+  },
+  "material": "陶胎",
+  "glaze": "黄釉",
+  "motifs": [
+    "素面",
+    "黄釉"
+  ],
+  "provenance": "2011年6月13日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "yellow glaze",
+    "water pot",
+    "Huainan Museum",
+    "寿州窑",
+    "黄釉",
+    "水盂"
+  ],
+  "confidenceNotes": "图录原文未标注具体年代，因此不在前台显示朝代及据此推演的内容。"
+}

@@ -1,0 +1,43 @@
+# Shouzhou Kiln Interactive Gallery / 寿州窑交互展台
+
+> A React gallery of 78 artifacts, with archive comparison and fullscreen reading. / 包含 78 件文物、档案对照与全屏阅读的 React 展台。
+
+Code and original engineering text: MIT. Artifact materials and documentation visuals: noncommercial learning, exchange and distribution under their linked terms. / 代码与原创工程文字采用 MIT；文物素材与文档图片按所链接条款用于交流学习与非商用分发。
+
+## Experience
+
+- [Live gallery / 在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)
+
+## Guides
+
+- [Project overview / 项目首页 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md)
+- [Project overview / 项目首页 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md)
+- [Use the gallery / 使用指南 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md)
+- [Use the gallery / 使用指南 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md)
+- [Develop and maintain content / 开发与内容维护 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)
+- [Develop and maintain content / 开发与内容维护 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md)
+- [Agent reading and reproduction / Agent 阅读与复现 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
+- [Agent reading and reproduction / Agent 阅读与复现 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md)
+- [Discovery and citation / 检索与引用 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md)
+- [Discovery and citation / 检索与引用 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md)
+- [Contribute / 参与贡献 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md)
+- [Contribute / 参与贡献 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md)
+- [Maintenance / 维护 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.md)
+- [Maintenance / 维护 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.en.md)
+- [Material terms / 素材条款 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)
+- [Material terms / 素材条款 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md)
+- [Artifact sources / 文物来源 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md)
+- [Artifact sources / 文物来源 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md)
+- [Software notices / 软件声明 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md)
+- [Software notices / 软件声明 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md)
+
+## Structured resources
+
+- [Artifact catalog / 文物目录](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json)
+- [Material manifest / 素材清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json)
+- [Repository conventions](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md)
+- [仓库开发约定](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md)
+- [Citation](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff)
+- [CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json)
+- [Full guides / 完整指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms-full.txt)
+- [MIT license](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/LICENSE)

@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-049",
+  "assetSlug": "yellow-glazed-bowl",
+  "sourceFileName": "《寿州窑》_13578583_260.png",
+  "targetBaseName": "szk-049-yellow-glazed-bowl",
+  "titleZh": "黄釉盏",
+  "titleEn": "Yellow-glazed Bowl",
+  "ocrText": "黄釉盏\n唐（618-907年）\n口径15.3厘米，底径6.2厘米，高5.1厘米\n2010年11月4日于淮南征集\n淮南市博物馆藏\n此器是寿州窑黄釉大碗中具有代表性的产品。其造型敦厚，拉坯、削足、施釉等工艺非常考究。碗大喇叭口，腹很浅，口沿略呈唇状，透过釉层尚能感觉到拉坯留下的弦纹。通体满施蜡黄釉，釉色比较匀称，腊光很强，碗的内外釉面均有纵向大开片，应是在应力作用下产生的。口沿部分有剥釉现象，但整个碗的胎、化妆土与釉的结合很紧密。足底露乳白色胎，胎质较一般碗的用料要细腻，有细微砂粒，但不失为一件精品。",
+  "catalogSummary": "唐代寿州窑代表性黄釉大碗。造型敦厚，大喇叭口，浅腹，满施蜡黄釉，釉面有纵向开片。足底露乳白色胎，胎质细腻。2010年于淮南征集，现藏淮南市博物馆。",
+  "artifactType": "bowl",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径15.3厘米，底径6.2厘米，高5.1厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 15.3,
+    "baseDiameter": 6.2,
+    "height": 5.1,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "蜡黄釉",
+  "motifs": [
+    "弦纹",
+    "开片"
+  ],
+  "provenance": "2010年11月4日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "唐代",
+    "大喇叭口",
+    "浅腹",
+    "乳白胎"
+  ],
+  "confidenceNotes": ""
+}

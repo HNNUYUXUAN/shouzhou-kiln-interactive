@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-043",
+  "assetSlug": "brown-glazed-pillow-with-elephant-shaped-supports",
+  "sourceFileName": "《寿州窑》_13578583_245.png",
+  "targetBaseName": "szk-043-brown-glazed-pillow-with-elephant-shaped-supports",
+  "titleZh": "酱釉象形瓷枕",
+  "titleEn": "Brown-glazed Pillow with Elephant-shaped Supports",
+  "ocrText": "酱釉象形瓷枕\n唐（618-907年）\n枕面 13.5 厘米 × 7.3 厘米，高 7.3 厘米\n2010 年 11 月 4 日于淮南征集\n淮南市博物馆藏",
+  "catalogSummary": "此件唐代酱釉象形瓷枕，造型独特，以大象为底座支撑枕面。通体施酱釉，釉色深沉古朴。器物于2010年在淮南地区征集，现藏于淮南市博物馆，是寿州窑唐代瓷器中具有代表性的象生造型器物。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 13.5 厘米 × 7.3 厘米，高 7.3 厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 7.3,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "酱釉",
+  "motifs": [
+    "象形",
+    "动物纹"
+  ],
+  "provenance": "2010 年 11 月 4 日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Tang Dynasty",
+    "Zoomorphic",
+    "Elephant",
+    "Pillow",
+    "Brown Glaze",
+    "寿州窑",
+    "唐代",
+    "象生瓷"
+  ],
+  "confidenceNotes": ""
+}

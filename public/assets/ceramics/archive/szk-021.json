@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-021",
+  "assetSlug": "brown-glazed-ewer",
+  "sourceFileName": "《寿州窑》_13578583_164.png",
+  "targetBaseName": "szk-021-brown-glazed-ewer",
+  "titleZh": "酱釉注子",
+  "titleEn": "Brown-glazed Ewer",
+  "ocrText": "酱釉注子\n唐（618-907年）\n口径6.8厘米，底径7.4厘米，高16.1厘米\n1986年1月于上窑泉源征集\n淮南市博物馆藏\n此器有寿州窑唐代瓷注的早期特征，主要体现在注子的流口和鋬的形制上。其流向上昂起，流的边缘与腹部几乎成一条直线，流的边侧与注子颈部相粘连。流的棱角模式已经形成，被削成六面体，但不如后来的灵巧。鋬的形状与常见的弓形鋬不同，虽为扁平状，但略成耳形。注子的颈部也比中晚期的要细长一些。器物的口部为宽唇沿、侈口、长细颈中间束收，广肩，肩置流和鋬，长直腹，假圈足。平底、内凹。施酱釉，呈亚光状，釉色玻化不好，有颗粒状斑点。",
+  "catalogSummary": "此件唐代酱釉注子于1986年在上窑泉源征集，现藏淮南市博物馆。器物具有寿州窑早期特征，流口上昂且与颈粘连，鋬呈耳形。通体施亚光酱釉，釉面玻化程度较低并伴有颗粒状斑点，造型古朴。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径6.8厘米，底径7.4厘米，高16.1厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 6.8,
+    "baseDiameter": 7.4,
+    "height": 16.1,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "酱釉，呈亚光状，釉色玻化不好，有颗粒状斑点",
+  "motifs": [
+    "无纹饰",
+    "六面体流",
+    "耳形鋬"
+  ],
+  "provenance": "1986年1月于上窑泉源征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Brown Glaze",
+    "酱釉",
+    "Ewer",
+    "注子",
+    "Tang Dynasty",
+    "唐代瓷器"
+  ],
+  "confidenceNotes": ""
+}

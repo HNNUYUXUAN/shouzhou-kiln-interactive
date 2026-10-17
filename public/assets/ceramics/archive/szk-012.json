@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-012",
+  "assetSlug": "celadon-glazed-imprinted-dish-mouthed-jar",
+  "sourceFileName": "《寿州窑》_13578583_137.png",
+  "targetBaseName": "szk-012-celadon-glazed-imprinted-dish-mouthed-jar",
+  "titleZh": "青釉印花盘口壶",
+  "titleEn": "Celadon-glazed Imprinted Dish-mouthed Jar",
+  "ocrText": "青釉印花盘口壶\n隋（581-618年）\n口径7.5厘米，底径7.6厘米，高20厘米\n1962年1月1日于阜阳市阜阳地区水电局移交\n阜阳市博物馆藏\n此器造型优雅，盘口的曲线与足底外撇的形态相映成趣，十分美观。器物制作方法很有特点，盘口是以接胎方法粘接在已经拉坯成型的小喇叭口壶上，在盘底能够辨识到其结合处。长束颈和腹部上有七周凹弦纹，斜肩上和腹中部有三层模印花，纹样是以点状的圆圈构成。这种装饰方法的器物，淮南市博物馆收藏有二件形制相同的盘口壶，但器身只装饰有二层，形制也不如此器规整。",
+  "catalogSummary": "此隋代青釉印花盘口壶出土于安徽阜阳，现藏阜阳市博物馆。器物采用接胎工艺，盘口粘接于小喇叭口壶之上。通体施青釉，饰七周凹弦纹及三层点状圆圈模印花纹。其造型优雅，纹饰繁复且规整，是同类器物中的精品。",
+  "artifactType": "jar",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径7.5厘米，底径7.6厘米，高20厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 7.5,
+    "baseDiameter": 7.6,
+    "height": 20,
+    "unit": "厘米"
+  },
+  "material": "陶",
+  "glaze": "青釉",
+  "motifs": [
+    "印花",
+    "点状圆圈纹",
+    "凹弦纹"
+  ],
+  "provenance": "1962年1月1日于阜阳市阜阳地区水电局移交",
+  "institution": "阜阳市博物馆",
+  "visualTags": [
+    "盘口壶",
+    "Sui dynasty",
+    "celadon glaze",
+    "stamped decoration",
+    "double-handled jar",
+    "Shouzhou ware style"
+  ],
+  "confidenceNotes": ""
+}

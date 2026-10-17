@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-016",
+  "assetSlug": "greenish-yellow-glazed-high-footed-dish",
+  "sourceFileName": "《寿州窑》_13578583_154.png",
+  "targetBaseName": "szk-016-greenish-yellow-glazed-high-footed-dish",
+  "titleZh": "青黄釉高足盘",
+  "titleEn": "Greenish-yellow-glazed Stemmed Dish",
+  "ocrText": "青黄釉高足盘\n隋（581-618年）\n口径 13.1厘米，底径 8.9厘米，高 8.5厘米\n1988年淮南上窑管咀孜发掘 T8②出土（口沿修复完整）\n淮南市博物馆藏\n此器为1988年对隋代寿州窑管咀孜窑址发掘中获得的残器，经修复完整。器物造型比例匀称，看上去协调美观。盘口为浅腹状，口沿略向外撇，盘底也向外突出，形成盘的腹壁向内凹弧。大喇叭足，足底宽大，足沿向上翻卷。通体施青黄釉，釉层玻化很好。足下半施釉，露乳红色胎，胎质坚细。隋代寿州窑生产的盘口壶器型有大小二个类型，此类小型盘口壶多注重喇叭足的高矮变化，使其看上去变化丰富。隋代瓷器的釉色一般为青釉或青中闪绿，此器釉色偏黄，这是因为在弱还原气氛中烧成的缘故。",
+  "catalogSummary": "隋代青黄釉高足盘，1988年出土于淮南上窑管咀孜隋代寿州窑遗址。器物经修复完整，造型匀称，具大喇叭足与浅腹盘口。通体施青黄釉，釉层玻化良好，因弱还原气氛烧成而呈黄色，胎质坚细，是隋代寿州窑典型器物。",
+  "artifactType": "dish",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径 13.1厘米，底径 8.9厘米，高 8.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 13.1,
+    "baseDiameter": 8.9,
+    "height": 8.5,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "青黄釉",
+  "motifs": [
+    "高足",
+    "喇叭足",
+    "素面"
+  ],
+  "provenance": "1988年淮南上窑管咀孜发掘 T8②出土",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Sui Dynasty",
+    "High-stemmed dish",
+    "Yellowish-green glaze",
+    "Trumpet foot",
+    "寿州窑",
+    "隋代瓷器",
+    "高足盘"
+  ],
+  "confidenceNotes": ""
+}

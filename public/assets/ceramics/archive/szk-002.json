@@ -1,0 +1,36 @@
+{
+  "archiveId": "szk-002",
+  "assetSlug": "greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle",
+  "sourceFileName": "《寿州窑》_13578583_113.png",
+  "targetBaseName": "szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle",
+  "titleZh": "青黄釉小龙柄鸡首壶",
+  "titleEn": "Greenish-yellow-glazed Chicken-headed Ewer with Small Dragon Handle",
+  "ocrText": "二 隋代瓷器\n青黄釉小龙柄鸡首壶\n隋（581-618年）\n口径6.4厘米，底径6.1厘米，高21.6厘米\n20世纪70年代大通出土\n淮南市博物馆藏\n此器约在20世纪70年代出土于淮南市大通区，距寿州窑窑址很近。出土时龙柄残缺，后修复完整。该器的整体造型趋向于北方邢窑特点，尤其是下腹部所占比重较大，有寿州窑隋代早期或更早期的时代面貌。其盘口的深度比例，颈部、腹部间的比例接近西安李静训墓出土的白釉双系鸡首壶。隋代寿州窑大型盘口壶的整体造型修长高大，此器腹部比例较大，形态饱满，通体施青釉，偏黄，釉层较厚，发色、玻化很好，是早期寿州窑的代表性作品。",
+  "catalogSummary": "此件隋代青黄釉小龙柄鸡首壶出土于淮南市大通区，现藏淮南市博物馆。器物出土时龙柄残缺，后修复完整。其造型腹部比例较大，形态饱满，通体施青黄釉，釉层较厚且玻化良好，体现了寿州窑隋代早期的典型特征，是该时期的代表性作品。",
+  "artifactType": "chicken-headed ewer",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径6.4厘米，底径6.1厘米，高21.6厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 6.4,
+    "baseDiameter": 6.1,
+    "height": 21.6,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "青黄釉",
+  "motifs": [
+    "龙柄",
+    "鸡首"
+  ],
+  "provenance": "20世纪70年代大通出土",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "鸡首壶",
+    "龙柄",
+    "青黄釉",
+    "隋代",
+    "寿州窑"
+  ],
+  "confidenceNotes": "原目标锚点与图录扫描件不符；本记录已按扫描件中的器名、年代、尺寸、出土信息和馆藏单位校正。"
+}

@@ -1,0 +1,36 @@
+{
+  "archiveId": "szk-050",
+  "assetSlug": "brown-glazed-bowl",
+  "sourceFileName": "《寿州窑》_13578583_267.png",
+  "targetBaseName": "szk-050-brown-glazed-bowl",
+  "titleZh": "酱釉碗",
+  "titleEn": "Brown-glazed Bowl",
+  "ocrText": "酱釉碗\n唐（618-907年）\n口径16.1厘米，底径6.7厘米，高6.8厘米\n2006年田家庵区史院乡邵庄村唐墓出土\n淮南市博物馆藏\n该器是淮南市博物馆近年来通过考古发掘获得的一件寿州窑碗类产品的上乘之作。该器造型大方端正。口部微唇状，上腹部略直，腹下急收，大平足。整器内外施酱釉，釉色较均匀，釉层与化妆土、胎骨结合的很好，反映其烧造温度较高。露胎处泛乳白色，胎质较细腻，修足工整。\n寿州窑\n250",
+  "catalogSummary": "唐代酱釉碗，2006年出土于淮南田家庵区史院乡邵庄村唐墓，现藏淮南市博物馆。此器为寿州窑上乘之作，造型端庄，内外施酱釉且釉色均匀，胎质细腻，修足工整，反映了较高的烧造工艺水平。",
+  "artifactType": "bowl",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径16.1厘米，底径6.7厘米，高6.8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 16.1,
+    "baseDiameter": 6.7,
+    "height": 6.8,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "酱釉",
+  "motifs": [
+    "素面",
+    "大平足"
+  ],
+  "provenance": "2006年田家庵区史院乡邵庄村唐墓出土",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "酱釉",
+    "唐代瓷器",
+    "考古发掘",
+    "大平足"
+  ],
+  "confidenceNotes": ""
+}

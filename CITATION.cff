@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software using these metadata; artifact materials have separate source and usage terms."
+type: software
+title: "Shouzhou Kiln Interactive Gallery / 寿州窑交互展台"
+authors:
+  - family-names: "缪"
+    given-names: "雨轩"
+url: "https://shouzhou-kiln-interactive.yuxuan.wiki/"
+repository-code: "https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive"
+license: MIT
+abstract: "A React gallery of 78 Shouzhou kiln artifacts. Code uses MIT; artifact materials permit noncommercial learning, exchange and distribution under ASSET_LICENSE.md."
+keywords:
+  - Shouzhou kiln
+  - digital exhibition
+  - React

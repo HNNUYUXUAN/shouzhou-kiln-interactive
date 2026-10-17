@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-070",
+  "assetSlug": "yellow-glazed-lion-shaped-weight",
+  "sourceFileName": "《寿州窑》_13578583_347.png",
+  "targetBaseName": "szk-070-yellow-glazed-lion-shaped-weight",
+  "titleZh": "黄釉狮形镇",
+  "titleEn": "Yellow-glazed Lion-shaped Weight",
+  "ocrText": "黄釉狮形镇\n唐（618-907年）\n长8.2厘米，宽5.5厘米，高4.8厘米\n2010年1月12日于淮南征集\n淮南市博物馆藏\n狮呈扑抓猎物状，前肢卧后肢蹲，头部枕于两爪之上，左爪中抓有一块方形物。头部夸张变形，吻部大而突出，狮子头上的鬃毛覆盖颈部，双眼点褐色釉，炯炯有神。后肢硕壮有力，显示出发达的肌体，狮尾略向右贴附在身体上。整器造型非常洗练生动。\n此黄釉狮形镇是一件十分精美的艺术品。智慧的窑工用简单的几块泥条，创造出既十分肖形又有些夸张的卧狮形态，是寿州窑产品中一件珍贵的文房用具。该器胎体细腻、紧密，黄釉发色饱满，玻化很好，有细小开片。兽形镇在唐代的许多窑口都有生产，形制区别不大，但此狮形镇造型更显生动，显示出寿州窑工匠对生活敏锐的观察力和高度的概括力。",
+  "catalogSummary": "唐代寿州窑黄釉狮形镇，长8.2厘米，高4.8厘米。狮呈扑抓状，造型夸张生动，双眼点褐釉。胎体细腻紧密，黄釉饱满有开片。为珍贵的文房用具，现藏淮南市博物馆。",
+  "artifactType": "weight",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长8.2厘米，宽5.5厘米，高4.8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 4.8,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉，点褐色釉，有细小开片",
+  "motifs": [
+    "狮",
+    "瑞兽",
+    "动物"
+  ],
+  "provenance": "2010年1月12日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "狮子",
+    "文房",
+    "唐代",
+    "雕塑"
+  ],
+  "confidenceNotes": ""
+}

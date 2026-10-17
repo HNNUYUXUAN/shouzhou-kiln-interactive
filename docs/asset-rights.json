@@ -1,0 +1,3398 @@
+{
+  "schemaVersion": 2,
+  "scope": "Artifact sources, usage terms and file versions / 文物来源、使用范围与文件版本",
+  "sources": [
+    {
+      "id": "SZK-SCAN-01",
+      "titleFromFileName": "寿州窑",
+      "evidence": "public/assets/ceramics/archive/index.json: sourceFileName，以及逐件解析件的同名字段",
+      "fileNamePattern": "《寿州窑》_13578583_<序号>.png",
+      "bibliographyStatus": "edition-and-printed-pages-unverified",
+      "note": "数字 13578583 与后缀序号仅作为原文件名保留，不认定为 ISBN 或印刷页码。"
+    }
+  ],
+  "authorizations": [
+    {
+      "id": "HNNU-2026-10-17",
+      "authorizationSource": "淮南师范学院美术与设计学院",
+      "recordedBy": "缪雨轩",
+      "recordedOn": "2026-10-17",
+      "termsReference": "ASSET_LICENSE.md",
+      "termsReferenceEn": "ASSET_LICENSE.en.md",
+      "publicRedistribution": "noncommercial",
+      "commercialUse": "prohibited",
+      "uses": [
+        "learning",
+        "exchange",
+        "noncommercial-distribution"
+      ],
+      "documentReference": null
+    }
+  ],
+  "processingEvidence": [
+    {
+      "path": "src/data/shouzhou_ceramics.json",
+      "note": "Processing metadata recorded per artifact / 逐件加工元数据"
+    },
+    {
+      "path": "scripts/generate_thumbnails.py",
+      "note": "WebP thumbnails, longest edge 320 px / 最长边 320 像素缩略图"
+    }
+  ],
+  "records": [
+    {
+      "archiveId": "szk-001",
+      "runtimeId": "sz-001",
+      "title": "青釉双龙柄堆塑动物纹连体瓶",
+      "sourceFileName": "《寿州窑》_13578583_117.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cd6404f85405bcbcbef696941e410699a1504b51bd7e96f9c8c74014c0edb2fd"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e574acbc88ede0b745fd01f28f551cdd225574615e95973739a3d2718628eccc"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-001.json",
+          "hashMode": "utf8-lf",
+          "sha256": "7adff2ec7be86c0d457140551a7065e4f1c650efe33a2eedc52642f89141d121"
+        }
+      ],
+      "processingMetadata": {}
+    },
+    {
+      "archiveId": "szk-002",
+      "runtimeId": "sz-002",
+      "title": "青黄釉小龙柄鸡首壶",
+      "sourceFileName": "《寿州窑》_13578583_113.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c86b846c92dfae92bd08ff0b3e05256aa038f8dbcb96a7f9677058720fadfb9c"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e46d4e77e97cfb2e1d9a4cfe3b84e5c63cefe226b616ba2798efa0d308b36d68"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-002.json",
+          "hashMode": "utf8-lf",
+          "sha256": "26463e1517f4e7c5a394af4340140ac2e8eed7c839a184682133fd87d44b23a0"
+        }
+      ],
+      "processingMetadata": {}
+    },
+    {
+      "archiveId": "szk-003",
+      "runtimeId": "sz-ai-003",
+      "title": "青釉四系龙柄盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_116.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+          "hashMode": "raw-bytes",
+          "sha256": "049821ff3a3e8ec365520a6289a6d877e4bd9809c264460172eb9c530f01533e"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+          "hashMode": "raw-bytes",
+          "sha256": "2214338ce354a40310df048c7195cc5338bb1167a4b4a8a8699454fd790865b1"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "d38f4d6c794a4064dc6b73c4186f386a9e848d0e385c3f8eed0b407b6d6e04a4"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-003.json",
+          "hashMode": "utf8-lf",
+          "sha256": "da6ed460a41bc9e3160a5832299ecd959643e31c597581c5b61c8fffad7e6c13"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-24T23:58:40.263Z"
+      }
+    },
+    {
+      "archiveId": "szk-004",
+      "runtimeId": "sz-ai-004",
+      "title": "青釉刻花六系盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_119.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "16b7270fdb290c99c99a5557409a4f98420d6634d541d4b3b38eec68cd8612f3"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "6055b67adf5f5db2629c7f3119ec686d275e74c5224aca0e75ce503ba3bd7c99"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "31b352e96296706166bc2635ccf82083cbf27c6d2c3b09b4468068a2ffbd0c3f"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-004.json",
+          "hashMode": "utf8-lf",
+          "sha256": "eee4571a8e26c9726113a1a4d47baf3682d4bdc807c3d3357737e157471fc4c0"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-24T23:59:11.890Z"
+      }
+    },
+    {
+      "archiveId": "szk-005",
+      "runtimeId": "sz-ai-005",
+      "title": "青釉小盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_122.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "64f049bae54dfd36b51d87ff09c32c2703e01229e2b725c6073f0fb0facc69ea"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "b7b230ea72ae487572093b957f113eb2937723425f9aedd2507161bfc2072a75"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-005-celadon-glazed-small-dish-mouthed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "8afc5f655f19d197d6f4cf2851381ca33b23c62269f74cb28a6040ce71de0928"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-005.json",
+          "hashMode": "utf8-lf",
+          "sha256": "288884debfa2fedbf5e79aeac72bbdb8f213b34e52cfe4a0fa4871b73ba7156e"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-24T23:59:40.740Z"
+      }
+    },
+    {
+      "archiveId": "szk-006",
+      "runtimeId": "sz-ai-006",
+      "title": "青釉戳印莲花纹四系盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_124.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+          "hashMode": "raw-bytes",
+          "sha256": "50005aa71affd75819471f0ac82b7b4a22f9960d7fc5b789769f2657305bd1ae"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+          "hashMode": "raw-bytes",
+          "sha256": "46397624b45573a974f5c4535b15d954527ebc9993ed3257c23501e951bfa9bc"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "a558e3db63f632fa607b40b7ed15919091dbd2c00976374b02413617435f9876"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-006.json",
+          "hashMode": "utf8-lf",
+          "sha256": "3d1db3daab736846f49a9cafd776f968a81fa986b5072ccb7e27b9e6f3f21580"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:00:43.877Z"
+      }
+    },
+    {
+      "archiveId": "szk-007",
+      "runtimeId": "sz-ai-007",
+      "title": "青釉模印花卉盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_127.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cd0d32b6cceeb492687c3efb01e51d9c1ca7db35c4413c19306c1d016749da7c"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "370e49f1add9d2aa74b93c477a7cbc89bef3e911f9155c47f1b9203c67766e29"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "bbe5dea87eddb01c4b0fa350461bba02b68ce1a4d00f1c65c35515b17c89c5e5"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-007.json",
+          "hashMode": "utf8-lf",
+          "sha256": "6c15595eb40bcc090541e6f398c2a6d4c428cdc0efffd0e53806c4fd77aa09d5"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:01:11.888Z"
+      }
+    },
+    {
+      "archiveId": "szk-008",
+      "runtimeId": "sz-ai-008",
+      "title": "黄釉戳印纹四系小盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_128.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "6aa6c1c066dcc9ce29d32cadc90d83bd0251297bf6e499e01aa3c046b7fca807"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ec109334db1883ba786a93068ce7c9399874d61699b92ec8130d7b383d0d0dbc"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "adc174e2bb88ff71035cd3a865a60a6f45bb529ee0af02c1b2be552dd0e81daa"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-008.json",
+          "hashMode": "utf8-lf",
+          "sha256": "1a4799823f908fa1e931983da2b7422fcf319377e76c7c7c27184e2b5896fd13"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:01:38.365Z"
+      }
+    },
+    {
+      "archiveId": "szk-009",
+      "runtimeId": "sz-ai-009",
+      "title": "青釉盘口四系罐",
+      "sourceFileName": "《寿州窑》_13578583_131.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9def30bf2680babdd119590307bc28b167408c77152207ada7405d1434485025"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c6d5e3c407d5b5399e01cca5950f2810d6347d4602564966c23d9e9b84bf8c6d"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-009-celadon-glazed-dish-mouth-four-handled-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "1e0433833da78d60a6157929bff72a5e0373b79718eca07af11debfc27a013a5"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-009.json",
+          "hashMode": "utf8-lf",
+          "sha256": "06b0c38ea944eb341f0ca10b3c509832e1d7b277e61b700e9234dd5d4f98e263"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:02:04.321Z"
+      }
+    },
+    {
+      "archiveId": "szk-010",
+      "runtimeId": "sz-ai-010",
+      "title": "青黄釉四系盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_133.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c5fdd7c779a397a9581e54bff6aa4bc49b4b2c54b13d2de1d317adb0cd5b6625"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "f9786dd9e8bf0783938fdcf4067f6d7f1315f8773775883638a9660aadc14e5b"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e7e61436e65e77e0729c884dfd52603064e2d70c046ba2130c1dd7913f27cb85"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-010.json",
+          "hashMode": "utf8-lf",
+          "sha256": "af06375ce248c53752ed04c207bbb4cd7045917bbd57aedabe1a32fbb45f33c1"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:02:31.707Z"
+      }
+    },
+    {
+      "archiveId": "szk-011",
+      "runtimeId": "sz-ai-011",
+      "title": "青釉四系盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_134.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "02d5b7c2590ba4587f2adb3881d6ee715df47d071a92715274bba076cd0af1bc"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "870737bc227abf444b20ffdd67086687aaaa97fbcfdee130a19273af27058af3"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4cb53c0dc15814d7707ddc4ba9620ea432253e86af13910aeeeb18a298a3f573"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-011.json",
+          "hashMode": "utf8-lf",
+          "sha256": "c3c01ce9bc13d94adedd257aa809df0511bf5c52c3c57559e317474641426312"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:02:57.312Z"
+      }
+    },
+    {
+      "archiveId": "szk-012",
+      "runtimeId": "sz-ai-012",
+      "title": "青釉印花盘口壶",
+      "sourceFileName": "《寿州窑》_13578583_137.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "53944901e18c4ea7c255c02a74d90f2f429dc5a9a71d5dc5b5968deb0647a628"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ff4a0226ec50aa35b97edfca67b05bdd11231769b111e8de3f1f6f8455e721c1"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "87ba0a21201fb5332d6740be93ae8a83e4eadd47bdf3b657cba079bf70de6d4b"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-012.json",
+          "hashMode": "utf8-lf",
+          "sha256": "0594e9a7a9b0ae369004263c3f7ee7a2c2729cc7416fe3211eedf4bc5633597d"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:03:21.712Z"
+      }
+    },
+    {
+      "archiveId": "szk-013",
+      "runtimeId": "sz-ai-013",
+      "title": "青釉贴塑罐",
+      "sourceFileName": "《寿州窑》_13578583_142.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "fcb807ec33b3ad02b805b33424f42109b49595832d30a9a8688cecf7ab6afa73"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cd5e71770e6f4b1d170abf0040007eaad4c82184a5a4b9a8d2d85432774b5365"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-013-celadon-glazed-jar-with-applied-decoration.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "5b9d058977d3ddaaa667fc9d48a262ff751bfc2455d2f6ffe74da403c43fd4f2"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-013.json",
+          "hashMode": "utf8-lf",
+          "sha256": "b3ee7730b01a4ef2d833ca6510a3f165cce3fb16e2ea69269b1c4d71e6efb92e"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:03:47.564Z"
+      }
+    },
+    {
+      "archiveId": "szk-014",
+      "runtimeId": "sz-ai-014",
+      "title": "青釉弦纹四系罐",
+      "sourceFileName": "《寿州窑》_13578583_145.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cfc7caab4bb3b4fad8fc2fcf22b3e1b8f8c7c5767e2c4b1b5f526683f2bf7f41"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+          "hashMode": "raw-bytes",
+          "sha256": "5ed65287182f15485d4df5016d900bb9a3d4b7cecbec7eb7c7c41872a1d73e6b"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e53c7d6d4823f2673bd6872146d82c08c66027ece7516ec9f152cf8e8f2c0639"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-014.json",
+          "hashMode": "utf8-lf",
+          "sha256": "499d24bc2b261d0639fc57d5899a201a737b06502ab99e6c2a8966c24b2a0595"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:04:12.284Z"
+      }
+    },
+    {
+      "archiveId": "szk-015",
+      "runtimeId": "sz-ai-015",
+      "title": "青釉莲瓣纹碗",
+      "sourceFileName": "《寿州窑》_13578583_150.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "bba13a436b7e03b2310b7e3d737515407b3a09167a0b25b1627621e2746a99a9"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "6a098c0be071c51b3b7caba04272cdc1def471675648641095edea9e90e4d0d5"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "d0064edb0f3fa43f80566b1a0e20cf78dc1bacca910d09d0a5a5006178c701fe"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-015.json",
+          "hashMode": "utf8-lf",
+          "sha256": "3fec9397bd268d484c91b79487ad03584813cdd422813b2b747665fb3bb7f7ac"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:04:36.957Z"
+      }
+    },
+    {
+      "archiveId": "szk-016",
+      "runtimeId": "sz-ai-016",
+      "title": "青黄釉高足盘",
+      "sourceFileName": "《寿州窑》_13578583_154.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+          "hashMode": "raw-bytes",
+          "sha256": "74ab014c90a2ec8f4f28439398023e40bd1fb11bb9ce8af5de35b7b36e7eff7c"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+          "hashMode": "raw-bytes",
+          "sha256": "016df59aed4c1b23be32cff8572b49eecdc7929974126d5191debe97994d8c66"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-016-greenish-yellow-glazed-high-footed-dish.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "906b00c2e0d0dc2da779ccd23e590f27d21b3771cf555ca2d31a9952066ebc99"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-016.json",
+          "hashMode": "utf8-lf",
+          "sha256": "1bef58d1fb185dd96b43b908a1f9df4dfbe5ec6732d38c6fac1704e4b9a34cd0"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:05:01.884Z"
+      }
+    },
+    {
+      "archiveId": "szk-017",
+      "runtimeId": "sz-ai-017",
+      "title": "寿州窑黄釉刻花莲瓣纹高足盘",
+      "sourceFileName": "《寿州窑》_13578583_156.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "583510e5e33af08b4642ff029bfe717ebe53d254241c41432fb2760f153d051e"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "b6ab8c56176c41ae423fb45050199f5345533bfd61272168be96f21ba4432e31"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "2784b4ddeec7cab72e29a490da8e93f558a5ee70ed88692ab219c0ccf923b339"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-017.json",
+          "hashMode": "utf8-lf",
+          "sha256": "780f9f0ef076ff6fc2a338f9ecf31d18c8b93a9a9652fdb9a3e58daec0c468e1"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:05:27.043Z"
+      }
+    },
+    {
+      "archiveId": "szk-018",
+      "runtimeId": "sz-ai-018",
+      "title": "青绿釉高足盘",
+      "sourceFileName": "《寿州窑》_13578583_158.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-018-celadon-glazed-high-footed-dish.png",
+          "hashMode": "raw-bytes",
+          "sha256": "a054ca418aae8e344c6ded4ad7e905836efc9b87434933305230699e67b3f760"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-018-celadon-glazed-high-footed-dish.png",
+          "hashMode": "raw-bytes",
+          "sha256": "f1bcbc828cb5161fee20dd5956c9054eea441419e5119590773324826e7461c9"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-018-celadon-glazed-high-footed-dish.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "8d8aa22a84e0bcf58fb5181cc2c5ac28a475a95b2e125d5f5c51d2ebe0f5657a"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-018.json",
+          "hashMode": "utf8-lf",
+          "sha256": "97964e607d131f82b18abc4bdfc911422cf73599df9b74901d999e400e24cd55"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:05:51.730Z"
+      }
+    },
+    {
+      "archiveId": "szk-019",
+      "runtimeId": "sz-ai-019",
+      "title": "寿州窑黄釉贴花罐",
+      "sourceFileName": "《寿州窑》_13578583_160.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c341b80cc6d4fd85f07e81e9812e260d45f749e02c27b10ad776c4925e7b76c7"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "757d6ade3ed3cfc614d2abe93cea5a08ddd3d031fc27a726ef88edcddfab2e80"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "f486bd620a8f0dc6fce2843b98920a33a1fd2b9edabeef0df6747150e4777ae2"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-019.json",
+          "hashMode": "utf8-lf",
+          "sha256": "313011cfd8f0a9574f024731959d77b6ef45b1efe73971cd8b37a97f90e90d04"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:06:16.528Z"
+      }
+    },
+    {
+      "archiveId": "szk-020",
+      "runtimeId": "sz-ai-020",
+      "title": "黄釉双系注子",
+      "sourceFileName": "《寿州窑》_13578583_163.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-020-yellow-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "3700fcf4f9a7869e706e274c67480de0a1d57215a93618e9e3a9575c14523715"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-020-yellow-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "eb65e8debf0bc336cb021d7fe408b6987e0feb686fbbf85e510843c02d12c2eb"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-020-yellow-glazed-two-handled-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "fa7d41b5b46c23e0eab7b74617b04439fc2815feba4b847e73a473486a93138c"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-020.json",
+          "hashMode": "utf8-lf",
+          "sha256": "7c490e3dc018aea09bcbeb7802a7ae7324c735df4a982e5a355cfff49a6626ec"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:06:43.253Z"
+      }
+    },
+    {
+      "archiveId": "szk-021",
+      "runtimeId": "sz-ai-021",
+      "title": "酱釉注子",
+      "sourceFileName": "《寿州窑》_13578583_164.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-021-brown-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "23728d2ffe47e3d84dc78bb15c33a39e757a8453b635e238311ebba2a1909e99"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-021-brown-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "69d1ae41040dec15effa197b0c2e634a6a0a17c69974555b4f5b666534906893"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-021-brown-glazed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4b385b3d69baf73c10e821077e2c9aa032ff9db910d0c072adca279444d67ef3"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-021.json",
+          "hashMode": "utf8-lf",
+          "sha256": "c23b42967a24efc71eb459d8a78d883fc498c9be9b1216b7cf62487191f96a55"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:07:07.644Z"
+      }
+    },
+    {
+      "archiveId": "szk-022",
+      "runtimeId": "sz-ai-022",
+      "title": "青黄釉双系注子",
+      "sourceFileName": "《寿州窑》_13578583_166.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ac5d60d8dd788bb39528531c8ab2e0012a3b09554ea5ef248837b5956eba3949"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ca82e348251707d6d0416162fbd17af33775674bbaec166d237c03a36037774c"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-022-greenish-yellow-glazed-two-handled-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "57fb1ba9208552ed07b995432c904fc21ef36830e544a2408354428805e7a1d2"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-022.json",
+          "hashMode": "utf8-lf",
+          "sha256": "fc08fb8c200831a1aad3eef6034ae0c8e8cec3a0073a00897ea7a8ea15a8ba0a"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:07:32.092Z"
+      }
+    },
+    {
+      "archiveId": "szk-023",
+      "runtimeId": "sz-ai-023",
+      "title": "黑釉双系注子",
+      "sourceFileName": "《寿州窑》_13578583_167.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-023-black-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "d58a6e179b917475a16867edb9be94c57b896bb77271843dc0b431afbd25b6c3"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-023-black-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9c3d37efdfa99246c895c0132a96fb1126215f04144078763094272defba07cb"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-023-black-glazed-two-handled-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "7e4dfc06e4dc099302f6651023ad4fed7dd15dce8dc44de03cbd35b474f92fa5"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-023.json",
+          "hashMode": "utf8-lf",
+          "sha256": "eda6fa4e3118b3a38ca8ba2e4fb8c6c85859b27f5294ff6b6df3ba31703ce801"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:07:56.517Z"
+      }
+    },
+    {
+      "archiveId": "szk-024",
+      "runtimeId": "sz-ai-024",
+      "title": "黑釉双系注子",
+      "sourceFileName": "《寿州窑》_13578583_170.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-024-black-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "dc1bb31324db52b7ee16c3b8afb26e27f2afcbfe30981d8127ea5a1a30b1194f"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-024-black-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c05020bb74803d56f081c593df0bc8fc199c260a777c0c95703211d05f4a8dbe"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-024-black-glazed-two-handled-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "94caf87511fa454852a0aa7d4527600b29b95c70fe9adcbd44900a8b0195ca7f"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-024.json",
+          "hashMode": "utf8-lf",
+          "sha256": "574c1b4df3f1e4371b5081283a7235db757052ae591e1ad1cbe09f050ae66c9c"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:08:21.434Z"
+      }
+    },
+    {
+      "archiveId": "szk-025",
+      "runtimeId": "sz-ai-025",
+      "title": "酱釉双系注子",
+      "sourceFileName": "《寿州窑》_13578583_174.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-025-brown-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "a18c3c2f64d579d18a17e326f435f7f5c288eeab491dd545d131c2f08a54db5f"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-025-brown-glazed-two-handled-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "7e1d2169e27c3c5fa3f90d0456a6fd1d1a7dd24600cdf1c983d5b43f3b05e87a"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-025-brown-glazed-two-handled-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "047d7784e7b30157e7fa048bf429c7ee0df754d0713146fd663e5f8af9b5bd73"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-025.json",
+          "hashMode": "utf8-lf",
+          "sha256": "78508e2df018ad208e5a6e247d4beae699c6261ae6d74e867d116c781d27753f"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:08:45.326Z"
+      }
+    },
+    {
+      "archiveId": "szk-026",
+      "runtimeId": "sz-ai-026",
+      "title": "黄釉注子",
+      "sourceFileName": "《寿州窑》_13578583_176.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-026-yellow-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "0209da8cdbf7851bbe1fe9f608c13f39ffd6ec5a63986ae8da48b8ce11cb633b"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-026-yellow-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "2a73cb0baf426459d23b8519436c939105c09aa22579d4786431feda39d852bb"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-026-yellow-glazed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "fb07c7a18f3a44c611cdc9a39a4255b7f431bcbafe6718ee65597c9c5872bf4b"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-026.json",
+          "hashMode": "utf8-lf",
+          "sha256": "785b2109dd961a05e62af7fbcba20b5d258a38a9876fe41862cc342ee4a709e3"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:09:11.073Z"
+      }
+    },
+    {
+      "archiveId": "szk-027",
+      "runtimeId": "sz-ai-027",
+      "title": "黄釉双系敞口注子",
+      "sourceFileName": "《寿州窑》_13578583_178.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+          "hashMode": "raw-bytes",
+          "sha256": "44dfcdab5f94a556f20fbfe846f7006380d2bbcdb99b35578075eb6505e0b25c"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+          "hashMode": "raw-bytes",
+          "sha256": "e200d19f1b0f6e154e7785d2540f3e11d930541389d5de3dcd1378372917c0bc"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "92eeea9eb1f4debd60c3e2ae3fd19530ff3f4bc3cec4360e2174ce24f4354cf3"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-027.json",
+          "hashMode": "utf8-lf",
+          "sha256": "f59c39dc81a187592fa343b6264776ee607b8a3e9fd5c16c5e8f938b7a0598e4"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:09:35.540Z"
+      }
+    },
+    {
+      "archiveId": "szk-028",
+      "runtimeId": "sz-ai-028",
+      "title": "黄釉注子",
+      "sourceFileName": "《寿州窑》_13578583_180.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-028-yellow-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9c9268b770ad9c26fda66d50dd4f6a6bb1e2daa8a33bbdfcd9bd1c5276106dbd"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-028-yellow-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "da42cef0e8bf0c15a1cf4d21120e050d62d7897a7699a1dae432ec9bd659eb67"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-028-yellow-glazed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "5d847ea7d349781268cc77edb644a6abe83765f1edc536ab7582bc107629ab5b"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-028.json",
+          "hashMode": "utf8-lf",
+          "sha256": "4927b1a71d3b59e499c798ef641c4fb8b690b864270fc3623270f80da1bf743d"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:10:00.265Z"
+      }
+    },
+    {
+      "archiveId": "szk-029",
+      "runtimeId": "sz-ai-029",
+      "title": "黄釉褐彩瓷注",
+      "sourceFileName": "《寿州窑》_13578583_181.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-029-yellow-glazed-brown-painted-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "038a0b7107a774b75673dc29c97c1d287bd6dd48c3018bb37772bbf47419e6eb"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-029-yellow-glazed-brown-painted-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "bb85c2745f93bb455b1770bb4c09b79a0fba80d26f57e3950fc5ff08c8c23f88"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-029-yellow-glazed-brown-painted-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4b643c9e7c0274030573fb75db3ccb8150ba9c02173273eccde6bdc9220a042e"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-029.json",
+          "hashMode": "utf8-lf",
+          "sha256": "5113263a108541aedf272352cde6e2ec179e003e7a1f83224f151c13be574862"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:10:25.666Z"
+      }
+    },
+    {
+      "archiveId": "szk-030",
+      "runtimeId": "sz-ai-030",
+      "title": "黑釉注子",
+      "sourceFileName": "《寿州窑》_13578583_185.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-030-black-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "48d3da23caee2a2656f4d562413c70dc5c31c1fbe2f996ae2d2e79fbb3bfb84c"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-030-black-glazed-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "a130b4a6d94114e0583e887ff2be7fdf7e29a432580a0059d0191f8ab1a54b50"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-030-black-glazed-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "aed8604194ba248bbb58e9509660203aff2a76ec1e1d5c1aad843ff8744e41d5"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-030.json",
+          "hashMode": "utf8-lf",
+          "sha256": "900de49bbb5a05d97243faaacd8b7865b7d605502456b959946a5eefb4b48577"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:10:48.853Z"
+      }
+    },
+    {
+      "archiveId": "szk-031",
+      "runtimeId": "sz-ai-031",
+      "title": "黄釉圆腹注子",
+      "sourceFileName": "《寿州窑》_13578583_188.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-031-yellow-glazed-round-bodied-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "87c85d7bd322d7b1df54eeeca72eda2222c914f535bae6af7f4274f448216da2"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-031-yellow-glazed-round-bodied-ewer.png",
+          "hashMode": "raw-bytes",
+          "sha256": "1cf86f584719bbc19b94501a08028e09dcbd772b982f04cffc37351ce95b8fc4"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-031-yellow-glazed-round-bodied-ewer.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "3c1dd015c737d9ab79c0873ab3ed8eb97bc64637aa81255f50e4bd66d15106f9"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-031.json",
+          "hashMode": "utf8-lf",
+          "sha256": "7c19f56eafcf4ee0ff0a13493a6badd26e3f9f6a8fa27dfcf6807d0c08f48388"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:11:14.389Z"
+      }
+    },
+    {
+      "archiveId": "szk-032",
+      "runtimeId": "sz-ai-032",
+      "title": "黄釉贴花瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_204.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-032-yellow-glazed-applique-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "a52672af327e904310e8d13fe5a1a702f7053e6d819f165190df7b559ca66e7e"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-032-yellow-glazed-applique-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "11a9dec8e5a9cb8d291ee16d186b2876e993786f236961e0d6d480c0b17e024b"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-032-yellow-glazed-applique-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e6402ae9b9c089e68cac8f351d085ab60599553a68bf6393e7b39018ad4b526a"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-032.json",
+          "hashMode": "utf8-lf",
+          "sha256": "cca6d2a817e563407f83d52bd97b35a479f0c4f4842df7a6beb23ddc4e16151d"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:11:40.427Z"
+      }
+    },
+    {
+      "archiveId": "szk-033",
+      "runtimeId": "sz-ai-033",
+      "title": "黄釉印花瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_206.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-033-yellow-glazed-impressed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "8003f68c209eb7becb18158f21fa6ee9ecec124f69128bd90b6ec0831235ae70"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-033-yellow-glazed-impressed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "2f7751e559cd926148398c8da36bf6dc8ff5726c069a44d9fdbdf611d4548275"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-033-yellow-glazed-impressed-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e1935eb5f5e00953b7d30fb8e77f4b237c2f433c9e9db4fd82fb825cb4172727"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-033.json",
+          "hashMode": "utf8-lf",
+          "sha256": "85a36fe808f02469f1b5452b8df5c7bba43e6e24ed84e616c94ee932a13494f7"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:12:04.734Z"
+      }
+    },
+    {
+      "archiveId": "szk-034",
+      "runtimeId": "sz-ai-034",
+      "title": "黄釉贴花瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_209.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-034-yellow-glazed-applique-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "86b2e6124b4404d2507ed1feedca3edadafa677a6e3ff42e24d98ac3033b25df"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-034-yellow-glazed-applique-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "b95593d62103fd8d32417be5f8309cf32e0a821bdb5fe644faaf5fdd63b3df85"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-034-yellow-glazed-applique-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "75c544f66232cdb92838a78f5a133f5568b0a203ac2bf9a3add2cefdc6953274"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-034.json",
+          "hashMode": "utf8-lf",
+          "sha256": "f2c0e959bac3266b6cc514b70a4c90409d18ebfa8d5d4d3d9460ac4bb98d39e5"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:12:28.368Z"
+      }
+    },
+    {
+      "archiveId": "szk-035",
+      "runtimeId": "sz-ai-035",
+      "title": "酱红釉蝴蝶纹贴花瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_213.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+          "hashMode": "raw-bytes",
+          "sha256": "794ed3a8e3d58a615d01a383fc2bd3881efd40b93e486788bc9bb684cd421881"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+          "hashMode": "raw-bytes",
+          "sha256": "6100d695fc87c220f60cca137de3500681cd2f388855c2aac4d8ecec9a1ad3ed"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "764878269abe7cece25c4b3ab21a9360852110a767f7f866a7284d637ae91ac0"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-035.json",
+          "hashMode": "utf8-lf",
+          "sha256": "a1287087f5bcfb3118d13f81002f937b655d6c8587bf7084564ba6781d41b9df"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:12:52.866Z"
+      }
+    },
+    {
+      "archiveId": "szk-036",
+      "runtimeId": "sz-ai-036",
+      "title": "酱釉瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_216.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-036-brown-glazed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cb1d26db282e1041bbfa6795ce36738549e81d03a6c49a87ab0c9f85055a5798"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-036-brown-glazed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "06388b08d3ebb763226ca72d48c5235feeff1f218e164f1c37d51ae4b5737d37"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-036-brown-glazed-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "651b932d31a125a5a69d433a2e87266206e6bead19a0bda93e0556760f191711"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-036.json",
+          "hashMode": "utf8-lf",
+          "sha256": "4f500bcc6334d007247858655a1566de47041608c1900d0f4e24d258bf9a9cd6"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:13:16.675Z"
+      }
+    },
+    {
+      "archiveId": "szk-037",
+      "runtimeId": "sz-ai-037",
+      "title": "酱釉漏花瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_230.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "3b14b3505552f94181b4339db37cd018be8fe24366cd6f05e89c2b945e6dd003"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "526226add7c6e1e45dc8d1e7fb404362fb9556890871444843e93ca1cdce3051"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "1f082aaeabe1230ae42b8e3adf0998a14c552078e36534927499ada64a20a766"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-037.json",
+          "hashMode": "utf8-lf",
+          "sha256": "cff3c5f821190a2440d730369bf32269cafae1df4e7eef54709aa015739c25f8"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:13:40.851Z"
+      }
+    },
+    {
+      "archiveId": "szk-038",
+      "runtimeId": "sz-ai-038",
+      "title": "黄釉委角瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_231.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+          "hashMode": "raw-bytes",
+          "sha256": "01513746b9dbab234ab58dc3d21eccde23380b3c2c63015a756251ddc04799fb"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c5c6e43cbef85e8c8fd987dd2081541578870612960259b7cb59c551b168e3f6"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-038-yellow-glazed-pillow-with-recessed-corners.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "70c983d48c119969d8afebcaee6c280a7f3404ae215136522736501734d96236"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-038.json",
+          "hashMode": "utf8-lf",
+          "sha256": "40fe30c84e6083a532645400d50b29f9140107fd25171739a377cd6a7c0edee7"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:14:05.407Z"
+      }
+    },
+    {
+      "archiveId": "szk-039",
+      "runtimeId": "sz-ai-039",
+      "title": "黑釉松叶纹瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_234.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+          "hashMode": "raw-bytes",
+          "sha256": "133b9e0c32d351df59341befc0e2c6a22902133affabd2978889fdaf1687d7aa"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+          "hashMode": "raw-bytes",
+          "sha256": "986ac956c4c02de2f0bbcfc249061b0ed417a402d9784677bfbd65c188dbea2f"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-039-black-glazed-pillow-with-pine-needle-pattern.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "dacadca5fb33da5aadec2b705974a2cd48ea40dde56b9927b3544c27bce437a9"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-039.json",
+          "hashMode": "utf8-lf",
+          "sha256": "4018c575a008e74fdc03a880f35f223a4e6ebd1234dd9a29375e96dea27eb132"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:14:29.551Z"
+      }
+    },
+    {
+      "archiveId": "szk-040",
+      "runtimeId": "sz-ai-040",
+      "title": "黄釉瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_236.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-040-yellow-glazed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "0dc1c463b299daff02c922d6f9d6351d0311f248db92f1930a5cd74c4f3555bc"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-040-yellow-glazed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c6fc0690b4e1c423fbb4746008c2e6bedb32f60a8633b03aff1944e052a0cda8"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-040-yellow-glazed-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "6362c27ddd07648a7bb9f08fbc1c61bb86a143ae9883816f95ff9c299b95ed91"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-040.json",
+          "hashMode": "utf8-lf",
+          "sha256": "b75047c15a81ea7f9e8359f01fb91401a547bce5a23ffa933a37be6326a609c3"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:14:54.107Z"
+      }
+    },
+    {
+      "archiveId": "szk-041",
+      "runtimeId": "sz-ai-041",
+      "title": "黄釉划花纹瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_239.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "370b0fa0436ea1825360db685aae4f440bec44fa4fd5a120d7f3d56d4d27b428"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+          "hashMode": "raw-bytes",
+          "sha256": "06f8a77811bfe0e26caaeee2905cf096aa7ac55f28fb57a2d0334aa9a5b8bf75"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "5dd1fc7aaded873a03fff7daad2a4489471ceff1036ca8409f7e7b3cdc3433bd"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-041.json",
+          "hashMode": "utf8-lf",
+          "sha256": "05d76b2f113323388ec57f44a50251033df278e688dd31755569ac2452ee4586"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:15:19.055Z"
+      }
+    },
+    {
+      "archiveId": "szk-042",
+      "runtimeId": "sz-ai-042",
+      "title": "黑釉兽形瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_242.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-042-black-glazed-zoomorphic-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "7df9787299575eb345b4e372c8f29b63205f6ea625d197b53df15a0297625dba"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-042-black-glazed-zoomorphic-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "3c8cd4be3ab144c0736682650d361564c6eb0f7204a04d1a3f7758dc1b3c80ae"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-042-black-glazed-zoomorphic-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "24a796877bb1d9d8f46329b430fe136a5ff4d9db818ada46ce54516f73b770fc"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-042.json",
+          "hashMode": "utf8-lf",
+          "sha256": "d5df6d0bc292abd7f04f9a4be87cd9117c3ea78bf17c7dab2b1754ac8ebffe46"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:15:43.475Z"
+      }
+    },
+    {
+      "archiveId": "szk-043",
+      "runtimeId": "sz-ai-043",
+      "title": "酱釉象形瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_245.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ac54ec3144c6763c9fc1ea2bac802639c222dd707169821c3d1fe22d01bb43d0"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+          "hashMode": "raw-bytes",
+          "sha256": "8bde7c36e940639e9afd8f5b30f433f17343b58f4d3d92565cad9162d7b743ea"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "dc3f62464b69549de438258016420e34c9eaa1d4caaa8daa8da6d7622ec5c071"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-043.json",
+          "hashMode": "utf8-lf",
+          "sha256": "ee7b43e94baea37d258a777f9c07217b9cde661ca4c68a7fefb81a1da902a3cb"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:16:06.868Z"
+      }
+    },
+    {
+      "archiveId": "szk-044",
+      "runtimeId": "sz-ai-044",
+      "title": "茶叶末釉兽形瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_246.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "4fdbfd0c99c07b2a307dfa5c1f7de55842eef2e1c51c84be002ed696e4bbfc93"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "27e0c6d8070198ad9f54acdb91b5b7ed0da41228c83b0de0f4b0aef75ce850fb"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "cbf2988d95aed9e560651d690daf620263dbf9a681e2ae2a6251b520ecd833e5"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-044.json",
+          "hashMode": "utf8-lf",
+          "sha256": "97d6d1a3f13702f21c449f99e7a336d45c8ca1371644ab5e0bcde523a7b3435f"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:16:31.496Z"
+      }
+    },
+    {
+      "archiveId": "szk-045",
+      "runtimeId": "sz-ai-045",
+      "title": "寿州窑黄釉瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_247.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "bbf7b51576f8962409945d77edbb1a1ef9575882d92f04a5fee9994739160cef"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+          "hashMode": "raw-bytes",
+          "sha256": "351887cacace3a01322814756c9abf584869c8ac23aea9ae521842bc476eead0"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-045-shouzhou-kiln-yellow-glazed-pillow.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "e38ca40331598bb9139ee2f3ff18fc4b31839370ca01524ff2d1e785740b012f"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-045.json",
+          "hashMode": "utf8-lf",
+          "sha256": "f90c4465522a75ec61a13afc6bd6d8daa0251e39a88d2166f49708d0dd866817"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:16:54.831Z"
+      }
+    },
+    {
+      "archiveId": "szk-046",
+      "runtimeId": "sz-ai-046",
+      "title": "黄釉“大中祥符”铭龙纹瓷枕",
+      "sourceFileName": "《寿州窑》_13578583_248.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c37dddd7ee33d0e21c54545bad5a5fb8e739036a4343e8731fad596b1a6b1619"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+          "hashMode": "raw-bytes",
+          "sha256": "59de6d92bf0b147ad8eec69ed8dd10beec6f16e7ed54793f33895a3836ff47ab"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "10a899ed0f951f87235b42571dff183ac142bf2cdd62d5b3355f4ea67d759ce9"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-046.json",
+          "hashMode": "utf8-lf",
+          "sha256": "fbb8d90c453af29b6a5f195a100bd3108de1504952fc3f59ddde3e4d731e4114"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:17:19.223Z"
+      }
+    },
+    {
+      "archiveId": "szk-047",
+      "runtimeId": "sz-ai-047",
+      "title": "黑釉碗",
+      "sourceFileName": "《寿州窑》_13578583_255.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-047-black-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "aa7c2fe7318da98576106d107049255c41414a0304e918ba72ca490dbcb21a9f"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-047-black-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9a0d88246aa51529dca8dfd78256650b04949e4db180e46006ad58b7a0c7154e"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-047-black-glazed-bowl.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "fb6609c02ce7d0bb67584f0dc3db48bea0d519d87cb464d1493212835490322a"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-047.json",
+          "hashMode": "utf8-lf",
+          "sha256": "1807f2a401b4e0b233866c1e4291ec081c4323ec8df5704092c07327880a30ab"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:17:43.150Z"
+      }
+    },
+    {
+      "archiveId": "szk-048",
+      "runtimeId": "sz-ai-048",
+      "title": "黄釉璧形底盏",
+      "sourceFileName": "《寿州窑》_13578583_256.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "10b24f792881aa499ae2450cdeed8e70e7cc38820e1bccedca8cf0aca781d187"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "f824255771d3ce7148e8c4cb976ea6dd824b358a659c063234c496f36775a28e"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4d11c096a1fd4e7de95b27604e6e8735420f458e82d3b4a4f2548ca96bee4822"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-048.json",
+          "hashMode": "utf8-lf",
+          "sha256": "88676b6630b789eddf4b690de1fef3d2d73062d442b800ef3ec665619cf5a089"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:18:07.698Z"
+      }
+    },
+    {
+      "archiveId": "szk-049",
+      "runtimeId": "sz-ai-049",
+      "title": "黄釉盏",
+      "sourceFileName": "《寿州窑》_13578583_260.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-049-yellow-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "a6018c67333bd36c9173b68a0394072c5dfcaa0f31d50e0f124eddd318d88ef8"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-049-yellow-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "e59f432ed4caf1917640a1662132c295fdd22779da919b27bad7dae39201e20c"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-049-yellow-glazed-bowl.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "39954937fdfb0db3595b58897fbee66cb5726eaeb5a59152703ffa0d80da8ba6"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-049.json",
+          "hashMode": "utf8-lf",
+          "sha256": "457c02fa65835f14d4038e412fa758b0a01559b7f664cdeb9acd7c67338b07e6"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:18:31.381Z"
+      }
+    },
+    {
+      "archiveId": "szk-050",
+      "runtimeId": "sz-ai-050",
+      "title": "酱釉碗",
+      "sourceFileName": "《寿州窑》_13578583_267.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-050-brown-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "2525c1c3371f608269f48cc9da678776b569801e345eb89750654d9196aeddb2"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-050-brown-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "1efaaeee16c34c0dde90e3d07453cc81167182f5d831f5060dff3ce603cc5612"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-050-brown-glazed-bowl.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "6e5b3d08fde4ae0903becc11e229640be7bdcf64a6e51675c371945ee35d680e"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-050.json",
+          "hashMode": "utf8-lf",
+          "sha256": "aaa8ffb1a119e426b04787250384bd19e06f7038e32435cd2df35fd31a5c9012"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:18:55.168Z"
+      }
+    },
+    {
+      "archiveId": "szk-051",
+      "runtimeId": "sz-ai-051",
+      "title": "黄釉璧形底盏",
+      "sourceFileName": "《寿州窑》_13578583_268.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "3a58bc06ce4b3e54c8a0ab51136134dde32728cdff210f6338145ad5d39cf220"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9518ae51fe70513451328cc3bfa240c3b62f0682b6655a2e2adc58dd8d799e9e"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "1ac73a3be0acda7659301c6dbce92f31f727856f0f00ffb0bacfd72cf961cc68"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-051.json",
+          "hashMode": "utf8-lf",
+          "sha256": "5aade11322f9d2b1db61266b41e7e4143fc305e8f4a4c5a9aea5ca2933fe1209"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:19:21.327Z"
+      }
+    },
+    {
+      "archiveId": "szk-052",
+      "runtimeId": "sz-ai-052",
+      "title": "黄釉贴花葵口盏",
+      "sourceFileName": "《寿州窑》_13578583_269.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-052-yellow-glazed-applique-lobed-cup.png",
+          "hashMode": "raw-bytes",
+          "sha256": "e7c640d2668a34d473c1a4fca1bf2b3a67e85ec6953ff51c151cb84b366e4ebc"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-052-yellow-glazed-applique-lobed-cup.png",
+          "hashMode": "raw-bytes",
+          "sha256": "05d221dc7dab7a8378059e0f5bb0800c1737ca1438634d10b8363638fafe0544"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-052-yellow-glazed-applique-lobed-cup.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "b6e75facf922f822eb6f580e1015a50a496f20032f708ea32682691ec960428f"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-052.json",
+          "hashMode": "utf8-lf",
+          "sha256": "31eee7e3f7c10d129c72800dbcf4ddb54d612532f239f2ccc7ba2b365bdde53c"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:19:50.290Z"
+      }
+    },
+    {
+      "archiveId": "szk-053",
+      "runtimeId": "sz-ai-053",
+      "title": "黄釉大碗",
+      "sourceFileName": "《寿州窑》_13578583_275.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-053-large-yellow-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "acb288674572984f8acb28e205e41805d9d3fc3295123e3dbafe430e43eec8c9"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-053-large-yellow-glazed-bowl.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ada2300573d38d02bf2f2a3cd29702f59c974d41aeb852b622a1fc6c357e3f73"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-053-large-yellow-glazed-bowl.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4e03dc8730a988a31ea18360a0801f9353c9035e1a987b803ab5108811a68d04"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-053.json",
+          "hashMode": "utf8-lf",
+          "sha256": "e5e840c355a9ab2db9699115e3a910f1c650f6889e771616dec66eec5b3c580b"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:20:13.187Z"
+      }
+    },
+    {
+      "archiveId": "szk-054",
+      "runtimeId": "sz-ai-054",
+      "title": "黄釉水盂",
+      "sourceFileName": "《寿州窑》_13578583_278.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-054-yellow-glazed-water-pot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "40dc0d38cd37d7e08775dc47b388b4901735c051d75218e1663e1325dfd37250"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-054-yellow-glazed-water-pot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "8568abe079202ea67ab24263430fc0cdf62175b0b46617fbcd777a8a00cbd796"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-054-yellow-glazed-water-pot.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "f86df55e72e2d7a6409a17494bdcc8d1d22ec02e9b826b1f4c6557ae843c086b"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-054.json",
+          "hashMode": "utf8-lf",
+          "sha256": "d795d30abe923aac1afbca74822dc0b3a2375eee46b5b4312eba2066c9722ec2"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:20:36.696Z"
+      }
+    },
+    {
+      "archiveId": "szk-055",
+      "runtimeId": "sz-ai-055",
+      "title": "黄釉水盂",
+      "sourceFileName": "《寿州窑》_13578583_284.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-055-yellow-glazed-water-pot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "30cfc1163c0533a859f24309cca22d9b476cbd246f9e3cc29076336e3f593c99"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-055-yellow-glazed-water-pot.png",
+          "hashMode": "raw-bytes",
+          "sha256": "02fba9d057a28413063ed089c597a698ada0d3cd24ea16b9875a9e2822eea418"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-055-yellow-glazed-water-pot.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "dec4dcb12e485b00c8031f57888d8a908c06447c3716fe266d00c2bce77692ef"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-055.json",
+          "hashMode": "utf8-lf",
+          "sha256": "ab12cea95d9bb8c345b68f68d008c486515ba6f5e98ac26aa1f9dfcb084e85c5"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:21:00.582Z"
+      }
+    },
+    {
+      "archiveId": "szk-056",
+      "runtimeId": "sz-ai-056",
+      "title": "黄釉敞口四系罐",
+      "sourceFileName": "《寿州窑》_13578583_290.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+          "hashMode": "raw-bytes",
+          "sha256": "76c5998d3186072f7c19525b5af20750f5a724e559af28aa027a379a3a4b5e64"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+          "hashMode": "raw-bytes",
+          "sha256": "dacd1c921fd62846f13a77ec2bd3735b9fd2a97f16d5909d472598f42f529ffa"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "5f63b4730a8bc6a127bee7418c0b8767bdda2f1c836215ab5d981f855a661fa7"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-056.json",
+          "hashMode": "utf8-lf",
+          "sha256": "4fd1838a490fda5f0293557237777d23d7e0d04488c5d93a2bd605da5dcc7c45"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:21:25.843Z"
+      }
+    },
+    {
+      "archiveId": "szk-057",
+      "runtimeId": "sz-ai-057",
+      "title": "黄釉大瓮",
+      "sourceFileName": "《寿州窑》_13578583_292.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-057-large-yellow-glazed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "f03550cbaee5a171235e60870f59356ef17b0f192159936f7eb6e6b4e48f797f"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-057-large-yellow-glazed-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "18ddaf078267dda9ebe6fec63549f85f9f13b74918fe967be1f2cf0225768555"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-057-large-yellow-glazed-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "d1f9119638e205698b66d739b75a302bf5ae50112755baae934240f4058abb0c"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-057.json",
+          "hashMode": "utf8-lf",
+          "sha256": "60840da3bdc508d139304332cc9040152e7a3a7a6630e8956bea2f4f68e7f4c4"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:21:50.666Z"
+      }
+    },
+    {
+      "archiveId": "szk-058",
+      "runtimeId": "sz-ai-058",
+      "title": "黄釉唇口四系大罐",
+      "sourceFileName": "《寿州窑》_13578583_296.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c34e97c835b63d5b4b7b09cea3845466b65c776f34e4519692bd3d12d1d74dff"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ffd6524111110aca2a22bdb2ad0a014f56e795b4daaaac188358a9d09bf7250e"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "d3698601a22ad0732f49eb63f872198da0e697cff7aa756e917c2f9b62fd6c18"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-058.json",
+          "hashMode": "utf8-lf",
+          "sha256": "0b03ec18bda75a29c285bd907855295be6950f48c4668766b730f5dac1eefaa7"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:22:14.818Z"
+      }
+    },
+    {
+      "archiveId": "szk-059",
+      "runtimeId": "sz-ai-059",
+      "title": "黄釉四系穿带壶",
+      "sourceFileName": "《寿州窑》_13578583_302.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "a09934289f90e31d06670a82f7fc325125bf1856464c7596e5a027b9b7e59dc2"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "df8b09a9eaba4837fbd22407e80f875430517c7618b824f5578559cbcb6ad020"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "74ffcf15e97b2dfd0ea7879bd75991ef4591c6860f0ad7a3b2dcedbe314e41ff"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-059.json",
+          "hashMode": "utf8-lf",
+          "sha256": "ed8517d8e40711a06d6fd6efd38fe0f79e5e3175f626f7113c2f400a796004a3"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:22:39.020Z"
+      }
+    },
+    {
+      "archiveId": "szk-060",
+      "runtimeId": "sz-ai-060",
+      "title": "黄釉三系唇口罐",
+      "sourceFileName": "《寿州窑》_13578583_308.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9f941927030fd11662e00c6e2b47c69f3950bfa03d29bf5fdb42d69f7143fa71"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cb5d81acdcd2bdcfc9745a124b076e1c5a17b6640727e5c9aab6f04bd1bd88fe"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-060-yellow-glazed-three-handled-lip-rim-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "ed82e41cecde29e25cd1259109e3c53ff641e1bd5d3d51ee01ca16ba04f7a484"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-060.json",
+          "hashMode": "utf8-lf",
+          "sha256": "9c95b75e44e6a24f1bb6055eeab6449528f4ec2a64cff4044b17f3a96c7e6431"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:23:04.481Z"
+      }
+    },
+    {
+      "archiveId": "szk-061",
+      "runtimeId": "sz-ai-061",
+      "title": "黑釉双系大口罐",
+      "sourceFileName": "《寿州窑》_13578583_309.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "097d93b33c3047abd6048a87e0bab81c38f6ca9f5b8740e9546a6976153f47b2"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "7ee8352c2a06e10c6b8cd8bad73469640c129bf4633c24badd54e622ebf60f57"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-061-black-glazed-large-mouthed-jar-with-two-handles.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "7301aa75b9106e4ea39f916d2b7ef7046eb29703e65c0bed619eccffee2fb489"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-061.json",
+          "hashMode": "utf8-lf",
+          "sha256": "31f6c876b7d3fa1c0465a1955eb551c8bb38f633b1923a08df818f2d205199c2"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:23:27.860Z"
+      }
+    },
+    {
+      "archiveId": "szk-062",
+      "runtimeId": "sz-ai-062",
+      "title": "黑釉胆形腹盂口瓶",
+      "sourceFileName": "《寿州窑》_13578583_314.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+          "hashMode": "raw-bytes",
+          "sha256": "39ed3f9d3583e0b29842c188eb847b540b9844fa81ae5c3476a52066a3a9467d"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+          "hashMode": "raw-bytes",
+          "sha256": "26b60b7d350e8fe16ac8e61c057d6c46c173b5428fe48bf51e8d56f4e604c6fa"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "87746937e5f934e48d045853bb30e78171d7b31c14a6a0fa33e08f77974bca47"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-062.json",
+          "hashMode": "utf8-lf",
+          "sha256": "f6c40a8dc6534564b8ce24650e895fab8b38aefd01f5ce42dffa887c85227271"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:23:51.933Z"
+      }
+    },
+    {
+      "archiveId": "szk-063",
+      "runtimeId": "sz-ai-063",
+      "title": "黄釉鼓腹罐",
+      "sourceFileName": "《寿州窑》_13578583_315.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-063-yellow-glazed-bulbous-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cac48e57ba4307b4601073ba75accc9f32dd5b9f6c6318a6e7e8073b835c3e9d"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-063-yellow-glazed-bulbous-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "bcf673d1e60d95c89b3008de259c56b6f93766fe1d53947852f97899f68ff66d"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-063-yellow-glazed-bulbous-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4f256e68e72ecde307426b422529bb97b28cdf2a3ad15561dd10f3e76d76d3fb"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-063.json",
+          "hashMode": "utf8-lf",
+          "sha256": "d76d4380257f4e1e92df3b90701d35e9c0ad7100e0273705332a5c2da25c54b3"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:24:15.931Z"
+      }
+    },
+    {
+      "archiveId": "szk-064",
+      "runtimeId": "sz-ai-064",
+      "title": "酱釉双系长腹罐",
+      "sourceFileName": "《寿州窑》_13578583_320.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "17714db47fcc73d866b311289d1ec88eb65debd6a21da879cc3cf405c8b3acab"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "951630f5e733d32775ac82936933b390a7f8b26e8011ce586871bb8ac049cbca"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-064-brown-glazed-two-handled-long-bodied-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "1e62085f492fa13ae72a44f47c4fe9525e2ef12da28e36366408a76797677693"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-064.json",
+          "hashMode": "utf8-lf",
+          "sha256": "826d18b07146282f7119eedec911416e0a8ff4d97fd4c94edc3d94fb5666b6bd"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:24:41.301Z"
+      }
+    },
+    {
+      "archiveId": "szk-065",
+      "runtimeId": "sz-ai-065",
+      "title": "黄绿釉唇口四系罐",
+      "sourceFileName": "《寿州窑》_13578583_333.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "0ea395d6c6aebcb5004a65ea0df2f39dfc7799b6dc6ff6a9ca0ba6491554f73d"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+          "hashMode": "raw-bytes",
+          "sha256": "56ba1d217e689faaf8a7c7feb0ccac8f1361a18cce827ef7e0f47d38868a5d44"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "2bf4de299cdf0fda8bce9deb94330c7f17b7a5b565132ea4e8d8933228eed818"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-065.json",
+          "hashMode": "utf8-lf",
+          "sha256": "7d65d55e51ce045442e95562e01e0c3b6a5f311eaa6a49b6729ccc37ad901940"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:25:06.078Z"
+      }
+    },
+    {
+      "archiveId": "szk-066",
+      "runtimeId": "sz-ai-066",
+      "title": "蜡黄釉盂口四系罐",
+      "sourceFileName": "《寿州窑》_13578583_337.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "2afe5664cb5cad8c98ef1a78f00d24361e99571da744cf8adacc17b4cda65319"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "0a51494add911a8e496cf44f4a895ba9e75945b59505e0799e52d797d3d380f3"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "a3512d89f0c14f7f4c113f13f48dd55d82fe28aad26db1e27474d89c516a2811"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-066.json",
+          "hashMode": "utf8-lf",
+          "sha256": "3850ee386483e1b0c70f06b00d7cb19c708b3d2b23b8faed5bf928cdce0f065c"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:25:30.840Z"
+      }
+    },
+    {
+      "archiveId": "szk-067",
+      "runtimeId": "sz-ai-067",
+      "title": "酱釉盂口四系罐",
+      "sourceFileName": "《寿州窑》_13578583_342.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "133cb869958c1812861103b9662e806b20e5e699680d16b8e838a8f809964e26"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+          "hashMode": "raw-bytes",
+          "sha256": "ad1c7cde819be979cbc5354dea5bb2752f1338fd16e717e531ee6f57aff081d9"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "c8c88aef469c461568ea0723bfb6590cdd8b57492078b8c4ce819ca1bfdedbb7"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-067.json",
+          "hashMode": "utf8-lf",
+          "sha256": "358bfa53fcbc6b6ac27b50a742ea61eb2d820a778c47e38f48de1dc58f424d2d"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:25:55.422Z"
+      }
+    },
+    {
+      "archiveId": "szk-068",
+      "runtimeId": "sz-ai-068",
+      "title": "黄釉多足砚",
+      "sourceFileName": "《寿州窑》_13578583_344.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-068-yellow-glazed-multi-footed-inkstone.png",
+          "hashMode": "raw-bytes",
+          "sha256": "4fc38c59d0f7f018a9967f719b97769cc7c20b37cbcb4914816995e4b6e500e3"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-068-yellow-glazed-multi-footed-inkstone.png",
+          "hashMode": "raw-bytes",
+          "sha256": "5b2713e7f2b2a30a3dbc2c1444e6ab1b1b0d44db85e2d482f72f8d7875f3e919"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-068-yellow-glazed-multi-footed-inkstone.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "6fb96a63b711d5d6340b5229f23a9ac3a361f74fc370f379bb8b8f4945f998cf"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-068.json",
+          "hashMode": "utf8-lf",
+          "sha256": "fdd605fdaab29e8f5f52af3b21e9239e70ea5d7d2a8968e735bf0ccadd01020c"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:26:19.483Z"
+      }
+    },
+    {
+      "archiveId": "szk-069",
+      "runtimeId": "sz-ai-069",
+      "title": "黄釉兽形镇",
+      "sourceFileName": "《寿州窑》_13578583_346.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-069-yellow-glazed-beast-shaped-weight.png",
+          "hashMode": "raw-bytes",
+          "sha256": "bda41f8176569def01287855fb1f20abd2885421f08c00639dd1b82317f7b99f"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-069-yellow-glazed-beast-shaped-weight.png",
+          "hashMode": "raw-bytes",
+          "sha256": "cba77e38de7c088d9c2bb1ada61d54fa45cf23145aa902d60969bdd3f511d8db"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-069-yellow-glazed-beast-shaped-weight.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "1ee8009800b003dc58270b9b962d589835f0fc08e7a3bd73b23331297d624ade"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-069.json",
+          "hashMode": "utf8-lf",
+          "sha256": "be8c9c2c1b57a16bbe0c01af12bc575b3f1d180c1ee26457b7bee4fbe0cafc5c"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:26:42.433Z"
+      }
+    },
+    {
+      "archiveId": "szk-070",
+      "runtimeId": "sz-ai-070",
+      "title": "黄釉狮形镇",
+      "sourceFileName": "《寿州窑》_13578583_347.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-070-yellow-glazed-lion-shaped-weight.png",
+          "hashMode": "raw-bytes",
+          "sha256": "53f8b416636a1d2788c3f24af7f1ca477cde7b4d1fbd77eaa2c0df364f9d73e2"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-070-yellow-glazed-lion-shaped-weight.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c1645ab11aefb2684d046a150737b5819469bf850550c55b86d83b95797bb57a"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-070-yellow-glazed-lion-shaped-weight.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "8559f9722293b5f36777c158c2fa825efca3afe848f2bfe3a8c06f2a227bc2c7"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-070.json",
+          "hashMode": "utf8-lf",
+          "sha256": "a0eec4140f794df782a1c7711e557faf0b893be6a0a0d6e71702f1e3243ec90a"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:27:06.703Z"
+      }
+    },
+    {
+      "archiveId": "szk-071",
+      "runtimeId": "sz-ai-071",
+      "title": "黄褐釉卧虎镇",
+      "sourceFileName": "《寿州窑》_13578583_348.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+          "hashMode": "raw-bytes",
+          "sha256": "7a15423dfc1bee2edc73e98d45ba21bbee67c26ae3ad876658a2483151c0d4af"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+          "hashMode": "raw-bytes",
+          "sha256": "3b5d8cfeea1ff0d0e3f9c55743bee232f589c4f4d2aee7cea0d9d19abee7c844"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-071-yellow-brown-glazed-reclining-tiger-weight.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "1eadafce0d031e20cf0726c27d168c040add1029b1deed683248a68536325752"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-071.json",
+          "hashMode": "utf8-lf",
+          "sha256": "944bd2ca78d1b34cd157e6a78064a2bcef5ad69dcd0d78f5d85c6dfc02b49614"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:27:31.073Z"
+      }
+    },
+    {
+      "archiveId": "szk-072",
+      "runtimeId": "sz-ai-072",
+      "title": "青绿釉瓷塑兽残器",
+      "sourceFileName": "《寿州窑》_13578583_350.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-072-green-glazed-ceramic-beast-fragment.png",
+          "hashMode": "raw-bytes",
+          "sha256": "44b1c8a74b3fc62e63554afa229244b002d7cc785adaa27ddf41cb31bfa4acca"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-072-green-glazed-ceramic-beast-fragment.png",
+          "hashMode": "raw-bytes",
+          "sha256": "41f6bc8d4f81f9211eeaf8e68e190a4240f90dbe317826fefd98298f24a015d0"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-072-green-glazed-ceramic-beast-fragment.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "9f3bdac3c2d8874d3a336be2c4ea1c1b8873de562431678659b687467840287b"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-072.json",
+          "hashMode": "utf8-lf",
+          "sha256": "706a0b3696c663c42d27990ddf0f2d8d280a44c2c25ce16ac1cc1deb8c4fcaca"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:27:54.879Z"
+      }
+    },
+    {
+      "archiveId": "szk-073",
+      "runtimeId": "sz-ai-073",
+      "title": "黄釉小瓷马",
+      "sourceFileName": "《寿州窑》_13578583_356.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-073-yellow-glazed-ceramic-horse.png",
+          "hashMode": "raw-bytes",
+          "sha256": "28e078df0cd5f32099515435800050f50e8838a1b18750639f6bcaaee0d572e0"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-073-yellow-glazed-ceramic-horse.png",
+          "hashMode": "raw-bytes",
+          "sha256": "9eb576256b08f892340e90f59a2def134eddfd69de9c9963469284a13de6f06b"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-073-yellow-glazed-ceramic-horse.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "0374d720c393a3d0e0de3b752ae81f3b6bf5788d426c093c1917be332248434c"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-073.json",
+          "hashMode": "utf8-lf",
+          "sha256": "c6f996a1b5682329b7b6538cb2d220da8e8f8ba5fc8e82759fa013c7f2d61b3b"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:28:19.145Z"
+      }
+    },
+    {
+      "archiveId": "szk-074",
+      "runtimeId": "sz-ai-074",
+      "title": "青釉胡人骑马瓷塑",
+      "sourceFileName": "《寿州窑》_13578583_357.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+          "hashMode": "raw-bytes",
+          "sha256": "45e7401205e5d11c4520efd2a20a75240f1d135e0aa8fba70f606f9217147024"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+          "hashMode": "raw-bytes",
+          "sha256": "8ec563f5593159bb6c69269a88fe2b8c08b5a8f83d734c931c2f4a9848c9cb0a"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "ce62745792d55d9350ae111c233c6bbfedc590c5804b0ef97d0c628da614f460"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-074.json",
+          "hashMode": "utf8-lf",
+          "sha256": "14491c7ff84fcfa77853da5fa3f20bfb1ebc48d933628fdc85f73a2c4b82b7b0"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:28:42.901Z"
+      }
+    },
+    {
+      "archiveId": "szk-075",
+      "runtimeId": "sz-ai-075",
+      "title": "黄釉人骑马瓷塑",
+      "sourceFileName": "《寿州窑》_13578583_361.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+          "hashMode": "raw-bytes",
+          "sha256": "bd124188d5fbcc2375c8b9f5fd5671898bc0552fb7a661e1d7f04f41d212d4b0"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+          "hashMode": "raw-bytes",
+          "sha256": "89cef59c8925fdee9ad8ac1dd9ea9e7aa7460af1ae003e2795efc33391c241ef"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "52d61a441cec0bb66bef4f32947f4f27cb896c7be68d6e7e38fb1ae5ac6312f6"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-075.json",
+          "hashMode": "utf8-lf",
+          "sha256": "05cb30475db48b4ffdaf447623cd5f4a6041a63355bde1e0ea80b882261e87fc"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:29:06.752Z"
+      }
+    },
+    {
+      "archiveId": "szk-076",
+      "runtimeId": "sz-ai-076",
+      "title": "黄釉瓷水牛",
+      "sourceFileName": "《寿州窑》_13578583_366.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+          "hashMode": "raw-bytes",
+          "sha256": "5c4921d1cb425eca5af303ec8e50a30d93e6600eba1a78e7461183835f9afebd"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+          "hashMode": "raw-bytes",
+          "sha256": "b0c375f0d38915a8c5273e56f8b2cba779b70f1c38119f0c8afefb431600e3b4"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-076-yellow-glazed-porcelain-water-buffalo.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "bdb313a03832109edbccb4191aef79dc97f4338f1d8e23305788fd7d2cb38f21"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-076.json",
+          "hashMode": "utf8-lf",
+          "sha256": "7fd936e28d5d86c3815e3e412362a1849c6fab571e5194763fcacbd5fedcd971"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:29:29.713Z"
+      }
+    },
+    {
+      "archiveId": "szk-077",
+      "runtimeId": "sz-ai-077",
+      "title": "黄褐釉小瓷马",
+      "sourceFileName": "《寿州窑》_13578583_367.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+          "hashMode": "raw-bytes",
+          "sha256": "c54aaf9a2fc92e8f09665a67b03072f457df6f3bb4a147a0d32230de2d52e523"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+          "hashMode": "raw-bytes",
+          "sha256": "de977afea047788694abc005da73f9880a857daa7dbd89e02f4b56024d02c031"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "4424fae66f27cffdc7e244d753ea29ea438385a2a6bfec26657228fe714dda65"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-077.json",
+          "hashMode": "utf8-lf",
+          "sha256": "b04883c768941e651e231fd6aa54fd490a50508bae2c6a0adb6bb5dc7826202e"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:29:53.411Z"
+      }
+    },
+    {
+      "archiveId": "szk-078",
+      "runtimeId": "sz-ai-078",
+      "title": "黄釉瓷马",
+      "sourceFileName": "《寿州窑》_13578583_368.png",
+      "sourceReference": "SZK-SCAN-01",
+      "printedPage": null,
+      "authorizationId": "HNNU-2026-10-17",
+      "rightsStatus": "noncommercial",
+      "publicRedistribution": "noncommercial",
+      "files": [
+        {
+          "role": "archive-image",
+          "path": "public/assets/ceramics/szk-078-yellow-glazed-horse.png",
+          "hashMode": "raw-bytes",
+          "sha256": "87b99084eb37d434707ef113e2257d8453595d9c1e1ad3f6f88755466c12f0cd"
+        },
+        {
+          "role": "processed-image",
+          "path": "public/assets/ceramics/processed/szk-078-yellow-glazed-horse.png",
+          "hashMode": "raw-bytes",
+          "sha256": "adc1d762f36db9b4559fe1c0df194af172af3da1892ea0959dbcefa24fa480c5"
+        },
+        {
+          "role": "thumbnail",
+          "path": "public/assets/ceramics/thumbs/szk-078-yellow-glazed-horse.webp",
+          "hashMode": "raw-bytes",
+          "sha256": "2c94758b48744c3deba06db2f30287258ca4e5d61513f2cf45c459e8953f46e3"
+        },
+        {
+          "role": "archive-text",
+          "path": "public/assets/ceramics/archive/szk-078.json",
+          "hashMode": "utf8-lf",
+          "sha256": "e3b26da56d95c368a95372e6474ca0746ed8c9c859f5e1b49638665c28f04ec9"
+        }
+      ],
+      "processingMetadata": {
+        "isAIExtracted": true,
+        "imageProcessed": true,
+        "imageProcessedBy": "wan2.7-image>imgly>sharp",
+        "extractedAt": "2026-04-25T00:30:16.334Z"
+      }
+    }
+  ],
+  "sharedFiles": [
+    {
+      "role": "runtime-data",
+      "path": "src/data/shouzhou_ceramics.json",
+      "hashMode": "utf8-lf",
+      "sha256": "f7a5ea06f4b49a38fa7450054b28e2a788c9c67ee73f4800269f3096627e326a"
+    },
+    {
+      "role": "archive-index",
+      "path": "public/assets/ceramics/archive/index.json",
+      "hashMode": "utf8-lf",
+      "sha256": "d59cd57cd7df503edfb02b8c0130763e661b5605f4b43daacc3f14a495a026e4"
+    },
+    {
+      "role": "historical-screenshot",
+      "path": "artifacts/phase5-ui-fullpage.png",
+      "hashMode": "raw-bytes",
+      "sha256": "cbd7704d00318a0f066e88bd830fcde5240acf7e89135d624a65efc0cc95e976"
+    }
+  ],
+  "sharedFilesTerms": "Noncommercial learning, exchange and distribution; see ASSET_LICENSE.md / 交流学习与非商用分发",
+  "recordedOn": "2026-10-17"
+}

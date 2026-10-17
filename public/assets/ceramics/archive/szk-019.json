@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-019",
+  "assetSlug": "shouzhou-kiln-yellow-glazed-applique-jar",
+  "sourceFileName": "《寿州窑》_13578583_160.png",
+  "targetBaseName": "szk-019-shouzhou-kiln-yellow-glazed-applique-jar",
+  "titleZh": "寿州窑黄釉贴花罐",
+  "titleEn": "Shouzhou Kiln Yellow-glazed Jar with Applied Decoration",
+  "ocrText": "",
+  "catalogSummary": "唐代寿州窑黄釉瓷器。器形为圆腹罐，施黄釉，釉色流淌自然，肩部饰有模印贴花纹饰。此类器物体现了寿州窑在唐代的典型工艺特征与装饰风格。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": null,
+    "unit": ""
+  },
+  "material": "陶胎",
+  "glaze": "黄釉",
+  "motifs": [
+    "贴花",
+    "模印纹"
+  ],
+  "provenance": "淮南市大通区上窑镇古窑址",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "Shouzhou ware",
+    "yellow glaze",
+    "Tang dynasty",
+    "applique decoration",
+    "寿州窑",
+    "黄釉",
+    "唐代"
+  ],
+  "confidenceNotes": "原图无文字说明，依据用户提供的锚点信息（名称、朝代、馆藏）进行归档。"
+}

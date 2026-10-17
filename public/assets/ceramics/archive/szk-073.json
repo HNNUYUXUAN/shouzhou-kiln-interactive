@@ -1,0 +1,37 @@
+{
+  "archiveId": "szk-073",
+  "assetSlug": "yellow-glazed-ceramic-horse",
+  "sourceFileName": "《寿州窑》_13578583_356.png",
+  "targetBaseName": "szk-073-yellow-glazed-ceramic-horse",
+  "titleZh": "黄釉小瓷马",
+  "titleEn": "Yellow-glazed Ceramic Horse",
+  "ocrText": "黄釉小瓷马\n唐（618-907年）\n长5厘米，宽2.7厘米，高6.5厘米\n2010年7月5日于淮南征集\n淮南市博物馆藏",
+  "catalogSummary": "此件唐代寿州窑黄釉小瓷马，造型古朴生动。器物长5厘米、宽2.7厘米、高6.5厘米。该文物于2010年7月5日在淮南地区征集入藏，现由淮南市博物馆收藏，是研究唐代寿州窑动物雕塑的重要实物资料。",
+  "artifactType": "horse",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长5厘米，宽2.7厘米，高6.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 6.5,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "马",
+    "动物造型"
+  ],
+  "provenance": "2010年7月5日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "唐代",
+    "瓷马",
+    "小型雕塑",
+    "淮南"
+  ],
+  "confidenceNotes": ""
+}

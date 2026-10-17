@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-056",
+  "assetSlug": "yellow-glazed-four-handled-jar-with-flared-mouth",
+  "sourceFileName": "《寿州窑》_13578583_290.png",
+  "targetBaseName": "szk-056-yellow-glazed-four-handled-jar-with-flared-mouth",
+  "titleZh": "黄釉敞口四系罐",
+  "titleEn": "Yellow-glazed Four-handled Jar with Flared Mouth",
+  "ocrText": "黄釉敞口四系罐\n唐（618-907年）\n口径19.9厘米，底径16.5厘米，高51厘米\n2010年于合肥征集\n淮南市博物馆藏\n此器是已发现的唐代寿州窑罐类器物中形制最大的产品。浅盘口尚保留着隋代盘口壶的特点，说明该器的时间应在唐代早期。广肩上饰一周高高凸起的弦纹，短细颈与肩的结合处置四枚形制规整的双股系，圆鼓腹的下部急收，小平底。通体施黄釉，釉色浅淡，较均匀，在腹部的一侧有数道刷釉留下的痕迹。该器器型高大，形制规整，是寿州窑唐代早期大型罐的代表性作品，寿州窑的大型器物一般烧造温度较高，少有脱釉现象，此器即是例证。",
+  "catalogSummary": "此器为唐代寿州窑黄釉四系罐，是已发现同类器物中形制最大者。其特征包括浅盘口、广肩饰弦纹及四枚双股系。通体施浅淡黄釉，可见刷釉痕迹。作为唐代早期大型罐代表作，其烧造温度高且无脱釉现象，2010年于合肥征集。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径19.9厘米，底径16.5厘米，高51厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 19.9,
+    "baseDiameter": 16.5,
+    "height": 51,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉，釉色浅淡均匀",
+  "motifs": [
+    "四系",
+    "弦纹",
+    "双股系",
+    "敞口"
+  ],
+  "provenance": "2010年于合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Four Handles",
+    "Tang Dynasty",
+    "Large Jar",
+    "寿州窑",
+    "黄釉",
+    "四系罐"
+  ],
+  "confidenceNotes": ""
+}

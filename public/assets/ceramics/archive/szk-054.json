@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-054",
+  "assetSlug": "yellow-glazed-water-pot",
+  "sourceFileName": "《寿州窑》_13578583_278.png",
+  "targetBaseName": "szk-054-yellow-glazed-water-pot",
+  "titleZh": "黄釉水盂",
+  "titleEn": "Yellow-glazed Water Pot",
+  "ocrText": "黄釉水盂\n唐（618-907年）\n口径2.7厘米，底径4.2厘米，高2.6厘米\n1962年上窑出土\n淮南市博物馆藏",
+  "catalogSummary": "此件为唐代寿州窑黄釉水盂，1962年于上窑遗址出土。器形小巧圆润，施黄釉，现藏于淮南市博物馆。其尺寸记录为口径2.7厘米、底径4.2厘米、高2.6厘米，是研究唐代寿州窑民窑日用瓷器的重要实物资料。",
+  "artifactType": "water pot",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径2.7厘米，底径4.2厘米，高2.6厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 2.7,
+    "baseDiameter": 4.2,
+    "height": 2.6,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "素面",
+    "圆腹",
+    "小口"
+  ],
+  "provenance": "1962年上窑出土",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "yellow glaze",
+    "Tang Dynasty",
+    "water pot",
+    "small mouth",
+    "round body",
+    "excavated 1962"
+  ],
+  "confidenceNotes": ""
+}

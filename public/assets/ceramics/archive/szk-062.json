@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-062",
+  "assetSlug": "black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth",
+  "sourceFileName": "《寿州窑》_13578583_314.png",
+  "targetBaseName": "szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth",
+  "titleZh": "黑釉胆形腹盂口瓶",
+  "titleEn": "Black-glazed Gallbladder-shaped Bottle with Water-pot-shaped Mouth",
+  "ocrText": "黑釉胆形腹盂口瓶\n唐（618-907年）\n口径4.8厘米，底径8.6厘米，高30.4厘米\n1987年6月上窑鱼苗场出土\n淮南市博物馆藏\n\n盂口，细长颈，溜肩，平底足，器型呈悬胆状。胎体浑厚凝重，施黑釉及腹下部，胎体装饰有化妆土，胎色灰白，腹部有两处窑粘露胎。\n此件黑釉盂口胆形瓶有特殊的质朴之美，其形制特点以唐代流行的文房用具水盂做口，显示出寿州窑工匠的独特匠心。窑粘处并非在最大腹径处，而稍偏下，应当不是与匣钵粘结，当是与器型稍小的器物粘结，可能是在一个匣钵中放置两件以上器物所致。此类器型在寿州窑产品中仅见，又出土于寿州窑窑址附近，应是窑工墓出土。该器为盛酒之用，是唐代寿州窑黑釉瓷器的杰作之一。",
+  "catalogSummary": "唐代寿州窑黑釉瓷器杰作。器型独特，仿水盂口，呈悬胆状。胎体厚重，施黑釉至腹下，饰化妆土。1987年出土于上窑鱼苗场，现藏淮南市博物馆。此类器型罕见，推测为盛酒器。",
+  "artifactType": "bottle",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径4.8厘米，底径8.6厘米，高30.4厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 4.8,
+    "baseDiameter": 8.6,
+    "height": 30.4,
+    "unit": "厘米"
+  },
+  "material": "瓷胎，施化妆土",
+  "glaze": "黑釉",
+  "motifs": [
+    "素面",
+    "悬胆状",
+    "窑粘"
+  ],
+  "provenance": "1987年6月上窑鱼苗场出土",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "黑釉",
+    "胆瓶",
+    "唐代",
+    "寿州窑",
+    "长颈",
+    "平底"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-058",
+  "assetSlug": "large-yellow-glazed-jar-with-lip-rim-and-four-handles",
+  "sourceFileName": "《寿州窑》_13578583_296.png",
+  "targetBaseName": "szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles",
+  "titleZh": "黄釉唇口四系大罐",
+  "titleEn": "Large Yellow-Glazed Jar with Lip Rim and Four Handles",
+  "ocrText": "黄釉唇口四系大罐\n唐（618-907年）\n口径12厘米，底径14.8厘米，高44.5厘米\n2008年6月于合肥征集\n淮南市博物馆藏\n翻唇口较饱满，短细颈，下部有一周凸弦纹，广丰肩上的四个双股系，十分瘦小，长鼓腹，腹下部缓收至足底，饰黄釉至腹下部，釉色偏孔黄，釉层较厚，从釉面上判断施过二次釉，二次施釉后产生蜡泪痕。腹下部露浅砖红色胎体，质细密。整器造型规整，釉色饱满。",
+  "catalogSummary": "此件唐代寿州窑黄釉唇口四系大罐，2008年征集于合肥，现藏淮南市博物馆。器物造型规整，翻唇口、短颈、广丰肩配四系，长鼓腹。通体施黄釉至腹下，釉层厚且有二次施釉形成的蜡泪痕，腹下露红胎，釉色饱满。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径12厘米，底径14.8厘米，高44.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 12,
+    "baseDiameter": 14.8,
+    "height": 44.5,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "黄釉，釉层较厚，有蜡泪痕，釉色偏孔雀黄",
+  "motifs": [
+    "唇口",
+    "四系",
+    "凸弦纹"
+  ],
+  "provenance": "2008年6月于合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Four Handles",
+    "Tang Dynasty",
+    "Wax Tears",
+    "Everted Rim"
+  ],
+  "confidenceNotes": ""
+}

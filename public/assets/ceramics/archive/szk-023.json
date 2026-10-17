@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-023",
+  "assetSlug": "black-glazed-two-handled-ewer",
+  "sourceFileName": "《寿州窑》_13578583_167.png",
+  "targetBaseName": "szk-023-black-glazed-two-handled-ewer",
+  "titleZh": "黑釉双系注子",
+  "titleEn": "Black-glazed Two-handled Ewer",
+  "ocrText": "黑釉双系注子\n唐（618-907年）\n口径9.6厘米，底径9.4厘米，高21.3厘米\n1992年5月征集\n淮南市博物馆藏\n此器是唐代寿州窑黑釉瓷注的代表性作品。黑釉釉色烧造的十分成功，从口部至底的黑釉发色漆黑光亮，光彩照人。器物的形态为长细颈，喇叭口，口沿圆润丰满，斜溜肩，长鼓腹，肩上置向上昂起的六棱短流，流口对称的一面置扁平弓形鋬，对称置二个小双股系。在口沿边、六棱流的棱角处和鋬系的边缘处，黑釉泛酱色，是这些位置的釉层较薄，露化妆土白色底的原因。足底露乳红色胎体，胎质坚硬。整器胎、化妆土、釉水三者在高温烧造下结合的很好，没有发生脱釉现象。",
+  "catalogSummary": "此器为唐代寿州窑黑釉瓷注代表作品，1992年5月征集，现藏淮南市博物馆。器物长细颈、喇叭口、长鼓腹，配六棱短流与双股系。黑釉漆黑光亮，局部因釉薄泛酱色，足底露乳红胎，胎质坚硬，结合良好无脱釉。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径9.6厘米，底径9.4厘米，高21.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 9.6,
+    "baseDiameter": 9.4,
+    "height": 21.3,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黑釉，局部泛酱色，足底露乳红色胎",
+  "motifs": [
+    "六棱短流",
+    "双股系",
+    "弓形鋬",
+    "喇叭口",
+    "长鼓腹"
+  ],
+  "provenance": "1992年5月征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黑釉",
+    "唐代瓷器",
+    "注子",
+    "双系",
+    "六棱流"
+  ],
+  "confidenceNotes": ""
+}

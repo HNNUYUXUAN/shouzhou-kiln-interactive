@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-015",
+  "assetSlug": "celadon-glazed-bowl-with-lotus-petal-decoration",
+  "sourceFileName": "《寿州窑》_13578583_150.png",
+  "targetBaseName": "szk-015-celadon-glazed-bowl-with-lotus-petal-decoration",
+  "titleZh": "青釉莲瓣纹碗",
+  "titleEn": "Celadon-glazed Bowl with Lotus Petal Decoration",
+  "ocrText": "青釉莲瓣纹碗\n隋（581-618年）\n口径12厘米，底径4.2厘米，高8.3厘米\n1964年合肥隋开皇三年墓出土\n安徽博物院藏\n直口，平沿，沿下饰一周凹弦纹，深直腹，腹下部急收至足底，小平足外撇。腹部装饰大瓣仰莲纹，每瓣莲纹有5~6层构成，以剔刻方法制成，虽不甚娴熟规范，但自然有趣。这种剔划方法的仰莲瓣纹发展到隋代中期以后，采用戳印的装饰方法。通体施青釉，釉色浅淡，在纹饰的凹陷处，釉色较深。釉面玻化较好，有细小开片。此器出土于合肥隋代开皇三年的纪年墓中，同墓出土的还有盘口壶等，是隋代寿州窑的标准器，具有重要的断代标准意义。",
+  "catalogSummary": "此碗为隋代寿州窑典型器物，1964年出土于合肥隋开皇三年墓。器身饰大瓣仰莲纹，采用剔刻技法，风格自然。通体施浅淡青釉，釉面玻化良好。作为纪年墓出土物，该器是隋代寿州窑的重要断代标准器。",
+  "artifactType": "bowl",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径12厘米，底径4.2厘米，高8.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 12,
+    "baseDiameter": 4.2,
+    "height": 8.3,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "青釉，釉色浅淡，釉面玻化较好，有细小开片",
+  "motifs": [
+    "莲瓣纹",
+    "仰莲纹",
+    "凹弦纹"
+  ],
+  "provenance": "1964年合肥隋开皇三年墓出土",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Sui Dynasty",
+    "Celadon",
+    "Lotus pattern",
+    "Incised decoration",
+    "寿州窑",
+    "隋代",
+    "青釉",
+    "莲瓣纹"
+  ],
+  "confidenceNotes": ""
+}

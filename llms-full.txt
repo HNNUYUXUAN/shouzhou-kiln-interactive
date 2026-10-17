@@ -1,0 +1,1435 @@
+# Shouzhou Kiln Interactive Gallery / 寿州窑交互展台
+
+> A React gallery of 78 artifacts, with archive comparison and fullscreen reading. / 包含 78 件文物、档案对照与全屏阅读的 React 展台。
+
+Code and original engineering text: MIT. Artifact materials and documentation visuals: noncommercial learning, exchange and distribution under their linked terms. / 代码与原创工程文字采用 MIT；文物素材与文档图片按所链接条款用于交流学习与非商用分发。
+
+## Experience
+
+- [Live gallery / 在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)
+
+## Guides
+
+- [Project overview / 项目首页 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md)
+- [Project overview / 项目首页 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md)
+- [Use the gallery / 使用指南 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md)
+- [Use the gallery / 使用指南 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md)
+- [Develop and maintain content / 开发与内容维护 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)
+- [Develop and maintain content / 开发与内容维护 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md)
+- [Agent reading and reproduction / Agent 阅读与复现 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
+- [Agent reading and reproduction / Agent 阅读与复现 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md)
+- [Discovery and citation / 检索与引用 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md)
+- [Discovery and citation / 检索与引用 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md)
+- [Contribute / 参与贡献 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md)
+- [Contribute / 参与贡献 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md)
+- [Maintenance / 维护 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.md)
+- [Maintenance / 维护 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.en.md)
+- [Material terms / 素材条款 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)
+- [Material terms / 素材条款 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md)
+- [Artifact sources / 文物来源 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md)
+- [Artifact sources / 文物来源 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md)
+- [Software notices / 软件声明 · 中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md)
+- [Software notices / 软件声明 · English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md)
+
+## Structured resources
+
+- [Artifact catalog / 文物目录](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json)
+- [Material manifest / 素材清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json)
+- [Repository conventions](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md)
+- [仓库开发约定](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md)
+- [Citation](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff)
+- [CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json)
+- [Full guides / 完整指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms-full.txt)
+- [MIT license](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/LICENSE)
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md
+
+# 寿州窑文物数字展台
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md) · **[进入在线展台 ↗](https://shouzhou-kiln-interactive.yuxuan.wiki/)** · [本地运行](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md#本地运行) · [二次开发](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)
+
+![青瓷器物、窑火与窑洞构成的寿州窑主题插画](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/shouzhou-kiln-cover.png)
+
+*寿州窑主题插画 · AI 生成*
+
+从器物轮廓到档案细节，在浏览器中走近寿州窑。这个数字展台将 **78 件文物**的图像、介绍与档案组织在同一条浏览路径中，让观众看见器形，也能继续读到它的尺寸、出土与馆藏信息。
+
+项目适合文博主题展示、课堂交流与作品集演示。开发者可以沿用 React 展台结构，通过本地 JSON 和图片，组织自己的展品内容。
+
+**78 件文物 · 76 件处理图 · 档案对照 · 全屏阅读 · 本地静态部署**
+
+## 从一件器物开始
+
+打开[在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)，在底部导航选择一件文物。主展台呈现器物图像、中英文名称、介绍和特征标签；左右方向键让浏览连续起来。
+
+![展台实景：青釉四系龙柄盘口壶、展品介绍与底部文物导航](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/gallery.png)
+
+*真实界面：青釉四系龙柄盘口壶（szk-003）。点击图片可查看大图。*
+
+| 看形态，读档案 | 展开一件文物的资料 |
+| --- | --- |
+| ![档案视图展示同一件文物的扫描页和介绍](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/archive-view.png) | ![文物资料面板展示尺寸、出土、馆藏和工艺信息](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/artifact-details.png) |
+| 在“数字资产”与“档案视图”之间切换，结合处理图和扫描页阅读；仅有档案图的展品直接显示档案。 | 点击“查看文物资料”，集中阅读尺寸、出土与流传、馆藏和工艺信息。 |
+
+<details>
+<summary><strong>展开查看：全屏阅读档案</strong></summary>
+
+点击档案图进入全屏阅读，查看扫描页上的器物和文字。按 `Esc` 或点击关闭按钮返回展台。
+
+![全屏档案阅读器展示扫描页的文字与器物细节](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/archive-fullscreen.png)
+
+</details>
+
+## 本地运行
+
+准备 **Node.js 22** 和 npm，在终端执行：
+
+```sh
+git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
+cd shouzhou-kiln-interactive
+npm ci
+npm run dev -- --host 127.0.0.1
+```
+
+浏览器打开终端显示的地址，默认是 [http://127.0.0.1:3000/](http://127.0.0.1:3000/)。日常开发时，保存源码即可查看更新。
+
+生成可部署的静态文件并在本地预览：
+
+```sh
+npm run check
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+打开 [http://127.0.0.1:4173/](http://127.0.0.1:4173/)。`dist/` 可交给 HTTP 静态服务器提供访问，也可以在本机或内网部署。
+
+**技术栈：** React 18 · Vite 6 · Tailwind CSS 4。浏览器要求：Chrome 111+、Safari 16.4+、Firefox 128+。
+
+## 按你的目标继续
+
+| 你想做什么 | 从这里开始 |
+| --- | --- |
+| 体验数字展陈 | [在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [使用指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md) |
+| 替换或添加展品 | [二次开发教程](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)：运行数据、图片与档案的对应关系 |
+| 调整配色与布局 | [外观开发入口](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md#2-修改展台名称与外观)：主题配置、全局样式与组件 |
+| 让 Agent 接手 | [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md) · [检索与引用](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md) · [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) |
+| 查阅素材来源 | [逐件素材清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md)与[机器可读清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) |
+| 贡献改进或反馈问题 | [贡献指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md) · [项目 Issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) |
+
+## 许可与致谢
+
+**代码与原创工程文档采用 [MIT](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/LICENSE)**，作者为 **缪雨轩**。可复用展台代码开发其他主题，保留版权和许可声明。
+
+**文物素材允许非商用分发，仅供交流学习。** 素材授权来源为淮南师范学院美术与设计学院，范围见[素材使用说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。商业项目请使用适合该用途的素材。
+
+感谢淮南师范学院美术与设计学院提供素材使用授权。项目使用的第三方软件见[依赖与许可清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md)，首页图片来源见[视觉素材说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md)。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md
+
+# Shouzhou Kiln Interactive Gallery
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · **[Explore the live gallery ↗](https://shouzhou-kiln-interactive.yuxuan.wiki/)** · [Run locally](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md#run-locally) · [Development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md)
+
+![Thematic illustration of celadon vessels, kiln arches and the glow of firing](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/shouzhou-kiln-cover.png)
+
+*Shouzhou kiln thematic illustration · AI-generated*
+
+Explore Shouzhou kiln ceramics through their forms and archival details. This browser-based gallery brings together images, descriptions and records for **78 artifacts**, connecting each object with its dimensions, excavation and collection information.
+
+Designed for cultural exhibitions, classroom discussion and portfolio presentations, the project also provides a React foundation for developers to build galleries around their own collections using local JSON and images.
+
+**78 artifacts · 76 processed images · Archival comparison · Fullscreen reading · Static deployment**
+
+## Start with an artifact
+
+Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and choose an artifact from the navigation strip. The main stage combines its image, Chinese and English names, description and feature tags. Use the left and right arrow keys to continue browsing.
+
+![Live application showing a celadon-glazed jar with four loops and a dragon handle, its description and the artifact navigation strip](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/gallery.png)
+
+*Application screenshot: celadon-glazed dish-mouthed jar with four loops and dragon handle (szk-003). Open the image for a larger view.*
+
+| Explore the form and the archive | Open the artifact record |
+| --- | --- |
+| ![Archive view displaying the scanned page alongside the artifact description](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/archive-view.png) | ![Artifact record panel displaying dimensions, excavation, collection and technical features](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/artifact-details.png) |
+| Switch between the processed image (“数字资产”) and archive view (“档案视图”). Artifacts with an archive image only open directly in archive view. | Select “查看文物资料” to read the dimensions, excavation and provenance, collection and technical features together. |
+
+<details>
+<summary><strong>Expand: read the archive in fullscreen</strong></summary>
+
+Select the archive image to open the scanned page in fullscreen. Press `Esc` or use the close button to return to the gallery.
+
+![Fullscreen archive reader displaying text and artifact details on a scanned page](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/archive-fullscreen.png)
+
+</details>
+
+## Run locally
+
+Install **Node.js 22** and npm, then run:
+
+```sh
+git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
+cd shouzhou-kiln-interactive
+npm ci
+npm run dev -- --host 127.0.0.1
+```
+
+Open the address printed in the terminal, usually [http://127.0.0.1:3000/](http://127.0.0.1:3000/). During development, saving a source file updates the preview.
+
+Build the static site and preview it locally:
+
+```sh
+npm run check
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+Open [http://127.0.0.1:4173/](http://127.0.0.1:4173/). Serve `dist/` through an HTTP static server for a hosted site, local installation or intranet deployment.
+
+**Stack:** React 18 · Vite 6 · Tailwind CSS 4. Browser requirements: Chrome 111+, Safari 16.4+, Firefox 128+.
+
+## Choose your next step
+
+| Your goal | Start here |
+| --- | --- |
+| Explore the exhibition | [Live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) · [User guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md) |
+| Replace or add artifacts | [Development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md): connect runtime data, images and archive records |
+| Customize colors and layout | [Appearance guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md#2-customize-the-gallery-appearance): theme settings, global styles and components |
+| Hand the project to an agent | [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md) · [Discovery and citation](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md) · [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) |
+| Find material sources | [Artifact inventory](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md) and [machine-readable manifest](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) |
+| Contribute or report an issue | [Contribution guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md) · [Project issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) |
+
+## Licensing and acknowledgments
+
+**Code and original engineering documentation are licensed under [MIT](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/LICENSE)**, authored by **缪雨轩 (Miao Yuxuan)**. Reuse the gallery code for other themes while retaining the copyright and license notices.
+
+**Artifact materials may be distributed for noncommercial learning and exchange.** Material authorization comes from the School of Art and Design, Huainan Normal University (淮南师范学院美术与设计学院); see the [material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md). For commercial projects, use materials licensed for that purpose.
+
+Thanks to the School of Art and Design, Huainan Normal University, for authorizing the use of the materials. See [third-party software notices](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md) and the [visual asset notes](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md) for software credits and the images used on this page.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md
+
+# 使用指南
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md) · [项目首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · [开发指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)
+
+## 浏览展台
+
+打开[在线展台](https://shouzhou-kiln-interactive.yuxuan.wiki/)，在底部导航选择文物。左右方向键切换前后展品，导航两侧按钮滚动缩略图列表。
+
+“数字资产”展示处理后的器物图像，“档案视图”展示扫描页。76 件文物有处理图，另 2 件直接显示档案。点击档案图进入全屏阅读，上下滚动查看扫描页。
+
+点击“查看文物资料”阅读尺寸、出土、馆藏与工艺信息。按 `Esc` 或使用关闭按钮退出资料面板与全屏阅读。`Tab` 和 `Shift+Tab` 可在弹层控件间移动焦点。
+
+## 本地启动
+
+准备 Node.js 22 和 npm：
+
+```sh
+git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
+cd shouzhou-kiln-interactive
+npm ci
+npm run dev -- --host 127.0.0.1
+```
+
+默认开发地址为 `http://127.0.0.1:3000/`，以终端实际输出为准。首次安装需要访问 npm 包源。日常使用与构建只需要 Node.js；Python 用于可选的缩略图生成。
+
+## 构建与离线访问
+
+```sh
+npm run check
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+访问 `http://127.0.0.1:4173/`。预览读取 `dist/`；修改源码后重新构建。可将 `dist/` 交给 HTTP 静态服务器，在网站、本机或内网提供访问。离线环境先完成依赖安装和构建，再通过本地 HTTP 服务使用。页面使用本地图片和系统字体。
+
+浏览器要求：Chrome 111+、Safari 16.4+、Firefox 128+。展台优先适配横向展示，窄屏按响应式布局排列内容。
+
+## 常见问题
+
+| 情况 | 处理方法 |
+| --- | --- |
+| 端口占用 | 停止占用进程，或给 dev/preview 传入另一个 `--port` |
+| 预览还是旧内容 | 重新执行 `npm run build`，再刷新浏览器 |
+| 图片加载失败 | 检查图片路径、部署子路径与网络，恢复后点击“重试加载” |
+| 直接打开 HTML 不能正常加载 | 通过 HTTP 服务访问 `dist/` |
+| 素材校验失败 | 按报错核对来源清单、实际文件与哈希，见[开发指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md) |
+
+素材用于交流学习和非商用分发，详见[素材使用说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md
+
+# User guide
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md) · [Project home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md) · [Development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md)
+
+## Explore the gallery
+
+Open the [live gallery](https://shouzhou-kiln-interactive.yuxuan.wiki/) and select an artifact from the bottom strip. The left and right arrow keys move between artifacts; the strip's arrow buttons scroll its thumbnails.
+
+“数字资产” displays the processed artifact image; “档案视图” displays the scanned archive. There are 76 artifacts with processed images and 2 that open directly in archive view. Select an archive image to read it in fullscreen and scroll through the page.
+
+Select “查看文物资料” to read dimensions, excavation, collection and technical features. Press `Esc` or use the close button to exit the record panel or fullscreen reader. Use `Tab` and `Shift+Tab` to move focus between dialog controls.
+
+## Run locally
+
+Install Node.js 22 and npm:
+
+```sh
+git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
+cd shouzhou-kiln-interactive
+npm ci
+npm run dev -- --host 127.0.0.1
+```
+
+The default development address is `http://127.0.0.1:3000/`; use the address printed by the terminal. Initial installation requires access to the npm registry. Running and building require Node.js; Python is used for optional thumbnail generation.
+
+## Build and use offline
+
+```sh
+npm run check
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+Open `http://127.0.0.1:4173/`. Preview serves `dist/`; rebuild after editing source files. Serve `dist/` with an HTTP static server for a website, local machine or intranet. For offline use, install dependencies and build first, then run a local HTTP server. Images are local and fonts use the system font stack.
+
+Browser requirements: Chrome 111+, Safari 16.4+, Firefox 128+. The gallery prioritizes landscape displays and adapts its layout on narrow screens.
+
+## Troubleshooting
+
+| Symptom | Action |
+| --- | --- |
+| Port already in use | Stop the conflicting process or pass a different `--port` to dev/preview |
+| Preview shows old content | Run `npm run build` again and refresh |
+| An image fails to load | Check image paths, deployment subpath and network; select the retry button after restoring access |
+| Opening HTML directly fails | Access `dist/` through an HTTP server |
+| Material validation fails | Compare the source manifest, actual file and hash as described in the [development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md) |
+
+Materials are available for learning, exchange and noncommercial distribution; see [material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md).
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md
+
+# 二次开发教程
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md) · [项目首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
+
+本教程面向第一次接手项目的开发者。默认在项目根目录执行命令。用 Node.js 22 和 `npm ci` 安装依赖，`npm run dev -- --host 127.0.0.1` 启动开发预览。
+
+## 1. 理解数据流
+
+```text
+src/data/shouzhou_ceramics.json
+  → App.jsx 解析图片路径、维护选中条目和视图
+  → ArtifactRail 文物导航
+  → CeramicDisplay 主图与全屏档案
+  → DataPanel 资料弹窗
+```
+
+`public/assets/ceramics/archive/index.json` 和逐件 `szk-*.json` 是来源档案，不是页面渲染的数据入口，但校验脚本要求它们与运行数据同步。
+
+`public/` 中的所有文件都会复制到静态构建。即使档案 JSON 不被组件读取，它们也会成为可下载资源。复用代码时先确定自己的内容和图片权限，见 [素材授权说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。
+
+## 2. 修改展台名称与外观
+
+当前采用 Tailwind CSS 4.3 与 `@tailwindcss/vite`，由 `vite.config.js` 注册。`src/index.css` 通过 `@config` 加载现有 JavaScript 主题配置，通过显式 `@source` 限定源码扫描范围。新增 class 应写为完整字面量，避免运行时拼接导致生成器无法检测。
+
+视图按钮使用 sRGB 渐变，资料弹窗采用 4px 背景模糊，正文行高由响应式样式控制。修改主题后检查按钮、弹层和长文字。
+
+| 需求 | 文件 | 修改位置 |
+| --- | --- | --- |
+| 浏览器标题 | `index.html` | `<title>` |
+| 页面中英文名称 | `src/App.jsx` | 顶部标题与英文副标题 |
+| 青瓷色和青铜色 | `tailwind.config.js` | `theme.extend.colors` |
+| 全局字体、动效、触控规则 | `src/index.css` | 全局样式 |
+| 导航每次滚动距离 | `src/constants/index.js` | `RAIL_SCROLL_STEP` |
+| 主图与全屏显示 | `src/components/CeramicDisplay.jsx` | 主图和 Portal 弹层 |
+| 资料字段呈现 | `src/components/DataPanel.jsx` | `ValuePair` 与分区 |
+
+字体族名称只引用本机字体；增加字体文件或第三方图标时同步增加许可声明。
+
+## 3. 修改已有文物
+
+1. 在运行 JSON 中按 `archiveId` 定位条目，修改介绍、年代、尺寸等。
+2. 修改名称、英文名、slug 时，同步档案索引和对应解析件中的 `titleZh`、`titleEn`、`assetSlug`、`targetBaseName`。
+3. 修改图片时，原图、处理图和缩略图文件名与记录同步。运行数据里的路径保持 `/assets/ceramics/...`，由 `App.jsx` 按 Vite base 解析。
+4. 更新 `docs/asset-rights.json` 的来源、授权依据及受影响文件 SHA-256，再运行 `npm run docs:generate` 生成双语清单与检索目录。
+5. 执行 `npm run check`，预览受影响的条目和弹窗。
+
+`hiddenFields` 支持：`dynasty`、`period`、`dimensions`、`excavation`、`collection`、`description`、`highlightTags`、`technicalFeatures`、`historicalSignificance`。不确定的内容可隐藏，不应填写看似确定的猜测。数字尺寸不能用负值表示未知；缺失值可用 `null`，必要时隐藏整个尺寸区块。
+
+**隐藏只影响界面，不会删除 JSON 内容，也不能用于隐藏敏感信息。** 敏感内容必须从文件及适用的历史记录中处理。
+
+## 4. 添加一件展品：完整字段示例
+
+以下是虚构的结构示例，不是历史文物资料，也不附带现有书籍图片的使用许可。用自有或明确授权的 PNG 替换示例图片后再接入。现有序号为 001–078，示例使用 079；项目校验不把总数写死为 78。
+
+先准备 `public/assets/ceramics/szk-079-demo-vase.png`。如有去背景图，放入 `public/assets/ceramics/processed/` 的同名文件；没有时不要填写 `processedImageUrl`，页面将使用档案视图。
+
+向 `src/data/shouzhou_ceramics.json` 的数组末尾追加：
+
+```json
+{
+  "id": "demo-079",
+  "archiveId": "szk-079",
+  "name": "示例瓶（结构演示）",
+  "nameEn": "Demo Vase",
+  "assetSlug": "demo-vase",
+  "dynasty": "",
+  "period": "",
+  "dimensions": { "height": null, "mouthDiameter": null, "baseDiameter": null, "unit": "厘米" },
+  "excavation": {},
+  "collection": {},
+  "description": "用于演示数据结构的虚构条目。",
+  "highlightTags": ["结构演示"],
+  "technicalFeatures": [],
+  "historicalSignificance": "",
+  "imageUrl": "/assets/ceramics/szk-079-demo-vase.png",
+  "thumbnailUrl": "/assets/ceramics/thumbs/szk-079-demo-vase.webp",
+  "hiddenFields": ["dynasty", "period", "dimensions", "excavation", "collection", "technicalFeatures", "historicalSignificance"]
+}
+```
+
+在 `public/assets/ceramics/archive/index.json` 的数组末尾追加：
+
+```json
+{
+  "id": "demo-079",
+  "archiveId": "szk-079",
+  "sourceFileName": "demo-vase-original.png",
+  "targetBaseName": "szk-079-demo-vase",
+  "titleZh": "示例瓶（结构演示）",
+  "titleEn": "Demo Vase",
+  "assetSlug": "demo-vase",
+  "imageUrl": "/assets/ceramics/szk-079-demo-vase.png",
+  "processedImageUrl": ""
+}
+```
+
+新建 `public/assets/ceramics/archive/szk-079.json`：
+
+```json
+{
+  "archiveId": "szk-079",
+  "sourceFileName": "demo-vase-original.png",
+  "targetBaseName": "szk-079-demo-vase",
+  "titleZh": "示例瓶（结构演示）",
+  "titleEn": "Demo Vase",
+  "assetSlug": "demo-vase",
+  "ocrText": "",
+  "catalogSummary": "虚构的结构演示条目。",
+  "confidenceNotes": "示例数据，不用于历史事实说明。"
+}
+```
+
+`sourceFileName` 要改为实际原图的文件名，保持索引和解析件一致。书名、页码、作者、URL 与授权文件另记入来源清单；不要继承其他展品的许可记录。
+
+缩略图维护使用 Python 3.11 和 Pillow 12.3.0。可创建独立环境：
+
+```sh
+python -m venv .venv
+```
+
+Windows 激活 `.venv\Scripts\Activate.ps1`；macOS/Linux 执行 `source .venv/bin/activate`。激活后执行 `python -m pip install Pillow==12.3.0`，然后生成缩略图：
+
+```sh
+python scripts/generate_thumbnails.py
+```
+
+脚本会对目录中全部 PNG 生成最长边 320 像素的 WebP，优先使用同名处理图。更新清单后运行 `npm run check`。进入开发页面，检查新条目出现在导航中，并确认图片、名称和资料一致。
+
+## 5. 维护来源清单
+
+`docs/asset-rights.json` 的结构：
+
+| 字段 | 含义 |
+| --- | --- |
+| `sources` | 来源标识、可核查书目或原始文件线索 |
+| `authorizations` | 授权来源、记录日期、用途、正式条款与文件引用 |
+| `records` | 每件文物的运行 ID、名称、原文件名和文件关联 |
+| `records[].processingMetadata` | 记录的机器提取、加工链与提取日期标记；保留原始值 |
+| `records[].files` | `role`、仓库相对路径、`hashMode`、SHA-256 |
+| `sharedFiles` | 运行数据、汇总索引和历史截图等跨条目文件 |
+
+每件条目需覆盖 `archive-image`、`thumbnail`、`archive-text`；有处理图时增加 `processed-image`。授权记录必须属于这件素材，不能因为文件格式相同而复用学院授权。新来源使用新的 `sourceReference`，新授权使用新的 `authorizationId`。
+
+清单版本为 `schemaVersion: 2`。现有素材的条目与授权采用 `publicRedistribution: "noncommercial"`，并保留 `commercialUse: "prohibited"`、`recordedOn`、`termsReference` 和 `termsReferenceEn`。条款适用于相应清单内的素材。新增素材应建立其实际来源与授权记录；尚待授权时使用 `not-confirmed`。已获得其他公开分发授权时可以使用 `confirmed` 并提供 `documentReference`。校验检查格式、引用和文件版本；权利范围仍以实际授权为准。
+
+图片采用 `hashMode: "raw-bytes"`；JSON 采用 `hashMode: "utf8-lf"`，计算前将 CRLF 换行统一为 LF，避免 Git 在 Windows/Linux 间切换换行导致误报。文件内容、缩进和字段顺序的变化仍会改变 JSON 哈希。
+
+在根目录计算一个文件的 SHA-256（Windows、Linux、macOS 均可，JSON 自动统一换行）：
+
+```sh
+node --input-type=module -e "import fs from 'node:fs'; import {createHash} from 'node:crypto'; const p=process.argv[1]; const b=fs.readFileSync(p); console.log(createHash('sha256').update(p.endsWith('.json')?b.toString('utf8').replace(/\r\n/g,'\n'):b).digest('hex'))" public/assets/ceramics/szk-079-demo-vase.png
+```
+
+对解析件、原图、处理图、缩略图以及改动的汇总 JSON 分别更新哈希。不要仅为了让检查通过而批量覆盖哈希，先核实内容及授权对应的版本。封面和截图单独登记在 `docs/assets/manifest.json`，记录来源、用途和原始字节 SHA-256；`rights:check` 同时核对两类清单。更新后执行：
+
+```sh
+npm run docs:generate
+npm run check
+```
+
+删除展品时，同时移除运行条目、索引条目、解析件、独占图片与清单条目；更新汇总文件哈希。仅从导航隐藏不会阻止 `public/` 文件被发布。
+
+## 6. 交互修改与回归
+
+- 主图地址由当前文物直接派生，避免额外 state 在快速切换时显示上一件图片。
+- 全屏档案与资料面板使用 `createPortal(..., document.body)`；保留背景滚动锁、Escape 关闭、焦点限制及恢复。
+- 弹层开启时，底层方向键导航应暂停。
+- 验证首屏加载、连续切换、图片失败回退及无处理图条目。最低验证 1280×720 横向视口；按实际设备增加触控和小屏检查。
+- 检查控制台错误、图片加载、遮挡及长文字。编译成功不能证明交互正确。
+
+运行环境中有固定 Playwright 策略时，必须使用其指定命令、浏览器目录及 Chromium 版本，不自动安装另一份浏览器。
+
+## 7. 构建、检查和分发
+
+```sh
+npm run check
+npm audit
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+`check` 依次检查运行数据、素材清单、生成文档与本地链接，并构建应用。`npm audit` 查询依赖安全公告。
+
+构建部署在网站根路径时可直接使用 `dist/`。部署到子目录（例如 `/kiln/`）时运行 `npm run build -- --base=/kiln/`；通过同一路径访问并检查所有图片。静态服务器应提供正确的 JavaScript MIME 类型。
+
+构建产物在 `dist/`。保留第三方声明；如更新 npm 依赖，应核对 `THIRD_PARTY_NOTICES.md` 的版本表和 `public/THIRD_PARTY_NOTICES.txt` 中的原始许可证正文。授权材料与来源清单变更必须与素材版本一起审查。
+
+## 8. 检索与项目引用
+
+[发现与索引指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md) 介绍 `llms.txt`、机器文物目录和生成命令。[Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md) 提供定位代码与内容的工作示例。使用 [CITATION.cff](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff) 或 [CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json) 引用软件；引用文物资料时附上具体档案标识及其来源记录。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md
+
+# Development guide
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md) · [Project home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md) · [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md)
+
+Run commands from the project root. Install Node.js 22, run `npm ci`, then start development with `npm run dev -- --host 127.0.0.1`.
+
+## 1. Understand the data flow
+
+```text
+src/data/shouzhou_ceramics.json
+  → App.jsx resolves image paths, selected artifact and view
+  → ArtifactRail provides artifact navigation
+  → CeramicDisplay renders images and the fullscreen archive
+  → DataPanel renders the artifact record dialog
+```
+
+`public/assets/ceramics/archive/index.json` and the individual `szk-*.json` files preserve source records. The UI reads the runtime JSON; validation keeps these records aligned with it.
+
+Vite copies everything in `public/` into the static build, including archive JSON files. Choose content and images with appropriate rights; see [material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md).
+
+## 2. Customize the gallery appearance
+
+Tailwind CSS 4.3 uses `@tailwindcss/vite` in `vite.config.js`. `src/index.css` loads the JavaScript theme with `@config` and defines scanning paths with `@source`. Write complete class literals so the generator can discover them.
+
+View buttons use sRGB gradients; the record dialog uses 4px backdrop blur, and text line height is responsive. Check buttons, dialogs and long text after changing the theme.
+
+| Goal | File | Location |
+| --- | --- | --- |
+| Browser title | `index.html` | `<title>` |
+| Chinese and English gallery name | `src/App.jsx` | Header and subtitle |
+| Celadon and bronze colors | `tailwind.config.js` | `theme.extend.colors` |
+| Fonts, animations and touch rules | `src/index.css` | Global styles |
+| Thumbnail strip scroll distance | `src/constants/index.js` | `RAIL_SCROLL_STEP` |
+| Main image and fullscreen view | `src/components/CeramicDisplay.jsx` | Image and Portal overlay |
+| Artifact record fields | `src/components/DataPanel.jsx` | `ValuePair` and sections |
+
+The font stack uses locally installed fonts. Include license notices when adding font files or third-party icons.
+
+## 3. Edit an artifact
+
+1. Locate the runtime record by `archiveId`; edit its description, period or dimensions.
+2. When changing its name, English name or slug, synchronize `titleZh`, `titleEn`, `assetSlug` and `targetBaseName` in the archive index and sidecar record.
+3. Align image filenames and references. Runtime paths start with `/assets/ceramics/`; `App.jsx` resolves the Vite base path.
+4. Update sources, authorization and affected SHA-256 values in `docs/asset-rights.json`; run `npm run docs:generate` to refresh inventories and discovery files.
+5. Run `npm run check` and inspect the affected artifact and dialog in the browser.
+
+`hiddenFields` supports `dynasty`, `period`, `dimensions`, `excavation`, `collection`, `description`, `highlightTags`, `technicalFeatures` and `historicalSignificance`. Hide uncertain fields instead of guessing. Use `null` for unknown numeric dimensions; negative numbers are invalid. Hide the dimensions section if appropriate.
+
+**Hiding a field changes presentation only: the JSON remains downloadable.** Remove sensitive content from files and any applicable history.
+
+## 4. Add an artifact: complete field examples
+
+The following fictional entry demonstrates structure. Supply your own or appropriately licensed PNG. Current IDs run from 001 to 078; the example uses 079. Validators derive the record count from data.
+
+Create `public/assets/ceramics/szk-079-demo-vase.png`. An optional background-removed image goes in `public/assets/ceramics/processed/` with the same filename. If unavailable, omit `processedImageUrl`; the gallery uses archive view.
+
+Append to `src/data/shouzhou_ceramics.json`:
+
+```json
+{
+  "id": "demo-079",
+  "archiveId": "szk-079",
+  "name": "示例瓶（结构演示）",
+  "nameEn": "Demo Vase",
+  "assetSlug": "demo-vase",
+  "dynasty": "",
+  "period": "",
+  "dimensions": { "height": null, "mouthDiameter": null, "baseDiameter": null, "unit": "厘米" },
+  "excavation": {},
+  "collection": {},
+  "description": "用于演示数据结构的虚构条目。",
+  "highlightTags": ["结构演示"],
+  "technicalFeatures": [],
+  "historicalSignificance": "",
+  "imageUrl": "/assets/ceramics/szk-079-demo-vase.png",
+  "thumbnailUrl": "/assets/ceramics/thumbs/szk-079-demo-vase.webp",
+  "hiddenFields": ["dynasty", "period", "dimensions", "excavation", "collection", "technicalFeatures", "historicalSignificance"]
+}
+```
+
+Append to `public/assets/ceramics/archive/index.json`:
+
+```json
+{
+  "id": "demo-079",
+  "archiveId": "szk-079",
+  "sourceFileName": "demo-vase-original.png",
+  "targetBaseName": "szk-079-demo-vase",
+  "titleZh": "示例瓶（结构演示）",
+  "titleEn": "Demo Vase",
+  "assetSlug": "demo-vase",
+  "imageUrl": "/assets/ceramics/szk-079-demo-vase.png",
+  "processedImageUrl": ""
+}
+```
+
+Create `public/assets/ceramics/archive/szk-079.json`:
+
+```json
+{
+  "archiveId": "szk-079",
+  "sourceFileName": "demo-vase-original.png",
+  "targetBaseName": "szk-079-demo-vase",
+  "titleZh": "示例瓶（结构演示）",
+  "titleEn": "Demo Vase",
+  "assetSlug": "demo-vase",
+  "ocrText": "",
+  "catalogSummary": "虚构的结构演示条目。",
+  "confidenceNotes": "示例数据，不用于历史事实说明。"
+}
+```
+
+Replace `sourceFileName` with the actual source filename, consistently in the index and sidecar. Record bibliographic details, page, author, URL and authorization document in the source manifest. Associate each new artifact with its own applicable permission record.
+
+Thumbnail maintenance uses Python 3.11 and Pillow 12.3.0. Create an optional environment:
+
+```sh
+python -m venv .venv
+```
+
+On Windows activate `.venv\Scripts\Activate.ps1`; on macOS/Linux run `source .venv/bin/activate`. Then run `python -m pip install Pillow==12.3.0` and:
+
+```sh
+python scripts/generate_thumbnails.py
+```
+
+The script generates WebP thumbnails from all PNGs in the directory, preferring processed images with matching names. Their longest edge is 320 pixels. Update hashes, regenerate documentation and run `npm run check`. Check the new navigation item, image, title and record in the browser.
+
+## 5. Maintain sources and file versions
+
+`docs/asset-rights.json` uses these fields:
+
+| Field | Meaning |
+| --- | --- |
+| `sources` | Source IDs, verifiable bibliography or original file clues |
+| `authorizations` | Authorization source, recording date, uses, terms and document references |
+| `records` | Runtime ID, title, original filename and related files for each artifact |
+| `records[].processingMetadata` | Recorded extraction and processing metadata; retain the original values |
+| `records[].files` | `role`, repository-relative path, `hashMode` and SHA-256 |
+| `sharedFiles` | Runtime data, archive index and shared reference images |
+
+Each artifact covers `archive-image`, `thumbnail` and `archive-text`; add `processed-image` when present. Use a new `sourceReference` for a new source and a new `authorizationId` for a new authorization. Permissions belong to the referenced materials.
+
+The manifest uses `schemaVersion: 2`. Existing records and their authorization use `publicRedistribution: "noncommercial"`, with `commercialUse: "prohibited"`, `recordedOn`, `termsReference` and `termsReferenceEn`. Terms cover the corresponding listed materials. Record actual sources and permissions for additions. Use `not-confirmed` while permission is pending. For other confirmed public redistribution permission, use `confirmed` and supply `documentReference`. Validation checks structure, references and file versions; the actual authorization determines permitted uses.
+
+Images use `hashMode: "raw-bytes"`. JSON uses `hashMode: "utf8-lf"`: normalize CRLF to LF before hashing. JSON formatting, content and key order still affect hashes.
+
+Compute one SHA-256 value from the root (Windows, Linux or macOS):
+
+```sh
+node --input-type=module -e "import fs from 'node:fs'; import {createHash} from 'node:crypto'; const p=process.argv[1]; const b=fs.readFileSync(p); console.log(createHash('sha256').update(p.endsWith('.json')?b.toString('utf8').replace(/\r\n/g,'\n'):b).digest('hex'))" public/assets/ceramics/szk-079-demo-vase.png
+```
+
+Update affected sidecars, images, thumbnails and aggregate JSON hashes after checking the contents and relevant permissions. Cover art and screenshots have a separate `docs/assets/manifest.json`, recording source, use and raw-byte SHA-256. `rights:check` validates both registries. Then run:
+
+```sh
+npm run docs:generate
+npm run check
+```
+
+To remove an artifact, remove its runtime and index entries, sidecar, exclusively used images and manifest entry, then update shared file hashes. Files left in `public/` remain part of the static build.
+
+## 6. Interaction changes and regression checks
+
+- Derive image addresses directly from the current artifact to avoid stale images during rapid navigation.
+- Fullscreen and record dialogs use `createPortal(..., document.body)`. Preserve background scroll lock, Escape, focus trapping and focus restoration.
+- Pause underlying arrow-key navigation while a dialog is open.
+- Check initial loading, rapid switching, failed-image fallback and artifacts without processed images. Test at least a 1280×720 landscape viewport and add touch/narrow-screen checks for target devices.
+- Inspect console errors, image loading, overlapping controls and long text.
+
+If the environment specifies a fixed Playwright runtime, use its approved command, browser directory and Chromium version without automatically installing another browser.
+
+## 7. Build, check and distribute
+
+```sh
+npm run check
+npm audit
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+`check` validates runtime data, material manifests, generated documentation and local links, then builds the app. `npm audit` checks dependency advisories.
+
+Serve `dist/` at a website root. For a subpath such as `/kiln/`, build with `npm run build -- --base=/kiln/`, access that same path and check all images. Configure the static server to return the correct JavaScript MIME type.
+
+Preserve third-party notices when distributing the build. After dependency changes, update the version table in [third-party notices](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md) and retain original license texts in `public/THIRD_PARTY_NOTICES.txt`. Review source and permission records with the corresponding material version.
+
+## 8. Discovery and citation
+
+The [discovery guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md) covers `llms.txt`, the machine-readable artifact catalog and generation commands. The [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md) provides code and content navigation examples. Cite the software with [CITATION.cff](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff) or [CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json). Cite artifact information with its archive ID and corresponding source record.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md
+
+# Agent 阅读与开发指南
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md) · [项目首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · [索引说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md)
+
+## 先定位任务
+
+| 任务 | 入口 | 关键文件 |
+| --- | --- | --- |
+| 了解作品与体验 | [首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md)、[使用指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md) | `src/App.jsx` |
+| 找一件文物 | [机器目录](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json)、[来源清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md) | `src/data/shouzhou_ceramics.json` |
+| 改交互或外观 | [开发指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md) | `src/components/`、`src/index.css`、`tailwind.config.js` |
+| 新增或修正文物 | [字段示例](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md#4-添加一件展品完整字段示例) | 运行数据、档案索引、逐件解析件与素材清单 |
+| 检查许可 | [素材条款](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)、[第三方声明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md) | `LICENSE`、`docs/asset-rights.json` |
+
+仓库开发约定见 [AGENTS.md](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md)（[中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md)）。`llms.txt` 提供简明导航，`llms-full.txt` 汇集核心双语文档。
+
+## 检索与证据
+
+```sh
+npm run catalog:search -- szk-003
+npm run catalog:search -- "Celadon-glazed"
+npm run catalog:search -- 龙柄
+```
+
+结果为 JSON，按 `archiveId` 定位运行记录及档案文件。`runtimeId` 用于页面数据，`archiveId` 是跨文件稳定标识。目录中的中英文名称直接来自运行数据，时期与标签保留原语言。
+
+介绍程序行为时以组件源码和运行验证为据；介绍文物时引用档案标识及来源。来源清单的印刷页码和文献版本有空缺；保留未知值，不根据原文件后缀推算页码或 ISBN。加工元数据用于描述所存记录，图片与 OCR 内容需结合原档案核对。
+
+## 从独立目录复现
+
+```sh
+git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
+cd shouzhou-kiln-interactive
+npm ci
+npm run check
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+使用 Node.js 22。打开 `http://127.0.0.1:4173/`。如端口被占用，选择另一个端口。依赖安装需要联网；安装完成后可本地构建、预览。
+
+## 内容维护示例
+
+1. 搜索 `szk-003`，检查运行数据、档案索引和逐件 JSON。
+2. 修改实际需要更新的字段；核对图片和来源是否受影响。
+3. 同步档案关联、素材记录及受影响文件哈希，保留未变的来源信息。
+4. 运行 `npm run docs:generate`、`npm run check`。
+5. 在浏览器检查该文物的两种视图、资料和全屏阅读。
+
+## 代码维护示例
+
+调整资料弹窗时从 `DataPanel.jsx` 和相关 hook 入手，核对 Portal、Escape、焦点和背景滚动行为。修改后验证 Tab/Shift+Tab 循环、关闭后焦点恢复，以及弹窗打开时底层导航暂停。界面改动同时检查宽屏和窄屏；固定 Playwright 环境按其既有策略使用 Chromium。
+
+提交贡献时说明改动影响和实际验证命令；更新文档时同步中英文并重新生成导览。数据、素材和文档检查的错误会给出文件路径或档案标识，按该位置检查源文件后再生成派生文件。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md
+
+# Agent reading and development guide
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md) · [Project home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md) · [Discovery guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md)
+
+## Locate the task
+
+| Task | Start here | Key files |
+| --- | --- | --- |
+| Understand and use the gallery | [Home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md), [user guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md) | `src/App.jsx` |
+| Find an artifact | [Machine catalog](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json), [source inventory](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md) | `src/data/shouzhou_ceramics.json` |
+| Change interaction or appearance | [Development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md) | `src/components/`, `src/index.css`, `tailwind.config.js` |
+| Add or correct an artifact | [Field examples](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md#4-add-an-artifact-complete-field-examples) | Runtime data, archive index, sidecars and material manifest |
+| Check permissions | [Material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md), [third-party notices](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md) | `LICENSE`, `docs/asset-rights.json` |
+
+Repository conventions are in [AGENTS.md](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md) ([Chinese](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md)). `llms.txt` provides navigation; `llms-full.txt` combines the core bilingual documents.
+
+## Retrieval and evidence
+
+```sh
+npm run catalog:search -- szk-003
+npm run catalog:search -- "Celadon-glazed"
+npm run catalog:search -- 龙柄
+```
+
+Results are JSON. Use `archiveId` to locate runtime and archive records. `runtimeId` identifies the UI record; `archiveId` is stable across files. Chinese and English names come directly from runtime data; periods and tags retain their recorded language.
+
+Use source code and observed behavior to explain the application. Cite archive IDs and source records when describing artifacts. Bibliographic editions and printed page numbers have gaps; retain unknown values and do not infer ISBNs or page numbers from filename suffixes. Processing metadata describes the stored record; check images and OCR text against the original archive.
+
+## Reproduce in an independent directory
+
+```sh
+git clone https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive.git
+cd shouzhou-kiln-interactive
+npm ci
+npm run check
+npm run preview -- --host 127.0.0.1 --port 4173 --strictPort
+```
+
+Use Node.js 22. Open `http://127.0.0.1:4173/`, or choose another port if occupied. Installation requires network access; subsequent builds and previews run locally.
+
+## Content maintenance example
+
+1. Search for `szk-003`; inspect runtime data, archive index and sidecar JSON.
+2. Edit the intended fields and check whether images or sources are affected.
+3. Synchronize archive references, material records and affected hashes while retaining unchanged source information.
+4. Run `npm run docs:generate` and `npm run check`.
+5. Inspect both views, the record dialog and fullscreen reader for that artifact.
+
+## Code maintenance example
+
+For a record-dialog change, start with `DataPanel.jsx` and related hooks. Check Portal, Escape, focus and background scrolling. Verify Tab/Shift+Tab cycling, focus restoration on close and paused underlying navigation while open. Check wide and narrow viewports for UI changes; use Chromium according to the environment's fixed Playwright policy.
+
+Describe the impact and commands actually run when contributing. Update both documentation languages and regenerate discovery files. Validation errors identify a path or archive ID; inspect that source before regenerating derived files.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md
+
+# 检索、导览与引用
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md) · [首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md) · [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
+
+| 文件 | 用途 |
+| --- | --- |
+| [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) | 人与 Agent 的双语阅读路径 |
+| [llm.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llm.txt) | 与 llms.txt 内容相同的兼容入口 |
+| [llms-full.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms-full.txt) | 核心双语指南合并文本；文档链接指向仓库文件 |
+| [catalog.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json) | 文物稳定标识、中英文名称、时期、标签和关联文件 |
+| [asset-rights.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) | 逐件素材的来源、用途和文件版本 |
+| [CITATION.cff](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff)、[CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json) | 软件作者、项目网址与技术元数据 |
+
+这些文件随仓库分发，便于代码助手、检索工具和阅读器消费。目录直接从现有数据生成，不改变页面数据接口。读取它们的工具需能访问仓库；线上展台地址用于体验作品。
+
+## 生成与检查
+
+```sh
+npm run docs:generate
+npm run docs:check
+npm run catalog:search -- szk-003
+```
+
+生成脚本读取运行 JSON、素材清单和核心 Markdown，写入目录、双语人读清单及三个 llm 文本入口。输出具有固定顺序，不带生成时间。`--check` 比较预期内容，发现过期文件时返回非零退出码；链接检查验证仓库相对链接、图片和标题锚点。修改生成文件的来源后重新生成。
+
+`catalog:search` 接受标识、中文或英文关键词；多个词使用“同时包含”匹配，结果输出 JSON 数组，无匹配时为 `[]`。从项目根目录直接执行 `node scripts/search_catalog.mjs szk-003` 可取得不带 npm 日志的 JSON。
+
+目录字段 `files` 是仓库相对路径，`processedImage` 无值时为 `null`。`runtimeId` 与 `archiveId` 分别保留运行与档案标识。`nameZh`、`nameEn` 来自原数据；`dynasty`、`period`、`tags` 保持记录语言，原数据缺项时保留空值。
+
+## 引用与再用
+
+引用软件时使用缪雨轩与项目标题、仓库网址，必要时附具体提交标识。引用文物时附 `archiveId` 和来源清单中的实际信息，遵守[素材条款](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。MIT 代码许可与非商用素材条款分别适用。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.en.md
+
+# Discovery, navigation and citation
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DISCOVERY.md) · [Home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md) · [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md)
+
+| File | Purpose |
+| --- | --- |
+| [llms.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms.txt) | Bilingual reading paths for people and agents |
+| [llm.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llm.txt) | Compatibility entry with identical contents to llms.txt |
+| [llms-full.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/llms-full.txt) | Combined core guides, with links to repository files |
+| [catalog.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/catalog.json) | Stable artifact IDs, Chinese/English names, periods, tags and related files |
+| [asset-rights.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json) | Material sources, permitted uses and file versions |
+| [CITATION.cff](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CITATION.cff), [CodeMeta](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/codemeta.json) | Software author, project URL and technical metadata |
+
+These files travel with the repository for code assistants, retrieval tools and readers. The catalog is generated from existing data and leaves the gallery data interface unchanged. Tools need repository access to read these files; the live gallery URL is the exhibition experience.
+
+## Generate and check
+
+```sh
+npm run docs:generate
+npm run docs:check
+npm run catalog:search -- szk-003
+```
+
+The generator reads runtime JSON, the material manifest and core Markdown, then writes the catalog, bilingual inventories and three llm navigation files. Output order is deterministic and contains no generation timestamp. `--check` compares expected contents and exits nonzero on drift; link checks validate repository-relative links, images and heading anchors. Edit source documents and regenerate derived files.
+
+`catalog:search` accepts IDs, Chinese or English keywords. Multiple words use AND matching. Output is a JSON array, or `[]` for no matches. Run `node scripts/search_catalog.mjs szk-003` from the root for JSON without npm's log prefix.
+
+Catalog `files` are repository-relative paths; `processedImage` is `null` when absent. `runtimeId` and `archiveId` retain the runtime and archive identifiers. `nameZh` and `nameEn` come from source data; `dynasty`, `period` and `tags` retain their recorded language and unknown values remain empty.
+
+## Cite and reuse
+
+Cite the software using 缪雨轩 (Miao Yuxuan), the project title and repository URL, adding a specific commit when needed. For artifacts, include `archiveId` and actual source information from the manifest and follow the [material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md). MIT code licensing and noncommercial material terms apply to their respective content.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md
+
+# 贡献指南
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md) · [开发指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.md)
+
+欢迎改进展台、纠正文物资料和完善文档。可复现的问题与功能建议请提交到[项目 Issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues)。
+
+1. 创建分支，说明预期结果。
+2. 使用 Node.js 22，执行 `npm ci` 和 `npm run check`。
+3. 保持中英文文档对应；指南或文物数据变化后执行 `npm run docs:generate`。
+4. 界面改动需检查导航、视图切换、全屏、弹窗、键盘焦点及窄屏，并附代表性截图。
+5. 依赖改动执行 `npm audit`，保留相应许可声明。
+
+原创代码和工程文档贡献采用 MIT。素材贡献需提供原始来源、相应权利和适用条款，同步来源清单、逐件目录和哈希。现有文物素材遵循[非商用使用范围](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。
+
+内容纠错请注明档案 ID 和依据。敏感信息问题仅报告位置与类别，避免将原值复制到 Issue。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.en.md
+
+# Contributing
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/CONTRIBUTING.md) · [Development guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/DEVELOPMENT.en.md)
+
+Contributions can improve the gallery, correct artifact information or extend the documentation. Use [issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues) for reproducible problems and proposals.
+
+1. Create a branch and describe the intended result.
+2. Use Node.js 22, install with `npm ci`, and run `npm run check`.
+3. Keep Chinese and English documentation aligned. Run `npm run docs:generate` when guide text or artifact data changes.
+4. For UI changes, check navigation, view switching, fullscreen, dialogs, keyboard focus and narrow screens. Include representative screenshots.
+5. For dependencies, run `npm audit` and retain relevant license notices.
+
+Original code and engineering documentation contributions use MIT. For material contributions, provide the original source, applicable rights and terms; update the source manifest, inventory and hashes. Current artifact materials use the noncommercial terms in [ASSET_LICENSE.en.md](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md).
+
+Describe content corrections with the archive ID and supporting reference. Report sensitive information by location and category without copying its value into an issue.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.md
+
+# 维护说明
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.en.md) · [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
+
+维护者为缪雨轩。项目用于文博展示与技术交流，维护重点是可复现的问题、内容纠错和小范围改进。
+
+## 常用命令
+
+```sh
+npm ci
+npm run docs:generate
+npm run check
+npm audit
+```
+
+`check` 校验数据、素材版本、文档索引及本地链接，并完成构建。Python 3.11 和 Pillow 12.3 用于可选的缩略图重建。
+
+## 程序约定
+
+- 图片路径由当前文物和视图派生，文物变化时同步图片组件 key。
+- 保留图片回退与重试行为。
+- 弹层通过 Portal 挂载，锁定背景滚动，处理 Escape 并恢复焦点。
+- 运行数据、档案索引、逐件解析件与图片保持同步。
+- Tailwind class 使用完整字面量，供 Vite 插件扫描。
+
+依赖变化时检查锁文件并同步第三方声明。内容变化时先更新来源与文件哈希，再生成检索文件。浏览器要求见[使用指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.md)。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.en.md
+
+# Maintenance
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/MAINTENANCE.md) · [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md)
+
+Maintained by 缪雨轩 (Miao Yuxuan). The project supports cultural exhibition and technical exchange; maintenance focuses on reproducible issues, content corrections and small improvements.
+
+## Commands
+
+```sh
+npm ci
+npm run docs:generate
+npm run check
+npm audit
+```
+
+`check` validates data, material versions, documentation indexes and local links, then builds the site. Python 3.11 and Pillow 12.3 are optional tools for thumbnail regeneration.
+
+## Application invariants
+
+- Derive image paths from the current artifact and view; keep image keys aligned with artifact changes.
+- Preserve image fallback and retry behavior.
+- Mount dialogs through Portal, lock background scrolling, handle Escape and restore focus.
+- Keep runtime data, archive index, sidecar records and images synchronized.
+- Use complete Tailwind class literals so the Vite plugin can discover them.
+
+For dependency changes, check the lockfile and update third-party notices. For content changes, update sources and file hashes before regenerating discovery files. Browser requirements are listed in the [user guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/USAGE.en.md).
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md
+
+# 素材使用说明
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md) · [项目首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md)
+
+## 使用范围
+
+本项目文物图片、扫描页、处理图、缩略图、档案文字、OCR、译文、运行数据及含这些内容的截图，允许用于交流学习和非商用分发，禁止商用。素材使用授权来源为淮南师范学院美术与设计学院。
+
+分发时保留本说明、已有来源信息与署名。商业用途或超出上述范围的使用，需另行取得相应授权。
+
+原创代码和工程文档采用 [MIT](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/LICENSE)。第三方软件遵循各自的许可，见[第三方声明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md)。
+
+## 文件范围
+
+- `public/assets/ceramics/`：文物图片、缩略图、档案索引与解析文字。
+- `src/data/shouzhou_ceramics.json`：展品介绍、译文和运行数据。
+- `artifacts/`：包含文物内容的截图。
+- `docs/assets/`：首页封面和功能截图，具体来源见[视觉素材说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md)。
+- `docs/catalog.json`、素材清单与检索索引中引用的文物名称、信息及图像，沿用对应素材范围。
+
+## 来源与内容
+
+原文件名、档案标识、关联文件和 SHA-256 记录在[素材清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md)与[机器清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json)。原文件名中的数字用于文件追溯；书籍版次和印刷页码未确定的字段保留为空。
+
+档案文字包含 OCR 和机器辅助翻译，处理图保留原有加工元数据。阅读器物细节与介绍时可结合档案扫描页对照。来源纠错请提供档案 ID、文件路径和可核查出处。
+
+联系入口：[项目 Issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues)。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md
+
+# Material terms
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md) · [Project home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md)
+
+## Permitted use
+
+Artifact images, scanned pages, processed images, thumbnails, archival text, OCR, translations, runtime data and screenshots containing these materials may be used for learning, exchange and noncommercial distribution. Commercial use is prohibited. Material authorization comes from the School of Art and Design, Huainan Normal University (淮南师范学院美术与设计学院).
+
+Retain these terms, existing source information and attribution when redistributing materials. Commercial uses and uses beyond this scope require separate permission from the relevant rights holders.
+
+Original code and engineering documentation use the [MIT license](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/LICENSE). Third-party software retains its own licenses; see [third-party notices](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md).
+
+## Covered files
+
+- `public/assets/ceramics/`: artifact images, thumbnails, archive index and extracted text.
+- `src/data/shouzhou_ceramics.json`: descriptions, translations and runtime data.
+- `artifacts/`: screenshots containing artifact materials.
+- `docs/assets/`: homepage cover and feature screenshots; see the [visual asset notes](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md).
+- Artifact names, information and images referenced in `docs/catalog.json`, inventories and discovery indexes follow the terms of their source materials.
+
+## Sources and content
+
+Original filenames, archive identifiers, associated files and SHA-256 hashes are recorded in the [inventory](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md) and [machine-readable manifest](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json). Numbers in source filenames support file tracing; unknown publication editions and printed page numbers remain unspecified.
+
+Archival text includes OCR and machine-assisted translations. Processed images retain their processing metadata. Consult the scanned archive alongside images and descriptions. To suggest a correction, include the archive ID, file path and a verifiable source.
+
+Contact: [project issues](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/issues).
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md
+
+# 文物素材清单
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md) · [素材条款](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)
+
+78 件文物。授权来源为淮南师范学院美术与设计学院。来源引用、文件版本和加工元数据见 [asset-rights.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json)。
+
+原文件名保留《寿州窑》及原始编号。书目版本和印刷页码尚未核实，未知字段留空；文件后缀序号不作为印刷页码。
+
+| 档案标识 | 名称 | 原文件名 | 印刷页码 | 用途 |
+| --- | --- | --- | --- | --- |
+| [szk-001](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-001.json) | 青釉双龙柄堆塑动物纹连体瓶 | 《寿州窑》_13578583_117.png |  | 非商用 |
+| [szk-002](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-002.json) | 青黄釉小龙柄鸡首壶 | 《寿州窑》_13578583_113.png |  | 非商用 |
+| [szk-003](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-003.json) | 青釉四系龙柄盘口壶 | 《寿州窑》_13578583_116.png |  | 非商用 |
+| [szk-004](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-004.json) | 青釉刻花六系盘口壶 | 《寿州窑》_13578583_119.png |  | 非商用 |
+| [szk-005](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-005.json) | 青釉小盘口壶 | 《寿州窑》_13578583_122.png |  | 非商用 |
+| [szk-006](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-006.json) | 青釉戳印莲花纹四系盘口壶 | 《寿州窑》_13578583_124.png |  | 非商用 |
+| [szk-007](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-007.json) | 青釉模印花卉盘口壶 | 《寿州窑》_13578583_127.png |  | 非商用 |
+| [szk-008](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-008.json) | 黄釉戳印纹四系小盘口壶 | 《寿州窑》_13578583_128.png |  | 非商用 |
+| [szk-009](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-009.json) | 青釉盘口四系罐 | 《寿州窑》_13578583_131.png |  | 非商用 |
+| [szk-010](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-010.json) | 青黄釉四系盘口壶 | 《寿州窑》_13578583_133.png |  | 非商用 |
+| [szk-011](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-011.json) | 青釉四系盘口壶 | 《寿州窑》_13578583_134.png |  | 非商用 |
+| [szk-012](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-012.json) | 青釉印花盘口壶 | 《寿州窑》_13578583_137.png |  | 非商用 |
+| [szk-013](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-013.json) | 青釉贴塑罐 | 《寿州窑》_13578583_142.png |  | 非商用 |
+| [szk-014](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-014.json) | 青釉弦纹四系罐 | 《寿州窑》_13578583_145.png |  | 非商用 |
+| [szk-015](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-015.json) | 青釉莲瓣纹碗 | 《寿州窑》_13578583_150.png |  | 非商用 |
+| [szk-016](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-016.json) | 青黄釉高足盘 | 《寿州窑》_13578583_154.png |  | 非商用 |
+| [szk-017](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-017.json) | 寿州窑黄釉刻花莲瓣纹高足盘 | 《寿州窑》_13578583_156.png |  | 非商用 |
+| [szk-018](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-018.json) | 青绿釉高足盘 | 《寿州窑》_13578583_158.png |  | 非商用 |
+| [szk-019](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-019.json) | 寿州窑黄釉贴花罐 | 《寿州窑》_13578583_160.png |  | 非商用 |
+| [szk-020](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-020.json) | 黄釉双系注子 | 《寿州窑》_13578583_163.png |  | 非商用 |
+| [szk-021](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-021.json) | 酱釉注子 | 《寿州窑》_13578583_164.png |  | 非商用 |
+| [szk-022](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-022.json) | 青黄釉双系注子 | 《寿州窑》_13578583_166.png |  | 非商用 |
+| [szk-023](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-023.json) | 黑釉双系注子 | 《寿州窑》_13578583_167.png |  | 非商用 |
+| [szk-024](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-024.json) | 黑釉双系注子 | 《寿州窑》_13578583_170.png |  | 非商用 |
+| [szk-025](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-025.json) | 酱釉双系注子 | 《寿州窑》_13578583_174.png |  | 非商用 |
+| [szk-026](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-026.json) | 黄釉注子 | 《寿州窑》_13578583_176.png |  | 非商用 |
+| [szk-027](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-027.json) | 黄釉双系敞口注子 | 《寿州窑》_13578583_178.png |  | 非商用 |
+| [szk-028](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-028.json) | 黄釉注子 | 《寿州窑》_13578583_180.png |  | 非商用 |
+| [szk-029](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-029.json) | 黄釉褐彩瓷注 | 《寿州窑》_13578583_181.png |  | 非商用 |
+| [szk-030](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-030.json) | 黑釉注子 | 《寿州窑》_13578583_185.png |  | 非商用 |
+| [szk-031](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-031.json) | 黄釉圆腹注子 | 《寿州窑》_13578583_188.png |  | 非商用 |
+| [szk-032](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-032.json) | 黄釉贴花瓷枕 | 《寿州窑》_13578583_204.png |  | 非商用 |
+| [szk-033](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-033.json) | 黄釉印花瓷枕 | 《寿州窑》_13578583_206.png |  | 非商用 |
+| [szk-034](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-034.json) | 黄釉贴花瓷枕 | 《寿州窑》_13578583_209.png |  | 非商用 |
+| [szk-035](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-035.json) | 酱红釉蝴蝶纹贴花瓷枕 | 《寿州窑》_13578583_213.png |  | 非商用 |
+| [szk-036](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-036.json) | 酱釉瓷枕 | 《寿州窑》_13578583_216.png |  | 非商用 |
+| [szk-037](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-037.json) | 酱釉漏花瓷枕 | 《寿州窑》_13578583_230.png |  | 非商用 |
+| [szk-038](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-038.json) | 黄釉委角瓷枕 | 《寿州窑》_13578583_231.png |  | 非商用 |
+| [szk-039](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-039.json) | 黑釉松叶纹瓷枕 | 《寿州窑》_13578583_234.png |  | 非商用 |
+| [szk-040](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-040.json) | 黄釉瓷枕 | 《寿州窑》_13578583_236.png |  | 非商用 |
+| [szk-041](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-041.json) | 黄釉划花纹瓷枕 | 《寿州窑》_13578583_239.png |  | 非商用 |
+| [szk-042](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-042.json) | 黑釉兽形瓷枕 | 《寿州窑》_13578583_242.png |  | 非商用 |
+| [szk-043](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-043.json) | 酱釉象形瓷枕 | 《寿州窑》_13578583_245.png |  | 非商用 |
+| [szk-044](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-044.json) | 茶叶末釉兽形瓷枕 | 《寿州窑》_13578583_246.png |  | 非商用 |
+| [szk-045](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-045.json) | 寿州窑黄釉瓷枕 | 《寿州窑》_13578583_247.png |  | 非商用 |
+| [szk-046](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-046.json) | 黄釉“大中祥符”铭龙纹瓷枕 | 《寿州窑》_13578583_248.png |  | 非商用 |
+| [szk-047](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-047.json) | 黑釉碗 | 《寿州窑》_13578583_255.png |  | 非商用 |
+| [szk-048](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-048.json) | 黄釉璧形底盏 | 《寿州窑》_13578583_256.png |  | 非商用 |
+| [szk-049](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-049.json) | 黄釉盏 | 《寿州窑》_13578583_260.png |  | 非商用 |
+| [szk-050](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-050.json) | 酱釉碗 | 《寿州窑》_13578583_267.png |  | 非商用 |
+| [szk-051](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-051.json) | 黄釉璧形底盏 | 《寿州窑》_13578583_268.png |  | 非商用 |
+| [szk-052](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-052.json) | 黄釉贴花葵口盏 | 《寿州窑》_13578583_269.png |  | 非商用 |
+| [szk-053](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-053.json) | 黄釉大碗 | 《寿州窑》_13578583_275.png |  | 非商用 |
+| [szk-054](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-054.json) | 黄釉水盂 | 《寿州窑》_13578583_278.png |  | 非商用 |
+| [szk-055](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-055.json) | 黄釉水盂 | 《寿州窑》_13578583_284.png |  | 非商用 |
+| [szk-056](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-056.json) | 黄釉敞口四系罐 | 《寿州窑》_13578583_290.png |  | 非商用 |
+| [szk-057](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-057.json) | 黄釉大瓮 | 《寿州窑》_13578583_292.png |  | 非商用 |
+| [szk-058](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-058.json) | 黄釉唇口四系大罐 | 《寿州窑》_13578583_296.png |  | 非商用 |
+| [szk-059](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-059.json) | 黄釉四系穿带壶 | 《寿州窑》_13578583_302.png |  | 非商用 |
+| [szk-060](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-060.json) | 黄釉三系唇口罐 | 《寿州窑》_13578583_308.png |  | 非商用 |
+| [szk-061](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-061.json) | 黑釉双系大口罐 | 《寿州窑》_13578583_309.png |  | 非商用 |
+| [szk-062](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-062.json) | 黑釉胆形腹盂口瓶 | 《寿州窑》_13578583_314.png |  | 非商用 |
+| [szk-063](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-063.json) | 黄釉鼓腹罐 | 《寿州窑》_13578583_315.png |  | 非商用 |
+| [szk-064](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-064.json) | 酱釉双系长腹罐 | 《寿州窑》_13578583_320.png |  | 非商用 |
+| [szk-065](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-065.json) | 黄绿釉唇口四系罐 | 《寿州窑》_13578583_333.png |  | 非商用 |
+| [szk-066](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-066.json) | 蜡黄釉盂口四系罐 | 《寿州窑》_13578583_337.png |  | 非商用 |
+| [szk-067](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-067.json) | 酱釉盂口四系罐 | 《寿州窑》_13578583_342.png |  | 非商用 |
+| [szk-068](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-068.json) | 黄釉多足砚 | 《寿州窑》_13578583_344.png |  | 非商用 |
+| [szk-069](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-069.json) | 黄釉兽形镇 | 《寿州窑》_13578583_346.png |  | 非商用 |
+| [szk-070](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-070.json) | 黄釉狮形镇 | 《寿州窑》_13578583_347.png |  | 非商用 |
+| [szk-071](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-071.json) | 黄褐釉卧虎镇 | 《寿州窑》_13578583_348.png |  | 非商用 |
+| [szk-072](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-072.json) | 青绿釉瓷塑兽残器 | 《寿州窑》_13578583_350.png |  | 非商用 |
+| [szk-073](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-073.json) | 黄釉小瓷马 | 《寿州窑》_13578583_356.png |  | 非商用 |
+| [szk-074](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-074.json) | 青釉胡人骑马瓷塑 | 《寿州窑》_13578583_357.png |  | 非商用 |
+| [szk-075](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-075.json) | 黄釉人骑马瓷塑 | 《寿州窑》_13578583_361.png |  | 非商用 |
+| [szk-076](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-076.json) | 黄釉瓷水牛 | 《寿州窑》_13578583_366.png |  | 非商用 |
+| [szk-077](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-077.json) | 黄褐釉小瓷马 | 《寿州窑》_13578583_367.png |  | 非商用 |
+| [szk-078](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-078.json) | 黄釉瓷马 | 《寿州窑》_13578583_368.png |  | 非商用 |
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.en.md
+
+# Artifact material inventory
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/ASSET_INVENTORY.md) · [Material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md)
+
+78 artifacts. Authorization source: School of Art and Design, Huainan Normal University (淮南师范学院美术与设计学院). Source references, file versions and processing metadata are in [asset-rights.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json).
+
+The source filename preserves the title 《寿州窑》 and its original numbering. Bibliographic edition and printed page numbers remain unverified; blank cells retain unknown values. Filename suffixes are not printed page references.
+
+| ID | Name | Original filename | Printed page | Terms |
+| --- | --- | --- | --- | --- |
+| [szk-001](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-001.json) | Celadon-glazed Conjoined Vase with Double Dragon Handles and Applied Animal Motifs | 《寿州窑》_13578583_117.png |  | noncommercial |
+| [szk-002](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-002.json) | Greenish-yellow-glazed Chicken-headed Ewer with Small Dragon Handle | 《寿州窑》_13578583_113.png |  | noncommercial |
+| [szk-003](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-003.json) | Celadon-glazed Dish-mouthed Jar with Four Loops and Dragon Handle | 《寿州窑》_13578583_116.png |  | noncommercial |
+| [szk-004](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-004.json) | Celadon-glazed Incised Six-handled Dish-mouthed Jar | 《寿州窑》_13578583_119.png |  | noncommercial |
+| [szk-005](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-005.json) | Celadon-glazed Small Dish-mouthed Ewer | 《寿州窑》_13578583_122.png |  | noncommercial |
+| [szk-006](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-006.json) | Celadon-glazed Dish-mouthed Jar with Four Loops and Stamped Lotus Design | 《寿州窑》_13578583_124.png |  | noncommercial |
+| [szk-007](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-007.json) | Celadon-glazed Molded Floral Dish-mouthed Ewer | 《寿州窑》_13578583_127.png |  | noncommercial |
+| [szk-008](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-008.json) | Yellow-glazed stamped four-handled small disk-mouthed ewer | 《寿州窑》_13578583_128.png |  | noncommercial |
+| [szk-009](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-009.json) | Celadon-glazed Dish-mouth Four-handled Jar | 《寿州窑》_13578583_131.png |  | noncommercial |
+| [szk-010](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-010.json) | Greenish-yellow Glazed Four-handled Dish-mouthed Jar | 《寿州窑》_13578583_133.png |  | noncommercial |
+| [szk-011](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-011.json) | Celadon-glazed Four-handled Dish-mouthed Jar | 《寿州窑》_13578583_134.png |  | noncommercial |
+| [szk-012](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-012.json) | Celadon-glazed Imprinted Dish-mouthed Jar | 《寿州窑》_13578583_137.png |  | noncommercial |
+| [szk-013](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-013.json) | Celadon-glazed Jar with Applied Decoration | 《寿州窑》_13578583_142.png |  | noncommercial |
+| [szk-014](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-014.json) | Celadon-glazed Jar with Horizontal Ridges and Four Loops | 《寿州窑》_13578583_145.png |  | noncommercial |
+| [szk-015](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-015.json) | Celadon-glazed Bowl with Lotus Petal Decoration | 《寿州窑》_13578583_150.png |  | noncommercial |
+| [szk-016](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-016.json) | Greenish-yellow-glazed Stemmed Dish | 《寿州窑》_13578583_154.png |  | noncommercial |
+| [szk-017](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-017.json) | Shouzhou Kiln Yellow-glazed Stemmed Dish with Incised Lotus-petal Design | 《寿州窑》_13578583_156.png |  | noncommercial |
+| [szk-018](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-018.json) | Bluish-green-glazed Stemmed Dish | 《寿州窑》_13578583_158.png |  | noncommercial |
+| [szk-019](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-019.json) | Shouzhou Kiln Yellow-glazed Jar with Applied Decoration | 《寿州窑》_13578583_160.png |  | noncommercial |
+| [szk-020](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-020.json) | Yellow-glazed Two-handled Ewer | 《寿州窑》_13578583_163.png |  | noncommercial |
+| [szk-021](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-021.json) | Brown-glazed Ewer | 《寿州窑》_13578583_164.png |  | noncommercial |
+| [szk-022](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-022.json) | Greenish-yellow Glazed Two-handled Ewer | 《寿州窑》_13578583_166.png |  | noncommercial |
+| [szk-023](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-023.json) | Black-glazed Two-handled Ewer | 《寿州窑》_13578583_167.png |  | noncommercial |
+| [szk-024](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-024.json) | Black-glazed Two-handled Ewer | 《寿州窑》_13578583_170.png |  | noncommercial |
+| [szk-025](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-025.json) | Brown-glazed Two-handled Ewer | 《寿州窑》_13578583_174.png |  | noncommercial |
+| [szk-026](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-026.json) | Yellow-glazed Ewer | 《寿州窑》_13578583_176.png |  | noncommercial |
+| [szk-027](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-027.json) | Yellow-glazed Two-handled Ewer with Flared Mouth | 《寿州窑》_13578583_178.png |  | noncommercial |
+| [szk-028](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-028.json) | Yellow-glazed Ewer | 《寿州窑》_13578583_180.png |  | noncommercial |
+| [szk-029](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-029.json) | Yellow-glazed Brown-painted Ewer | 《寿州窑》_13578583_181.png |  | noncommercial |
+| [szk-030](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-030.json) | Black-glazed Ewer | 《寿州窑》_13578583_185.png |  | noncommercial |
+| [szk-031](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-031.json) | Yellow-glazed Round-bodied Ewer | 《寿州窑》_13578583_188.png |  | noncommercial |
+| [szk-032](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-032.json) | Yellow-glazed Applique Pillow | 《寿州窑》_13578583_204.png |  | noncommercial |
+| [szk-033](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-033.json) | Yellow-glazed Impressed Pillow | 《寿州窑》_13578583_206.png |  | noncommercial |
+| [szk-034](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-034.json) | Yellow-glazed Applique Pillow | 《寿州窑》_13578583_209.png |  | noncommercial |
+| [szk-035](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-035.json) | Brown-glazed Pillow with Applied Butterfly Motif | 《寿州窑》_13578583_213.png |  | noncommercial |
+| [szk-036](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-036.json) | Brown-glazed Pillow | 《寿州窑》_13578583_216.png |  | noncommercial |
+| [szk-037](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-037.json) | Brown-glazed Pillow with Paper-cut Resist Decoration | 《寿州窑》_13578583_230.png |  | noncommercial |
+| [szk-038](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-038.json) | Yellow-glazed Pillow with Recessed Corners | 《寿州窑》_13578583_231.png |  | noncommercial |
+| [szk-039](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-039.json) | Black-glazed Pillow with Pine Needle Pattern | 《寿州窑》_13578583_234.png |  | noncommercial |
+| [szk-040](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-040.json) | Yellow-glazed Pillow | 《寿州窑》_13578583_236.png |  | noncommercial |
+| [szk-041](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-041.json) | Yellow-glazed Pillow with Incised Floral Decoration | 《寿州窑》_13578583_239.png |  | noncommercial |
+| [szk-042](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-042.json) | Black-glazed Zoomorphic Pillow | 《寿州窑》_13578583_242.png |  | noncommercial |
+| [szk-043](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-043.json) | Brown-glazed Pillow with Elephant-shaped Supports | 《寿州窑》_13578583_245.png |  | noncommercial |
+| [szk-044](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-044.json) | Tea-dust Glazed Beast-shaped Porcelain Pillow | 《寿州窑》_13578583_246.png |  | noncommercial |
+| [szk-045](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-045.json) | Shouzhou Kiln Yellow-glazed Pillow | 《寿州窑》_13578583_247.png |  | noncommercial |
+| [szk-046](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-046.json) | Yellow-glazed Pillow with Dragon Motif and Dazhong Xiangfu Inscription | 《寿州窑》_13578583_248.png |  | noncommercial |
+| [szk-047](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-047.json) | Black-glazed Bowl | 《寿州窑》_13578583_255.png |  | noncommercial |
+| [szk-048](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-048.json) | Yellow-glazed Bowl with Bi-shaped Foot | 《寿州窑》_13578583_256.png |  | noncommercial |
+| [szk-049](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-049.json) | Yellow-glazed Bowl | 《寿州窑》_13578583_260.png |  | noncommercial |
+| [szk-050](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-050.json) | Brown-glazed Bowl | 《寿州窑》_13578583_267.png |  | noncommercial |
+| [szk-051](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-051.json) | Yellow-glazed Bowl with Bi-shaped Foot | 《寿州窑》_13578583_268.png |  | noncommercial |
+| [szk-052](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-052.json) | Yellow-glazed Applique Lobed Cup | 《寿州窑》_13578583_269.png |  | noncommercial |
+| [szk-053](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-053.json) | Large Yellow-Glazed Bowl | 《寿州窑》_13578583_275.png |  | noncommercial |
+| [szk-054](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-054.json) | Yellow-glazed Water Pot | 《寿州窑》_13578583_278.png |  | noncommercial |
+| [szk-055](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-055.json) | Yellow-glazed Water Pot | 《寿州窑》_13578583_284.png |  | noncommercial |
+| [szk-056](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-056.json) | Yellow-glazed Four-handled Jar with Flared Mouth | 《寿州窑》_13578583_290.png |  | noncommercial |
+| [szk-057](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-057.json) | Large Yellow-Glazed Jar | 《寿州窑》_13578583_292.png |  | noncommercial |
+| [szk-058](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-058.json) | Large Yellow-Glazed Jar with Lip Rim and Four Handles | 《寿州窑》_13578583_296.png |  | noncommercial |
+| [szk-059](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-059.json) | Yellow-glazed Strap Flask with Four Loop Handles | 《寿州窑》_13578583_302.png |  | noncommercial |
+| [szk-060](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-060.json) | Yellow-glazed Three-handled Lip-rim Jar | 《寿州窑》_13578583_308.png |  | noncommercial |
+| [szk-061](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-061.json) | Black-glazed Large-mouthed Jar with Two Handles | 《寿州窑》_13578583_309.png |  | noncommercial |
+| [szk-062](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-062.json) | Black-glazed Gallbladder-shaped Bottle with Water-pot-shaped Mouth | 《寿州窑》_13578583_314.png |  | noncommercial |
+| [szk-063](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-063.json) | Yellow-glazed Bulbous Jar | 《寿州窑》_13578583_315.png |  | noncommercial |
+| [szk-064](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-064.json) | Brown-glazed Two-handled Long-bodied Jar | 《寿州窑》_13578583_320.png |  | noncommercial |
+| [szk-065](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-065.json) | Yellow-green Glazed Lip-mouth Four-handled Jar | 《寿州窑》_13578583_333.png |  | noncommercial |
+| [szk-066](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-066.json) | Wax-yellow-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles | 《寿州窑》_13578583_337.png |  | noncommercial |
+| [szk-067](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-067.json) | Brown-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles | 《寿州窑》_13578583_342.png |  | noncommercial |
+| [szk-068](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-068.json) | Yellow-glazed Multi-footed Inkstone | 《寿州窑》_13578583_344.png |  | noncommercial |
+| [szk-069](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-069.json) | Yellow-glazed Beast-shaped Weight | 《寿州窑》_13578583_346.png |  | noncommercial |
+| [szk-070](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-070.json) | Yellow-glazed Lion-shaped Weight | 《寿州窑》_13578583_347.png |  | noncommercial |
+| [szk-071](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-071.json) | Yellow-brown Glazed Reclining Tiger Weight | 《寿州窑》_13578583_348.png |  | noncommercial |
+| [szk-072](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-072.json) | Green-glazed Ceramic Beast Fragment | 《寿州窑》_13578583_350.png |  | noncommercial |
+| [szk-073](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-073.json) | Yellow-glazed Ceramic Horse | 《寿州窑》_13578583_356.png |  | noncommercial |
+| [szk-074](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-074.json) | Celadon-glazed Figurine of a Central Asian Rider | 《寿州窑》_13578583_357.png |  | noncommercial |
+| [szk-075](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-075.json) | Yellow-glazed Ceramic Figure of a Man on Horseback | 《寿州窑》_13578583_361.png |  | noncommercial |
+| [szk-076](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-076.json) | Yellow-glazed Porcelain Water Buffalo | 《寿州窑》_13578583_366.png |  | noncommercial |
+| [szk-077](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-077.json) | Small Ceramic Horse with Yellowish Brown Glaze | 《寿州窑》_13578583_367.png |  | noncommercial |
+| [szk-078](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/assets/ceramics/archive/szk-078.json) | Yellow-glazed Horse | 《寿州窑》_13578583_368.png |  | noncommercial |
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md
+
+# 第三方软件与许可
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md) · [首页](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.md)
+
+版本与 SPDX 声明来自 `package-lock.json`，许可证正文来自相应包文件。文物素材使用[单独条款](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。
+
+## 运行依赖
+
+以下列出直接与传递生产依赖，其许可证正文收录在 [public/THIRD_PARTY_NOTICES.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/THIRD_PARTY_NOTICES.txt)。Vite 将声明复制到 `dist/`，分发构建时应保留。
+
+| 包 | 锁定版本 | 包声明许可 |
+| --- | --- | --- |
+| `js-tokens` | 4.0.0 | MIT |
+| `loose-envify` | 1.4.0 | MIT |
+| `lucide-react` | 1.11.0 | ISC |
+| `object-assign` | 4.1.1 | MIT |
+| `prop-types` | 15.8.1 | MIT |
+| `react` | 18.3.1 | MIT |
+| `react-dom` | 18.3.1 | MIT |
+| `react-is` | 16.13.1 | MIT |
+| `scheduler` | 0.23.2 | MIT |
+
+Lucide 的 LICENSE 包含 ISC 以及来自 Feather 图标的 MIT 声明，两部分正文均随附。
+
+## 样式与构建工具
+
+Tailwind CSS 4.3.3 的默认样式和生成 CSS 随应用分发，MIT 正文收录在静态声明中。
+
+| 直接开发依赖 | 锁定版本 | 许可 |
+| --- | --- | --- |
+| `@tailwindcss/vite` | 4.3.3 | MIT |
+| `@types/react` | 18.3.28 | MIT |
+| `@types/react-dom` | 18.3.7 | MIT |
+| `@vitejs/plugin-react` | 4.7.0 | MIT |
+| `tailwindcss` | 4.3.3 | MIT |
+| `vite` | 6.4.3 | MIT |
+
+锁文件的第三方许可包括 MIT、ISC、BSD-3-Clause、Apache-2.0、CC-BY-4.0 与 MPL-2.0。分发工具链或 node_modules 时，应随附对应包的许可文件。依赖变化时同步版本表与许可证正文。
+
+## 可选图像工具与字体
+
+Python 3.11 与 Pillow 12.3.0 用于可选的缩略图生成。运行时二进制由使用者安装；再分发时遵守各自及附带组件许可。
+
+文物记录中的加工元数据见[素材清单](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json)。缩略图脚本位于 `scripts/generate_thumbnails.py`。
+
+CSS 引用 Noto Serif SC / Source Han Serif SC 字体族，使用本机衬线字体回退。添加字体文件时需附相应字体许可。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.en.md
+
+# Third-party software and licenses
+
+[简体中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/THIRD_PARTY_NOTICES.md) · [Home](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/README.en.md)
+
+Versions and SPDX declarations come from `package-lock.json`; license texts come from the corresponding packages. Artifact materials use [separate terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md).
+
+## Production dependencies
+
+The following direct and transitive production dependencies have their original license texts in [public/THIRD_PARTY_NOTICES.txt](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/public/THIRD_PARTY_NOTICES.txt). Vite copies the notices into `dist/`; preserve them when distributing the build.
+
+| Package | Locked version | Declared license |
+| --- | --- | --- |
+| `js-tokens` | 4.0.0 | MIT |
+| `loose-envify` | 1.4.0 | MIT |
+| `lucide-react` | 1.11.0 | ISC |
+| `object-assign` | 4.1.1 | MIT |
+| `prop-types` | 15.8.1 | MIT |
+| `react` | 18.3.1 | MIT |
+| `react-dom` | 18.3.1 | MIT |
+| `react-is` | 16.13.1 | MIT |
+| `scheduler` | 0.23.2 | MIT |
+
+Lucide's LICENSE includes ISC and the MIT notice for icons derived from Feather. Both texts are included.
+
+## Styles and build tools
+
+Tailwind CSS 4.3.3 default styles and generated CSS are distributed with the app. Its MIT text is included in the static notices.
+
+| Direct development dependency | Locked version | License |
+| --- | --- | --- |
+| `@tailwindcss/vite` | 4.3.3 | MIT |
+| `@types/react` | 18.3.28 | MIT |
+| `@types/react-dom` | 18.3.7 | MIT |
+| `@vitejs/plugin-react` | 4.7.0 | MIT |
+| `tailwindcss` | 4.3.3 | MIT |
+| `vite` | 6.4.3 | MIT |
+
+Third-party licenses in the lockfile include MIT, ISC, BSD-3-Clause, Apache-2.0, CC-BY-4.0 and MPL-2.0. When distributing a toolchain or node_modules, include the corresponding package license files. Synchronize version tables and license texts after dependency changes.
+
+## Optional image tools and fonts
+
+Python 3.11 and Pillow 12.3.0 support optional thumbnail generation. Users install runtime binaries separately; redistribution must follow their licenses and those of included components.
+
+Artifact processing metadata is retained in the [material manifest](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/asset-rights.json). The thumbnail script is `scripts/generate_thumbnails.py`.
+
+CSS names the Noto Serif SC / Source Han Serif SC font families and falls back to local serif fonts. Include corresponding font licenses when adding font files.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md
+
+# Repository conventions
+
+[中文](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md) · [Agent guide](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.en.md)
+
+- Use Node.js 22 and `npm ci`. Run `npm run check` after changes.
+- Runtime content lives in `src/data/shouzhou_ceramics.json`. Keep stable `archiveId` values and align the archive index, sidecars, images and material manifest.
+- Preserve the gallery's keyboard navigation, image fallback, dialog focus behavior and responsive layout. Check affected interactions in Chromium when changing UI behavior.
+- Use complete Tailwind class literals. Keep generated catalog and documentation output out of runtime imports.
+- Update Chinese and English guides together. Run `npm run docs:generate` after editing source guides, material records or artifact data; `npm run docs:check` checks synchronization and local links.
+- Preserve source and permission records. Leave unknown bibliographic fields empty. Code and original engineering text use MIT; artifact materials and documentation visuals use the terms linked from `ASSET_LICENSE.en.md`.
+- Keep credentials, personal environment paths, build output and working notes outside tracked files. Retain required third-party copyright notices.
+- Use the host's approved Playwright installation and Chromium; do not automatically install another browser runtime.
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.zh-CN.md
+
+# 仓库开发约定
+
+[English](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/AGENTS.md) · [Agent 指南](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/AGENT_GUIDE.md)
+
+- 使用 Node.js 22 与 `npm ci`，修改后运行 `npm run check`。
+- 运行内容位于 `src/data/shouzhou_ceramics.json`。保留稳定 `archiveId`，同步档案索引、逐件解析件、图片与素材清单。
+- 保留方向键导航、图片回退、弹层焦点行为和响应式布局。更改交互时在 Chromium 中验证受影响的操作。
+- Tailwind class 使用完整字面量。生成目录和文档不引入运行时依赖。
+- 中英文指南同步维护。修改源指南、素材记录或文物数据后运行 `npm run docs:generate`；`npm run docs:check` 检查生成同步与本地链接。
+- 保留来源与授权信息，未知书目字段留空。代码与原创工程文字采用 MIT；文物素材与文档图片使用 `ASSET_LICENSE.md` 所链接的条款。
+- 凭据、个人环境路径、构建产物和工作笔记放在跟踪文件之外，保留第三方版权声明。
+- 使用所在环境已批准的 Playwright 和 Chromium，不自动安装其他浏览器运行时。
+
+
+---
+
+Source: https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/README.md
+
+# 首页视觉素材 / Homepage visuals
+
+## 主题封面 / Thematic cover
+
+`shouzhou-kiln-cover.png` 为本项目生成的主题插画，以青瓷、青铜色和窑火组织画面。画面中的器物与窑洞为艺术化表达。
+
+The cover is an AI-generated thematic illustration for this project, combining celadon, bronze tones and kiln fire. Its vessels and kiln arches are artistic interpretations.
+
+生成方式 / Method：imagegen，2026-10-17。构图要点 / Art direction：宽幅、深色底、釉面器物、窑火、少量等高线纹理；标题由 Markdown 呈现。 / A wide dark composition with glazed vessels, kiln fire and subtle contour lines; the title is rendered as Markdown text.
+
+## 展台截图 / Application screenshots
+
+| 文件 / File | 内容 / Content |
+| --- | --- |
+| `gallery.png` | 数字展台与文物导航 / Gallery and artifact navigation |
+| `archive-view.png` | 档案视图 / Archive view |
+| `artifact-details.png` | 文物资料面板 / Artifact record panel |
+| `archive-fullscreen.png` | 全屏档案阅读 / Fullscreen archive reader |
+
+截图来自本项目实际界面，所示文物为 `szk-003`，视口为 1440 × 900。 / Screenshots show the actual application with artifact `szk-003`, captured at 1440 × 900.
+
+## 使用范围 / Use
+
+这些首页视觉素材仅供交流学习与非商用分发，分发时保留本说明。截图中的文物素材适用[素材使用说明](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.md)。文件来源、类型与 SHA-256 见 [manifest.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/manifest.json)。
+
+These homepage visuals may be distributed for noncommercial learning and exchange; retain these notes when redistributing them. Artifact materials shown in screenshots follow the [material terms](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/ASSET_LICENSE.en.md). File origins, types and SHA-256 hashes are recorded in [manifest.json](https://github.com/HNNUYUXUAN/shouzhou-kiln-interactive/blob/main/docs/assets/manifest.json).
+
+
+---

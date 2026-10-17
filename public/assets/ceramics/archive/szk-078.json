@@ -1,0 +1,36 @@
+{
+  "archiveId": "szk-078",
+  "assetSlug": "yellow-glazed-horse",
+  "sourceFileName": "《寿州窑》_13578583_368.png",
+  "targetBaseName": "szk-078-yellow-glazed-horse",
+  "titleZh": "黄釉瓷马",
+  "titleEn": "Yellow-glazed Horse",
+  "ocrText": "黄釉瓷马\n通高8.5厘米,底座长4.8厘米,底座宽3.4厘米\n寿县博物馆藏\n寿州窑的玩具多见动物、人物,其造型生动,\n惟妙惟肖。大小一般在5厘米左右,以小泥条和\n小泥饼构成,用竹签一类的工具修胎和处理细\n节,制作技巧十分娴熟。看似信手拈来,随意捏\n塑,实则反映了寿州窑窑工们善于观察生活并高\n度提炼生活的能力,每件小玩具都有浑然天成、\n乐观生活的美感。人物造型多见童子、女童、老\n叟、胡人、仕女等;动物形象常见十二生肖。一\n般常见人物与动物的组合,也有独立造型的动物\n塑像。在人物和动物的面貌处理上十分讲究,既\n形象又夸张。釉色有蜡黄、黄釉、褐釉、黑釉和\n点褐彩等。",
+  "catalogSummary": "此件为唐代寿州窑黄釉瓷马，现藏于寿县博物馆。器物通高8.5厘米，造型生动，体现了寿州窑工匠善于观察生活及娴熟的制作技巧。此类玩具多采用捏塑法成型，釉色以黄釉为主，具有浑然天成的艺术美感。",
+  "artifactType": "horse",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "通高8.5厘米,底座长4.8厘米,底座宽3.4厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 8.5,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "马",
+    "动物"
+  ],
+  "provenance": "寿县博物馆藏",
+  "institution": "寿县博物馆",
+  "visualTags": [
+    "寿州窑",
+    "黄釉",
+    "瓷马",
+    "唐代玩具",
+    "捏塑"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,42 @@
+{
+  "archiveId": "szk-031",
+  "assetSlug": "yellow-glazed-round-bodied-ewer",
+  "sourceFileName": "《寿州窑》_13578583_188.png",
+  "targetBaseName": "szk-031-yellow-glazed-round-bodied-ewer",
+  "titleZh": "黄釉圆腹注子",
+  "titleEn": "Yellow-glazed Round-bodied Ewer",
+  "ocrText": "黄釉圆腹注子\n唐（618-907年）\n口径10.2厘米，底径11.8厘米，高18厘米\n2008年6月合肥征集\n淮南市博物馆藏\n撇口，短束颈，圆肩，鼓腹，平底，肩饰八棱形短流，流对称处有一耳形鋬，两侧有双条耳形系一对，鋬及两系下部有一束结。施蜡黄釉，腹下底部未施釉处有淋釉现象。\n这种在下部束结造型的鋬和系，在寿州窑产品中显得很特别。在上窑住院部窑址中出土有此类型的鋬，但并不多见，淮南市博物馆藏有两件。另有无束结但保留乳钉突的造型。该器鼓腹饱满，还保留着罐的形态，在罐的肩上置流和鋬系，成为注子，推翻了过去一般认为注子是由盘口壶演化而来的观点，说明注子的源流有可能从罐演化而来。",
+  "catalogSummary": "唐代黄釉圆腹注子，2008年合肥征集，现藏淮南市博物馆。器物撇口、短束颈、圆肩鼓腹，肩部设八棱形短流及耳形鋬系，鋬系下有束结装饰。通体施蜡黄釉，底部可见淋釉痕迹。其造型保留了罐的形态，为研究注子起源提供了重要实物依据。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径10.2厘米，底径11.8厘米，高18厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10.2,
+    "baseDiameter": 11.8,
+    "height": 18,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "蜡黄釉",
+  "motifs": [
+    "八棱形短流",
+    "耳形鋬",
+    "双条耳形系",
+    "束结",
+    "圆腹"
+  ],
+  "provenance": "2008年6月合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Yellow Glaze",
+    "Ewer",
+    "Tang Dynasty",
+    "注子",
+    "黄釉",
+    "唐代"
+  ],
+  "confidenceNotes": ""
+}

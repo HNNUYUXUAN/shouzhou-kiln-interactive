@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-075",
+  "assetSlug": "yellow-glazed-ceramic-figure-of-a-man-on-horseback",
+  "sourceFileName": "《寿州窑》_13578583_361.png",
+  "targetBaseName": "szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback",
+  "titleZh": "黄釉人骑马瓷塑",
+  "titleEn": "Yellow-glazed Ceramic Figure of a Man on Horseback",
+  "ocrText": "黄釉人骑马瓷塑\n唐（618~907年）\n长5厘米，宽2.7厘米，高6.5厘米\n2010年7月5日于淮南征集\n淮南市博物馆藏",
+  "catalogSummary": "此件为唐代寿州窑黄釉人骑马瓷塑，通体施黄釉。器物长5厘米、宽2.7厘米、高6.5厘米。造型生动，人物骑于马上，神态自然。该器于2010年在淮南征集，现藏于淮南市博物馆，是研究唐代寿州窑雕塑工艺的重要实物资料。",
+  "artifactType": "figurine",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "长5厘米，宽2.7厘米，高6.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 6.5,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "人物",
+    "马",
+    "骑射"
+  ],
+  "provenance": "2010年7月5日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Tang Dynasty",
+    "Yellow Glaze",
+    "Horse and Rider",
+    "Figurine",
+    "寿州窑",
+    "唐代",
+    "黄釉",
+    "人马俑"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-039",
+  "assetSlug": "black-glazed-pillow-with-pine-needle-pattern",
+  "sourceFileName": "《寿州窑》_13578583_234.png",
+  "targetBaseName": "szk-039-black-glazed-pillow-with-pine-needle-pattern",
+  "titleZh": "黑釉松叶纹瓷枕",
+  "titleEn": "Black-glazed Pillow with Pine Needle Pattern",
+  "ocrText": "黑釉松叶纹瓷枕\n唐（618~907年）\n枕面 13.5厘米×8厘米，高7.9厘米\n长丰县文物管理所藏\n此件黑釉瓷枕形制不大，是唐代早期枕类产品的代表性作品。枕的外形如元宝，枕面呈凹弧面，两头翘起，中间凹陷。立墙较高，有早期瓷枕形态，剪纸贴花图案为松针叶形状。仔细观察，针叶纹饰不对称，为错生枝叶状，可见不是通过对折纸张剪成，而可能是在一张打开纸上修剪成形的，然后敷于化妆土后再施釉烧成。松针叶图案的剪纸贴花图案在寿州窑产品中运用较少，一般多为蝴蝶纹、花朵纹等。这种工艺的具体操作方法有待进一步的考古发现。\n图版四 唐代瓷枕",
+  "catalogSummary": "唐代黑釉瓷枕，外形如元宝，枕面凹弧，两头翘起。采用剪纸贴花工艺装饰松针叶纹，纹饰不对称，显示为单张纸修剪后敷于化妆土再施釉烧成。此类松针叶纹在寿州窑产品中较为少见，是唐代早期枕类代表作品。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 13.5厘米×8厘米，高7.9厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 7.9,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黑釉",
+  "motifs": [
+    "松叶纹",
+    "剪纸贴花"
+  ],
+  "provenance": "长丰县文物管理所藏",
+  "institution": "长丰县文物管理所",
+  "visualTags": [
+    "黑釉",
+    "瓷枕",
+    "唐代",
+    "寿州窑",
+    "松叶纹",
+    "剪纸贴花",
+    "元宝形"
+  ],
+  "confidenceNotes": ""
+}

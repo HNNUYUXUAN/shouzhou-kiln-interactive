@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-040",
+  "assetSlug": "yellow-glazed-pillow",
+  "sourceFileName": "《寿州窑》_13578583_236.png",
+  "targetBaseName": "szk-040-yellow-glazed-pillow",
+  "titleZh": "黄釉瓷枕",
+  "titleEn": "Yellow-glazed Pillow",
+  "ocrText": "黄釉瓷枕\n唐（618-907年）\n枕面 14.7厘米×10.2厘米，高6.5厘米\n2012年11月25日于淮南征集\n淮南市博物馆藏\n该枕的形状呈扁方形，前低后高，呈斜坡状，枕面四边角做成缓缓的圆弧面，符合人体工程学，增加了瓷枕的舒适度。整个瓷枕从上到下看不到棱角，有软乎乎的感觉。施黄釉，釉色发色很好，黄橙橙的亮丽，非常美观实用。枕墙的下部产生积釉，并有蜡泪痕。枕底施过化妆土，一侧有透气孔，因透气不畅，使枕底微微鼓起。从枕的形制观察其长度一般，应是晚唐时期烧造。",
+  "catalogSummary": "此件唐代黄釉瓷枕呈扁方形，前低后高，造型符合人体工学。通体施黄釉，釉色亮丽，枕墙下部可见积釉及蜡泪痕。枕底施化妆土并留有透气孔，据形制判断为晚唐时期烧造，现藏于淮南市博物馆。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 14.7厘米×10.2厘米，高6.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 6.5,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "黄釉",
+  "motifs": [
+    "素面",
+    "扁方形",
+    "蜡泪痕"
+  ],
+  "provenance": "2012年11月25日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Yellow Glaze",
+    "Pillow",
+    "Tang Dynasty",
+    "Crackle",
+    "透气孔"
+  ],
+  "confidenceNotes": ""
+}

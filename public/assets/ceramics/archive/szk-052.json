@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-052",
+  "assetSlug": "yellow-glazed-applique-lobed-cup",
+  "sourceFileName": "《寿州窑》_13578583_269.png",
+  "targetBaseName": "szk-052-yellow-glazed-applique-lobed-cup",
+  "titleZh": "黄釉贴花葵口盏",
+  "titleEn": "Yellow-glazed Applique Lobed Cup",
+  "ocrText": "黄釉贴花葵口盏\n唐（618-907年）\n口径14.9厘米，底径6.4厘米，高4.1厘米\n2012年3月于淮南征集\n淮南市博物馆藏\n寿州窑葵口式盏共发现4件，分别收藏在淮南市博物馆1件，安徽省文物考古研究所1件，阜阳市博物馆2件，均系墓葬出土。此件贴花盏为釉上贴花，即以纸类剪纸帖于釉上烧成。整器为三瓣式，盖内平均三分，有三道凸筋，盖外部形成三道凹弦纹。外腹下因窑温过高，黄釉偏暗。盖内中间部分的六瓣花纹中的花蕊呈六个“V”字形，剪纸的刀痕清晰可见，能够观察到剪纸是对折后剪成。内侧的三朵花枝纹是叠放后一次剪成，所以三朵花的釉色虽有深浅，但形态一致。盖内外的蜡黄釉均有小开片，在口沿处及盖出筋处有脱釉，反映了寿州窑的烧造工艺。整器造型典雅端庄，在盏内贴花纹饰是目前所见唯一的一件瓷盏，不失为寿州窑碗盏类中的代表性作品。",
+  "catalogSummary": "唐代寿州窑黄釉贴花葵口盏，2012年淮南征集，现藏淮南市博物馆。器物为三瓣式，采用独特的釉上剪纸贴花工艺，内壁饰三朵花枝纹，外壁对应三道凹弦纹。虽局部有脱釉现象，但作为目前仅见的盏内贴花瓷盏，极具代表性。",
+  "artifactType": "cup",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径14.9厘米，底径6.4厘米，高4.1厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 14.9,
+    "baseDiameter": 6.4,
+    "height": 4.1,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉（蜡黄釉），有小开片，局部脱釉",
+  "motifs": [
+    "贴花",
+    "剪纸纹样",
+    "花卉纹",
+    "葵口",
+    "三瓣式"
+  ],
+  "provenance": "2012年3月于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Appliqué",
+    "Paper-cut style",
+    "Tang Dynasty",
+    "Lobed rim",
+    "Floral motif"
+  ],
+  "confidenceNotes": ""
+}

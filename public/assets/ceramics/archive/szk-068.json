@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-068",
+  "assetSlug": "yellow-glazed-multi-footed-inkstone",
+  "sourceFileName": "《寿州窑》_13578583_344.png",
+  "targetBaseName": "szk-068-yellow-glazed-multi-footed-inkstone",
+  "titleZh": "黄釉多足砚",
+  "titleEn": "Yellow-glazed Multi-footed Inkstone",
+  "ocrText": "黄釉多足砚\n唐（618-907年）\n直径19.3厘米，高6.3厘米\n2011年6月13日于淮南征集\n淮南市博物馆藏\n圆形，直腹，唇沿，沿内边缘处为深弧面凹槽，砚堂中部隆起呈平台状。未施釉，手摸上去有砂质感，应是便于发墨所为。腹中部外壁饰一周凸弦纹，从弦纹向下，环砚一周置13个滴水状圆足，足底浑圆垂地，呈等距排列。每足上饰三瓣莲瓣纹，下饰二道凸弦纹。除砚堂外均施黄釉，釉偏暗，在凹陷处有积釉。器的胎质坚细，尤其是烧造温度要比一般器物要高，这可能是考虑到砚是磨墨的文房实用器的缘故。",
+  "catalogSummary": "此器为唐代黄釉多足砚，直径19.3厘米，高6.3厘米。砚堂中部隆起且未施釉以利于发墨，腹部饰凸弦纹，下设十三个滴水状圆足，足部饰莲瓣纹。通体施暗黄釉，胎质坚细，烧造温度较高，体现了文房实用器的特殊工艺要求。",
+  "artifactType": "inkstone",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "直径19.3厘米，高6.3厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 6.3,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉（釉偏暗，凹陷处有积釉）",
+  "motifs": [
+    "凸弦纹",
+    "莲瓣纹",
+    "滴水状足"
+  ],
+  "provenance": "2011年6月13日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "多足砚",
+    "黄釉",
+    "唐代",
+    "文房用具",
+    "莲瓣纹足"
+  ],
+  "confidenceNotes": ""
+}

@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-022",
+  "assetSlug": "greenish-yellow-glazed-two-handled-ewer",
+  "sourceFileName": "《寿州窑》_13578583_166.png",
+  "targetBaseName": "szk-022-greenish-yellow-glazed-two-handled-ewer",
+  "titleZh": "青黄釉双系注子",
+  "titleEn": "Greenish-yellow Glazed Two-handled Ewer",
+  "ocrText": "青黄釉双系注子\n唐（618~907年）\n口径11.3厘米，底径14.5厘米，高27.5厘米\n2011年6月13日于淮南征集\n淮南市博物馆藏\n此器是寿州窑瓷注中袋状腹类的代表性作品。这种腹部肥大、容积增多的器物是以方便实用为目的的产物。口部有残，经修复完整。侈口外撇，短细颈，斜溜肩上置小流口，流口削成七棱状，在肥硕的洼体上显得小巧可爱。流口对称的一侧置小弓形鋬，在流口与鋬之间置二个短粗的双股系鋬。洼体上小下大，使其重心很稳，足部很宽大，更显此器的稳固。通体施黄釉，釉色偏绿，略有蜡质感，胎釉结合很好，没有脱釉现象。",
+  "catalogSummary": "唐代寿州窑青黄釉双系注子，属袋状腹类代表作。器身肥大稳重，设七棱流口及双股系鋬。通体施黄绿釉，具蜡质感，胎釉结合紧密。原口部有残，后修复完整，为淮南征集品。",
+  "artifactType": "ewer",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径11.3厘米，底径14.5厘米，高27.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 11.3,
+    "baseDiameter": 14.5,
+    "height": 27.5,
+    "unit": "厘米"
+  },
+  "material": "瓷器",
+  "glaze": "青黄釉，釉色偏绿，略有蜡质感",
+  "motifs": [
+    "双系",
+    "七棱流口",
+    "袋状腹",
+    "弓形鋬"
+  ],
+  "provenance": "2011年6月13日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "寿州窑",
+    "Tang Dynasty",
+    "Yellowish-green glaze",
+    "Ewer",
+    "双系注子",
+    "Waxy texture"
+  ],
+  "confidenceNotes": ""
+}

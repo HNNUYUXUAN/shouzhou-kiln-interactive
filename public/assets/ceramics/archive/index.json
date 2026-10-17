@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "sz-001",
+    "archiveId": "szk-001",
+    "sourceFileName": "《寿州窑》_13578583_117.png",
+    "targetBaseName": "szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs",
+    "titleZh": "青釉双龙柄堆塑动物纹连体瓶",
+    "titleEn": "Celadon-glazed Conjoined Vase with Double Dragon Handles and Applied Animal Motifs",
+    "assetSlug": "celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "already-renamed",
+      "processed": "source-missing"
+    },
+    "imageUrl": "/assets/ceramics/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.png",
+    "processedImageUrl": ""
+  },
+  {
+    "id": "sz-002",
+    "archiveId": "szk-002",
+    "sourceFileName": "《寿州窑》_13578583_113.png",
+    "targetBaseName": "szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle",
+    "titleZh": "青黄釉小龙柄鸡首壶",
+    "titleEn": "Greenish-yellow-glazed Chicken-headed Ewer with Small Dragon Handle",
+    "assetSlug": "greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "already-renamed",
+      "processed": "source-missing"
+    },
+    "imageUrl": "/assets/ceramics/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.png",
+    "processedImageUrl": ""
+  },
+  {
+    "id": "sz-ai-003",
+    "archiveId": "szk-003",
+    "sourceFileName": "《寿州窑》_13578583_116.png",
+    "targetBaseName": "szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle",
+    "titleZh": "青釉四系龙柄盘口壶",
+    "titleEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Dragon Handle",
+    "assetSlug": "celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "already-renamed",
+      "processed": "already-renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png"
+  },
+  {
+    "id": "sz-ai-004",
+    "archiveId": "szk-004",
+    "sourceFileName": "《寿州窑》_13578583_119.png",
+    "targetBaseName": "szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar",
+    "titleZh": "青釉刻花六系盘口壶",
+    "titleEn": "Celadon-glazed Incised Six-handled Dish-mouthed Jar",
+    "assetSlug": "celadon-glazed-incised-six-handled-dish-mouthed-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png"
+  },
+  {
+    "id": "sz-ai-005",
+    "archiveId": "szk-005",
+    "sourceFileName": "《寿州窑》_13578583_122.png",
+    "targetBaseName": "szk-005-celadon-glazed-small-dish-mouthed-ewer",
+    "titleZh": "青釉小盘口壶",
+    "titleEn": "Celadon-glazed Small Dish-mouthed Ewer",
+    "assetSlug": "celadon-glazed-small-dish-mouthed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-005-celadon-glazed-small-dish-mouthed-ewer.png"
+  },
+  {
+    "id": "sz-ai-006",
+    "archiveId": "szk-006",
+    "sourceFileName": "《寿州窑》_13578583_124.png",
+    "targetBaseName": "szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design",
+    "titleZh": "青釉戳印莲花纹四系盘口壶",
+    "titleEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Stamped Lotus Design",
+    "assetSlug": "celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png"
+  },
+  {
+    "id": "sz-ai-007",
+    "archiveId": "szk-007",
+    "sourceFileName": "《寿州窑》_13578583_127.png",
+    "targetBaseName": "szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer",
+    "titleZh": "青釉模印花卉盘口壶",
+    "titleEn": "Celadon-glazed Molded Floral Dish-mouthed Ewer",
+    "assetSlug": "celadon-glazed-molded-floral-dish-mouthed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png"
+  },
+  {
+    "id": "sz-ai-008",
+    "archiveId": "szk-008",
+    "sourceFileName": "《寿州窑》_13578583_128.png",
+    "targetBaseName": "szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer",
+    "titleZh": "黄釉戳印纹四系小盘口壶",
+    "titleEn": "Yellow-glazed stamped four-handled small disk-mouthed ewer",
+    "assetSlug": "yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png"
+  },
+  {
+    "id": "sz-ai-009",
+    "archiveId": "szk-009",
+    "sourceFileName": "《寿州窑》_13578583_131.png",
+    "targetBaseName": "szk-009-celadon-glazed-dish-mouth-four-handled-jar",
+    "titleZh": "青釉盘口四系罐",
+    "titleEn": "Celadon-glazed Dish-mouth Four-handled Jar",
+    "assetSlug": "celadon-glazed-dish-mouth-four-handled-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png"
+  },
+  {
+    "id": "sz-ai-010",
+    "archiveId": "szk-010",
+    "sourceFileName": "《寿州窑》_13578583_133.png",
+    "targetBaseName": "szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar",
+    "titleZh": "青黄釉四系盘口壶",
+    "titleEn": "Greenish-yellow Glazed Four-handled Dish-mouthed Jar",
+    "assetSlug": "greenish-yellow-glazed-four-handled-dish-mouthed-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png"
+  },
+  {
+    "id": "sz-ai-011",
+    "archiveId": "szk-011",
+    "sourceFileName": "《寿州窑》_13578583_134.png",
+    "targetBaseName": "szk-011-celadon-glazed-four-handled-dish-mouthed-jar",
+    "titleZh": "青釉四系盘口壶",
+    "titleEn": "Celadon-glazed Four-handled Dish-mouthed Jar",
+    "assetSlug": "celadon-glazed-four-handled-dish-mouthed-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png"
+  },
+  {
+    "id": "sz-ai-012",
+    "archiveId": "szk-012",
+    "sourceFileName": "《寿州窑》_13578583_137.png",
+    "targetBaseName": "szk-012-celadon-glazed-imprinted-dish-mouthed-jar",
+    "titleZh": "青釉印花盘口壶",
+    "titleEn": "Celadon-glazed Imprinted Dish-mouthed Jar",
+    "assetSlug": "celadon-glazed-imprinted-dish-mouthed-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png"
+  },
+  {
+    "id": "sz-ai-013",
+    "archiveId": "szk-013",
+    "sourceFileName": "《寿州窑》_13578583_142.png",
+    "targetBaseName": "szk-013-celadon-glazed-jar-with-applied-decoration",
+    "titleZh": "青釉贴塑罐",
+    "titleEn": "Celadon-glazed Jar with Applied Decoration",
+    "assetSlug": "celadon-glazed-jar-with-applied-decoration",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-013-celadon-glazed-jar-with-applied-decoration.png"
+  },
+  {
+    "id": "sz-ai-014",
+    "archiveId": "szk-014",
+    "sourceFileName": "《寿州窑》_13578583_145.png",
+    "targetBaseName": "szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops",
+    "titleZh": "青釉弦纹四系罐",
+    "titleEn": "Celadon-glazed Jar with Horizontal Ridges and Four Loops",
+    "assetSlug": "celadon-glazed-jar-with-horizontal-ridges-and-four-loops",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png"
+  },
+  {
+    "id": "sz-ai-015",
+    "archiveId": "szk-015",
+    "sourceFileName": "《寿州窑》_13578583_150.png",
+    "targetBaseName": "szk-015-celadon-glazed-bowl-with-lotus-petal-decoration",
+    "titleZh": "青釉莲瓣纹碗",
+    "titleEn": "Celadon-glazed Bowl with Lotus Petal Decoration",
+    "assetSlug": "celadon-glazed-bowl-with-lotus-petal-decoration",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png"
+  },
+  {
+    "id": "sz-ai-016",
+    "archiveId": "szk-016",
+    "sourceFileName": "《寿州窑》_13578583_154.png",
+    "targetBaseName": "szk-016-greenish-yellow-glazed-high-footed-dish",
+    "titleZh": "青黄釉高足盘",
+    "titleEn": "Greenish-yellow-glazed Stemmed Dish",
+    "assetSlug": "greenish-yellow-glazed-high-footed-dish",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-016-greenish-yellow-glazed-high-footed-dish.png"
+  },
+  {
+    "id": "sz-ai-017",
+    "archiveId": "szk-017",
+    "sourceFileName": "《寿州窑》_13578583_156.png",
+    "targetBaseName": "szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration",
+    "titleZh": "寿州窑黄釉刻花莲瓣纹高足盘",
+    "titleEn": "Shouzhou Kiln Yellow-glazed Stemmed Dish with Incised Lotus-petal Design",
+    "assetSlug": "shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png"
+  },
+  {
+    "id": "sz-ai-018",
+    "archiveId": "szk-018",
+    "sourceFileName": "《寿州窑》_13578583_158.png",
+    "targetBaseName": "szk-018-celadon-glazed-high-footed-dish",
+    "titleZh": "青绿釉高足盘",
+    "titleEn": "Bluish-green-glazed Stemmed Dish",
+    "assetSlug": "celadon-glazed-high-footed-dish",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-018-celadon-glazed-high-footed-dish.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-018-celadon-glazed-high-footed-dish.png"
+  },
+  {
+    "id": "sz-ai-019",
+    "archiveId": "szk-019",
+    "sourceFileName": "《寿州窑》_13578583_160.png",
+    "targetBaseName": "szk-019-shouzhou-kiln-yellow-glazed-applique-jar",
+    "titleZh": "寿州窑黄釉贴花罐",
+    "titleEn": "Shouzhou Kiln Yellow-glazed Jar with Applied Decoration",
+    "assetSlug": "shouzhou-kiln-yellow-glazed-applique-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png"
+  },
+  {
+    "id": "sz-ai-020",
+    "archiveId": "szk-020",
+    "sourceFileName": "《寿州窑》_13578583_163.png",
+    "targetBaseName": "szk-020-yellow-glazed-two-handled-ewer",
+    "titleZh": "黄釉双系注子",
+    "titleEn": "Yellow-glazed Two-handled Ewer",
+    "assetSlug": "yellow-glazed-two-handled-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-020-yellow-glazed-two-handled-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-020-yellow-glazed-two-handled-ewer.png"
+  },
+  {
+    "id": "sz-ai-021",
+    "archiveId": "szk-021",
+    "sourceFileName": "《寿州窑》_13578583_164.png",
+    "targetBaseName": "szk-021-brown-glazed-ewer",
+    "titleZh": "酱釉注子",
+    "titleEn": "Brown-glazed Ewer",
+    "assetSlug": "brown-glazed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-021-brown-glazed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-021-brown-glazed-ewer.png"
+  },
+  {
+    "id": "sz-ai-022",
+    "archiveId": "szk-022",
+    "sourceFileName": "《寿州窑》_13578583_166.png",
+    "targetBaseName": "szk-022-greenish-yellow-glazed-two-handled-ewer",
+    "titleZh": "青黄釉双系注子",
+    "titleEn": "Greenish-yellow Glazed Two-handled Ewer",
+    "assetSlug": "greenish-yellow-glazed-two-handled-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-022-greenish-yellow-glazed-two-handled-ewer.png"
+  },
+  {
+    "id": "sz-ai-023",
+    "archiveId": "szk-023",
+    "sourceFileName": "《寿州窑》_13578583_167.png",
+    "targetBaseName": "szk-023-black-glazed-two-handled-ewer",
+    "titleZh": "黑釉双系注子",
+    "titleEn": "Black-glazed Two-handled Ewer",
+    "assetSlug": "black-glazed-two-handled-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-023-black-glazed-two-handled-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-023-black-glazed-two-handled-ewer.png"
+  },
+  {
+    "id": "sz-ai-024",
+    "archiveId": "szk-024",
+    "sourceFileName": "《寿州窑》_13578583_170.png",
+    "targetBaseName": "szk-024-black-glazed-two-handled-ewer",
+    "titleZh": "黑釉双系注子",
+    "titleEn": "Black-glazed Two-handled Ewer",
+    "assetSlug": "black-glazed-two-handled-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-024-black-glazed-two-handled-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-024-black-glazed-two-handled-ewer.png"
+  },
+  {
+    "id": "sz-ai-025",
+    "archiveId": "szk-025",
+    "sourceFileName": "《寿州窑》_13578583_174.png",
+    "targetBaseName": "szk-025-brown-glazed-two-handled-ewer",
+    "titleZh": "酱釉双系注子",
+    "titleEn": "Brown-glazed Two-handled Ewer",
+    "assetSlug": "brown-glazed-two-handled-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-025-brown-glazed-two-handled-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-025-brown-glazed-two-handled-ewer.png"
+  },
+  {
+    "id": "sz-ai-026",
+    "archiveId": "szk-026",
+    "sourceFileName": "《寿州窑》_13578583_176.png",
+    "targetBaseName": "szk-026-yellow-glazed-ewer",
+    "titleZh": "黄釉注子",
+    "titleEn": "Yellow-glazed Ewer",
+    "assetSlug": "yellow-glazed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-026-yellow-glazed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-026-yellow-glazed-ewer.png"
+  },
+  {
+    "id": "sz-ai-027",
+    "archiveId": "szk-027",
+    "sourceFileName": "《寿州窑》_13578583_178.png",
+    "targetBaseName": "szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth",
+    "titleZh": "黄釉双系敞口注子",
+    "titleEn": "Yellow-glazed Two-handled Ewer with Flared Mouth",
+    "assetSlug": "yellow-glazed-two-handled-ewer-with-flared-mouth",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png"
+  },
+  {
+    "id": "sz-ai-028",
+    "archiveId": "szk-028",
+    "sourceFileName": "《寿州窑》_13578583_180.png",
+    "targetBaseName": "szk-028-yellow-glazed-ewer",
+    "titleZh": "黄釉注子",
+    "titleEn": "Yellow-glazed Ewer",
+    "assetSlug": "yellow-glazed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-028-yellow-glazed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-028-yellow-glazed-ewer.png"
+  },
+  {
+    "id": "sz-ai-029",
+    "archiveId": "szk-029",
+    "sourceFileName": "《寿州窑》_13578583_181.png",
+    "targetBaseName": "szk-029-yellow-glazed-brown-painted-ewer",
+    "titleZh": "黄釉褐彩瓷注",
+    "titleEn": "Yellow-glazed Brown-painted Ewer",
+    "assetSlug": "yellow-glazed-brown-painted-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-029-yellow-glazed-brown-painted-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-029-yellow-glazed-brown-painted-ewer.png"
+  },
+  {
+    "id": "sz-ai-030",
+    "archiveId": "szk-030",
+    "sourceFileName": "《寿州窑》_13578583_185.png",
+    "targetBaseName": "szk-030-black-glazed-ewer",
+    "titleZh": "黑釉注子",
+    "titleEn": "Black-glazed Ewer",
+    "assetSlug": "black-glazed-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-030-black-glazed-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-030-black-glazed-ewer.png"
+  },
+  {
+    "id": "sz-ai-031",
+    "archiveId": "szk-031",
+    "sourceFileName": "《寿州窑》_13578583_188.png",
+    "targetBaseName": "szk-031-yellow-glazed-round-bodied-ewer",
+    "titleZh": "黄釉圆腹注子",
+    "titleEn": "Yellow-glazed Round-bodied Ewer",
+    "assetSlug": "yellow-glazed-round-bodied-ewer",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-031-yellow-glazed-round-bodied-ewer.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-031-yellow-glazed-round-bodied-ewer.png"
+  },
+  {
+    "id": "sz-ai-032",
+    "archiveId": "szk-032",
+    "sourceFileName": "《寿州窑》_13578583_204.png",
+    "targetBaseName": "szk-032-yellow-glazed-applique-pillow",
+    "titleZh": "黄釉贴花瓷枕",
+    "titleEn": "Yellow-glazed Applique Pillow",
+    "assetSlug": "yellow-glazed-applique-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-032-yellow-glazed-applique-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-032-yellow-glazed-applique-pillow.png"
+  },
+  {
+    "id": "sz-ai-033",
+    "archiveId": "szk-033",
+    "sourceFileName": "《寿州窑》_13578583_206.png",
+    "targetBaseName": "szk-033-yellow-glazed-impressed-pillow",
+    "titleZh": "黄釉印花瓷枕",
+    "titleEn": "Yellow-glazed Impressed Pillow",
+    "assetSlug": "yellow-glazed-impressed-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-033-yellow-glazed-impressed-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-033-yellow-glazed-impressed-pillow.png"
+  },
+  {
+    "id": "sz-ai-034",
+    "archiveId": "szk-034",
+    "sourceFileName": "《寿州窑》_13578583_209.png",
+    "targetBaseName": "szk-034-yellow-glazed-applique-pillow",
+    "titleZh": "黄釉贴花瓷枕",
+    "titleEn": "Yellow-glazed Applique Pillow",
+    "assetSlug": "yellow-glazed-applique-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-034-yellow-glazed-applique-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-034-yellow-glazed-applique-pillow.png"
+  },
+  {
+    "id": "sz-ai-035",
+    "archiveId": "szk-035",
+    "sourceFileName": "《寿州窑》_13578583_213.png",
+    "targetBaseName": "szk-035-brown-glazed-pillow-with-applied-butterfly-motif",
+    "titleZh": "酱红釉蝴蝶纹贴花瓷枕",
+    "titleEn": "Brown-glazed Pillow with Applied Butterfly Motif",
+    "assetSlug": "brown-glazed-pillow-with-applied-butterfly-motif",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png"
+  },
+  {
+    "id": "sz-ai-036",
+    "archiveId": "szk-036",
+    "sourceFileName": "《寿州窑》_13578583_216.png",
+    "targetBaseName": "szk-036-brown-glazed-pillow",
+    "titleZh": "酱釉瓷枕",
+    "titleEn": "Brown-glazed Pillow",
+    "assetSlug": "brown-glazed-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-036-brown-glazed-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-036-brown-glazed-pillow.png"
+  },
+  {
+    "id": "sz-ai-037",
+    "archiveId": "szk-037",
+    "sourceFileName": "《寿州窑》_13578583_230.png",
+    "targetBaseName": "szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration",
+    "titleZh": "酱釉漏花瓷枕",
+    "titleEn": "Brown-glazed Pillow with Paper-cut Resist Decoration",
+    "assetSlug": "brown-glazed-pillow-with-paper-cut-resist-decoration",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png"
+  },
+  {
+    "id": "sz-ai-038",
+    "archiveId": "szk-038",
+    "sourceFileName": "《寿州窑》_13578583_231.png",
+    "targetBaseName": "szk-038-yellow-glazed-pillow-with-recessed-corners",
+    "titleZh": "黄釉委角瓷枕",
+    "titleEn": "Yellow-glazed Pillow with Recessed Corners",
+    "assetSlug": "yellow-glazed-pillow-with-recessed-corners",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-038-yellow-glazed-pillow-with-recessed-corners.png"
+  },
+  {
+    "id": "sz-ai-039",
+    "archiveId": "szk-039",
+    "sourceFileName": "《寿州窑》_13578583_234.png",
+    "targetBaseName": "szk-039-black-glazed-pillow-with-pine-needle-pattern",
+    "titleZh": "黑釉松叶纹瓷枕",
+    "titleEn": "Black-glazed Pillow with Pine Needle Pattern",
+    "assetSlug": "black-glazed-pillow-with-pine-needle-pattern",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-039-black-glazed-pillow-with-pine-needle-pattern.png"
+  },
+  {
+    "id": "sz-ai-040",
+    "archiveId": "szk-040",
+    "sourceFileName": "《寿州窑》_13578583_236.png",
+    "targetBaseName": "szk-040-yellow-glazed-pillow",
+    "titleZh": "黄釉瓷枕",
+    "titleEn": "Yellow-glazed Pillow",
+    "assetSlug": "yellow-glazed-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-040-yellow-glazed-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-040-yellow-glazed-pillow.png"
+  },
+  {
+    "id": "sz-ai-041",
+    "archiveId": "szk-041",
+    "sourceFileName": "《寿州窑》_13578583_239.png",
+    "targetBaseName": "szk-041-yellow-glazed-pillow-with-incised-floral-decoration",
+    "titleZh": "黄釉划花纹瓷枕",
+    "titleEn": "Yellow-glazed Pillow with Incised Floral Decoration",
+    "assetSlug": "yellow-glazed-pillow-with-incised-floral-decoration",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png"
+  },
+  {
+    "id": "sz-ai-042",
+    "archiveId": "szk-042",
+    "sourceFileName": "《寿州窑》_13578583_242.png",
+    "targetBaseName": "szk-042-black-glazed-zoomorphic-pillow",
+    "titleZh": "黑釉兽形瓷枕",
+    "titleEn": "Black-glazed Zoomorphic Pillow",
+    "assetSlug": "black-glazed-zoomorphic-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-042-black-glazed-zoomorphic-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-042-black-glazed-zoomorphic-pillow.png"
+  },
+  {
+    "id": "sz-ai-043",
+    "archiveId": "szk-043",
+    "sourceFileName": "《寿州窑》_13578583_245.png",
+    "targetBaseName": "szk-043-brown-glazed-pillow-with-elephant-shaped-supports",
+    "titleZh": "酱釉象形瓷枕",
+    "titleEn": "Brown-glazed Pillow with Elephant-shaped Supports",
+    "assetSlug": "brown-glazed-pillow-with-elephant-shaped-supports",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png"
+  },
+  {
+    "id": "sz-ai-044",
+    "archiveId": "szk-044",
+    "sourceFileName": "《寿州窑》_13578583_246.png",
+    "targetBaseName": "szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow",
+    "titleZh": "茶叶末釉兽形瓷枕",
+    "titleEn": "Tea-dust Glazed Beast-shaped Porcelain Pillow",
+    "assetSlug": "tea-dust-glazed-beast-shaped-porcelain-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png"
+  },
+  {
+    "id": "sz-ai-045",
+    "archiveId": "szk-045",
+    "sourceFileName": "《寿州窑》_13578583_247.png",
+    "targetBaseName": "szk-045-shouzhou-kiln-yellow-glazed-pillow",
+    "titleZh": "寿州窑黄釉瓷枕",
+    "titleEn": "Shouzhou Kiln Yellow-glazed Pillow",
+    "assetSlug": "shouzhou-kiln-yellow-glazed-pillow",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-045-shouzhou-kiln-yellow-glazed-pillow.png"
+  },
+  {
+    "id": "sz-ai-046",
+    "archiveId": "szk-046",
+    "sourceFileName": "《寿州窑》_13578583_248.png",
+    "targetBaseName": "szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription",
+    "titleZh": "黄釉“大中祥符”铭龙纹瓷枕",
+    "titleEn": "Yellow-glazed Pillow with Dragon Motif and Dazhong Xiangfu Inscription",
+    "assetSlug": "yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png"
+  },
+  {
+    "id": "sz-ai-047",
+    "archiveId": "szk-047",
+    "sourceFileName": "《寿州窑》_13578583_255.png",
+    "targetBaseName": "szk-047-black-glazed-bowl",
+    "titleZh": "黑釉碗",
+    "titleEn": "Black-glazed Bowl",
+    "assetSlug": "black-glazed-bowl",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-047-black-glazed-bowl.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-047-black-glazed-bowl.png"
+  },
+  {
+    "id": "sz-ai-048",
+    "archiveId": "szk-048",
+    "sourceFileName": "《寿州窑》_13578583_256.png",
+    "targetBaseName": "szk-048-yellow-glazed-bowl-with-bi-shaped-foot",
+    "titleZh": "黄釉璧形底盏",
+    "titleEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+    "assetSlug": "yellow-glazed-bowl-with-bi-shaped-foot",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png"
+  },
+  {
+    "id": "sz-ai-049",
+    "archiveId": "szk-049",
+    "sourceFileName": "《寿州窑》_13578583_260.png",
+    "targetBaseName": "szk-049-yellow-glazed-bowl",
+    "titleZh": "黄釉盏",
+    "titleEn": "Yellow-glazed Bowl",
+    "assetSlug": "yellow-glazed-bowl",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-049-yellow-glazed-bowl.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-049-yellow-glazed-bowl.png"
+  },
+  {
+    "id": "sz-ai-050",
+    "archiveId": "szk-050",
+    "sourceFileName": "《寿州窑》_13578583_267.png",
+    "targetBaseName": "szk-050-brown-glazed-bowl",
+    "titleZh": "酱釉碗",
+    "titleEn": "Brown-glazed Bowl",
+    "assetSlug": "brown-glazed-bowl",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-050-brown-glazed-bowl.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-050-brown-glazed-bowl.png"
+  },
+  {
+    "id": "sz-ai-051",
+    "archiveId": "szk-051",
+    "sourceFileName": "《寿州窑》_13578583_268.png",
+    "targetBaseName": "szk-051-yellow-glazed-bowl-with-bi-shaped-foot",
+    "titleZh": "黄釉璧形底盏",
+    "titleEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+    "assetSlug": "yellow-glazed-bowl-with-bi-shaped-foot",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png"
+  },
+  {
+    "id": "sz-ai-052",
+    "archiveId": "szk-052",
+    "sourceFileName": "《寿州窑》_13578583_269.png",
+    "targetBaseName": "szk-052-yellow-glazed-applique-lobed-cup",
+    "titleZh": "黄釉贴花葵口盏",
+    "titleEn": "Yellow-glazed Applique Lobed Cup",
+    "assetSlug": "yellow-glazed-applique-lobed-cup",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-052-yellow-glazed-applique-lobed-cup.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-052-yellow-glazed-applique-lobed-cup.png"
+  },
+  {
+    "id": "sz-ai-053",
+    "archiveId": "szk-053",
+    "sourceFileName": "《寿州窑》_13578583_275.png",
+    "targetBaseName": "szk-053-large-yellow-glazed-bowl",
+    "titleZh": "黄釉大碗",
+    "titleEn": "Large Yellow-Glazed Bowl",
+    "assetSlug": "large-yellow-glazed-bowl",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-053-large-yellow-glazed-bowl.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-053-large-yellow-glazed-bowl.png"
+  },
+  {
+    "id": "sz-ai-054",
+    "archiveId": "szk-054",
+    "sourceFileName": "《寿州窑》_13578583_278.png",
+    "targetBaseName": "szk-054-yellow-glazed-water-pot",
+    "titleZh": "黄釉水盂",
+    "titleEn": "Yellow-glazed Water Pot",
+    "assetSlug": "yellow-glazed-water-pot",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-054-yellow-glazed-water-pot.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-054-yellow-glazed-water-pot.png"
+  },
+  {
+    "id": "sz-ai-055",
+    "archiveId": "szk-055",
+    "sourceFileName": "《寿州窑》_13578583_284.png",
+    "targetBaseName": "szk-055-yellow-glazed-water-pot",
+    "titleZh": "黄釉水盂",
+    "titleEn": "Yellow-glazed Water Pot",
+    "assetSlug": "yellow-glazed-water-pot",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-055-yellow-glazed-water-pot.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-055-yellow-glazed-water-pot.png"
+  },
+  {
+    "id": "sz-ai-056",
+    "archiveId": "szk-056",
+    "sourceFileName": "《寿州窑》_13578583_290.png",
+    "targetBaseName": "szk-056-yellow-glazed-four-handled-jar-with-flared-mouth",
+    "titleZh": "黄釉敞口四系罐",
+    "titleEn": "Yellow-glazed Four-handled Jar with Flared Mouth",
+    "assetSlug": "yellow-glazed-four-handled-jar-with-flared-mouth",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png"
+  },
+  {
+    "id": "sz-ai-057",
+    "archiveId": "szk-057",
+    "sourceFileName": "《寿州窑》_13578583_292.png",
+    "targetBaseName": "szk-057-large-yellow-glazed-jar",
+    "titleZh": "黄釉大瓮",
+    "titleEn": "Large Yellow-Glazed Jar",
+    "assetSlug": "large-yellow-glazed-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-057-large-yellow-glazed-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-057-large-yellow-glazed-jar.png"
+  },
+  {
+    "id": "sz-ai-058",
+    "archiveId": "szk-058",
+    "sourceFileName": "《寿州窑》_13578583_296.png",
+    "targetBaseName": "szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles",
+    "titleZh": "黄釉唇口四系大罐",
+    "titleEn": "Large Yellow-Glazed Jar with Lip Rim and Four Handles",
+    "assetSlug": "large-yellow-glazed-jar-with-lip-rim-and-four-handles",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png"
+  },
+  {
+    "id": "sz-ai-059",
+    "archiveId": "szk-059",
+    "sourceFileName": "《寿州窑》_13578583_302.png",
+    "targetBaseName": "szk-059-yellow-glazed-strap-flask-with-four-loop-handles",
+    "titleZh": "黄釉四系穿带壶",
+    "titleEn": "Yellow-glazed Strap Flask with Four Loop Handles",
+    "assetSlug": "yellow-glazed-strap-flask-with-four-loop-handles",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png"
+  },
+  {
+    "id": "sz-ai-060",
+    "archiveId": "szk-060",
+    "sourceFileName": "《寿州窑》_13578583_308.png",
+    "targetBaseName": "szk-060-yellow-glazed-three-handled-lip-rim-jar",
+    "titleZh": "黄釉三系唇口罐",
+    "titleEn": "Yellow-glazed Three-handled Lip-rim Jar",
+    "assetSlug": "yellow-glazed-three-handled-lip-rim-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-060-yellow-glazed-three-handled-lip-rim-jar.png"
+  },
+  {
+    "id": "sz-ai-061",
+    "archiveId": "szk-061",
+    "sourceFileName": "《寿州窑》_13578583_309.png",
+    "targetBaseName": "szk-061-black-glazed-large-mouthed-jar-with-two-handles",
+    "titleZh": "黑釉双系大口罐",
+    "titleEn": "Black-glazed Large-mouthed Jar with Two Handles",
+    "assetSlug": "black-glazed-large-mouthed-jar-with-two-handles",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png"
+  },
+  {
+    "id": "sz-ai-062",
+    "archiveId": "szk-062",
+    "sourceFileName": "《寿州窑》_13578583_314.png",
+    "targetBaseName": "szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth",
+    "titleZh": "黑釉胆形腹盂口瓶",
+    "titleEn": "Black-glazed Gallbladder-shaped Bottle with Water-pot-shaped Mouth",
+    "assetSlug": "black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png"
+  },
+  {
+    "id": "sz-ai-063",
+    "archiveId": "szk-063",
+    "sourceFileName": "《寿州窑》_13578583_315.png",
+    "targetBaseName": "szk-063-yellow-glazed-bulbous-jar",
+    "titleZh": "黄釉鼓腹罐",
+    "titleEn": "Yellow-glazed Bulbous Jar",
+    "assetSlug": "yellow-glazed-bulbous-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-063-yellow-glazed-bulbous-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-063-yellow-glazed-bulbous-jar.png"
+  },
+  {
+    "id": "sz-ai-064",
+    "archiveId": "szk-064",
+    "sourceFileName": "《寿州窑》_13578583_320.png",
+    "targetBaseName": "szk-064-brown-glazed-two-handled-long-bodied-jar",
+    "titleZh": "酱釉双系长腹罐",
+    "titleEn": "Brown-glazed Two-handled Long-bodied Jar",
+    "assetSlug": "brown-glazed-two-handled-long-bodied-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-064-brown-glazed-two-handled-long-bodied-jar.png"
+  },
+  {
+    "id": "sz-ai-065",
+    "archiveId": "szk-065",
+    "sourceFileName": "《寿州窑》_13578583_333.png",
+    "targetBaseName": "szk-065-yellow-green-glazed-lip-mouth-four-handled-jar",
+    "titleZh": "黄绿釉唇口四系罐",
+    "titleEn": "Yellow-green Glazed Lip-mouth Four-handled Jar",
+    "assetSlug": "yellow-green-glazed-lip-mouth-four-handled-jar",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png"
+  },
+  {
+    "id": "sz-ai-066",
+    "archiveId": "szk-066",
+    "sourceFileName": "《寿州窑》_13578583_337.png",
+    "targetBaseName": "szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+    "titleZh": "蜡黄釉盂口四系罐",
+    "titleEn": "Wax-yellow-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+    "assetSlug": "wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png"
+  },
+  {
+    "id": "sz-ai-067",
+    "archiveId": "szk-067",
+    "sourceFileName": "《寿州窑》_13578583_342.png",
+    "targetBaseName": "szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+    "titleZh": "酱釉盂口四系罐",
+    "titleEn": "Brown-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+    "assetSlug": "brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png"
+  },
+  {
+    "id": "sz-ai-068",
+    "archiveId": "szk-068",
+    "sourceFileName": "《寿州窑》_13578583_344.png",
+    "targetBaseName": "szk-068-yellow-glazed-multi-footed-inkstone",
+    "titleZh": "黄釉多足砚",
+    "titleEn": "Yellow-glazed Multi-footed Inkstone",
+    "assetSlug": "yellow-glazed-multi-footed-inkstone",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-068-yellow-glazed-multi-footed-inkstone.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-068-yellow-glazed-multi-footed-inkstone.png"
+  },
+  {
+    "id": "sz-ai-069",
+    "archiveId": "szk-069",
+    "sourceFileName": "《寿州窑》_13578583_346.png",
+    "targetBaseName": "szk-069-yellow-glazed-beast-shaped-weight",
+    "titleZh": "黄釉兽形镇",
+    "titleEn": "Yellow-glazed Beast-shaped Weight",
+    "assetSlug": "yellow-glazed-beast-shaped-weight",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-069-yellow-glazed-beast-shaped-weight.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-069-yellow-glazed-beast-shaped-weight.png"
+  },
+  {
+    "id": "sz-ai-070",
+    "archiveId": "szk-070",
+    "sourceFileName": "《寿州窑》_13578583_347.png",
+    "targetBaseName": "szk-070-yellow-glazed-lion-shaped-weight",
+    "titleZh": "黄釉狮形镇",
+    "titleEn": "Yellow-glazed Lion-shaped Weight",
+    "assetSlug": "yellow-glazed-lion-shaped-weight",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-070-yellow-glazed-lion-shaped-weight.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-070-yellow-glazed-lion-shaped-weight.png"
+  },
+  {
+    "id": "sz-ai-071",
+    "archiveId": "szk-071",
+    "sourceFileName": "《寿州窑》_13578583_348.png",
+    "targetBaseName": "szk-071-yellow-brown-glazed-reclining-tiger-weight",
+    "titleZh": "黄褐釉卧虎镇",
+    "titleEn": "Yellow-brown Glazed Reclining Tiger Weight",
+    "assetSlug": "yellow-brown-glazed-reclining-tiger-weight",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-071-yellow-brown-glazed-reclining-tiger-weight.png"
+  },
+  {
+    "id": "sz-ai-072",
+    "archiveId": "szk-072",
+    "sourceFileName": "《寿州窑》_13578583_350.png",
+    "targetBaseName": "szk-072-green-glazed-ceramic-beast-fragment",
+    "titleZh": "青绿釉瓷塑兽残器",
+    "titleEn": "Green-glazed Ceramic Beast Fragment",
+    "assetSlug": "green-glazed-ceramic-beast-fragment",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-072-green-glazed-ceramic-beast-fragment.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-072-green-glazed-ceramic-beast-fragment.png"
+  },
+  {
+    "id": "sz-ai-073",
+    "archiveId": "szk-073",
+    "sourceFileName": "《寿州窑》_13578583_356.png",
+    "targetBaseName": "szk-073-yellow-glazed-ceramic-horse",
+    "titleZh": "黄釉小瓷马",
+    "titleEn": "Yellow-glazed Ceramic Horse",
+    "assetSlug": "yellow-glazed-ceramic-horse",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-073-yellow-glazed-ceramic-horse.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-073-yellow-glazed-ceramic-horse.png"
+  },
+  {
+    "id": "sz-ai-074",
+    "archiveId": "szk-074",
+    "sourceFileName": "《寿州窑》_13578583_357.png",
+    "targetBaseName": "szk-074-celadon-glazed-figurine-of-a-central-asian-rider",
+    "titleZh": "青釉胡人骑马瓷塑",
+    "titleEn": "Celadon-glazed Figurine of a Central Asian Rider",
+    "assetSlug": "celadon-glazed-figurine-of-a-central-asian-rider",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png"
+  },
+  {
+    "id": "sz-ai-075",
+    "archiveId": "szk-075",
+    "sourceFileName": "《寿州窑》_13578583_361.png",
+    "targetBaseName": "szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback",
+    "titleZh": "黄釉人骑马瓷塑",
+    "titleEn": "Yellow-glazed Ceramic Figure of a Man on Horseback",
+    "assetSlug": "yellow-glazed-ceramic-figure-of-a-man-on-horseback",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png"
+  },
+  {
+    "id": "sz-ai-076",
+    "archiveId": "szk-076",
+    "sourceFileName": "《寿州窑》_13578583_366.png",
+    "targetBaseName": "szk-076-yellow-glazed-porcelain-water-buffalo",
+    "titleZh": "黄釉瓷水牛",
+    "titleEn": "Yellow-glazed Porcelain Water Buffalo",
+    "assetSlug": "yellow-glazed-porcelain-water-buffalo",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-076-yellow-glazed-porcelain-water-buffalo.png"
+  },
+  {
+    "id": "sz-ai-077",
+    "archiveId": "szk-077",
+    "sourceFileName": "《寿州窑》_13578583_367.png",
+    "targetBaseName": "szk-077-small-ceramic-horse-with-yellowish-brown-glaze",
+    "titleZh": "黄褐釉小瓷马",
+    "titleEn": "Small Ceramic Horse with Yellowish Brown Glaze",
+    "assetSlug": "small-ceramic-horse-with-yellowish-brown-glaze",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png"
+  },
+  {
+    "id": "sz-ai-078",
+    "archiveId": "szk-078",
+    "sourceFileName": "《寿州窑》_13578583_368.png",
+    "targetBaseName": "szk-078-yellow-glazed-horse",
+    "titleZh": "黄釉瓷马",
+    "titleEn": "Yellow-glazed Horse",
+    "assetSlug": "yellow-glazed-horse",
+    "failed": false,
+    "failureReason": "",
+    "renameStatus": {
+      "original": "renamed",
+      "processed": "renamed"
+    },
+    "imageUrl": "/assets/ceramics/szk-078-yellow-glazed-horse.png",
+    "processedImageUrl": "/assets/ceramics/processed/szk-078-yellow-glazed-horse.png"
+  }
+]

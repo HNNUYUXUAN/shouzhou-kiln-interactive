@@ -1,0 +1,42 @@
+{
+  "archiveId": "szk-011",
+  "assetSlug": "celadon-glazed-four-handled-dish-mouthed-jar",
+  "sourceFileName": "《寿州窑》_13578583_134.png",
+  "targetBaseName": "szk-011-celadon-glazed-four-handled-dish-mouthed-jar",
+  "titleZh": "青釉四系盘口壶",
+  "titleEn": "Celadon-glazed Four-handled Dish-mouthed Jar",
+  "ocrText": "青釉四系盘口壶\n隋（581-618年）\n口径14厘米，底径14.3厘米，高44厘米\n2008年6月于合肥征集\n淮南市博物馆藏\n此器造型高大，形制工整，釉色肥厚，是隋代寿州窑产品中的代表性作品。浅盘口外撇，口沿圆润丰满。细长颈，颈部上沿与盘底同径，在隋代盘口壶中少见，一般是颈部小于盘底。颈部向下渐粗，在上部和下部各饰二周凸起粗弦纹，颈、肩的接胎处在较下的凸弦纹下，形成一种凹陷，丰肩上置四个对称的双股系，系的下沿饰二周凹弦纹，弦纹很规整。施青绿釉至腹下部，釉层很厚，玻化程度很高，在盘底，凹弦纹处有积釉，并产生窑变，腹下有数道蜡泪痕。胎体坚细致密，胎色呈乳红状。",
+  "catalogSummary": "此件隋代寿州窑青釉四系盘口壶造型高大工整，为代表性作品。其特征为浅盘口、细长颈及丰肩四系。通体施青绿釉，釉层肥厚且玻化程度高，可见积釉与蜡泪痕。胎体坚细，呈乳红色。该器物于2008年在合肥征集，现藏于淮南市博物馆。",
+  "artifactType": "jar",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径14厘米，底径14.3厘米，高44厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 14,
+    "baseDiameter": 14.3,
+    "height": 44,
+    "unit": "厘米"
+  },
+  "material": "瓷胎，胎色呈乳红状",
+  "glaze": "青绿釉，釉层肥厚，玻化程度高，有积釉和蜡泪痕",
+  "motifs": [
+    "盘口",
+    "四系",
+    "弦纹",
+    "双股系"
+  ],
+  "provenance": "2008年6月于合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Celadon",
+    "Sui Dynasty",
+    "Four handles",
+    "Dish mouth",
+    "Wax tears",
+    "青釉",
+    "寿州窑",
+    "盘口壶"
+  ],
+  "confidenceNotes": ""
+}

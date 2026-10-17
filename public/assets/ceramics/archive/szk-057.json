@@ -1,0 +1,36 @@
+{
+  "archiveId": "szk-057",
+  "assetSlug": "large-yellow-glazed-jar",
+  "sourceFileName": "《寿州窑》_13578583_292.png",
+  "targetBaseName": "szk-057-large-yellow-glazed-jar",
+  "titleZh": "黄釉大瓮",
+  "titleEn": "Large Yellow-Glazed Jar",
+  "ocrText": "黄釉大瓮\n唐（618-907年）\n口径25.5厘米，底径18.2厘米，高45厘米\n2008年6月于合肥征集\n淮南市博物馆藏\n短直颈，平沿，丰肩，鼓腹，腹下急收，小平底。通体施黄釉，釉层很厚，烧结很好。此器的口部较一般罐类器物的颈部要短，在唐代寿州窑罐类产品中比较少见。从其较大的口部判断，应是贮存粮食或水一类的用品。器物的形制虽然高大，但烧造温度很高，至今没有发生脱釉的现象。从釉面上留下的痕迹看，其施釉方法采用了刷釉法，釉面上有部分缩釉的现象。",
+  "catalogSummary": "此件唐代寿州窑黄釉大瓮，短直颈、丰肩鼓腹，通体施厚黄釉且烧结良好。其口部较短，在同类产品中少见，推测为储粮或盛水之用。虽器型高大，但烧造温度高无脱釉现象，釉面可见刷釉痕迹及部分缩釉。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径25.5厘米，底径18.2厘米，高45厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 25.5,
+    "baseDiameter": 18.2,
+    "height": 45,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉，釉层很厚，烧结很好，有缩釉现象",
+  "motifs": [
+    "素面",
+    "刷釉痕"
+  ],
+  "provenance": "2008年6月于合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Tang Dynasty",
+    "Large Jar",
+    "Brush Marked Glaze"
+  ],
+  "confidenceNotes": ""
+}

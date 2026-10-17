@@ -1,0 +1,41 @@
+{
+  "archiveId": "szk-017",
+  "assetSlug": "shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration",
+  "sourceFileName": "《寿州窑》_13578583_156.png",
+  "targetBaseName": "szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration",
+  "titleZh": "寿州窑黄釉刻花莲瓣纹高足盘",
+  "titleEn": "Shouzhou Kiln Yellow-glazed Stemmed Dish with Incised Lotus-petal Design",
+  "ocrText": "",
+  "catalogSummary": "唐代寿州窑黄釉瓷器。器型为高足盘，通体施黄釉。盘心及外壁装饰有精美的刻划花卉纹样，中心为团花纹饰，周围环绕缠枝莲瓣纹。圈足较高，呈喇叭状，足部可见墨书题记痕迹。现藏于安徽博物院。",
+  "artifactType": "high-footed dish",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": null,
+    "unit": ""
+  },
+  "material": "陶胎",
+  "glaze": "黄釉",
+  "motifs": [
+    "刻花",
+    "莲瓣纹",
+    "团花纹",
+    "缠枝花卉"
+  ],
+  "provenance": "淮南市大通区上窑镇古窑址",
+  "institution": "安徽博物院",
+  "visualTags": [
+    "Shouzhou ware",
+    "yellow glaze",
+    "incised decoration",
+    "lotus pattern",
+    "high foot",
+    "Tang dynasty",
+    "安徽博物院",
+    "寿州窑"
+  ],
+  "confidenceNotes": "图片中未包含直接对应的图录文字说明，OCR结果为空。器物定名、年代及馆藏信息完全依据用户提供的锚点信息进行归档。"
+}

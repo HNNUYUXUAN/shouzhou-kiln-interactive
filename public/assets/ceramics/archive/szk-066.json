@@ -1,0 +1,40 @@
+{
+  "archiveId": "szk-066",
+  "assetSlug": "wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+  "sourceFileName": "《寿州窑》_13578583_337.png",
+  "targetBaseName": "szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+  "titleZh": "蜡黄釉盂口四系罐",
+  "titleEn": "Wax-yellow-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+  "ocrText": "蜡黄釉盂口四系罐\n唐（618~907年）\n口径11厘米，底径13厘米，高29厘米\n2009年12月21日于合肥征集\n淮南市博物馆藏\n这种盂口式罐是唐代寿州窑产品中颇有特点的产品，一般烧造的比较精细。盂口的腹部外鼓，口沿圆润呈唇状，盂口安放在已经拉坯成型的小喇叭口罐，这从盂口的下部结合处能够辨识到。颈部细短，广丰肩上置四枚精巧的小双股系。通体施蜡黄釉，釉层很厚，有较强的蜡质光泽，釉面有细小开片。在腹部下侧有少部分脱釉，露出乳白色化妆土。足底略外撇，通体呈灰色，似为埋藏中的污垢，隐约能观察到乳红色的胎体。",
+  "catalogSummary": "此器为唐代寿州窑代表作，2009年合肥征集。造型独特，将盂口置于小喇叭口罐之上，肩部饰四枚精巧小双股系。通体施厚蜡黄釉，具强蜡质光泽及细小开片，局部脱釉露白化妆土，胎色灰中透红。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径11厘米，底径13厘米，高29厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 11,
+    "baseDiameter": 13,
+    "height": 29,
+    "unit": "厘米"
+  },
+  "material": "瓷胎，施化妆土",
+  "glaze": "蜡黄釉，釉层厚，有蜡质光泽，釉面有细小开片",
+  "motifs": [
+    "盂口",
+    "四系",
+    "小双股系"
+  ],
+  "provenance": "2009年12月21日于合肥征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "Shouzhou ware",
+    "蜡黄釉",
+    "wax-yellow glaze",
+    "四系罐",
+    "four-handled jar",
+    "唐代",
+    "Tang dynasty"
+  ],
+  "confidenceNotes": ""
+}

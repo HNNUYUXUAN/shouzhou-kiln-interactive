@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-044",
+  "assetSlug": "tea-dust-glazed-beast-shaped-porcelain-pillow",
+  "sourceFileName": "《寿州窑》_13578583_246.png",
+  "targetBaseName": "szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow",
+  "titleZh": "茶叶末釉兽形瓷枕",
+  "titleEn": "Tea-dust Glazed Beast-shaped Porcelain Pillow",
+  "ocrText": "茶叶末釉兽形瓷枕\n唐（618~907年）\n枕面 12.2厘米×7.4厘米，高9.8厘米\n2010年9月21日于淮南征集\n淮南市博物馆\n卧兽座撑起枕面。卧兽圆目，吻部前伸，头上有角，周身饰鳞片纹，后肢蹲卧状，前肢支撑头部，右前肢粗大。底部露胎，胎色乳白。兽身两侧都有出气孔。饰茶叶末釉，发色均匀，在纹饰突起处，釉色呈酱色。\n茶叶末釉一般认为起源于唐代，为偶然烧造而成，是在高温1200℃至1300℃下烧黑釉过火时而产生的，因釉面失透，釉色黄绿中参以点状深黄色茶叶末而得名。形成的原因是釉中的铁、镁与硅酸化合而产生的结晶。该器发色细腻，周身遍布似细茶叶末的结晶物，犹如夏日夜空中的点点繁星。遗憾的是发现时为残器，上部的枕面依照唐代同类器物修复，但不失其珍贵。\n图版四 唐代瓷枕",
+  "catalogSummary": "此件唐代茶叶末釉兽形瓷枕由卧兽承托枕面，兽身饰鳞片纹，造型生动。釉色黄绿夹杂深黄斑点，发色细腻如茶叶末。原器曾残损，枕面经修复。现藏于淮南市博物馆，是研究寿州窑高温釉及唐代寝具的重要实物。",
+  "artifactType": "pillow",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "枕面 12.2厘米×7.4厘米，高9.8厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": null,
+    "height": 9.8,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "茶叶末釉",
+  "motifs": [
+    "卧兽",
+    "鳞片纹",
+    "兽形"
+  ],
+  "provenance": "2010年9月21日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "zoomorphic pillow",
+    "tea-dust glaze",
+    "Tang dynasty",
+    "Shouzhou ware",
+    "兽形枕",
+    "茶叶末釉"
+  ],
+  "confidenceNotes": ""
+}

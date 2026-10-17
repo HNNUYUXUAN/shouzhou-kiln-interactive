@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-060",
+  "assetSlug": "yellow-glazed-three-handled-lip-rim-jar",
+  "sourceFileName": "《寿州窑》_13578583_308.png",
+  "targetBaseName": "szk-060-yellow-glazed-three-handled-lip-rim-jar",
+  "titleZh": "黄釉三系唇口罐",
+  "titleEn": "Yellow-glazed Three-handled Lip-rim Jar",
+  "ocrText": "黄釉三系唇口罐\n唐（618-907年）\n口径10厘米，底径13厘米，高48厘米\n2010年1月12日于淮南征集\n淮南市博物馆藏\n翻唇口，极细颈，针溜肩上置三个小双股系，圆鼓腹，腹下急收，小平底。三系罐在寿州窑唐代时期很少见，此器高达48厘米，三小系不可能有穿绳负重之功，纯粹用于装饰，故小巧的很。半施黄釉至下腹部，釉色偏浅，但釉层较厚,有数处蜡泪痕。釉面略有缩釉现象，但总体感觉釉色比较均匀，胎、化妆土、釉色三者结合的很好，没有发生脱釉问题。可能窑工们对此种大型器的烧造工艺有独特方法，因一般浅釉器常常发生脱釉现象。",
+  "catalogSummary": "此件唐代黄釉三系唇口罐高48厘米，为寿州窑罕见的大型器。肩部饰三个小巧的双股系仅作装饰。通体施浅黄釉至腹部，釉层厚重且有蜡泪痕，胎釉结合良好无脱釉，体现了当时独特的烧造工艺。现藏于淮南市博物馆。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径10厘米，底径13厘米，高48厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10,
+    "baseDiameter": 13,
+    "height": 48,
+    "unit": "厘米"
+  },
+  "material": "陶",
+  "glaze": "黄釉，半施釉，釉色偏浅，釉层较厚，有蜡泪痕及缩釉现象",
+  "motifs": [
+    "三系",
+    "翻唇口",
+    "双股系",
+    "圆鼓腹"
+  ],
+  "provenance": "2010年1月12日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Three Handles",
+    "Tang Dynasty",
+    "Large Jar",
+    "Wax Tears"
+  ],
+  "confidenceNotes": ""
+}

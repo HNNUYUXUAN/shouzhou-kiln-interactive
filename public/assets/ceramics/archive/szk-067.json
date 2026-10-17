@@ -1,0 +1,42 @@
+{
+  "archiveId": "szk-067",
+  "assetSlug": "brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+  "sourceFileName": "《寿州窑》_13578583_342.png",
+  "targetBaseName": "szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles",
+  "titleZh": "酱釉盂口四系罐",
+  "titleEn": "Brown-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+  "ocrText": "酱釉盂口四系罐\n唐（618-907年）\n口径10厘米，底径11厘米，高30.1厘米\n2011年6月11日于淮南征集\n淮南市博物馆藏\n此器的盂口与唇口罐的结合处十分明显。盂口口沿内敛，腹部微鼓，下部内收与唇口罐相连。短细颈，颈肩结合处有凸弦纹，斜溜肩上置四枚双股系，系的制作很讲究，肩下有一周凹弦纹，最大腹径在腹中部，腹下急收。半施酱釉，釉层很厚，腹下有数道蜡泪痕。下腹部露砖红色胎体，质坚细。",
+  "catalogSummary": "唐代寿州窑酱釉盂口四系罐，2011年淮南征集，现藏淮南市博物馆。器型独特，盂口与唇口罐结合，肩部置四枚双股系。通体半施厚酱釉，釉面垂流呈蜡泪痕，下腹露砖红胎，质地坚细。",
+  "artifactType": "jar",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "口径10厘米，底径11厘米，高30.1厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 10,
+    "baseDiameter": 11,
+    "height": 30.1,
+    "unit": "厘米"
+  },
+  "material": "瓷胎",
+  "glaze": "酱釉",
+  "motifs": [
+    "四系",
+    "凸弦纹",
+    "凹弦纹",
+    "蜡泪痕"
+  ],
+  "provenance": "2011年6月11日于淮南征集",
+  "institution": "淮南市博物馆",
+  "visualTags": [
+    "Shouzhou ware",
+    "brown glaze",
+    "four loops",
+    "bowl mouth",
+    "tear streaks",
+    "Tang dynasty",
+    "寿州窑",
+    "酱釉",
+    "四系罐"
+  ],
+  "confidenceNotes": ""
+}

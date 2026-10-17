@@ -1,0 +1,39 @@
+{
+  "archiveId": "szk-009",
+  "assetSlug": "celadon-glazed-dish-mouth-four-handled-jar",
+  "sourceFileName": "《寿州窑》_13578583_131.png",
+  "targetBaseName": "szk-009-celadon-glazed-dish-mouth-four-handled-jar",
+  "titleZh": "青釉盘口四系罐",
+  "titleEn": "Celadon-glazed Dish-mouth Four-handled Jar",
+  "ocrText": "青釉盘口四系罐\n隋（581-618年）\n口径14.5厘米，底径13.5厘米，高32.5厘米\n1973年安徽省亳州市河北轮窑厂M2隋开皇二十年（600年）王翰墓出土\n亳州市博物馆藏\n浅盘口，圆唇，盘壁外卷，短颈，圆肩，肩部竖装双泥条状四系，鼓腹，平底。肩腹结合部一周凸棱。青釉呈黄色，有开片，匀净光亮，器内满釉，器外施半釉，肩部和盘部分积釉处呈蓝灰色的窑变色。腹下露胎处可见乳白色化妆土，可知至少在隋代中晚期时寿州窑已经使用化妆土。从腹下釉面边缘看，该器的施釉方法为刷釉，与常见的蘸釉法有别。盘口下的颈部很短，使整器看上去接近四系罐造型，器足尺寸较小，也不同于通常的四系罐形态。该罐为纪年墓出土，是隋代标准器之一。",
+  "catalogSummary": "此件青釉盘口四系罐出土于安徽亳州隋开皇二十年（600年）王翰墓，现藏亳州市博物馆。器物施黄绿色青釉，有开片，积釉处呈蓝灰色，腹下露胎处可见乳白化妆土。其采用刷釉工艺，颈部极短，造型独特，是隋代寿州窑的标准器之一。",
+  "artifactType": "jar",
+  "dynasty": "隋",
+  "period": "581-618年",
+  "dimensionsRaw": "口径14.5厘米，底径13.5厘米，高32.5厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": 14.5,
+    "baseDiameter": 13.5,
+    "height": 32.5,
+    "unit": "厘米"
+  },
+  "material": "瓷",
+  "glaze": "青釉（呈黄色，有开片，积釉处呈蓝灰色）",
+  "motifs": [
+    "盘口",
+    "四系",
+    "凸棱"
+  ],
+  "provenance": "1973年安徽省亳州市河北轮窑厂M2隋开皇二十年（600年）王翰墓出土",
+  "institution": "亳州市博物馆",
+  "visualTags": [
+    "寿州窑",
+    "青釉",
+    "四系罐",
+    "盘口",
+    "隋代",
+    "化妆土",
+    "刷釉"
+  ],
+  "confidenceNotes": ""
+}

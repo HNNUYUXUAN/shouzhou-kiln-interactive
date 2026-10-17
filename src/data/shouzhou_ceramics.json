@@ -1,0 +1,3775 @@
+[
+  {
+    "id": "sz-001",
+    "name": "青釉双龙柄堆塑动物纹连体瓶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 4.5,
+      "baseDiameter": 3.5,
+      "height": 18,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市凤台县泥集",
+      "method": "出土"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "迄今发现唯一一件隋代寿州窑龙柄连体瓶。盘口，单颈，双腹，双平底。双腹上各塑一个修长的龙柄。",
+    "highlightTags": [
+      "隋代孤品",
+      "双龙柄",
+      "连体瓶",
+      "堆塑工艺",
+      "动物纹饰",
+      "青釉"
+    ],
+    "technicalFeatures": [
+      "盘口造型",
+      "单颈双腹结构",
+      "龙柄堆塑技法",
+      "青釉施釉工艺"
+    ],
+    "historicalSignificance": "唯一隋代龙柄连体瓶实物，填补寿州窑隋代器型研究空白",
+    "imageUrl": "/assets/ceramics/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-001-celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs.webp",
+    "archiveId": "szk-001",
+    "nameEn": "Celadon-glazed Conjoined Vase with Double Dragon Handles and Applied Animal Motifs",
+    "assetSlug": "celadon-glazed-conjoined-vase-with-double-dragon-handles-and-applied-animal-motifs"
+  },
+  {
+    "id": "sz-002",
+    "name": "青黄釉小龙柄鸡首壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 6.4,
+      "baseDiameter": 6.1,
+      "height": 21.6,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市大通区",
+      "method": "出土",
+      "donor": "",
+      "date": "20世纪70年代"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器物于20世纪70年代在淮南市大通区出土，出土时龙柄残缺，后经修复。器腹比例较大、形态饱满，通体施偏黄的青釉，釉层较厚且玻化良好，体现寿州窑隋代早期的典型面貌。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "青黄釉",
+      "鸡首壶",
+      "龙柄"
+    ],
+    "technicalFeatures": [
+      "小龙柄与鸡首相对设置",
+      "腹部比例较大，器形饱满",
+      "通体施青黄釉",
+      "釉层较厚，玻化良好",
+      "残缺龙柄经修复"
+    ],
+    "historicalSignificance": "该器保存了寿州窑隋代早期的器形与釉色特征，是认识寿州窑早期鸡首壶形制的重要实物。",
+    "imageUrl": "/assets/ceramics/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-002-greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle.webp",
+    "archiveId": "szk-002",
+    "nameEn": "Greenish-yellow-glazed Chicken-headed Ewer with Small Dragon Handle",
+    "assetSlug": "greenish-yellow-glazed-chicken-headed-ewer-with-small-dragon-handle"
+  },
+  {
+    "id": "sz-ai-003",
+    "name": "青釉四系龙柄盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 6.6,
+      "baseDiameter": 6.1,
+      "height": 23,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥市长丰",
+      "method": "出土",
+      "donor": "",
+      "date": "1974年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "器型粗犷厚重，小深腹盘口，长细颈饰凸弦纹。广丰肩置四枚双股系，长鼓腹下收至平足外撇。盘口与肩之间置修长龙柄，龙吻深入盘内做吸允状。",
+    "highlightTags": [
+      "隋代寿州窑",
+      "青釉",
+      "龙柄盘口壶",
+      "鸡首壶变体",
+      "四系"
+    ],
+    "technicalFeatures": [
+      "通体施青釉，积釉处窑变",
+      "肩部对称安置双股系",
+      "龙柄造型生动，比例协调",
+      "颈部及肩部饰多周凸弦纹"
+    ],
+    "historicalSignificance": "此器形制独特，虽类鸡首壶却无鸡首，十分少见。代表了隋代寿州窑风格面貌，体现了当时陶瓷造型艺术的高超水平。",
+    "imageUrl": "/assets/ceramics/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-003-celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-24T23:58:40.263Z",
+    "archiveId": "szk-003",
+    "nameEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Dragon Handle",
+    "assetSlug": "celadon-glazed-dish-mouthed-jar-with-four-loops-and-dragon-handle"
+  },
+  {
+    "id": "sz-ai-004",
+    "name": "青釉刻花六系盘口壶",
+    "dynasty": "南朝至隋",
+    "period": "420-618年",
+    "dimensions": {
+      "mouthDiameter": 16,
+      "baseDiameter": 11.8,
+      "height": 36.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "安徽省合肥隋开皇三年（583年）墓",
+      "method": "出土",
+      "donor": "",
+      "date": "1984年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "盘口外撇，浅腹，长细束颈，溜肩置六个桥形系。鼓腹，最大径在腹中部，平底微凹。器身施半施青釉，釉层玻化良好，下腹有蜡泪痕。",
+    "highlightTags": [
+      "南朝至隋",
+      "寿州窑",
+      "盘口壶",
+      "六系",
+      "青釉",
+      "刻花",
+      "纪年墓出土"
+    ],
+    "technicalFeatures": [
+      "装饰采用划花法，上部饰覆莲瓣纹，下部饰仰莲瓣纹",
+      "腹部有二周细凹弦纹分割",
+      "胎体灰白，质坚细",
+      "釉色青黄，半施釉，下腹有流釉现象"
+    ],
+    "historicalSignificance": "出自纪年墓，为隋代标准器之一。其颈部无周凸弦纹的特征，反映了寿州窑早期面貌，具有极高断代价值。",
+    "imageUrl": "/assets/ceramics/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-004-celadon-glazed-incised-six-handled-dish-mouthed-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-24T23:59:11.890Z",
+    "archiveId": "szk-004",
+    "nameEn": "Celadon-glazed Incised Six-handled Dish-mouthed Jar",
+    "assetSlug": "celadon-glazed-incised-six-handled-dish-mouthed-jar"
+  },
+  {
+    "id": "sz-ai-005",
+    "name": "青釉小盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 11.5,
+      "baseDiameter": 11.8,
+      "height": 32.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "安徽淮南寿州窑遗址",
+      "method": "出土",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "皖西博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器腹部下坠，颈部略显细小。浅腹盘口沿外撇，长细束颈，丰肩硕大，腹下缓收至底。肩部置四枚双股系，造型敦厚，形制规范。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "盘口壶",
+      "青釉",
+      "四系",
+      "早期代表"
+    ],
+    "technicalFeatures": [
+      "半施青釉，釉色均匀，玻化良好",
+      "下腹部露淡乳色胎体，质坚细",
+      "颈上有三周凹弦纹，系下有二周凹弦纹",
+      "造型特征为腹部下坠、颈部细小"
+    ],
+    "historicalSignificance": "此器装饰简单但保存完好，是寿州窑早期产品的代表作，反映了隋代寿州窑的烧造水平与风格演变。",
+    "imageUrl": "/assets/ceramics/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-005-celadon-glazed-small-dish-mouthed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-005-celadon-glazed-small-dish-mouthed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-24T23:59:40.740Z",
+    "archiveId": "szk-005",
+    "nameEn": "Celadon-glazed Small Dish-mouthed Ewer",
+    "assetSlug": "celadon-glazed-small-dish-mouthed-ewer"
+  },
+  {
+    "id": "sz-ai-006",
+    "name": "青釉戳印莲花纹四系盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 14.2,
+      "baseDiameter": 12,
+      "height": 41.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥市白水坝齿轮厂",
+      "method": "出土",
+      "donor": "",
+      "date": "20世纪80年代初"
+    },
+    "collection": {
+      "institution": "安徽省文物考古研究所",
+      "status": "馆藏"
+    },
+    "description": "圆唇浅盘口，颈稍长，圆溜肩，肩部有四双股系。圆腹下腹内收，饼足外撇。通体施青釉，颈部及肩部戳印相间的花朵和莲花纹饰，装饰繁缛华丽。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "盘口壶",
+      "青釉",
+      "戳印花纹",
+      "四系"
+    ],
+    "technicalFeatures": [
+      "轮制成型",
+      "模印戳花装饰工艺",
+      "双股泥条系",
+      "满釉至足",
+      "多层带状纹饰布局"
+    ],
+    "historicalSignificance": "该器是目前发现的隋代寿州窑产品中装饰最繁缛华丽的两件盘口壶之一，代表了隋代寿州窑制瓷工艺的高超水平。",
+    "imageUrl": "/assets/ceramics/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-006-celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:00:43.877Z",
+    "archiveId": "szk-006",
+    "nameEn": "Celadon-glazed Dish-mouthed Jar with Four Loops and Stamped Lotus Design",
+    "assetSlug": "celadon-glazed-dish-mouthed-jar-with-four-loops-and-stamped-lotus-design"
+  },
+  {
+    "id": "sz-ai-007",
+    "name": "青釉模印花卉盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 15.5,
+      "baseDiameter": null,
+      "height": 47,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥市郊区杏花村公社五里岗",
+      "method": "出土",
+      "donor": null,
+      "date": "1973年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "大型盘口壶，盘口外撇，长颈饰弦纹，丰肩鼓腹，肩部置四系。通体施青釉，腹部模印花卉纹，釉层垂流，造型古朴厚重。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "盘口壶",
+      "青釉",
+      "模印花卉",
+      "四系"
+    ],
+    "technicalFeatures": [
+      "轮制拉坯成型",
+      "模印贴花装饰工艺",
+      "高温石灰釉",
+      "自然垂流釉现象"
+    ],
+    "historicalSignificance": "为隋代寿州窑大件精品，印证了当时模印装饰工艺的成熟及南北方陶瓷文化交流，具有极高断代价值。",
+    "imageUrl": "/assets/ceramics/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-007-celadon-glazed-molded-floral-dish-mouthed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:01:11.888Z",
+    "archiveId": "szk-007",
+    "nameEn": "Celadon-glazed Molded Floral Dish-mouthed Ewer",
+    "assetSlug": "celadon-glazed-molded-floral-dish-mouthed-ewer"
+  },
+  {
+    "id": "sz-ai-008",
+    "name": "黄釉戳印纹四系小盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 7.4,
+      "baseDiameter": 6.8,
+      "height": 20.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "征集",
+      "donor": "",
+      "date": "2012年3月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此壶小盘口外撇，唇部丰厚，颈肩结合自然。肩部置四小系，饰一周回弦纹及戳印圆圈纹，通体施黄釉，釉下施化妆土。",
+    "highlightTags": [
+      "隋代瓷器",
+      "寿州窑",
+      "黄釉",
+      "四系壶",
+      "戳印花纹",
+      "化妆土"
+    ],
+    "technicalFeatures": [
+      "小盘口外撇，丰唇，四系置于颈肩处",
+      "竹器削制模具一次戳印成纹",
+      "通体施黄釉，釉下施用化妆土工艺"
+    ],
+    "historicalSignificance": "反映了隋代寿州窑早期瓷器的造型与装饰风格，是研究该时期制瓷工艺的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-008-yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:01:38.365Z",
+    "archiveId": "szk-008",
+    "nameEn": "Yellow-glazed stamped four-handled small disk-mouthed ewer",
+    "assetSlug": "yellow-glazed-stamped-four-handled-small-disk-mouthed-ewer"
+  },
+  {
+    "id": "sz-ai-009",
+    "name": "青釉盘口四系罐",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 14.5,
+      "baseDiameter": 13.5,
+      "height": 32.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "安徽省亳州市河北轮窑厂M2隋开皇二十年（600年）王翰墓",
+      "method": "出土",
+      "donor": "",
+      "date": "1973年"
+    },
+    "collection": {
+      "institution": "亳州市博物馆",
+      "status": "馆藏"
+    },
+    "description": "浅盘口，圆唇，盘壁外卷，短颈，圆肩，肩部竖装双泥条状四系，鼓腹，平底。器足尺寸较小，造型独特。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "青釉",
+      "盘口",
+      "四系罐",
+      "纪年墓出土"
+    ],
+    "technicalFeatures": [
+      "施半釉工艺：器内满釉，器外施半釉，腹部和盘部分积釉处呈蓝灰色窑变色",
+      "刷釉技法：从腹下釉面边缘看，该器的施釉方法为刷釉，与常见的蘸釉法有别",
+      "化妆土使用：腹下露胎处可见乳白色化妆土，证明隋代中晚期已使用此技术",
+      "堆塑装饰：肩部竖装双泥条状四系，结合部一周凸棱"
+    ],
+    "historicalSignificance": "该罐为纪年墓出土，是隋代标准器之一，对研究隋代寿州窑的烧造工艺及断代具有重要价值。",
+    "imageUrl": "/assets/ceramics/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-009-celadon-glazed-dish-mouth-four-handled-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-009-celadon-glazed-dish-mouth-four-handled-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:02:04.321Z",
+    "archiveId": "szk-009",
+    "nameEn": "Celadon-glazed Dish-mouth Four-handled Jar",
+    "assetSlug": "celadon-glazed-dish-mouth-four-handled-jar"
+  },
+  {
+    "id": "sz-ai-010",
+    "name": "青黄釉四系盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 7.7,
+      "baseDiameter": 6,
+      "height": 19.7,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "造型端庄，比例协调。小盘口规整，口沿丰满圆润外翻，颈部饰三周凹弦纹。肩部饱满，腹下急收，平底微凹，通体施青黄釉。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "盘口壶",
+      "青黄釉",
+      "四系",
+      "化妆土"
+    ],
+    "technicalFeatures": [
+      "通体施青黄釉，釉色晶莹玻璃光强",
+      "釉下施用化妆土工艺",
+      "颈部及盘口饰凹弦纹",
+      "肩部设四系，线条流畅",
+      "露胎处可见乳黄色胎骨"
+    ],
+    "historicalSignificance": "典型隋代寿州窑器物，施化妆土工艺反映了早期瓷器提升外观质量的尝试，具有断代标型价值。",
+    "imageUrl": "/assets/ceramics/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-010-greenish-yellow-glazed-four-handled-dish-mouthed-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:02:31.707Z",
+    "archiveId": "szk-010",
+    "nameEn": "Greenish-yellow Glazed Four-handled Dish-mouthed Jar",
+    "assetSlug": "greenish-yellow-glazed-four-handled-dish-mouthed-jar"
+  },
+  {
+    "id": "sz-ai-011",
+    "name": "青釉四系盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 14,
+      "baseDiameter": 14.3,
+      "height": 44,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥市",
+      "method": "征集",
+      "donor": "",
+      "date": "2008年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器造型高大，浅盘口外撇，细长颈，丰肩置四个对称双股系。施青绿釉至腹下部，釉层肥厚，玻璃化程度高，胎色呈乳红状。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "盘口壶",
+      "青釉",
+      "四系",
+      "蜡泪痕"
+    ],
+    "technicalFeatures": [
+      "浅盘口外撇，口沿圆润丰满",
+      "颈部饰二周凸起粗弦纹",
+      "肩部置四个对称的双股系",
+      "施青绿釉，釉层很厚且玻化程度高",
+      "釉面产生窑变，腹下有数道蜡泪痕",
+      "胎体坚细致密，胎色呈乳红状"
+    ],
+    "historicalSignificance": "此器是隋代寿州窑产品中的代表性作品，其独特的盘口与长颈比例及装饰风格，反映了隋代制瓷工艺的高超水平。",
+    "imageUrl": "/assets/ceramics/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-011-celadon-glazed-four-handled-dish-mouthed-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:02:57.312Z",
+    "archiveId": "szk-011",
+    "nameEn": "Celadon-glazed Four-handled Dish-mouthed Jar",
+    "assetSlug": "celadon-glazed-four-handled-dish-mouthed-jar"
+  },
+  {
+    "id": "sz-ai-012",
+    "name": "青釉印花盘口壶",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 7.5,
+      "baseDiameter": 7.6,
+      "height": 20,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "阜阳市阜阳地区水电局",
+      "method": "移交",
+      "donor": null,
+      "date": "1962年1月1日"
+    },
+    "collection": {
+      "institution": "阜阳市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器造型优雅，盘口曲线与足底外撇形态相映成趣。长束颈和腹部饰有七周凹弦纹及三层模印花纹，纹样由点状圆圈构成，制作规整美观。",
+    "highlightTags": [
+      "隋代",
+      "盘口壶",
+      "青釉",
+      "模印花纹",
+      "接胎工艺"
+    ],
+    "technicalFeatures": [
+      "盘口采用接胎方法粘接在拉坯成型的小喇叭口壶上",
+      "长束颈和腹部装饰七周凹弦纹",
+      "斜肩和腹中部有三层由点状圆圈构成的模印花纹"
+    ],
+    "historicalSignificance": "该器物展示了隋代寿州窑高超的接胎与模印装饰技艺，是研究当时陶瓷成型工艺的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-012-celadon-glazed-imprinted-dish-mouthed-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:03:21.712Z",
+    "archiveId": "szk-012",
+    "nameEn": "Celadon-glazed Imprinted Dish-mouthed Jar",
+    "assetSlug": "celadon-glazed-imprinted-dish-mouthed-jar"
+  },
+  {
+    "id": "sz-ai-013",
+    "name": "青釉贴塑罐",
+    "dynasty": "南朝至隋",
+    "period": "420-618年",
+    "dimensions": {
+      "mouthDiameter": 11,
+      "baseDiameter": 9.5,
+      "height": 22.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "寿县",
+      "method": "出土",
+      "donor": "许传先",
+      "date": "1982年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "此器为寿州窑早期代表作。直口平沿，广肩。肩部饰四桥系与双股系，腹部分三层模印贴塑莲蓬、花草及瑞兽纹，通体施青釉，积釉处色深。",
+    "highlightTags": [
+      "南朝至隋",
+      "寿州窑",
+      "青釉",
+      "贴塑工艺",
+      "浮雕艺术",
+      "佛教元素"
+    ],
+    "technicalFeatures": [
+      "采用模印好的纹饰贴于罐体，形成浮雕立体感",
+      "肩部交错设置四桥系和双股系",
+      "腹部以凸弦纹分隔成上中下三层装饰带",
+      "通体施青釉，凸弦纹上有积釉现象",
+      "下腹可见数道蜡泪痕"
+    ],
+    "historicalSignificance": "作为寿州窑早期珍品，其纹饰融合北方文化与佛教元素，反映了当时南北文化交融及宗教对陶瓷艺术的影响。",
+    "imageUrl": "/assets/ceramics/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-013-celadon-glazed-jar-with-applied-decoration.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-013-celadon-glazed-jar-with-applied-decoration.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:03:47.564Z",
+    "archiveId": "szk-013",
+    "nameEn": "Celadon-glazed Jar with Applied Decoration",
+    "assetSlug": "celadon-glazed-jar-with-applied-decoration"
+  },
+  {
+    "id": "sz-ai-014",
+    "name": "青釉弦纹四系罐",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 11,
+      "baseDiameter": 11,
+      "height": 21,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "寿县牛尾岗",
+      "method": "发掘",
+      "donor": "",
+      "date": "1957年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "此器造型简约，折沿短颈丰肩，肩上对称置四枚粗壮双股系，系下饰二周凹弦纹，鼓腹。通体施青釉，釉面较厚且均匀，玻化良好，有细小开片及积釉泪痕。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "四系罐",
+      "青釉",
+      "弦纹",
+      "典型器"
+    ],
+    "technicalFeatures": [
+      "灰白色细密胎质",
+      "通体施青釉",
+      "釉层厚且玻化好",
+      "肩部堆塑四枚双股系",
+      "腹部刻划凹弦纹",
+      "腹下有积釉现象"
+    ],
+    "historicalSignificance": "作为隋代寿州窑罐类器物的典型代表，其造型与釉色特征为断代提供了重要依据，反映了隋代中晚期制瓷工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-014-celadon-glazed-jar-with-horizontal-ridges-and-four-loops.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:04:12.284Z",
+    "archiveId": "szk-014",
+    "nameEn": "Celadon-glazed Jar with Horizontal Ridges and Four Loops",
+    "assetSlug": "celadon-glazed-jar-with-horizontal-ridges-and-four-loops"
+  },
+  {
+    "id": "sz-ai-015",
+    "name": "青釉莲瓣纹碗",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 12,
+      "baseDiameter": 4.2,
+      "height": 8.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥隋开皇三年墓",
+      "method": "出土",
+      "donor": "",
+      "date": "1984年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "直口平沿，深直腹，小平足外撇。沿下饰凹弦纹，腹部刻划大瓣仰莲纹，通体施青釉，釉色浅淡，釉面玻化较好。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "青釉",
+      "莲瓣纹",
+      "刻划花",
+      "标准器"
+    ],
+    "technicalFeatures": [
+      "剔刻装饰技法",
+      "通体施青釉",
+      "釉层较薄且玻化好",
+      "深腹直壁造型"
+    ],
+    "historicalSignificance": "出自有明确纪年的隋代墓葬，是断代寿州窑青瓷的重要标准器，具有极高的考古断代价值。",
+    "imageUrl": "/assets/ceramics/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-015-celadon-glazed-bowl-with-lotus-petal-decoration.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:04:36.957Z",
+    "archiveId": "szk-015",
+    "nameEn": "Celadon-glazed Bowl with Lotus Petal Decoration",
+    "assetSlug": "celadon-glazed-bowl-with-lotus-petal-decoration"
+  },
+  {
+    "id": "sz-ai-016",
+    "name": "青黄釉高足盘",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 13.1,
+      "baseDiameter": 8.9,
+      "height": 8.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市上窑管咀孜窑址T8②",
+      "method": "出土",
+      "donor": "",
+      "date": "1988年"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器造型比例匀称，盘口浅腹，口沿外撇，大喇叭足宽大且足沿上翻。通体施青黄釉，釉层玻化良好，足下半施釉，露乳红色胎，胎质坚细。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "高足盘",
+      "青黄釉",
+      "喇叭足"
+    ],
+    "technicalFeatures": [
+      "盘口为浅腹状，口沿略向外撇",
+      "盘底向外突出形成盘腹壁向内凹弧",
+      "大喇叭足，足宽大，足沿向上翻卷",
+      "通体施青黄釉，釉层玻化很好",
+      "足下半施釉，露乳红色胎",
+      "胎质坚细",
+      "弱还原气氛中烧成导致釉色偏黄"
+    ],
+    "historicalSignificance": "反映了隋代寿州窑盘口壶器型的大小分类及高矮变化特征，是研究早期寿州窑烧造工艺与釉色演变的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-016-greenish-yellow-glazed-high-footed-dish.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-016-greenish-yellow-glazed-high-footed-dish.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:05:01.884Z",
+    "archiveId": "szk-016",
+    "nameEn": "Greenish-yellow-glazed Stemmed Dish",
+    "assetSlug": "greenish-yellow-glazed-high-footed-dish"
+  },
+  {
+    "id": "sz-ai-017",
+    "name": "寿州窑黄釉刻花莲瓣纹高足盘",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 24.5,
+      "baseDiameter": 13.2,
+      "height": 11.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市大通区上窑镇古窑址",
+      "method": "出土",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "敞口，浅腹，喇叭形高圈足。通体施黄釉，釉色匀净。盘心刻划缠枝莲瓣纹，中心饰联珠纹，线条流畅，具有典型唐代寿州窑风格。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "高足盘",
+      "刻花",
+      "莲瓣纹"
+    ],
+    "technicalFeatures": [
+      "轮制拉坯成型",
+      "高温氧化焰烧成",
+      "铁元素呈色黄釉",
+      "盘心刻划装饰技法",
+      "高圈足外撇造型"
+    ],
+    "historicalSignificance": "反映唐代寿州窑黄釉瓷的成熟工艺与审美取向，是研究唐代南方青瓷系统向北方白瓷过渡的重要实物证据。",
+    "imageUrl": "/assets/ceramics/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-017-shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:05:27.043Z",
+    "archiveId": "szk-017",
+    "nameEn": "Shouzhou Kiln Yellow-glazed Stemmed Dish with Incised Lotus-petal Design",
+    "assetSlug": "shouzhou-kiln-yellow-glazed-high-footed-dish-with-incised-lotus-petal-decoration",
+    "hiddenFields": [
+      "dynasty",
+      "period",
+      "dimensions",
+      "excavation",
+      "collection",
+      "description",
+      "highlightTags",
+      "technicalFeatures",
+      "historicalSignificance"
+    ]
+  },
+  {
+    "id": "sz-ai-018",
+    "name": "青绿釉高足盘",
+    "dynasty": "隋",
+    "period": "581-618年",
+    "dimensions": {
+      "mouthDiameter": 12.8,
+      "baseDiameter": 8.9,
+      "height": 10.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥三孝口",
+      "method": "拣选",
+      "donor": "",
+      "date": "1985年4月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器盘口直略外撇，盘底呈漏斗状与高足相接。足部呈倒置大喇叭口，足沿向上翻卷，形态规整美观，整体造型修长。",
+    "highlightTags": [
+      "隋代",
+      "寿州窑",
+      "高足盘",
+      "青绿釉",
+      "积釉"
+    ],
+    "technicalFeatures": [
+      "盘内壁微凹形成积釉",
+      "施青绿釉至喇叭足上部",
+      "下部露砖红色胎",
+      "胎质坚硬",
+      "烧造温度较高"
+    ],
+    "historicalSignificance": "是隋代寿州窑同类器中造型比较美观的产品，体现了当时制瓷工艺的高超水平。",
+    "imageUrl": "/assets/ceramics/szk-018-celadon-glazed-high-footed-dish.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-018-celadon-glazed-high-footed-dish.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-018-celadon-glazed-high-footed-dish.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:05:51.730Z",
+    "archiveId": "szk-018",
+    "nameEn": "Bluish-green-glazed Stemmed Dish",
+    "assetSlug": "celadon-glazed-high-footed-dish"
+  },
+  {
+    "id": "sz-ai-019",
+    "name": "寿州窑黄釉贴花罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 12.5,
+      "baseDiameter": 10.8,
+      "height": 14.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市大通区上窑镇古窑址",
+      "method": "出土",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "器型圆鼓，敛口平底。通体施黄釉，釉色姜黄，有垂流痕。肩部饰一周模印贴花团花纹，纹样清晰，具有典型唐代寿州窑风格。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "贴花工艺",
+      "团花纹",
+      "垂釉痕"
+    ],
+    "technicalFeatures": [
+      "采用轮制拉坯成型，胎质灰白疏松",
+      "施化妆土后罩透明黄釉，高温一次烧成",
+      "肩部装饰模印贴花，再施釉覆盖，形成浮雕效果",
+      "釉层流动自然，底部露胎处可见火石红"
+    ],
+    "historicalSignificance": "反映唐代寿州窑黄釉瓷器的成熟工艺与审美趣味，是研究唐代民间陶瓷装饰技法的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-019-shouzhou-kiln-yellow-glazed-applique-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:06:16.528Z",
+    "archiveId": "szk-019",
+    "nameEn": "Shouzhou Kiln Yellow-glazed Jar with Applied Decoration",
+    "assetSlug": "shouzhou-kiln-yellow-glazed-applique-jar",
+    "hiddenFields": [
+      "dynasty",
+      "period",
+      "dimensions",
+      "excavation",
+      "collection",
+      "description",
+      "highlightTags",
+      "technicalFeatures",
+      "historicalSignificance"
+    ]
+  },
+  {
+    "id": "sz-ai-020",
+    "name": "黄釉双系注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 12,
+      "baseDiameter": 13,
+      "height": 31,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "扬州",
+      "method": "征集",
+      "donor": "",
+      "date": "2009年3月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器口沿丰满圆润，细颈形制规整如小喇叭状。流口较小且竖直向上昂起，弓形鋬高挑自然。硕大的袋状腹丰满肥胖，底径大于口径，重心稳健。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "双系注子",
+      "瓷器"
+    ],
+    "technicalFeatures": [
+      "通体施黄釉，釉色饱满均匀，局部有流釉痕迹",
+      "釉层肥厚，腹底部可见数道蜡泪痕",
+      "保留早期壶、罐类器物演化特征，流口竖直上昂",
+      "双股系制作精巧，形态自然"
+    ],
+    "historicalSignificance": "此注子是已发现的寿州窑唐代瓷注中较大的一件，保留了从早期壶、罐向注子演变的过渡特征，具有极高的断代与类型学研究价值。",
+    "imageUrl": "/assets/ceramics/szk-020-yellow-glazed-two-handled-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-020-yellow-glazed-two-handled-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-020-yellow-glazed-two-handled-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:06:43.253Z",
+    "archiveId": "szk-020",
+    "nameEn": "Yellow-glazed Two-handled Ewer",
+    "assetSlug": "yellow-glazed-two-handled-ewer"
+  },
+  {
+    "id": "sz-ai-021",
+    "name": "酱釉注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 6.8,
+      "baseDiameter": 7.4,
+      "height": 16.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "上窑泉源",
+      "method": "征集",
+      "donor": "",
+      "date": "1986年1月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "宽唇沿，长细颈，广肩，长直腹，假圈足。肩部置流和鋬，流向上昂起，边缘与腹部成直线，棱脊模制呈六面体，平底内凹。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "酱釉",
+      "注子",
+      "早期特征"
+    ],
+    "technicalFeatures": [
+      "施酱釉，釉色亚光状，玻化不好有颗粒斑点",
+      "流的棱角模式形成，被削成六面体",
+      "鋬略成耳形，不同于常见的弓形",
+      "平底内凹，假圈足工艺"
+    ],
+    "historicalSignificance": "体现了寿州窑唐代瓷注的早期特征，为研究唐代注子流口及鋬的形制演变提供了重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-021-brown-glazed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-021-brown-glazed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-021-brown-glazed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:07:07.644Z",
+    "archiveId": "szk-021",
+    "nameEn": "Brown-glazed Ewer",
+    "assetSlug": "brown-glazed-ewer"
+  },
+  {
+    "id": "sz-ai-022",
+    "name": "青黄釉双系注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 11.3,
+      "baseDiameter": 14.5,
+      "height": 27.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器腹部肥大，短细颈，斜溜肩。口部有残经修复，上置七棱状流口及小弓形鋬，流与鋬间置双股系。通体施青黄釉，釉色偏绿具蜡质感，胎釉结合良好。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "青黄釉",
+      "双系注子",
+      "袋状腹"
+    ],
+    "technicalFeatures": [
+      "修口外撇",
+      "流口削成七棱状",
+      "双股系攀",
+      "通体施黄釉",
+      "釉色偏绿略有蜡质感"
+    ],
+    "historicalSignificance": "作为寿州窑瓷注中袋状腹类的代表性作品，反映了唐代瓷器注重方便实用与增加容积的造物理念。",
+    "imageUrl": "/assets/ceramics/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-022-greenish-yellow-glazed-two-handled-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-022-greenish-yellow-glazed-two-handled-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:07:32.092Z",
+    "archiveId": "szk-022",
+    "nameEn": "Greenish-yellow Glazed Two-handled Ewer",
+    "assetSlug": "greenish-yellow-glazed-two-handled-ewer"
+  },
+  {
+    "id": "sz-ai-023",
+    "name": "黑釉双系注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 9.6,
+      "baseDiameter": 9.4,
+      "height": 21.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "征集",
+      "donor": "",
+      "date": "1992年5月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "长细颈，喇叭口，斜溜肩，长鼓腹。肩上置六棱短流及对称双股系。足底露乳红色胎体，胎质坚硬。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "注子",
+      "双系",
+      "六棱流"
+    ],
+    "technicalFeatures": [
+      "高温烧造，胎、化妆土、釉水结合紧密无脱釉",
+      "施黑釉，釉层较薄处泛酱色并露化妆土白底",
+      "器型特征为长细颈、斜溜肩、长鼓腹",
+      "肩部装饰有向上昂起的六棱短流与双股系"
+    ],
+    "historicalSignificance": "此器是唐代寿州窑黑釉瓷的代表作，展现了当时高超的黑釉烧造工艺与独特的器物造型风格。",
+    "imageUrl": "/assets/ceramics/szk-023-black-glazed-two-handled-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-023-black-glazed-two-handled-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-023-black-glazed-two-handled-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:07:56.517Z",
+    "archiveId": "szk-023",
+    "nameEn": "Black-glazed Two-handled Ewer",
+    "assetSlug": "black-glazed-two-handled-ewer"
+  },
+  {
+    "id": "sz-ai-024",
+    "name": "黑釉双系注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 8.5,
+      "baseDiameter": 8.9,
+      "height": 23.9,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "扬州",
+      "method": "征集",
+      "donor": "",
+      "date": "2009年3月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此件小喇叭口黑釉瓷注，造型简约，细长颈，深腹，肩部置对称双系。器身修长美观，施漆黑光亮黑釉，具有典型的唐代寿州窑风格。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "双系注子",
+      "细颈深腹"
+    ],
+    "technicalFeatures": [
+      "喇叭口设计",
+      "细长颈与深腹造型",
+      "肩部对称双系",
+      "通体施黑釉",
+      "胎体较邢窑厚重但形制丰富"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑在南北方窑口交流中寻求釉色之美的探索，体现了当时独特的审美趣味与制瓷工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-024-black-glazed-two-handled-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-024-black-glazed-two-handled-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-024-black-glazed-two-handled-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:08:21.434Z",
+    "archiveId": "szk-024",
+    "nameEn": "Black-glazed Two-handled Ewer",
+    "assetSlug": "black-glazed-two-handled-ewer"
+  },
+  {
+    "id": "sz-ai-025",
+    "name": "酱釉双系注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 12.1,
+      "baseDiameter": 11.5,
+      "height": 28,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥",
+      "method": "征集",
+      "donor": "",
+      "date": "2008年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器形高大饱满，细颈喇叭口，短流，弓形鋬，对称置双股系。鼓腹，最大腹径在腹中部，施酱色釉不及底，足下露乳黄色胎。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "注子",
+      "酱釉",
+      "双系",
+      "鼓腹"
+    ],
+    "technicalFeatures": [
+      "拉坯制胎厚重",
+      "由罐演化而来的鼓腹形制",
+      "斜溜肩圆鼓腹造型",
+      "施酱色釉不及底"
+    ],
+    "historicalSignificance": "代表寿州窑大型瓷注的典型风格，体现唐代寿州窑独特的文化面貌与工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-025-brown-glazed-two-handled-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-025-brown-glazed-two-handled-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-025-brown-glazed-two-handled-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:08:45.326Z",
+    "archiveId": "szk-025",
+    "nameEn": "Brown-glazed Two-handled Ewer",
+    "assetSlug": "brown-glazed-two-handled-ewer"
+  },
+  {
+    "id": "sz-ai-026",
+    "name": "黄釉注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10.3,
+      "baseDiameter": 9,
+      "height": 22.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "扬州",
+      "method": "征集",
+      "donor": "",
+      "date": "2007年5月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "略呈小喇叭状口，短细颈，广肩，长鼓腹。肩上置六棱流及弓形鋬，足底削足规整。造型修长饱满，通体施黄釉，釉色深沉。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "注子",
+      "六棱流"
+    ],
+    "technicalFeatures": [
+      "流口以娴熟刀法削成六棱面",
+      "通体施黄釉，釉面玻化好有蜡质感",
+      "透过釉层可见化妆土厚薄不匀起伏"
+    ],
+    "historicalSignificance": "该器物造型精美、釉色均匀，是唐代寿州窑黄釉瓷器中的精品，反映了当时高超的制瓷工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-026-yellow-glazed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-026-yellow-glazed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-026-yellow-glazed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:09:11.073Z",
+    "archiveId": "szk-026",
+    "nameEn": "Yellow-glazed Ewer",
+    "assetSlug": "yellow-glazed-ewer"
+  },
+  {
+    "id": "sz-ai-027",
+    "name": "黄釉双系敞口注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 15.3,
+      "baseDiameter": 12,
+      "height": 27.7,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "不详",
+      "method": "征集",
+      "donor": "",
+      "date": "2013年5月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "大喇叭口，长细颈，圆溜肩置六棱流，对称置小弓形鋬。肩平面饰二道凹槽及对称小双股系，通体施黄釉，玻化程度高，釉面晶莹。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "注子",
+      "双系",
+      "六棱流"
+    ],
+    "technicalFeatures": [
+      "模制与手塑结合",
+      "高温烧成",
+      "石灰碱釉",
+      "匣钵装烧"
+    ],
+    "historicalSignificance": "代表寿州窑由罐演化成注子的初期形态，器型高大罕见，反映唐代饮茶风尚及制瓷工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-027-yellow-glazed-two-handled-ewer-with-flared-mouth.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:09:35.540Z",
+    "archiveId": "szk-027",
+    "nameEn": "Yellow-glazed Two-handled Ewer with Flared Mouth",
+    "assetSlug": "yellow-glazed-two-handled-ewer-with-flared-mouth"
+  },
+  {
+    "id": "sz-ai-028",
+    "name": "黄釉注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10.2,
+      "baseDiameter": 9,
+      "height": 21.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "喇叭口，直颈，斜溜肩，肩部一侧置七棱流，对侧置弓形鋬。器身扁圆厚实，通体施黄釉，釉色均匀莹润，玻璃质感强，造型端庄稳重。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "注子",
+      "七棱流",
+      "老玉米色"
+    ],
+    "technicalFeatures": [
+      "刀削七棱流工艺",
+      "胎釉结合致密",
+      "高温烧造",
+      "厚釉玻璃质感",
+      "无脱釉现象"
+    ],
+    "historicalSignificance": "此器为寿州窑黄釉精品，釉色纯正且保存完好，反映了唐代寿州窑高超的制瓷技艺与独特的审美风格。",
+    "imageUrl": "/assets/ceramics/szk-028-yellow-glazed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-028-yellow-glazed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-028-yellow-glazed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:10:00.265Z",
+    "archiveId": "szk-028",
+    "nameEn": "Yellow-glazed Ewer",
+    "assetSlug": "yellow-glazed-ewer"
+  },
+  {
+    "id": "sz-ai-029",
+    "name": "黄釉褐彩瓷注",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10.6,
+      "baseDiameter": 10.3,
+      "height": 21.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "寿县安丰塘戈店",
+      "method": "出土",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "寿县博物馆",
+      "status": "馆藏"
+    },
+    "description": "喇叭口，唇沿丰满，长细束颈，大鼓腹。肩上置带棱短流及高平宽大弓形鋬，流鋬间饰双股系及乳钉。通体施黄釉至腹下部，釉下露淡乳色胎骨，造型敦厚生动。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "褐彩",
+      "执壶",
+      "点彩工艺"
+    ],
+    "technicalFeatures": [
+      "喇叭口、长颈、鼓腹造型",
+      "肩部置带棱短流与弓形鋬",
+      "软质类工具描绘褐彩斑纹",
+      "通体施黄釉，釉不及底",
+      "胎骨含黑砂粒，呈淡乳色"
+    ],
+    "historicalSignificance": "该器是寿州窑唐代典型产品，黄釉褐彩装饰技法独特，展现了当时高超的制瓷工艺与审美情趣，具有重要的断代价值。",
+    "imageUrl": "/assets/ceramics/szk-029-yellow-glazed-brown-painted-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-029-yellow-glazed-brown-painted-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-029-yellow-glazed-brown-painted-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:10:25.666Z",
+    "archiveId": "szk-029",
+    "nameEn": "Yellow-glazed Brown-painted Ewer",
+    "assetSlug": "yellow-glazed-brown-painted-ewer"
+  },
+  {
+    "id": "sz-ai-030",
+    "name": "黑釉注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 8.3,
+      "baseDiameter": 7.7,
+      "height": 21.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "寿县",
+      "method": "出土",
+      "donor": "许传先",
+      "date": "1981年"
+    },
+    "collection": {
+      "institution": "安徽博物院",
+      "status": "馆藏"
+    },
+    "description": "喇叭口，圆唇饱满，长直颈，丰肩。肩上置短流及小弓形鋬。瘦长腹，最大腹径在肩下，平底假圈足，造型端庄规整。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "注子",
+      "标准器"
+    ],
+    "technicalFeatures": [
+      "施黑釉且乌黑透亮",
+      "喇叭口配长直颈",
+      "肩部对称置流与鋬",
+      "平底假圈足工艺"
+    ],
+    "historicalSignificance": "此器为唐代寿州窑黑釉注子的标准器，虽同类发现不少，但此类长直腹器型总量较少，十分珍贵。",
+    "imageUrl": "/assets/ceramics/szk-030-black-glazed-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-030-black-glazed-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-030-black-glazed-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:10:48.853Z",
+    "archiveId": "szk-030",
+    "nameEn": "Black-glazed Ewer",
+    "assetSlug": "black-glazed-ewer"
+  },
+  {
+    "id": "sz-ai-031",
+    "name": "黄釉圆腹注子",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10.2,
+      "baseDiameter": 11.8,
+      "height": 18,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥市",
+      "method": "征集",
+      "donor": "",
+      "date": "2008年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "撇口，短束颈，圆肩，鼓腹，平底。肩饰八棱形短流，对称处有一耳形鋬，两侧有双条耳形系一对，鋬及两系下部有一束结。施蜡黄釉，腹下底部未施釉处有淋釉现象。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "注子",
+      "黄釉",
+      "蜡黄釉",
+      "八棱流",
+      "束结装饰"
+    ],
+    "technicalFeatures": [
+      "施蜡黄釉，釉色温润",
+      "腹部饱满，保留罐的形态",
+      "肩部置流和鋬系，演变为注子",
+      "腹下底部未施釉，可见淋釉痕迹",
+      "鋬及系下部有束结造型，工艺独特"
+    ],
+    "historicalSignificance": "该器型在寿州窑产品中罕见，推翻了注子由盘口壶演化而来的观点，说明其源流可能从罐演化而来，具有重要学术价值。",
+    "imageUrl": "/assets/ceramics/szk-031-yellow-glazed-round-bodied-ewer.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-031-yellow-glazed-round-bodied-ewer.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-031-yellow-glazed-round-bodied-ewer.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:11:14.389Z",
+    "archiveId": "szk-031",
+    "nameEn": "Yellow-glazed Round-bodied Ewer",
+    "assetSlug": "yellow-glazed-round-bodied-ewer"
+  },
+  {
+    "id": "sz-ai-032",
+    "name": "黄釉贴花瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 15,
+      "baseDiameter": 11.2,
+      "height": 9.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年11月4日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕形制为方箱形，枕面微凹呈弧面。通体施黄釉，釉色稍深，枕底施化妆土，边角有透气孔。胎质细腻坚硬，枕面中心饰剪纸贴花四瓣花纹。",
+    "highlightTags": [
+      "唐代寿州窑",
+      "黄釉",
+      "方箱形枕",
+      "剪纸贴花",
+      "化妆土"
+    ],
+    "technicalFeatures": [
+      "采用二次对折剪纸敷于釉面上烧成的装饰工艺",
+      "枕底施化妆土以改善胎体外观",
+      "枕面微凹成弧面设计符合人体工学",
+      "边角预留透气孔以防烧制炸裂"
+    ],
+    "historicalSignificance": "作为唐代寿州窑瓷器中的代表性作品，其独特的剪纸贴花工艺与柔和纹样，生动反映了唐代民间审美情趣及高超的制瓷技艺。",
+    "imageUrl": "/assets/ceramics/szk-032-yellow-glazed-applique-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-032-yellow-glazed-applique-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-032-yellow-glazed-applique-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:11:40.427Z",
+    "archiveId": "szk-032",
+    "nameEn": "Yellow-glazed Applique Pillow",
+    "assetSlug": "yellow-glazed-applique-pillow"
+  },
+  {
+    "id": "sz-ai-033",
+    "name": "黄釉印花瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 13.8,
+      "baseDiameter": 10.06,
+      "height": 9,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "蚌埠市李楼八里岗",
+      "method": "出土",
+      "donor": "",
+      "date": "1988年7月"
+    },
+    "collection": {
+      "institution": "蚌埠市博物馆",
+      "status": "馆藏"
+    },
+    "description": "方箱形，枕面略大于底面。通体施黄釉，釉色黄亮。枕面为一对折剪纸贴花，图案为花朵纹，将剪好的图案敷于釉面上烧成。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷枕",
+      "黄釉",
+      "印花",
+      "剪纸贴花"
+    ],
+    "technicalFeatures": [
+      "方箱形制，枕面略大于底面",
+      "通体施黄釉，釉色黄亮",
+      "采用剪纸贴花工艺装饰枕面",
+      "因釉、化妆土与胎结合不致密导致大面积脱釉"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑独特的装饰工艺，是研究当时民间审美及陶瓷烧造技术的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-033-yellow-glazed-impressed-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-033-yellow-glazed-impressed-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-033-yellow-glazed-impressed-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:12:04.734Z",
+    "archiveId": "szk-033",
+    "nameEn": "Yellow-glazed Impressed Pillow",
+    "assetSlug": "yellow-glazed-impressed-pillow"
+  },
+  {
+    "id": "sz-ai-034",
+    "name": "黄釉贴花瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 16.6,
+      "baseDiameter": 12.5,
+      "height": 10,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "扬州",
+      "method": "征集",
+      "donor": "",
+      "date": "2009年10月1日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕造型规整，呈长方箱形。枕面大于枕底，上小下大。通体施黄釉，釉色温润，转角处因釉层较薄而色变浅。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "瓷枕",
+      "贴花工艺"
+    ],
+    "technicalFeatures": [
+      "采用二次对折剪纸贴花装饰技法",
+      "匣钵闭合不严导致砂土进入形成点状窑粘",
+      "胎釉结合紧密，器型方正"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑成熟的制瓷工艺与独特的装饰风格，是同类黄釉瓷器中的佼佼者。",
+    "imageUrl": "/assets/ceramics/szk-034-yellow-glazed-applique-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-034-yellow-glazed-applique-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-034-yellow-glazed-applique-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:12:28.368Z",
+    "archiveId": "szk-034",
+    "nameEn": "Yellow-glazed Applique Pillow",
+    "assetSlug": "yellow-glazed-applique-pillow"
+  },
+  {
+    "id": "sz-ai-035",
+    "name": "酱红釉蝴蝶纹贴花瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 15,
+      "baseDiameter": 10.5,
+      "height": 7.9,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年7月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕呈方箱形，枕面微凹弧。通体施酱红釉，棱角处色深。一面饰有剪纸贴花蝴蝶纹，纹样清晰，是寿州窑瓷枕中的精品。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷枕",
+      "酱红釉",
+      "剪纸贴花",
+      "蝴蝶纹"
+    ],
+    "technicalFeatures": [
+      "方箱形制，枕面略呈凹弧面",
+      "通体施酱红釉，棱角处积釉色深",
+      "采用剪纸贴花工艺装饰蝴蝶纹",
+      "胎质较厚，敷于化妆土上烧成"
+    ],
+    "historicalSignificance": "酱红釉瓷枕发现较少，该器物形制规整、釉色均匀，体现了唐代寿州窑独特的装饰工艺与审美风格。",
+    "imageUrl": "/assets/ceramics/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-035-brown-glazed-pillow-with-applied-butterfly-motif.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:12:52.866Z",
+    "archiveId": "szk-035",
+    "nameEn": "Brown-glazed Pillow with Applied Butterfly Motif",
+    "assetSlug": "brown-glazed-pillow-with-applied-butterfly-motif"
+  },
+  {
+    "id": "sz-ai-036",
+    "name": "酱釉瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 13,
+      "baseDiameter": 9,
+      "height": 6.7,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "民间捐赠",
+      "donor": "淮南康杰",
+      "date": "2012年12月12日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "长方形委角，枕面微凹，四边角处理成宽弧面。通体施酱釉，釉色不匀，含点状灰色釉斑，造型玲珑可爱。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷枕",
+      "酱釉",
+      "生活用瓷"
+    ],
+    "technicalFeatures": [
+      "泥坯晾干后挤压成型",
+      "稍修弧面",
+      "通体施酱釉",
+      "釉面含有茶叶末釉结晶状斑点"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑制瓷工艺的多样性及当时民众的生活习俗，是研究唐代陶瓷寝具的珍贵实物资料。",
+    "imageUrl": "/assets/ceramics/szk-036-brown-glazed-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-036-brown-glazed-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-036-brown-glazed-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:13:16.675Z",
+    "archiveId": "szk-036",
+    "nameEn": "Brown-glazed Pillow",
+    "assetSlug": "brown-glazed-pillow"
+  },
+  {
+    "id": "sz-ai-037",
+    "name": "酱釉漏花瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 15,
+      "baseDiameter": 10.5,
+      "height": 6.6,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "民间捐赠",
+      "donor": "康杰",
+      "date": "2012年5月20日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕呈扁方形，四边角圆润。通体施酱釉，采用剪纸漏花工艺装饰花卉纹样。原器残破经修复，釉色略有差异但风貌尚存。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷枕",
+      "酱釉",
+      "漏花工艺",
+      "花卉纹"
+    ],
+    "technicalFeatures": [
+      "扁方造型圆角处理",
+      "通体施酱色高温釉",
+      "剪纸贴花漏烧技法",
+      "残器粘接修复工艺"
+    ],
+    "historicalSignificance": "见证唐代寿州窑独特的漏花装饰技艺，反映当时民间寝具审美与制瓷水平，具有珍贵实物史料价值。",
+    "imageUrl": "/assets/ceramics/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-037-brown-glazed-pillow-with-paper-cut-resist-decoration.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:13:40.851Z",
+    "archiveId": "szk-037",
+    "nameEn": "Brown-glazed Pillow with Paper-cut Resist Decoration",
+    "assetSlug": "brown-glazed-pillow-with-paper-cut-resist-decoration"
+  },
+  {
+    "id": "sz-ai-038",
+    "name": "黄釉委角瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 12.5,
+      "baseDiameter": 8.4,
+      "height": 7.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2012年3月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕为唐代寿州窑早期形制，一侧立面内凹，另一面外凸呈半圆弧状。四角有凹槽，四角呈委角状。立墙很高，转折处理成圆润弧面，线条饱满。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷枕",
+      "黄釉",
+      "委角",
+      "早期形制"
+    ],
+    "technicalFeatures": [
+      "施黄釉，釉色稍淡",
+      "枕面边缘和立墙上有蓝色窑变",
+      "整器均以曲线构成",
+      "立面线条十分饱满",
+      "枕面转折处理成圆润的弧面"
+    ],
+    "historicalSignificance": "体现了唐代早期寿州窑瓷枕高立墙、大比例的典型特征，是研究该窑口演变的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-038-yellow-glazed-pillow-with-recessed-corners.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-038-yellow-glazed-pillow-with-recessed-corners.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:14:05.407Z",
+    "archiveId": "szk-038",
+    "nameEn": "Yellow-glazed Pillow with Recessed Corners",
+    "assetSlug": "yellow-glazed-pillow-with-recessed-corners"
+  },
+  {
+    "id": "sz-ai-039",
+    "name": "黑釉松叶纹瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 13.5,
+      "baseDiameter": 8,
+      "height": 7.9,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "长丰县",
+      "method": "征集",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "长丰县文物管理所",
+      "status": "馆藏"
+    },
+    "description": "器形如元宝，枕面呈凹弧面，两头翘起，中间凹陷。立墙较高，具有早期瓷枕形态特征，通体施黑釉并饰以剪纸贴花松针叶纹。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷枕",
+      "黑釉",
+      "剪纸贴花",
+      "松叶纹"
+    ],
+    "technicalFeatures": [
+      "采用模制成型工艺，造型规整",
+      "运用剪纸贴花装饰技法，将修剪成形的纸样敷于化妆土上再施釉烧成",
+      "釉色深沉，纹饰呈现错生枝叶状，风格独特"
+    ],
+    "historicalSignificance": "作为唐代早期寿州窑代表性作品，其独特的剪纸贴花松叶纹饰在同类产品中较为罕见，反映了当时民间陶瓷装饰工艺的多样性。",
+    "imageUrl": "/assets/ceramics/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-039-black-glazed-pillow-with-pine-needle-pattern.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-039-black-glazed-pillow-with-pine-needle-pattern.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:14:29.551Z",
+    "archiveId": "szk-039",
+    "nameEn": "Black-glazed Pillow with Pine Needle Pattern",
+    "assetSlug": "black-glazed-pillow-with-pine-needle-pattern"
+  },
+  {
+    "id": "sz-ai-040",
+    "name": "黄釉瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 14.7,
+      "baseDiameter": 10.2,
+      "height": 6.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2012年11月25日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该枕呈扁方形，前低后高，斜坡状。四角圆润无棱角，施黄釉，釉色亮丽。枕墙下部积釉有蜡泪痕，底施化妆土，一侧有透气孔。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "瓷枕",
+      "蜡泪痕"
+    ],
+    "technicalFeatures": [
+      "造型呈扁方形，符合人体工程学",
+      "通体施黄釉，釉色发色好",
+      "枕墙下部产生积釉及蜡泪痕",
+      "枕底施化妆土",
+      "底部设透气孔致微鼓起"
+    ],
+    "historicalSignificance": "此枕为晚唐时期烧造，体现了寿州窑黄釉瓷器的高超工艺与实用美学，是研究唐代陶瓷寝具的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-040-yellow-glazed-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-040-yellow-glazed-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-040-yellow-glazed-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:14:54.107Z",
+    "archiveId": "szk-040",
+    "nameEn": "Yellow-glazed Pillow",
+    "assetSlug": "yellow-glazed-pillow"
+  },
+  {
+    "id": "sz-ai-041",
+    "name": "黄釉划花纹瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 8.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮北市大运河沿线",
+      "method": "出土",
+      "donor": "",
+      "date": "2004年8月"
+    },
+    "collection": {
+      "institution": "淮北市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕呈扁方形，后侧立墙稍高宽，四边角制成宽弧面。通体施蜡黄釉，釉层厚有开片。枕面微凹，中心刻划如意云纹及卷云纹，线条流畅。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "瓷枕",
+      "划花工艺",
+      "蜡黄釉"
+    ],
+    "technicalFeatures": [
+      "器型为扁方形，四角呈宽弧面",
+      "通体施蜡黄釉，釉层较厚且有细小开片",
+      "采用尖状物在化妆土上刻划纹饰，再施釉烧成",
+      "纹饰为如意云纹与对称卷云纹"
+    ],
+    "historicalSignificance": "该器物是晚唐时期寿州窑的典型造型，其刻划装饰技法承袭隋代但较为少见，对研究唐代寿州窑的演变具有重要价值。",
+    "imageUrl": "/assets/ceramics/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-041-yellow-glazed-pillow-with-incised-floral-decoration.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:15:19.055Z",
+    "archiveId": "szk-041",
+    "nameEn": "Yellow-glazed Pillow with Incised Floral Decoration",
+    "assetSlug": "yellow-glazed-pillow-with-incised-floral-decoration"
+  },
+  {
+    "id": "sz-ai-042",
+    "name": "黑釉兽形瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 8.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年7月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此枕由卧姿瑞兽上脊托起弧状枕面，瑞兽昂首前视，吻部突出，前肢后收呈跪态，后肢粗壮似蹲姿。身下为椭圆形托盘，釉色黑中泛酱，饰有赭红釉斑。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "兽形枕",
+      "酱色釉",
+      "雕塑工艺"
+    ],
+    "technicalFeatures": [
+      "采用模制与手塑结合工艺，塑造生动的瑞兽造型",
+      "施黑釉并点缀赭红釉斑，形成色彩对比",
+      "器型设计巧妙，利用瑞兽背部支撑枕面"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑高超的雕塑技艺与审美情趣，是研究唐代陶瓷枕及动物造型艺术的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-042-black-glazed-zoomorphic-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-042-black-glazed-zoomorphic-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-042-black-glazed-zoomorphic-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:15:43.475Z",
+    "archiveId": "szk-042",
+    "nameEn": "Black-glazed Zoomorphic Pillow",
+    "assetSlug": "black-glazed-zoomorphic-pillow"
+  },
+  {
+    "id": "sz-ai-043",
+    "name": "酱釉象形瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 13.5,
+      "baseDiameter": 7.3,
+      "height": 7.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南地区",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年11月4日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "枕面呈椭圆形，下承象形底座。通体施酱釉，釉色深沉古朴。造型生动写实，体现了唐代寿州窑高超的雕塑与制瓷工艺水平。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "象生瓷",
+      "酱釉",
+      "瓷枕"
+    ],
+    "technicalFeatures": [
+      "模塑成型",
+      "高温烧造",
+      "铁系结晶釉",
+      "雕塑装饰"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑在仿生瓷器烧造上的卓越成就，是研究唐代民间生活习俗及陶瓷审美的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-043-brown-glazed-pillow-with-elephant-shaped-supports.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:16:06.868Z",
+    "archiveId": "szk-043",
+    "nameEn": "Brown-glazed Pillow with Elephant-shaped Supports",
+    "assetSlug": "brown-glazed-pillow-with-elephant-shaped-supports"
+  },
+  {
+    "id": "sz-ai-044",
+    "name": "茶叶末釉兽形瓷枕",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 12.2,
+      "baseDiameter": 7.4,
+      "height": 9.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年9月21日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "卧兽虚撑起枕面。卧兽圆目，吻部前伸，头上有角，周身饰鳞片纹，后肢蹲卧状，前肢支撑头部。底部露胎，胎色乳白。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "茶叶末釉",
+      "兽形枕",
+      "象生瓷"
+    ],
+    "technicalFeatures": [
+      "高温烧造（1200℃至1300℃）",
+      "釉中结晶工艺",
+      "铁镁硅酸化合呈色",
+      "雕塑成型",
+      "设出气孔"
+    ],
+    "historicalSignificance": "典型唐代寿州窑茶叶末釉器，反映当时高温釉烧及仿生造型工艺水平，虽经修复仍具重要研究价值。",
+    "imageUrl": "/assets/ceramics/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-044-tea-dust-glazed-beast-shaped-porcelain-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:16:31.496Z",
+    "archiveId": "szk-044",
+    "nameEn": "Tea-dust Glazed Beast-shaped Porcelain Pillow",
+    "assetSlug": "tea-dust-glazed-beast-shaped-porcelain-pillow"
+  },
+  {
+    "id": "sz-ai-045",
+    "name": "寿州窑黄釉瓷枕",
+    "dynasty": "北宋",
+    "period": "960-1127年",
+    "dimensions": {
+      "mouthDiameter": 15,
+      "baseDiameter": 10,
+      "height": 8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年1月12日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该瓷枕呈长方形，枕面微凹，四壁斜收。通体施黄釉，釉色温润，胎质坚硬，造型古朴实用，是宋代典型的卧具。",
+    "highlightTags": [
+      "北宋",
+      "寿州窑",
+      "瓷枕",
+      "黄釉",
+      "生活用瓷"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "高温烧造",
+      "铁含量较高的化妆土打底",
+      "透明黄釉一次烧成"
+    ],
+    "historicalSignificance": "反映了宋代寿州窑民窑产品的日用化特征及当时民众的起居习俗，具有断代标型价值。",
+    "imageUrl": "/assets/ceramics/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-045-shouzhou-kiln-yellow-glazed-pillow.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-045-shouzhou-kiln-yellow-glazed-pillow.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:16:54.831Z",
+    "archiveId": "szk-045",
+    "nameEn": "Shouzhou Kiln Yellow-glazed Pillow",
+    "assetSlug": "shouzhou-kiln-yellow-glazed-pillow",
+    "hiddenFields": [
+      "dynasty",
+      "period",
+      "description",
+      "highlightTags",
+      "technicalFeatures",
+      "historicalSignificance"
+    ]
+  },
+  {
+    "id": "sz-ai-046",
+    "name": "黄釉“大中祥符”铭龙纹瓷枕",
+    "dynasty": "北宋",
+    "period": "960-1127年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 8.7,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "不详",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年7月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器呈长方形，枕面微凹。通体施黄釉，枕侧模印龙纹及“大中祥符”铭文，造型古朴，具有典型的宋代寿州窑风格。",
+    "highlightTags": [
+      "北宋",
+      "寿州窑",
+      "瓷枕",
+      "黄釉",
+      "龙纹",
+      "纪年铭文"
+    ],
+    "technicalFeatures": [
+      "模印成型工艺",
+      "低温黄釉装饰",
+      "文字与瑞兽纹饰结合"
+    ],
+    "historicalSignificance": "带有明确纪年款识，为寿州窑北宋时期断代提供标准器，反映当时民间制瓷工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-046-yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:17:19.223Z",
+    "archiveId": "szk-046",
+    "nameEn": "Yellow-glazed Pillow with Dragon Motif and Dazhong Xiangfu Inscription",
+    "assetSlug": "yellow-glazed-pillow-with-dragon-motif-and-dazhong-xiangfu-inscription"
+  },
+  {
+    "id": "sz-ai-047",
+    "name": "黑釉碗",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 13.7,
+      "baseDiameter": 5.6,
+      "height": 6.9,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该器呈大敞口状，口上部向内收敛，圆唇口与下部结合处形成一内凹槽。通体施黑釉至足上，釉色深黑漆光，造型端庄大方。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "碗",
+      "高温釉"
+    ],
+    "technicalFeatures": [
+      "通体施黑釉，釉层较薄处形成酱色筋",
+      "釉与化妆土、胎骨结合良好",
+      "烧造温度高于一般黄釉产品",
+      "足底露胎处呈乳白色，胎中夹杂少量砂粒"
+    ],
+    "historicalSignificance": "此件黑釉器是寿州窑碗类产品中的精品，唇口处理少见，显示其珍贵，反映了唐代寿州窑高超的制瓷工艺。",
+    "imageUrl": "/assets/ceramics/szk-047-black-glazed-bowl.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-047-black-glazed-bowl.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-047-black-glazed-bowl.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:17:43.150Z",
+    "archiveId": "szk-047",
+    "nameEn": "Black-glazed Bowl",
+    "assetSlug": "black-glazed-bowl"
+  },
+  {
+    "id": "sz-ai-048",
+    "name": "黄釉璧形底盏",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 14.8,
+      "baseDiameter": 7.1,
+      "height": 4.4,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "长丰县孔店乡柿园鲍庄",
+      "method": "出土",
+      "donor": "",
+      "date": "1984年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器为浅腹大口盏，口足胎骨细腻，唇口大小适中。底部呈玉璧形，中间凹陷施釉，边区饰凹弦纹。通体满施黄釉，釉色近似玉米黄，玻璃感强。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "玉璧底",
+      "茶盏",
+      "典型器"
+    ],
+    "technicalFeatures": [
+      "制胎工艺上乘，胎骨细腻",
+      "矮足墙规整，底足露胎处见细微砂粒",
+      "内外釉色一致，有小开片纹",
+      "釉面玻璃感强，胎釉结合良好"
+    ],
+    "historicalSignificance": "印证了陆羽《茶经》中“寿州瓷黄”的记载，是唐代著名的黄釉茶盏代表，其釉色优于同时代越窑、邢窑同类产品。",
+    "imageUrl": "/assets/ceramics/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-048-yellow-glazed-bowl-with-bi-shaped-foot.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:18:07.698Z",
+    "archiveId": "szk-048",
+    "nameEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+    "assetSlug": "yellow-glazed-bowl-with-bi-shaped-foot"
+  },
+  {
+    "id": "sz-ai-049",
+    "name": "黄釉盏",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 15.3,
+      "baseDiameter": 6.2,
+      "height": 5.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年11月4日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器造型敦厚，碗大喇叭口，腹很浅，口沿略呈唇状。通体满施蜡黄釉，釉色匀称，腊光很强，足底露乳白色胎，是一件精品。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "蜡黄釉",
+      "开片",
+      "拉坯"
+    ],
+    "technicalFeatures": [
+      "拉坯工艺考究，透过釉层可见弦纹",
+      "施蜡黄釉，釉面有纵向大开片",
+      "足底露胎，胎质细腻含细微砂粒",
+      "口沿部分有剥釉现象"
+    ],
+    "historicalSignificance": "作为寿州窑黄釉大碗中的代表性产品，其造型与釉色特征典型，反映了唐代寿州窑高超的制瓷工艺水平。",
+    "imageUrl": "/assets/ceramics/szk-049-yellow-glazed-bowl.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-049-yellow-glazed-bowl.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-049-yellow-glazed-bowl.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:18:31.381Z",
+    "archiveId": "szk-049",
+    "nameEn": "Yellow-glazed Bowl",
+    "assetSlug": "yellow-glazed-bowl"
+  },
+  {
+    "id": "sz-ai-050",
+    "name": "酱釉碗",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 16.1,
+      "baseDiameter": 6.7,
+      "height": 6.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市田家庵区史院乡邵庄村唐墓",
+      "method": "考古发掘",
+      "donor": "",
+      "date": "2006年"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该器造型大方端正，口部微唇状，上腹部略直，腹下急收，大平足。整器内外施酱釉，釉色均匀，露胎处泛乳白色，胎质细腻。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "酱釉",
+      "大平足",
+      "瓷碗"
+    ],
+    "technicalFeatures": [
+      "口部微唇状，上腹直下腹急收",
+      "大平足修足工整",
+      "通体施酱釉，釉层与化妆土结合良好",
+      "烧造温度较高，胎质细腻"
+    ],
+    "historicalSignificance": "此器为寿州窑碗类上乘之作，反映了唐代寿州窑高超的制瓷工艺与烧造水平，是研究唐代陶瓷的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-050-brown-glazed-bowl.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-050-brown-glazed-bowl.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-050-brown-glazed-bowl.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:18:55.168Z",
+    "archiveId": "szk-050",
+    "nameEn": "Brown-glazed Bowl",
+    "assetSlug": "brown-glazed-bowl"
+  },
+  {
+    "id": "sz-ai-051",
+    "name": "黄釉璧形底盏",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 15.5,
+      "baseDiameter": 7.3,
+      "height": 4.6,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "寿州窑碗盏类典型器，施釉均匀至足墙，内外黄釉略呈蜡黄色。从口至底规整，足墙外撇，露胎处泛乳白色且细腻。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "璧形底",
+      "蜡黄釉色",
+      "标准器"
+    ],
+    "technicalFeatures": [
+      "通体施黄釉，釉色均匀略呈蜡黄色",
+      "足墙外撇，露胎处质地细腻泛乳白",
+      "造型规整，为寿州窑盖盏类中造型与釉色典型代表"
+    ],
+    "historicalSignificance": "该器物是寿州窑碗盏类中造型、釉色比较典型的标准器，反映了唐代寿州窑精湛的烧造工艺。",
+    "imageUrl": "/assets/ceramics/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-051-yellow-glazed-bowl-with-bi-shaped-foot.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:19:21.327Z",
+    "archiveId": "szk-051",
+    "nameEn": "Yellow-glazed Bowl with Bi-shaped Foot",
+    "assetSlug": "yellow-glazed-bowl-with-bi-shaped-foot"
+  },
+  {
+    "id": "sz-ai-052",
+    "name": "黄釉贴花葵口盏",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 14.9,
+      "baseDiameter": 6.4,
+      "height": 4.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2012年3月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "整器为三瓣式，盖内平均三分，有三道凸筋，盖外部形成三道凹弦纹。外腹下因窑温过高，黄釉偏暗。盖内中间部分的六瓣花纹中的花蕊呈六个“V”字形，剪纸的刀痕清晰可见，能够观察到剪纸是对折后剪成。内侧的三朵花枝纹是叠放后一次剪成，所以三朵花的釉色虽有深浅，但形态一致。盖内外的蜡黄釉均有小开片，在口沿处及盖出筋处有脱釉，反映了寿州窑的烧造工艺。整器造型典雅端庄，在盖内贴花纹饰是目前所见唯一的一件瓷盏，不失为寿州窑碗盏类中的代表性作品。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "贴花",
+      "葵口",
+      "剪纸贴花"
+    ],
+    "technicalFeatures": [
+      "釉上贴花工艺",
+      "剪纸对折剪制",
+      "三瓣式造型",
+      "盖内凸筋与盖外凹弦纹对应",
+      "蜡黄釉开片与局部脱釉"
+    ],
+    "historicalSignificance": "此件贴花盏为釉上贴花，即以纸类剪纸帖于釉上烧成，是目前所见唯一的一件在盖内贴花纹饰的瓷盏，反映了寿州窑独特的装饰技法与高超的工艺水平，具有极高的艺术与历史价值。",
+    "imageUrl": "/assets/ceramics/szk-052-yellow-glazed-applique-lobed-cup.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-052-yellow-glazed-applique-lobed-cup.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-052-yellow-glazed-applique-lobed-cup.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:19:50.290Z",
+    "archiveId": "szk-052",
+    "nameEn": "Yellow-glazed Applique Lobed Cup",
+    "assetSlug": "yellow-glazed-applique-lobed-cup"
+  },
+  {
+    "id": "sz-ai-053",
+    "name": "黄釉大碗",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 23.2,
+      "baseDiameter": 9.2,
+      "height": 8.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该器拉坯成型规整，圆唇饱满，腹部呈弧状内收。整器施蜡黄釉，发色纯正，是寿州窑黄釉大碗中的精品代表作。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "大碗",
+      "蜡黄釉"
+    ],
+    "technicalFeatures": [
+      "拉坯成型",
+      "削胎规整",
+      "施蜡黄釉",
+      "圆唇",
+      "弧腹内收"
+    ],
+    "historicalSignificance": "作为寿州窑大碗类代表，展现了唐代寿州窑成熟的制瓷工艺与独特的黄釉烧造技术。",
+    "imageUrl": "/assets/ceramics/szk-053-large-yellow-glazed-bowl.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-053-large-yellow-glazed-bowl.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-053-large-yellow-glazed-bowl.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:20:13.187Z",
+    "archiveId": "szk-053",
+    "nameEn": "Large Yellow-Glazed Bowl",
+    "assetSlug": "large-yellow-glazed-bowl"
+  },
+  {
+    "id": "sz-ai-054",
+    "name": "黄釉水盂",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 2.7,
+      "baseDiameter": 4.2,
+      "height": 2.6,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "上窑",
+      "method": "出土",
+      "donor": "",
+      "date": "1962年"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器型小巧，敛口圆唇，鼓腹平底。通体施黄釉，釉色温润，胎质细腻，是唐代寿州窑典型文房用具。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "水盂",
+      "文房器"
+    ],
+    "technicalFeatures": [
+      "轮制成型",
+      "高温烧造",
+      "铁还原釉",
+      "平底微凹"
+    ],
+    "historicalSignificance": "反映唐代寿州窑黄釉瓷器的成熟工艺与文人审美，为研究唐代文房用瓷提供实物依据。",
+    "imageUrl": "/assets/ceramics/szk-054-yellow-glazed-water-pot.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-054-yellow-glazed-water-pot.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-054-yellow-glazed-water-pot.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:20:36.696Z",
+    "archiveId": "szk-054",
+    "nameEn": "Yellow-glazed Water Pot",
+    "assetSlug": "yellow-glazed-water-pot"
+  },
+  {
+    "id": "sz-ai-055",
+    "name": "黄釉水盂",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10.8,
+      "baseDiameter": 6,
+      "height": 10.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器型圆润饱满，敛口鼓腹，平底。通体施黄釉，下部露胎处可见红褐色胎骨。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "水盂",
+      "文房用具"
+    ],
+    "technicalFeatures": [
+      "高温烧制",
+      "氧化气氛",
+      "化妆土工艺",
+      "圆唇敛口",
+      "鼓腹平底"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑“黄如金”的釉色特征，是研究唐代文房用瓷及民间生活的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-055-yellow-glazed-water-pot.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-055-yellow-glazed-water-pot.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-055-yellow-glazed-water-pot.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:21:00.582Z",
+    "archiveId": "szk-055",
+    "nameEn": "Yellow-glazed Water Pot",
+    "assetSlug": "yellow-glazed-water-pot",
+    "hiddenFields": [
+      "dynasty",
+      "period",
+      "highlightTags",
+      "technicalFeatures",
+      "historicalSignificance"
+    ]
+  },
+  {
+    "id": "sz-ai-056",
+    "name": "黄釉敞口四系罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 19.9,
+      "baseDiameter": 16.5,
+      "height": 51,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器为唐代早期大型罐，浅盘口保留隋代特点。广肩饰弦纹，颈肩处置四枚双股系，圆鼓腹下部急收，小平底。通体施黄釉，釉色浅淡均匀。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "四系罐",
+      "大型器",
+      "高温烧造"
+    ],
+    "technicalFeatures": [
+      "浅盘口造型",
+      "广肩饰高凸弦纹",
+      "颈肩结合处置规整双股系",
+      "圆鼓腹急收至小平底",
+      "通体施黄釉且釉色均匀",
+      "腹部留有刷釉痕迹",
+      "烧造温度较高，少有脱釉"
+    ],
+    "historicalSignificance": "该器是已发现形制最大的唐代寿州窑罐类，保留了隋代盘口壶特征，是研究寿州窑唐代早期大型器物及工艺演变的代表性实物。",
+    "imageUrl": "/assets/ceramics/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-056-yellow-glazed-four-handled-jar-with-flared-mouth.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:21:25.843Z",
+    "archiveId": "szk-056",
+    "nameEn": "Yellow-glazed Four-handled Jar with Flared Mouth",
+    "assetSlug": "yellow-glazed-four-handled-jar-with-flared-mouth"
+  },
+  {
+    "id": "sz-ai-057",
+    "name": "黄釉大瓮",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 25.5,
+      "baseDiameter": 18.2,
+      "height": 45,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥",
+      "method": "征集",
+      "donor": "",
+      "date": "2008年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "短直颈，平沿，丰肩，鼓腹，腹下急收，小平底。通体施黄釉，釉层很厚，烧结很好，器形高大，无脱釉现象。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "大瓮",
+      "刷釉法",
+      "贮存器"
+    ],
+    "technicalFeatures": [
+      "通体施黄釉，釉层厚重且烧结良好",
+      "采用刷釉法施釉，釉面留有明显痕迹",
+      "造型为短直颈、丰肩鼓腹，口部较大",
+      "胎质坚硬，高温烧造未发生脱釉"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑大件贮运器的烧造水平，大口设计印证了其作为粮食或水具的实用功能。",
+    "imageUrl": "/assets/ceramics/szk-057-large-yellow-glazed-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-057-large-yellow-glazed-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-057-large-yellow-glazed-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:21:50.666Z",
+    "archiveId": "szk-057",
+    "nameEn": "Large Yellow-Glazed Jar",
+    "assetSlug": "large-yellow-glazed-jar"
+  },
+  {
+    "id": "sz-ai-058",
+    "name": "黄釉唇口四系大罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 12,
+      "baseDiameter": 14.8,
+      "height": 44.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥",
+      "method": "征集",
+      "donor": "",
+      "date": "2008年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "翻唇口较饱满，短细颈，广丰肩饰四个双股系，长鼓腹，腹下部缓收至足底。器型规整，釉色饱满，具有典型的唐代寿州窑风格。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "四系罐",
+      "二次施釉",
+      "蜡泪痕"
+    ],
+    "technicalFeatures": [
+      "胎质细密呈砖红色",
+      "釉色偏孔黄且层厚",
+      "采用二次施釉工艺",
+      "釉面产生蜡泪痕现象",
+      "肩部饰凸弦纹及双股系"
+    ],
+    "historicalSignificance": "该器物是唐代寿州窑黄釉瓷的杰出代表，其二次施釉工艺及独特的蜡泪痕特征，为研究唐代制瓷技术提供了珍贵实物资料。",
+    "imageUrl": "/assets/ceramics/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-058-large-yellow-glazed-jar-with-lip-rim-and-four-handles.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:22:14.818Z",
+    "archiveId": "szk-058",
+    "nameEn": "Large Yellow-Glazed Jar with Lip Rim and Four Handles",
+    "assetSlug": "large-yellow-glazed-jar-with-lip-rim-and-four-handles"
+  },
+  {
+    "id": "sz-ai-059",
+    "name": "黄釉四系穿带壶",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 4.3,
+      "baseDiameter": 10.7,
+      "height": 27.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年1月12日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "长圆腹，一侧扁平。扁平面两侧各饰两枚横置条形系，系端饰小乳钉。胎体厚实，通体施淡黄釉及底，底足边缘修整雅。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "穿带壶",
+      "黄釉",
+      "外销瓷"
+    ],
+    "technicalFeatures": [
+      "器身一侧扁平设计便于携带",
+      "腹部设四系供穿带固定",
+      "系的两端装饰有小乳钉",
+      "通体施淡黄釉且釉层及底"
+    ],
+    "historicalSignificance": "此壶形制特殊，流行于北方及西亚，是唐代中外文化交流的见证，表明寿州窑产品可能曾用于外销。",
+    "imageUrl": "/assets/ceramics/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-059-yellow-glazed-strap-flask-with-four-loop-handles.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:22:39.020Z",
+    "archiveId": "szk-059",
+    "nameEn": "Yellow-glazed Strap Flask with Four Loop Handles",
+    "assetSlug": "yellow-glazed-strap-flask-with-four-loop-handles"
+  },
+  {
+    "id": "sz-ai-060",
+    "name": "黄釉三系唇口罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10,
+      "baseDiameter": 13,
+      "height": 48,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年1月12日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "翻唇口，短细颈，针溜肩置三个小双股系，圆鼓腹，腹下急收，小平底。器型高大，三系小巧纯为装饰。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "三系罐",
+      "蜡泪痕"
+    ],
+    "technicalFeatures": [
+      "半施黄釉至下腹部，釉色偏浅但釉层较厚",
+      "釉面有缩釉现象及数处典型的蜡泪痕",
+      "胎、化妆土、釉色三者结合良好，无脱釉",
+      "肩部饰有三个小巧的双股泥条系"
+    ],
+    "historicalSignificance": "此器在寿州窑唐代时期很少见，反映了当时大型器物烧造工艺的独特方法，具有较高研究价值。",
+    "imageUrl": "/assets/ceramics/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-060-yellow-glazed-three-handled-lip-rim-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-060-yellow-glazed-three-handled-lip-rim-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:23:04.481Z",
+    "archiveId": "szk-060",
+    "nameEn": "Yellow-glazed Three-handled Lip-rim Jar",
+    "assetSlug": "yellow-glazed-three-handled-lip-rim-jar"
+  },
+  {
+    "id": "sz-ai-061",
+    "name": "黑釉双系大口罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 19.5,
+      "baseDiameter": 13,
+      "height": 23.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥",
+      "method": "征集",
+      "donor": "",
+      "date": "2008年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该罐敞口，短颈，丰肩，鼓腹下收，平底。肩部对称置双系，通体施黑釉，釉色深沉，造型古朴厚重，具有典型的唐代寿州窑风格。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "双系罐",
+      "大口罐"
+    ],
+    "technicalFeatures": [
+      "轮制成型",
+      "高温黑釉",
+      "模印双系",
+      "平底露胎"
+    ],
+    "historicalSignificance": "此器是唐代寿州窑黑釉瓷器的典型代表，反映了当时寿州窑除黄釉外亦烧造高质量黑釉瓷的工艺水平，为研究唐代陶瓷贸易提供了实物资料。",
+    "imageUrl": "/assets/ceramics/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-061-black-glazed-large-mouthed-jar-with-two-handles.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-061-black-glazed-large-mouthed-jar-with-two-handles.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:23:27.860Z",
+    "archiveId": "szk-061",
+    "nameEn": "Black-glazed Large-mouthed Jar with Two Handles",
+    "assetSlug": "black-glazed-large-mouthed-jar-with-two-handles"
+  },
+  {
+    "id": "sz-ai-062",
+    "name": "黑釉胆形腹盂口瓶",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 4.8,
+      "baseDiameter": 8.6,
+      "height": 30.4,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市上窑鱼苗场",
+      "method": "出土",
+      "donor": "",
+      "date": "1987年6月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "盂口，细长颈，溜肩，平底足，器型呈悬胆状。胎体浑厚凝重，施黑釉及腹下部，胎色灰白，腹部有两处窑粘露胎。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黑釉",
+      "胆形瓶",
+      "文房用具",
+      "窑粘"
+    ],
+    "technicalFeatures": [
+      "仿水盂造型",
+      "半截施釉工艺",
+      "化妆土装饰",
+      "匣钵烧造导致窑粘"
+    ],
+    "historicalSignificance": "此类器型在寿州窑产品中罕见，是唐代寿州窑黑釉瓷器的杰作，反映了当时工匠的独特匠心与审美。",
+    "imageUrl": "/assets/ceramics/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-062-black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:23:51.933Z",
+    "archiveId": "szk-062",
+    "nameEn": "Black-glazed Gallbladder-shaped Bottle with Water-pot-shaped Mouth",
+    "assetSlug": "black-glazed-gallbladder-shaped-bottle-with-water-pot-shaped-mouth"
+  },
+  {
+    "id": "sz-ai-063",
+    "name": "黄釉鼓腹罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 11.3,
+      "baseDiameter": 11,
+      "height": 16.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "凤阳县",
+      "method": "征集",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "凤阳县文物管理所",
+      "status": "馆藏"
+    },
+    "description": "修口呈喇叭状，短细颈，广丰肩无系。圆球形腹，腹下部急收，底部宽大假圈足外撇。通体施黄釉，釉层较厚且玻化良好，下腹釉色深暗。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "鼓腹罐",
+      "开片",
+      "假圈足"
+    ],
+    "technicalFeatures": [
+      "轮制拉坯成型",
+      "通体施黄釉工艺",
+      "釉面有小开片",
+      "平底假圈足修整规整",
+      "颈部极短无系设计"
+    ],
+    "historicalSignificance": "此罐形制在唐代寿州窑罐类产品中较少见，其颈部极短且无系的特征，充分透露出唐代陶瓷简约之美。",
+    "imageUrl": "/assets/ceramics/szk-063-yellow-glazed-bulbous-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-063-yellow-glazed-bulbous-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-063-yellow-glazed-bulbous-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:24:15.931Z",
+    "archiveId": "szk-063",
+    "nameEn": "Yellow-glazed Bulbous Jar",
+    "assetSlug": "yellow-glazed-bulbous-jar"
+  },
+  {
+    "id": "sz-ai-064",
+    "name": "酱釉双系长腹罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 11.2,
+      "baseDiameter": 9,
+      "height": 20.2,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "民间捐赠",
+      "donor": "天宝双遗文化园",
+      "date": null
+    },
+    "collection": {
+      "institution": "淮南市天宝双遗文化园",
+      "status": "馆藏"
+    },
+    "description": "直口圆唇，窄肩斜溜，肩部置二枚小巧双股系。长直腹缓收至平底，假圈足微外撇。通体施酱釉，下部氧化呈酱红色，上部泛黑，胎釉结合紧密。",
+    "highlightTags": [
+      "唐代寿州窑",
+      "酱釉",
+      "双系罐",
+      "长腹造型",
+      "乳色胎体"
+    ],
+    "technicalFeatures": [
+      "直口圆唇，口沿有二处微残",
+      "肩部饰二枚小巧的双股系",
+      "长直腹，平底，假圈足微外撇",
+      "通体施酱釉，釉色上黑下红",
+      "胎质较细，胎釉结合紧密无脱釉",
+      "腹底及足部露乳色胎体"
+    ],
+    "historicalSignificance": "典型唐代寿州窑直口罐，器型精致，反映了当时成熟的制瓷工艺与审美风格，是研究寿州窑酱釉瓷器的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-064-brown-glazed-two-handled-long-bodied-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-064-brown-glazed-two-handled-long-bodied-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:24:41.301Z",
+    "archiveId": "szk-064",
+    "nameEn": "Brown-glazed Two-handled Long-bodied Jar",
+    "assetSlug": "brown-glazed-two-handled-long-bodied-jar"
+  },
+  {
+    "id": "sz-ai-065",
+    "name": "黄绿釉唇口四系罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 7.5,
+      "baseDiameter": 11.8,
+      "height": 30,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "征集",
+      "donor": "",
+      "date": "2007年4月12日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "翻唇口，短颈与口沿直径大致相同，斜溜肩上置四枚双股系，圆鼓腹，最大腹径在腹中部。半施黄绿釉，腹下缓收至足底，釉面露出部分化妆土。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "四系罐",
+      "黄绿釉",
+      "化妆土"
+    ],
+    "technicalFeatures": [
+      "翻唇口设计",
+      "斜溜肩配四枚模制工整的双股系",
+      "圆鼓腹造型",
+      "半施釉工艺",
+      "釉下显露化妆土特征"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑典型的施釉习惯及不施满釉的工艺特征，是研究当时制瓷技术的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-065-yellow-green-glazed-lip-mouth-four-handled-jar.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:25:06.078Z",
+    "archiveId": "szk-065",
+    "nameEn": "Yellow-green Glazed Lip-mouth Four-handled Jar",
+    "assetSlug": "yellow-green-glazed-lip-mouth-four-handled-jar"
+  },
+  {
+    "id": "sz-ai-066",
+    "name": "蜡黄釉盂口四系罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 11,
+      "baseDiameter": 13,
+      "height": 29,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "合肥",
+      "method": "征集",
+      "donor": "",
+      "date": "2009年12月21日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "盘口外鼓呈唇状，颈短肩广，置四枚精巧小双股系。通体施厚蜡黄釉，釉面有细开片，足底外撇露乳白化妆土。",
+    "highlightTags": [
+      "唐代寿州窑",
+      "蜡黄釉",
+      "四系罐",
+      "盂口",
+      "化妆土"
+    ],
+    "technicalFeatures": [
+      "盂口安放在拉坯成型的小喇叭口罐上",
+      "肩部置四枚精巧的小双股系",
+      "通体施蜡黄釉，釉层很厚且有蜡质光泽",
+      "腹部下侧部分脱釉，露出乳白色化妆土",
+      "足底略外撇"
+    ],
+    "historicalSignificance": "此器为唐代寿州窑代表性产品，造型精细独特，其蜡黄釉色与化妆土工艺反映了当时高超的制瓷水平。",
+    "imageUrl": "/assets/ceramics/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-066-wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:25:30.840Z",
+    "archiveId": "szk-066",
+    "nameEn": "Wax-yellow-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+    "assetSlug": "wax-yellow-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles"
+  },
+  {
+    "id": "sz-ai-067",
+    "name": "酱釉盂口四系罐",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 10,
+      "baseDiameter": 11,
+      "height": 30.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月11日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器为盂口与唇口结合，短细颈，斜溜肩置四枚双股系。腹部微鼓，最大腹径在中部，下腹急收。半施酱釉，釉层厚且有蜡泪痕，下腹露砖红色胎体。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "酱釉",
+      "四系罐",
+      "盂口",
+      "蜡泪痕"
+    ],
+    "technicalFeatures": [
+      "盂口沿内敛与唇口相连",
+      "颈肩结合处饰凸弦纹",
+      "肩部置四枚双股系",
+      "半施酱釉工艺",
+      "釉下可见流釉痕迹",
+      "胎质坚细呈砖红色"
+    ],
+    "historicalSignificance": "典型唐代寿州窑产品，其独特的盂口造型与酱釉特征，反映了当时制瓷工艺的成熟及审美风尚，是研究寿州窑系的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-067-brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:25:55.422Z",
+    "archiveId": "szk-067",
+    "nameEn": "Brown-glazed Jar with Water-pot-shaped Mouth and Four Loop Handles",
+    "assetSlug": "brown-glazed-jar-with-water-pot-shaped-mouth-and-four-loop-handles"
+  },
+  {
+    "id": "sz-ai-068",
+    "name": "黄釉多足砚",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 19.3,
+      "baseDiameter": null,
+      "height": 6.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": null,
+      "date": "2011年6月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "圆形，直腹，唇沿，沿内边缘处为深弧面凹槽，砚堂中部隆起呈平台状。腹中部外壁饰一周凸弦纹，环砚一周置13个滴水状圆足，足底浑圆垂地。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "多足砚",
+      "文房用具"
+    ],
+    "technicalFeatures": [
+      "除砚堂外均施黄釉，釉偏暗，在凹陷处有积釉",
+      "胎质坚细，烧造温度较高",
+      "砚堂未施釉，手摸有砂质感，便于发墨",
+      "足部上饰三瓣莲瓣纹，下饰二道凸弦纹"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑高超的制瓷工艺及当时文房实用器的审美与功能需求。",
+    "imageUrl": "/assets/ceramics/szk-068-yellow-glazed-multi-footed-inkstone.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-068-yellow-glazed-multi-footed-inkstone.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-068-yellow-glazed-multi-footed-inkstone.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:26:19.483Z",
+    "archiveId": "szk-068",
+    "nameEn": "Yellow-glazed Multi-footed Inkstone",
+    "assetSlug": "yellow-glazed-multi-footed-inkstone"
+  },
+  {
+    "id": "sz-ai-069",
+    "name": "黄釉兽形镇",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 6.2,
+      "height": 5.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "寿县",
+      "method": "移交",
+      "donor": "寿县公安局",
+      "date": ""
+    },
+    "collection": {
+      "institution": "寿县博物馆",
+      "status": "馆藏"
+    },
+    "description": "圆形座上置一豹、虎类动物，呈盘曲卧姿。兽首伏于前肢，圆目前视，后肢卷缩至兽首下。通体施黄釉，有蜡质感，足部露胎，胎质白细。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "兽形镇",
+      "文房用具"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "通体施黄釉",
+      "釉面有蜡质感",
+      "足部露胎",
+      "胎质白细"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑瓷器的烧造水平及当时文房用具的使用风尚，是研究唐代陶瓷雕塑艺术的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-069-yellow-glazed-beast-shaped-weight.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-069-yellow-glazed-beast-shaped-weight.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-069-yellow-glazed-beast-shaped-weight.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:26:42.433Z",
+    "archiveId": "szk-069",
+    "nameEn": "Yellow-glazed Beast-shaped Weight",
+    "assetSlug": "yellow-glazed-beast-shaped-weight"
+  },
+  {
+    "id": "sz-ai-070",
+    "name": "黄釉狮形镇",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 4.8,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年1月12日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器呈扑抓猎物状，前肢卧后肢蹲，头部夸张变形，吻部大而突出。双眼点褐釉，神态生动，造型洗练，是珍贵的文房用具。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "狮形镇",
+      "文房用具",
+      "雕塑瓷"
+    ],
+    "technicalFeatures": [
+      "胎体细腻紧密",
+      "黄釉发色饱满",
+      "玻化良好",
+      "有细小开片",
+      "模塑成型",
+      "局部点彩装饰"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑工匠敏锐的观察力和高超的概括力，是研究唐代文房用具及雕塑工艺的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-070-yellow-glazed-lion-shaped-weight.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-070-yellow-glazed-lion-shaped-weight.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-070-yellow-glazed-lion-shaped-weight.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:27:06.703Z",
+    "archiveId": "szk-070",
+    "nameEn": "Yellow-glazed Lion-shaped Weight",
+    "assetSlug": "yellow-glazed-lion-shaped-weight"
+  },
+  {
+    "id": "sz-ai-071",
+    "name": "黄褐釉卧虎镇",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 11.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南地区",
+      "method": "征集",
+      "donor": "",
+      "date": "2013年5月13日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "器型较大，方形座上塑四肢蜷缩卧虎。虎首昂起，吻部宽大，前后肢弯曲，虎尾卷曲。施黄褐釉，斑纹处色深，下腹泛乳白，造型生动憨态可掬。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "动物雕塑",
+      "黄褐釉",
+      "席镇",
+      "文房用具"
+    ],
+    "technicalFeatures": [
+      "模塑成型工艺",
+      "刻划虎斑纹饰",
+      "高温黄褐釉装饰",
+      "写实与夸张结合的造型风格"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑在动物雕塑及文房用具制作上的高超技艺，是研究唐代社会生活及审美情趣的珍贵实物资料。",
+    "imageUrl": "/assets/ceramics/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-071-yellow-brown-glazed-reclining-tiger-weight.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-071-yellow-brown-glazed-reclining-tiger-weight.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:27:31.073Z",
+    "archiveId": "szk-071",
+    "nameEn": "Yellow-brown Glazed Reclining Tiger Weight",
+    "assetSlug": "yellow-brown-glazed-reclining-tiger-weight"
+  },
+  {
+    "id": "sz-ai-072",
+    "name": "青绿釉瓷塑兽残器",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 12.1,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "民间捐赠",
+      "donor": "淮南康杰",
+      "date": "2013年1月"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "此器为狮豹类动物形附件残件，呈坐姿侧面昂首状。背部有羽状凸起，前肢直立，通体施青绿釉并遍布褐斑，胎质坚硬。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "瓷塑",
+      "青绿釉",
+      "褐斑",
+      "动物造型"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "对称粘接工艺",
+      "青灰胎",
+      "青绿釉施褐斑装饰",
+      "坐姿动物造型"
+    ],
+    "historicalSignificance": "此类器物在寿州窑发现较少，是研究唐代寿州窑雕塑工艺及动物题材的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-072-green-glazed-ceramic-beast-fragment.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-072-green-glazed-ceramic-beast-fragment.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-072-green-glazed-ceramic-beast-fragment.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:27:54.879Z",
+    "archiveId": "szk-072",
+    "nameEn": "Green-glazed Ceramic Beast Fragment",
+    "assetSlug": "green-glazed-ceramic-beast-fragment"
+  },
+  {
+    "id": "sz-ai-073",
+    "name": "黄釉小瓷马",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 6.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年7月5日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该器为唐代寿州窑黄釉小瓷马，长5厘米，宽2.7厘米，高6.5厘米。造型古朴生动，四肢粗壮有力，通体施黄釉，是典型的唐代动物形雕塑。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "瓷马",
+      "动物雕塑",
+      "小型器物"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "低温铅釉",
+      "写实与夸张结合的造型手法",
+      "四足直立稳固结构"
+    ],
+    "historicalSignificance": "反映唐代寿州窑动物塑像的工艺水平与审美趣味，是研究唐代随葬明器及民间信仰的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-073-yellow-glazed-ceramic-horse.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-073-yellow-glazed-ceramic-horse.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-073-yellow-glazed-ceramic-horse.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:28:19.145Z",
+    "archiveId": "szk-073",
+    "nameEn": "Yellow-glazed Ceramic Horse",
+    "assetSlug": "yellow-glazed-ceramic-horse"
+  },
+  {
+    "id": "sz-ai-074",
+    "name": "青釉胡人骑马瓷塑",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 8.9,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年7月5日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该器为寿州窑唐代雕塑精品，塑造胡人骑于马上之态。马匹昂首挺立，四肢粗壮有力，骑手神态生动，造型古朴传神，极具生活气息。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "人物俑",
+      "动物俑",
+      "青釉",
+      "胡人骑马"
+    ],
+    "technicalFeatures": [
+      "模制与手捏结合成型",
+      "施青黄釉",
+      "点彩装饰",
+      "写实风格"
+    ],
+    "historicalSignificance": "反映了唐代社会胡汉交融的文化背景及寿州窑高超的雕塑工艺水平，是研究唐代民俗与对外交流的珍贵实物资料。",
+    "imageUrl": "/assets/ceramics/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-074-celadon-glazed-figurine-of-a-central-asian-rider.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:28:42.901Z",
+    "archiveId": "szk-074",
+    "nameEn": "Celadon-glazed Figurine of a Central Asian Rider",
+    "assetSlug": "celadon-glazed-figurine-of-a-central-asian-rider"
+  },
+  {
+    "id": "sz-ai-075",
+    "name": "黄釉人骑马瓷塑",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 6.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2010年7月5日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "该器为寿州窑唐代典型雕塑作品，塑造一人骑于马上之形象。通体施黄釉，釉色滋润，造型古朴生动，人物与马匹比例协调，具有浓郁的唐代生活气息。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "人物俑",
+      "动物俑",
+      "雕塑"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "高温烧造",
+      "通体施黄釉",
+      "写实风格"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑高超的雕塑工艺水平，是研究唐代社会生活、服饰及丧葬习俗的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-075-yellow-glazed-ceramic-figure-of-a-man-on-horseback.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:29:06.752Z",
+    "archiveId": "szk-075",
+    "nameEn": "Yellow-glazed Ceramic Figure of a Man on Horseback",
+    "assetSlug": "yellow-glazed-ceramic-figure-of-a-man-on-horseback"
+  },
+  {
+    "id": "sz-ai-076",
+    "name": "黄釉瓷水牛",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 0,
+      "height": 4.3,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市",
+      "method": "征集",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "淮南市天宝双遗文化园",
+      "status": "馆藏"
+    },
+    "description": "寿州窑唐代黄釉瓷塑，造型为卧姿水牛。器身施黄釉，釉色温润，形象生动写实，线条流畅，展现了唐代陶瓷雕塑的高超技艺。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "瓷塑",
+      "动物纹",
+      "文房用具"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "通体施黄釉",
+      "写意与写实结合的造型风格",
+      "低温铅釉陶工艺"
+    ],
+    "historicalSignificance": "反映了唐代寿州窑在雕塑艺术上的成就，是研究当时社会生活及审美情趣的珍贵实物资料。",
+    "imageUrl": "/assets/ceramics/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-076-yellow-glazed-porcelain-water-buffalo.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-076-yellow-glazed-porcelain-water-buffalo.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:29:29.713Z",
+    "archiveId": "szk-076",
+    "nameEn": "Yellow-glazed Porcelain Water Buffalo",
+    "assetSlug": "yellow-glazed-porcelain-water-buffalo"
+  },
+  {
+    "id": "sz-ai-077",
+    "name": "黄褐釉小瓷马",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 2.3,
+      "height": 4,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南征集",
+      "method": "征集",
+      "donor": "",
+      "date": "2011年6月10日"
+    },
+    "collection": {
+      "institution": "淮南市博物馆",
+      "status": "馆藏"
+    },
+    "description": "寿州窑唐代黄褐釉小瓷马，造型生动简练，施黄褐釉，釉色温润，为典型唐代小型动物雕塑。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄褐釉",
+      "小瓷马",
+      "动物雕塑",
+      "文房镇纸"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "局部点彩装饰",
+      "低温铅釉",
+      "胎质疏松",
+      "釉面开片"
+    ],
+    "historicalSignificance": "反映唐代寿州窑民间审美与实用器结合，是研究唐代陶瓷雕塑艺术的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-077-small-ceramic-horse-with-yellowish-brown-glaze.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:29:53.411Z",
+    "archiveId": "szk-077",
+    "nameEn": "Small Ceramic Horse with Yellowish Brown Glaze",
+    "assetSlug": "small-ceramic-horse-with-yellowish-brown-glaze"
+  },
+  {
+    "id": "sz-ai-078",
+    "name": "黄釉瓷马",
+    "dynasty": "唐",
+    "period": "618-907年",
+    "dimensions": {
+      "mouthDiameter": 0,
+      "baseDiameter": 3.4,
+      "height": 8.5,
+      "unit": "厘米"
+    },
+    "excavation": {
+      "location": "淮南市寿县",
+      "method": "出土",
+      "donor": "",
+      "date": ""
+    },
+    "collection": {
+      "institution": "寿县博物馆",
+      "status": "馆藏"
+    },
+    "description": "通高8.5厘米，底座长4.8厘米。造型生动，惟妙惟肖，施黄釉，釉色有流淌感，为寿州窑典型玩具类器物。",
+    "highlightTags": [
+      "唐代",
+      "寿州窑",
+      "黄釉",
+      "瓷马",
+      "动物塑像",
+      "文房玩具"
+    ],
+    "technicalFeatures": [
+      "模制成型",
+      "竹签修胎",
+      "随意捏塑",
+      "黄釉点褐彩风格",
+      "低温铅釉陶"
+    ],
+    "historicalSignificance": "反映了寿州窑工匠观察生活及高度提炼生活的能力，是研究唐代陶瓷雕塑艺术的重要实物资料。",
+    "imageUrl": "/assets/ceramics/szk-078-yellow-glazed-horse.png",
+    "thumbnailUrl": "/assets/ceramics/thumbs/szk-078-yellow-glazed-horse.webp",
+    "processedImageUrl": "/assets/ceramics/processed/szk-078-yellow-glazed-horse.png",
+    "isAIExtracted": true,
+    "imageProcessed": true,
+    "imageProcessedBy": "wan2.7-image>imgly>sharp",
+    "extractedAt": "2026-04-25T00:30:16.334Z",
+    "archiveId": "szk-078",
+    "nameEn": "Yellow-glazed Horse",
+    "assetSlug": "yellow-glazed-horse"
+  }
+]

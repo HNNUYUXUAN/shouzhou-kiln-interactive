@@ -1,0 +1,38 @@
+{
+  "archiveId": "szk-069",
+  "assetSlug": "yellow-glazed-beast-shaped-weight",
+  "sourceFileName": "《寿州窑》_13578583_346.png",
+  "targetBaseName": "szk-069-yellow-glazed-beast-shaped-weight",
+  "titleZh": "黄釉兽形镇",
+  "titleEn": "Yellow-glazed Beast-shaped Weight",
+  "ocrText": "黄釉兽形镇\n唐（618-907年）\n底座径6.2厘米，高5.1厘米\n寿县公安局移交\n寿县博物馆藏\n圆形座上置一只豹、虎类动物，呈盘曲卧姿，兽首伏于前肢，圆目前视，后肢卷缩至兽首下，兽爪下搭，身体放松，给人以憨态可掬之感。通体施黄釉，有蜡质感，足部露胎，胎质白细。镇的使用自汉代以后就多见，一般为金属镇，唐代流行使用瓷镇，有纸镇、席镇之别，从此镇的形制判断，应为纸镇。",
+  "catalogSummary": "此件为唐代寿州窑黄釉兽形镇，由寿县公安局移交，现藏寿县博物馆。器身塑一豹虎类动物盘曲卧于圆座之上，神态憨态可掬。通体施黄釉具蜡质感，足部露白胎。据形制推断，应为唐代流行的瓷质纸镇。",
+  "artifactType": "weight",
+  "dynasty": "唐",
+  "period": "618-907年",
+  "dimensionsRaw": "底座径6.2厘米，高5.1厘米",
+  "dimensionsParsed": {
+    "mouthDiameter": null,
+    "baseDiameter": 6.2,
+    "height": 5.1,
+    "unit": "厘米"
+  },
+  "material": "陶瓷",
+  "glaze": "黄釉，有蜡质感",
+  "motifs": [
+    "兽形",
+    "卧姿",
+    "豹虎类动物"
+  ],
+  "provenance": "寿县公安局移交",
+  "institution": "寿县博物馆",
+  "visualTags": [
+    "Shouzhou Kiln",
+    "Yellow Glaze",
+    "Beast",
+    "Tang Dynasty",
+    "Paperweight",
+    "Animal Shape"
+  ],
+  "confidenceNotes": ""
+}
